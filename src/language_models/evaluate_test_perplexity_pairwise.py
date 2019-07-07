@@ -56,6 +56,7 @@ def evaluate(data_source):
     with torch.no_grad():
         for i in range(len(data_source)):
             sent_ids = data_source[i]
+            print(sent_ids)
 
             data, targets = test_get_batch(sent_ids)
             output, hidden = model(data, hidden)
