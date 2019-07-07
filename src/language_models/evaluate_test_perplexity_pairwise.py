@@ -45,8 +45,8 @@ def evaluate(data_source):
     hidden = model.init_hidden(eval_batch_size)
     unk_idx = dictionary.word2idx["<unk>"]
 
-    output_file = open(args.eval_path,'w', encoding='utf8') 
-    output_file.write('word\tprob\n')
+    output_file = open(args.eval_path,'a', encoding='utf8') 
+    output_file.write('prob\n')
 
     if args.cuda:
         out_type = torch.cuda.LongTensor()
