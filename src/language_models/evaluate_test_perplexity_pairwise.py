@@ -80,7 +80,7 @@ if torch.cuda.is_available():
 
 
 
-eval_batch_size = 32
+eval_batch_size = 1
 
 if args.test:
     dictionary = Dictionary(args.data)
