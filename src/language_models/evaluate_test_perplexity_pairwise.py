@@ -55,15 +55,10 @@ def evaluate(data_source):
 
     with torch.no_grad():
         for i in range(len(data_source)):
-            sent_ids = data_source[i]
-            print(sent_ids)
-
-            data, targets = test_get_batch(sent_ids)
-            print("test")
-            print(data)
-            print(targets)
+      
+            data, targets = test_get_batch(data_source)
             output, hidden = model(data, hidden)
-            print("test2")
+
             output_flat = output.view(-1, ntokens)
 
             subset = targets != unk_idx
@@ -102,8 +97,7 @@ if args.test:
 else:
     corpus = Corpus(args.data)
     print("Size, OOV", corpus.test.size(0), sum(corpus.test == corpus.dictionary.word2idx["<unk>"]))
-    #test_data = batchify(corpus.test, eval_batch_size, args.cuda)
-    test_data = corpus.test
+    test_data = batchify(corpus.test, eval_batch_size, args.cuda)
     dictionary = corpus.dictionary
 
 
