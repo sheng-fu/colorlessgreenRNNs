@@ -67,9 +67,10 @@ def evaluate(data_source):
 
             total_len += targets.size(0)
             curr_loss = nn.CrossEntropyLoss()(output_flat, targets).item()
-            curr_log_prob = np.sum([get_log_prob(output_flat)[i][targets[i]].item() for i in range(len(targets))])
-            print(curr_log_prob)
-            output_file.write(str(curr_log_prob)+'\n')
+            #curr_loss_comb = np.sum([math.expcurr_loss])
+            #curr_log_prob = np.sum([get_log_prob(output_flat)[i][targets[i]].item() for i in range(len(targets))])
+            print(curr_loss)
+            #output_file.write(str(math.exp(curr_loss)))+'\n')
             total_loss += targets.size(0) * curr_loss
             hidden = repackage_hidden(hidden)
 
