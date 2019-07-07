@@ -11,6 +11,7 @@ from utils import batchify, get_batch, repackage_hidden
 
 import torch
 import torch.nn as nn
+import numpy as np
 
 from dictionary_corpus import Dictionary, Corpus, tokenize
 
