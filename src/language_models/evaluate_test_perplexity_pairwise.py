@@ -59,8 +59,9 @@ def evaluate(data_source):
             print(sent_ids)
 
             data, targets = test_get_batch(sent_ids)
+            print("test")
             output, hidden = model(data, hidden)
-
+            print("test2")
             output_flat = output.view(-1, ntokens)
 
             subset = targets != unk_idx
