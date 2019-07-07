@@ -8,6 +8,22 @@
 
 import torch
 
+def test_get_batch(source, evaluation=False):
+    if isinstance(source, tuple):
+        seq_len = len(source[0]) - 1
+        data = Variable(source[0][:seq_len], volatile=evaluation)
+        target = Variable(source[1][:seq_len], volatile=evaluation)
+        
+    else:
+        seq_len = len(source) - 1
+        data = Variable(source[:seq_len], volatile=evaluation)
+        target = Variable(source[1:1+seq_len].view(-1))
+    # This is where data should be CUDA-fied to lessen OOM errors
+    if args.cuda:
+        return data.cuda(), target.cuda()
+    else:
+        return data, target
+
 def repackage_hidden(h):
     """Detaches hidden states from their history."""
     if isinstance(h, torch.Tensor):

@@ -7,7 +7,7 @@
 
 import math
 import argparse
-from utils import batchify, get_batch, repackage_hidden
+from utils import batchify, get_batch, repackage_hidden, test_get_batch
 
 import torch
 import torch.nn as nn
@@ -55,7 +55,7 @@ def evaluate(data_source):
 
     with torch.no_grad():
         for i in range(len(data_source)):
-            data, targets = get_batch(data_source, i, len(data_source[0]) - 1)
+            data, targets = test_get_batch(data_source)
             output, hidden = model(data, hidden)
 
             output_flat = output.view(-1, ntokens)
