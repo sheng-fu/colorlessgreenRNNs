@@ -54,8 +54,8 @@ def evaluate(data_source):
         out_type = torch.LongTensor()
 
     with torch.no_grad():
-        for i in range(0, data_source.size(0) - 1, args.bptt):
-            data, targets = get_batch(data_source, i, args.bptt)
+        for i in range(len(data_source)):
+            data, targets = get_batch(data_source, i, len(data_source[0]) - 1)
             output, hidden = model(data, hidden)
 
             output_flat = output.view(-1, ntokens)
