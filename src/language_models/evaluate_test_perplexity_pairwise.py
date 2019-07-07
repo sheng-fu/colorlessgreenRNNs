@@ -30,6 +30,11 @@ parser.add_argument('--eval_path', type=str, default='eval_results.txt',
                     help='name of the output prob results')
 args = parser.parse_args()
 
+def get_log_prob(o):
+    ## o should be a vector scoring possible classes
+    logprobs = nn.functional.log_softmax(o,dim=0)
+    return logprobs
+
 def evaluate(data_source):
     model.eval()
     total_loss = 0
