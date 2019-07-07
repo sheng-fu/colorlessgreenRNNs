@@ -19,10 +19,8 @@ def test_get_batch(source, evaluation=False):
         data = source[:seq_len]
         target = source[1:1+seq_len].view(-1)
     # This is where data should be CUDA-fied to lessen OOM errors
-    if args.cuda:
-        return data.cuda(), target.cuda()
-    else:
-        return data, target
+
+    return data, target
 
 def repackage_hidden(h):
     """Detaches hidden states from their history."""
