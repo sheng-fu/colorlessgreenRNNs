@@ -99,7 +99,8 @@ if args.test:
 else:
     corpus = Corpus(args.data)
     print("Size, OOV", corpus.test.size(0), sum(corpus.test == corpus.dictionary.word2idx["<unk>"]))
-    test_data = batchify(corpus.test, eval_batch_size, args.cuda)
+    #test_data = batchify(corpus.test, eval_batch_size, args.cuda)
+    test_data = corpus.test
     dictionary = corpus.dictionary
 
 
