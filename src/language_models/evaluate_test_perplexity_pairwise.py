@@ -60,6 +60,8 @@ def evaluate(data_source):
 
             data, targets = test_get_batch(sent_ids)
             print("test")
+            print(data)
+            print(targets)
             output, hidden = model(data, hidden)
             print("test2")
             output_flat = output.view(-1, ntokens)
