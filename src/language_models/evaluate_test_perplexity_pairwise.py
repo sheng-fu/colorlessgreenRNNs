@@ -88,7 +88,7 @@ eval_batch_size = 1
 if args.test:
     dictionary = Dictionary(args.data)
 
-    test = tokenize(dictionary, args.test)
+    test = sent_tokenize_with_unks(dictionary, args.test)
     print("Size, OOV", test.size(0), sum(test == dictionary.word2idx["<unk>"]))
     test_data = batchify(test, eval_batch_size, args.cuda)
     ntokens = len(dictionary)
