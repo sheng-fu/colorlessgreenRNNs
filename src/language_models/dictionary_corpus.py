@@ -126,6 +126,7 @@ def sent_tokenize_with_unks(dictionary, path):
                         print(ids[token])
                         ids[token] = dictionary.add_word("<unk>")
                     else:
+                        print("else")
                         ids[token] = dictionary.word2idx[word]
                     token += 1
                 all_ids.append(ids)                
