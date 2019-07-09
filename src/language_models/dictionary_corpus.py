@@ -102,11 +102,10 @@ def sent_tokenize_with_unks(dictionary, path):
                 ids = torch.LongTensor(tokens)
                 token = 0
                 for word in words:
-                    if word not in dictionary.word2idx:
-                        ids[token] = dictionary.add_word("<unk>")
-                    else:
+                    if word in dictionary.word2idx:
                         ids[token] = dictionary.word2idx[word]
-                    token += 1
+                    else:
+                        ids[token] = dictionary.word2idx["<unk>"]
                 all_ids.append(ids)
     else:
         with open(path, 'r+', encoding="utf-8") as f:
@@ -122,14 +121,10 @@ def sent_tokenize_with_unks(dictionary, path):
                 ids = torch.LongTensor(tokens)
                 token = 0
                 for word in words:
-                    print(word)
-                    if word not in dictionary.word2idx:
-                        print(ids[token])
-                        print("not else")
-                        ids[token] = dictionary.add_word("<unk>")
-                    else:
-                        print("else")
+                    if word in dictionary.word2idx:
                         ids[token] = dictionary.word2idx[word]
+                    else:
+                        ids[token] = dictionary.word2idx["<unk>"]
                     token += 1
                 all_ids.append(ids)                
     return (sents, all_ids)
