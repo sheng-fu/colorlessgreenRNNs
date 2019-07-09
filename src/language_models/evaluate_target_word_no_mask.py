@@ -39,7 +39,7 @@ def evaluate(data_source):
     hidden = model.init_hidden(eval_batch_size)
 
     with torch.no_grad():
-        for i in range(0, data_source.size(0) - 1, seq_len):
+        for i in range(len(data_source)):
             # keep continuous hidden state across all sentences in the input file
             data, targets = get_batch(data_source, i, seq_len)
             #_, targets_mask = get_batch(mask, i, seq_len)
@@ -120,9 +120,10 @@ index_col = 0
 
 #mask = create_target_mask(args.path + ".text", args.path + ".eval", index_col)
 #mask_data = batchify(torch.LongTensor(mask), eval_batch_size, args.cuda)
-test_source = dictionary_corpus.sent_tokenize_with_unks(dictionary, args.path + ".txt")
-
-test_data = batchify(test_source[1], eval_batch_size, args.cuda)
+test_data = dictionary_corpus.sent_tokenize_with_unks(dictionary, args.path + ".txt")
+print(test_data[0][0])
+print(test_data[1][0])
+exit()
 
 f_output = open(args.path + ".output_" + args.suffix, 'w')
 evaluate(test_data)
