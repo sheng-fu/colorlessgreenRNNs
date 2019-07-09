@@ -55,7 +55,9 @@ def evaluate(data_source):
 
     with torch.no_grad():
         for i in range(len(data_source)):
-            data, targets = test_get_batch(data_source)
+            sent_ids = data_source[i]
+
+            data, targets = test_get_batch(sent_ids)
             output, hidden = model(data, hidden)
 
             output_flat = output.view(-1, ntokens)
@@ -69,8 +71,6 @@ def evaluate(data_source):
             curr_loss = nn.CrossEntropyLoss()(output_flat, targets).item()
             #curr_loss_comb = np.sum([math.expcurr_loss])
             #curr_log_prob = np.sum([get_log_prob(output_flat)[i][targets[i]].item() for i in range(len(targets))])
-            print(data_source[i])
-            print(curr_loss)
             #output_file.write(str(math.exp(curr_loss)))+'\n')
             total_loss += targets.size(0) * curr_loss
             hidden = repackage_hidden(hidden)
