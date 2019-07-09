@@ -126,7 +126,6 @@ index_col = 0
 test_data = dictionary_corpus.sent_tokenize_with_unks(dictionary, args.path + ".txt")
 print(test_data[0][0])
 print(test_data[1][0])
-exit()
 
 f_output = open(args.path + ".output_" + args.suffix, 'w')
 evaluate(test_data)
