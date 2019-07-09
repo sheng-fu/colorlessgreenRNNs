@@ -12,7 +12,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 import dictionary_corpus
-from utils import repackage_hidden, batchify, get_batch, sent_tokenize_with_unks
+from utils import repackage_hidden, batchify, get_batch
 import numpy as np
 
 parser = argparse.ArgumentParser(description='Mask-based evaluation: extracts softmax vectors for specified words')
