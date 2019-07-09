@@ -124,6 +124,7 @@ def sent_tokenize_with_unks(dictionary, path):
                 for word in words:
                     if word not in dictionary.word2idx:
                         print(ids[token])
+                        print("not else")
                         ids[token] = dictionary.add_word("<unk>")
                     else:
                         print("else")
