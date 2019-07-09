@@ -111,16 +111,20 @@ def sent_tokenize_with_unks(dictionary, path):
     else:
         with open(path, 'r+', encoding="utf-8") as f:
             for line in f:
-                print(line)
                 sents.append(line.strip())
+                print(line)
                 words = ['<eos>'] + line.split()
+                print(words)
+                tokens = len(words)
+                print(tokens)
+                
                 # tokenize file content
                 ids = torch.LongTensor(tokens)
                 token = 0
                 for word in words:
                     if word not in dictionary.word2idx:
                         print(token)
-                        print(ids[token])
+                        print(token)
                         ids[token] = dictionary.add_word("<unk>")
                     else:
                         ids[token] = dictionary.word2idx[word]
