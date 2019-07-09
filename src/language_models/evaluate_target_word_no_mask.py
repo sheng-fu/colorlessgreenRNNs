@@ -47,6 +47,8 @@ def evaluate(data_source):
             output_flat = output.view(-1, vocab_size)
             total_loss += len(data) * nn.CrossEntropyLoss()(output_flat, targets)
 
+            print(nn.CrossEntropyLoss()(output_flat, targets))
+
             output_candidates_probs(output_flat, targets)
 
             hidden = repackage_hidden(hidden)
