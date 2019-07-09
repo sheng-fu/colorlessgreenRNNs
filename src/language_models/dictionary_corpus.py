@@ -96,6 +96,8 @@ def sent_tokenize_with_unks(dictionary, path):
             for line in f:
                 sents.append(line.strip())
                 words = ['<eos>'] + line.split()
+                print(words)
+                exit()
                 tokens = len(words)
 
                 # tokenize file content
