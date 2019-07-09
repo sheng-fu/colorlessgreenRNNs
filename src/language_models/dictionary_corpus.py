@@ -54,18 +54,18 @@ class Corpus(object):
 
 
 class SentenceCorpus(object):
-    def __init__(self, lm_path, save_to='lm_data.bin', testflag=False,
+    def __init__(self, path, save_to='lm_data.bin', testflag=False,
                  trainfname='train.txt',
                  validfname='valid.txt',
                  testfname='test.txt'):
         if not testflag:
             self.dictionary = Dictionary()
-            self.train_lm = self.tokenize(os.path.join(lm_path, trainfname))
-            self.valid_lm = self.tokenize_with_unks(os.path.join(lm_path, validfname))
+            self.train_lm = self.tokenize(os.path.join(path, trainfname))
+            self.valid_lm = self.tokenize_with_unks(os.path.join(path, validfname))
             self.save_to = self.save_dict(save_to)
         else:
             self.dictionary = self.load_dict(save_to)
-            self.test_lm = self.sent_tokenize_with_unks(os.path.join(lm_path,testfname))
+            self.test_lm = self.sent_tokenize_with_unks(os.path.join(path, testfname))
 
 
     def save_dict(self, path):
