@@ -44,7 +44,7 @@ def evaluate(data_source):
         for i in range(len(data_source[0])):
             # keep continuous hidden state across all sentences in the input file
             data = data_source[1][i][:-1]
-            target = data_source[1][i][1:].view(-1)
+            targets = data_source[1][i][1:].view(-1)
             print(data)
             print(target)
             #_, targets_mask = get_batch(mask, i, seq_len)
