@@ -14,6 +14,7 @@ import torch.nn.functional as F
 import dictionary_corpus
 from utils import repackage_hidden, batchify, get_batch
 import numpy as np
+import math
 
 parser = argparse.ArgumentParser(description='Mask-based evaluation: extracts softmax vectors for specified words')
 
@@ -38,26 +39,30 @@ def evaluate(data_source):
 
     hidden = model.init_hidden(eval_batch_size)
 
-    
+    outfile = open("test_output.txt", "a")
 
     with torch.no_grad():
         for i in range(len(data_source[0])):
             # keep continuous hidden state across all sentences in the input file
-            data = data_source[1][i][:-1].data
-            print(data)
-            exit()
+            data = data_source[1][i][:-1].tolist()
+            data = torch.LongTensor([[x] for x in data])
             targets = data_source[1][i][1:].view(-1)
+
+            if args.cuda:
+                data = data.cuda()
+                targets = targets.cuda()
+
             #_, targets_mask = get_batch(mask, i, seq_len)
             output, hidden = model(data, hidden)
             output_flat = output.view(-1, vocab_size)
             total_loss += len(data) * nn.CrossEntropyLoss()(output_flat, targets)
 
-            print(output_flat)
-            print(targets)
-            print(len(output_flat))
+            print(data_source[0][i])
             print(nn.CrossEntropyLoss()(output_flat, targets))
 
-            output_candidates_probs(output_flat, targets)
+            outfile.write(data_source[0][i] + '\t' + str(nn.CrossEntropyLoss()(output_flat, targets).item()) + '\n')
+
+            #output_candidates_probs(output_flat, targets)
 
             hidden = repackage_hidden(hidden)
 
@@ -126,8 +131,8 @@ index_col = 0
 #mask = create_target_mask(args.path + ".text", args.path + ".eval", index_col)
 #mask_data = batchify(torch.LongTensor(mask), eval_batch_size, args.cuda)
 test_data = dictionary_corpus.sent_tokenize_with_unks(dictionary, args.path + ".txt")
-print(test_data[0][0])
-print(test_data[1][0])
+#print(test_data[0][0])
+#print(test_data[1][0])
 
 f_output = open(args.path + ".output_" + args.suffix, 'w')
 evaluate(test_data)
