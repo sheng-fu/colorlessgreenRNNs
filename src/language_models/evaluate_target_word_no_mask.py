@@ -43,7 +43,7 @@ def evaluate(data_source):
     with torch.no_grad():
         for i in range(len(data_source[0])):
             # keep continuous hidden state across all sentences in the input file
-            data = data_source[1][i][:-1]
+            data = [[x] for x in data_source[1][i][:-1]]
             targets = data_source[1][i][1:].view(-1)
             print(data)
             #_, targets_mask = get_batch(mask, i, seq_len)
