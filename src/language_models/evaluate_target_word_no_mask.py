@@ -12,7 +12,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 import dictionary_corpus
-from utils import repackage_hidden, batchify, get_batch
+from utils import repackage_hidden, batchify, get_batch, sent_tokenize_with_unks
 import numpy as np
 
 parser = argparse.ArgumentParser(description='Mask-based evaluation: extracts softmax vectors for specified words')
@@ -120,7 +120,7 @@ index_col = 0
 
 #mask = create_target_mask(args.path + ".text", args.path + ".eval", index_col)
 #mask_data = batchify(torch.LongTensor(mask), eval_batch_size, args.cuda)
-test_data = batchify(dictionary_corpus.tokenize(dictionary, args.path + ".txt"), eval_batch_size, args.cuda)
+test_data = batchify(dictionary_corpus.sent_tokenize_with_unks(dictionary, args.path + ".txt"), eval_batch_size, args.cuda)
 
 f_output = open(args.path + ".output_" + args.suffix, 'w')
 evaluate(test_data)
