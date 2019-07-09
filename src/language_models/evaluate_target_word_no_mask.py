@@ -38,10 +38,13 @@ def evaluate(data_source):
 
     hidden = model.init_hidden(eval_batch_size)
 
+    
+
     with torch.no_grad():
-        for i in range(0, data_source.size(0) - 1, seq_len):
+        for i in range(len(data_source[0])):
             # keep continuous hidden state across all sentences in the input file
-            data, targets = get_batch(data_source, i, seq_len)
+            data = data_source[0][:-1]
+            target = source[1:].view(-1)
             #_, targets_mask = get_batch(mask, i, seq_len)
             output, hidden = model(data, hidden)
             output_flat = output.view(-1, vocab_size)
