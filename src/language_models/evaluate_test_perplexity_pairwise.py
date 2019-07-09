@@ -13,7 +13,7 @@ import torch
 import torch.nn as nn
 import numpy as np
 
-from dictionary_corpus import Dictionary, Corpus, tokenize, Corpus_Sent
+from dictionary_corpus import Dictionary, Corpus, tokenize, Corpus_Sent, sent_tokenize_with_unks
 
 parser = argparse.ArgumentParser(description='Evaluate perplexity of the dataset, ignoring the <unk> words')
 parser.add_argument('--data', type=str, default='./data/penn',
@@ -86,15 +86,15 @@ if torch.cuda.is_available():
 eval_batch_size = 1
 
 if args.test:
-    corpus = Corpus_Sent(args.data)
-    print("Size, OOV", corpus.test.size(0), sum(corpus.test == corpus.dictionary.word2idx["<unk>"]))
-    test_data = corpus.test
+    test = tokenize(dictionary, args.test)
+    print("Size, OOV", test.size(0), sum(test == dictionary.word2idx["<unk>"]))
+    test_data = batchify(test, eval_batch_size, args.cuda)
     ntokens = len(dictionary)
 
 else:
     corpus = Corpus_Sent(args.data)
     print("Size, OOV", corpus.test.size(0), sum(corpus.test == corpus.dictionary.word2idx["<unk>"]))
-    test_data = corpus.test
+    test_data = batchify(corpus.test, eval_batch_size, args.cuda)
     dictionary = corpus.dictionary
 
 
