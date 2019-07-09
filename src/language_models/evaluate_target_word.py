@@ -42,6 +42,8 @@ def evaluate(data_source, mask):
         for i in range(0, data_source.size(0) - 1, seq_len):
             # keep continuous hidden state across all sentences in the input file
             data, targets = get_batch(data_source, i, seq_len)
+            print(data)
+            print(targets)
             _, targets_mask = get_batch(mask, i, seq_len)
             output, hidden = model(data, hidden)
             output_flat = output.view(-1, vocab_size)
