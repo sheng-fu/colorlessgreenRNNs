@@ -43,9 +43,10 @@ def evaluate(data_source):
     with torch.no_grad():
         for i in range(len(data_source[0])):
             # keep continuous hidden state across all sentences in the input file
-            data = torch.LongTensor([[x] for x in data_source[1][i].data[0][:-1]])
-            targets = data_source[1][i][1:].view(-1)
+            data = data_source[1][i][:-1].data
             print(data)
+            exit()
+            targets = data_source[1][i][1:].view(-1)
             #_, targets_mask = get_batch(mask, i, seq_len)
             output, hidden = model(data, hidden)
             output_flat = output.view(-1, vocab_size)
