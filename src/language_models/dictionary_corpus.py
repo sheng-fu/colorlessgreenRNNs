@@ -122,6 +122,7 @@ def sent_tokenize_with_unks(dictionary, path):
                 ids = torch.LongTensor(tokens)
                 token = 0
                 for word in words:
+                    print(word)
                     if word not in dictionary.word2idx:
                         print(ids[token])
                         print("not else")
