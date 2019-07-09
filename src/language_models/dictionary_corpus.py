@@ -59,7 +59,7 @@ class SentenceCorpus(object):
                  validfname='valid.txt',
                  testfname='test.txt'):
         if not testflag:
-            self.dictionary = Dictionary()
+            self.dictionary = Dictionary(path)
             self.train_lm = self.tokenize(os.path.join(path, trainfname))
             self.valid_lm = self.tokenize_with_unks(os.path.join(path, validfname))
             self.save_to = self.save_dict(save_to)
