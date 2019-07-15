@@ -37,6 +37,7 @@ def parse_pairwise(path):
     infile = open(path, 'r')
     outfile = open(path[:-4]+'_parsed.txt', 'w')
     infile = infile.read().split('\n')
+    print(infile)
     for i in range(len(infile)):
         if i % 2 == 0:
             outfile.write(infile[i].split('\t')[1] + '\t' + infile[i+1].split('\t')[1] + '\n')
