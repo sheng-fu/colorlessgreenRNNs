@@ -117,6 +117,8 @@ index_col = 0
 
 mask = create_target_mask(args.path + ".text", args.path + ".eval", index_col)
 mask_data = batchify(torch.LongTensor(mask), eval_batch_size, args.cuda)
+print(mask_data)
+exit()
 test_data = batchify(dictionary_corpus.tokenize(dictionary, args.path + ".text"), eval_batch_size, args.cuda)
 
 f_output = open(args.path + ".output_" + args.suffix, 'w')
