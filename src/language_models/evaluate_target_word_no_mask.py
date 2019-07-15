@@ -52,7 +52,7 @@ def evaluate(data_source):
 
     hidden = model.init_hidden(eval_batch_size)
 
-    outfile = open(args.outfile, "w")
+    outfile = open(args.path+'_output.txt', "w")
     with torch.no_grad():
         for i in range(len(data_source[0])):
             # keep continuous hidden state across all sentences in the input file
@@ -148,7 +148,7 @@ test_data = dictionary_corpus.sent_tokenize_with_unks(dictionary, args.path + ".
 
 f_output = open(args.path + ".output_" + args.suffix, 'w')
 evaluate(test_data)
-parse_pairwise(args.outfile)
+parse_pairwise(args.path + "_output_parsed.txt")
 print("Probabilities saved to", args.path + ".output_" + args.suffix)
 f_output.close()
 
