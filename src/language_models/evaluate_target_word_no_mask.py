@@ -33,6 +33,21 @@ parser.add_argument('--suffix', type=str, help='suffix for generated output file
 args = parser.parse_args()
 
 
+def parse_pairwise(path):
+    infile = open(path, 'r')
+    outfile = open(path[:-4]+'parsed'+'.txt', 'w')
+    infile = infile.readlines()
+    for i in range(len(infile):
+        if i & 2 == 0:
+            outfile.write(infile[i].split()[1])
+            outfile.write('\t')
+            outfile.write(infile[i+1].split()[1])
+            outfile.write('\n')
+
+    return None
+        
+
+
 def evaluate(data_source):
     # Turn on evaluation mode which disables dropout.
     model.eval()
@@ -40,7 +55,7 @@ def evaluate(data_source):
 
     hidden = model.init_hidden(eval_batch_size)
 
-    outfile = open(args.outfile, "a")
+    outfile = open(args.outfile, "w")
     with torch.no_grad():
         for i in range(len(data_source[0])):
             # keep continuous hidden state across all sentences in the input file
@@ -136,6 +151,7 @@ test_data = dictionary_corpus.sent_tokenize_with_unks(dictionary, args.path + ".
 
 f_output = open(args.path + ".output_" + args.suffix, 'w')
 evaluate(test_data)
+parse_pairwise(args.outfile)
 print("Probabilities saved to", args.path + ".output_" + args.suffix)
 f_output.close()
 
