@@ -39,9 +39,9 @@ def parse_pairwise(path):
     infile = infile.readlines()
     for i in range(len(infile)):
         if i & 2 == 0:
-            outfile.write(infile[i].split()[1])
+            outfile.write(infile[i].split('\t')[1])
             outfile.write('\t')
-            outfile.write(infile[i+1].split()[1])
+            outfile.write(infile[i+1].split('\t')[1])
             outfile.write('\n')
 
     return None
