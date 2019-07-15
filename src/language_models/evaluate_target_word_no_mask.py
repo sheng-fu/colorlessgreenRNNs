@@ -27,6 +27,7 @@ parser.add_argument('--seed', type=int, default=1111,
 parser.add_argument('--cuda', action='store_true',
                     help='use CUDA')
 
+parser.add_argument('--outfile', type=str, help='path to output file')
 parser.add_argument('--path', type=str, help='path to test file (text) gold file (indices of words to evaluate)')
 parser.add_argument('--suffix', type=str, help='suffix for generated output files which will be saved as path.output_suffix')
 args = parser.parse_args()
@@ -39,8 +40,7 @@ def evaluate(data_source):
 
     hidden = model.init_hidden(eval_batch_size)
 
-    outfile = open("test_output.txt", "a")
-
+    outfile = open(args.outfile, "a")
     with torch.no_grad():
         for i in range(len(data_source[0])):
             # keep continuous hidden state across all sentences in the input file
