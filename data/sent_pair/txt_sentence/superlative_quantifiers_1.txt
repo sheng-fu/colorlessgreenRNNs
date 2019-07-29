@@ -1,0 +1,200 @@
+No book is embarrassing more than eight pedestrians. <eos>
+No book is embarrassing at least eight pedestrians. <eos>
+No actor had hugged more than three customers. <eos>
+No actor had hugged at least three customers. <eos>
+No student fled from fewer than five restaurants. <eos>
+No student fled from at most five restaurants. <eos>
+No girl could praise fewer than three drivers. <eos>
+No girl could praise at most three drivers. <eos>
+No actress has passed fewer than seven hospitals. <eos>
+No actress has passed at most seven hospitals. <eos>
+No guest was scaring fewer than seven drivers. <eos>
+No guest was scaring at most seven drivers. <eos>
+No actress approaches more than three customers. <eos>
+No actress approaches at least three customers. <eos>
+No guest does walk through more than eight malls. <eos>
+No guest does walk through at least eight malls. <eos>
+No sketch might bother more than six drivers. <eos>
+No sketch might bother at least six drivers. <eos>
+No child might break more than six chairs. <eos>
+No child might break at least six chairs. <eos>
+No teenager could insult fewer than nine adults. <eos>
+No teenager could insult at most nine adults. <eos>
+No person admires more than three paintings. <eos>
+No person admires at least three paintings. <eos>
+No restaurant has upset fewer than ten adults. <eos>
+No restaurant has upset at most ten adults. <eos>
+No teacher might explore fewer than seven hospitals. <eos>
+No teacher might explore at most seven hospitals. <eos>
+No doctor had dropped by fewer than three art galleries. <eos>
+No doctor had dropped by at most three art galleries. <eos>
+No public park distracted more than eight waiters. <eos>
+No public park distracted at least eight waiters. <eos>
+No teacher was helping fewer than nine women. <eos>
+No teacher was helping at most nine women. <eos>
+No teacher has scared more than two guys. <eos>
+No teacher has scared at least two guys. <eos>
+No guy breaks fewer than eight cups. <eos>
+No guy breaks at most eight cups. <eos>
+No senator has seen more than six waiters. <eos>
+No senator has seen at least six waiters. <eos>
+No waitress examined more than seven documentaries. <eos>
+No waitress examined at least seven documentaries. <eos>
+No customer wears more than three pants. <eos>
+No customer wears at least three pants. <eos>
+No waitress did listen to fewer than eight students. <eos>
+No waitress did listen to at most eight students. <eos>
+No student was kissing more than five teachers. <eos>
+No student was kissing at least five teachers. <eos>
+No adult is watching fewer than five women. <eos>
+No adult is watching at most five women. <eos>
+No lady had examined fewer than four stories. <eos>
+No lady had examined at most four stories. <eos>
+No driver complains about more than two adults. <eos>
+No driver complains about at least two adults. <eos>
+No actress has embarrassed more than five senators. <eos>
+No actress has embarrassed at least five senators. <eos>
+No essay did embarrass more than four teachers. <eos>
+No essay did embarrass at least four teachers. <eos>
+No teenager would take more than nine prints. <eos>
+No teenager would take at least nine prints. <eos>
+No student boycotted fewer than nine museums. <eos>
+No student boycotted at most nine museums. <eos>
+No guest is buying more than nine cars. <eos>
+No guest is buying at least nine cars. <eos>
+No documentary can bother fewer than six women. <eos>
+No documentary can bother at most six women. <eos>
+No guy watched more than seven teachers. <eos>
+No guy watched at least seven teachers. <eos>
+No actor will skate around more than nine cafes. <eos>
+No actor will skate around at least nine cafes. <eos>
+No dancer should criticize more than nine drivers. <eos>
+No dancer should criticize at least nine drivers. <eos>
+No movie is describing more than ten essays. <eos>
+No movie is describing at least ten essays. <eos>
+No adult is alarming fewer than three pedestrians. <eos>
+No adult is alarming at most three pedestrians. <eos>
+No dancer can appreciate fewer than six adults. <eos>
+No dancer can appreciate at most six adults. <eos>
+No driver had biked to fewer than five malls. <eos>
+No driver had biked to at most five malls. <eos>
+No teacher forgot fewer than ten guys. <eos>
+No teacher forgot at most ten guys. <eos>
+No teacher boycotts more than six public parks. <eos>
+No teacher boycotts at least six public parks. <eos>
+No book has stunned more than three guests. <eos>
+No book has stunned at least three guests. <eos>
+No plate has bothered more than three patients. <eos>
+No plate has bothered at least three patients. <eos>
+No book has sounded like more than two museums. <eos>
+No book has sounded like at least two museums. <eos>
+No teacher could bring fewer than seven glasses. <eos>
+No teacher could bring at most seven glasses. <eos>
+No senator can help fewer than six customers. <eos>
+No senator can help at most six customers. <eos>
+No child had toured fewer than nine cafes. <eos>
+No child had toured at most nine cafes. <eos>
+No senator can exit fewer than nine art galleries. <eos>
+No senator can exit at most nine art galleries. <eos>
+No dancer returned to fewer than four hospitals. <eos>
+No dancer returned to at most four hospitals. <eos>
+No woman attacks more than eight women. <eos>
+No woman attacks at least eight women. <eos>
+No dish embarrassed more than six patients. <eos>
+No dish embarrassed at least six patients. <eos>
+No customer scanned fewer than nine newspaper articles. <eos>
+No customer scanned at most nine newspaper articles. <eos>
+No actor had dropped by more than nine malls. <eos>
+No actor had dropped by at least nine malls. <eos>
+No documentary alarmed fewer than nine women. <eos>
+No documentary alarmed at most nine women. <eos>
+No pedestrian skates around more than five college campuses. <eos>
+No pedestrian skates around at least five college campuses. <eos>
+No pedestrian could have more than eight rugs. <eos>
+No pedestrian could have at least eight rugs. <eos>
+No bank will hurt fewer than eight waitresses. <eos>
+No bank will hurt at most eight waitresses. <eos>
+No adult will attack fewer than six people. <eos>
+No adult will attack at most six people. <eos>
+No cashier praised more than six teachers. <eos>
+No cashier praised at least six teachers. <eos>
+No teenager was admiring more than five girls. <eos>
+No teenager was admiring at least five girls. <eos>
+No commentary references fewer than three stories. <eos>
+No commentary references at most three stories. <eos>
+No girl sees more than eight rugs. <eos>
+No girl sees at least eight rugs. <eos>
+No actress was fleeing from fewer than six high schools. <eos>
+No actress was fleeing from at most six high schools. <eos>
+No actor is approaching more than five actresses. <eos>
+No actor is approaching at least five actresses. <eos>
+No man stunned more than five ladies. <eos>
+No man stunned at least five ladies. <eos>
+No student sounds like fewer than five museums. <eos>
+No student sounds like at most five museums. <eos>
+No pedestrian has respected fewer than nine boys. <eos>
+No pedestrian has respected at most nine boys. <eos>
+No commentary is annoying more than two ladies. <eos>
+No commentary is annoying at least two ladies. <eos>
+No actress criticizes fewer than ten waiters. <eos>
+No actress criticizes at most ten waiters. <eos>
+No rug is stunning more than five adults. <eos>
+No rug is stunning at least five adults. <eos>
+No play upset fewer than six actresses. <eos>
+No play upset at most six actresses. <eos>
+No patient had concealed more than five reports. <eos>
+No patient had concealed at least five reports. <eos>
+No teacher toured more than three museums. <eos>
+No teacher toured at least three museums. <eos>
+No person would lift fewer than three books. <eos>
+No person would lift at most three books. <eos>
+No actor had resembled more than six drawings. <eos>
+No actor had resembled at least six drawings. <eos>
+No lady scared more than four dancers. <eos>
+No lady scared at least four dancers. <eos>
+No pedestrian fled from fewer than nine schools. <eos>
+No pedestrian fled from at most nine schools. <eos>
+No dancer had skated around fewer than six movie theaters. <eos>
+No dancer had skated around at most six movie theaters. <eos>
+No child has insulted fewer than four students. <eos>
+No child has insulted at most four students. <eos>
+No pedestrian would respect fewer than six cafes. <eos>
+No pedestrian would respect at most six cafes. <eos>
+No art gallery is confusing more than ten guests. <eos>
+No art gallery is confusing at least ten guests. <eos>
+No actress is boycotting fewer than five grocery stores. <eos>
+No actress is boycotting at most five grocery stores. <eos>
+No customer is running around more than five hospitals. <eos>
+No customer is running around at least five hospitals. <eos>
+No guy concealed more than four documentaries. <eos>
+No guy concealed at least four documentaries. <eos>
+No school disgusted more than nine women. <eos>
+No school disgusted at least nine women. <eos>
+No guest is biking to fewer than two grocery stores. <eos>
+No guest is biking to at most two grocery stores. <eos>
+No girl loves fewer than four adults. <eos>
+No girl loves at most four adults. <eos>
+No actor has scanned more than nine movies. <eos>
+No actor has scanned at least nine movies. <eos>
+No waiter has broken more than two chairs. <eos>
+No waiter has broken at least two chairs. <eos>
+No driver hugs more than ten guys. <eos>
+No driver hugs at least ten guys. <eos>
+No student discussed more than six books. <eos>
+No student discussed at least six books. <eos>
+No guest has fewer than six plates. <eos>
+No guest has at most six plates. <eos>
+No actor bikes to more than two restaurants. <eos>
+No actor bikes to at least two restaurants. <eos>
+No teacher complained about more than eight newspaper articles. <eos>
+No teacher complained about at least eight newspaper articles. <eos>
+No painting was looking like more than three doctors. <eos>
+No painting was looking like at least three doctors. <eos>
+No person has listened to fewer than eight teachers. <eos>
+No person has listened to at most eight teachers. <eos>
+No car is annoying more than four men. <eos>
+No car is annoying at least four men. <eos>
+No lady had more than seven prints. <eos>
+No lady had at least seven prints. <eos>
+No fork upset more than five teenagers. <eos>
+No fork upset at least five teenagers. <eos>

@@ -1,0 +1,32 @@
+benchmark to colorlessgreen format
+
+benchmark:
+sentence_good
+sentence_bad
+one_prefix_prefix
+one_prefix_word_good
+one_prefix_word_bad
+category
+field
+linguistics_term
+UID
+simple_LM_method
+one_prefix_method
+two_prefix_method
+lexically_identical
+
+colorlessgreen
+pattern: just a code about something, maybe equivalent to linguistics_term or UID
+constr_id: data-internal stuff, maybe if we number our construction type it'd be useful
+sent_id: an id for each pair
+correct_number: the label for the correct form
+form: one_prefix_word_good/bad
+class: good/bad
+type: generated or original
+prefix: one_prefix_prefix
+n_attr: number of attractors
+punct: does context include punctuation
+freq: frequency of the form
+len_context: ??
+len_prefix
+sent: 

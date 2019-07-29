@@ -1,0 +1,20 @@
+The museum had not ever benefited. <eos>
+The museum had really ever benefited. <eos>
+That teacher had not ever sat down. <eos>
+That teacher had really ever sat down. <eos>
+Steve has not ever lifted that cat. <eos>
+Steve has fortunately ever lifted that cat. <eos>
+Erin had not ever loved pamela. <eos>
+Erin had probably ever loved pamela. <eos>
+Gina might not ever read. <eos>
+Gina might really ever read. <eos>
+Andrea has not ever insulted amanda. <eos>
+Andrea has really ever insulted amanda. <eos>
+All drivers had not ever helped julia. <eos>
+All drivers had really ever helped julia. <eos>
+Kevin had not ever answered. <eos>
+Kevin had fortunately ever answered. <eos>
+People will not ever figure out who was predicting these universities to compete. <eos>
+People will probably ever figure out who was predicting these universities to compete. <eos>
+Brian did not ever clean some snakes. <eos>
+Brian did fortunately ever clean some snakes. <eos>
