@@ -33,9 +33,9 @@ parser.add_argument('--suffix', type=str, help='suffix for generated output file
 args = parser.parse_args()
 
 
-def parse_pairwise(path):
-    infile = open(path + '_output.txt', 'r')
-    outfile = open(path+ '_parsed.txt', 'w')
+def parse_pairwise(args.outfile):
+    infile = open(args.outfile, 'r')
+    outfile = open(args.outfile[:-4]+ '_parsed.tab', 'w')
     infile = [x for x in infile.read().split('\n') if x != '']
     for i in range(len(infile)):
         if i % 2 == 0:
@@ -52,7 +52,7 @@ def evaluate(data_source):
 
     hidden = model.init_hidden(eval_batch_size)
 
-    outfile = open(args.path+'_output.txt', "w")
+    outfile = open(args.outfile, "w")
     with torch.no_grad():
         for i in range(len(data_source[0])):
             # keep continuous hidden state across all sentences in the input file
