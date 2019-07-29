@@ -11,11 +11,12 @@ files = []
 for path in paths:
     for r, d, f in os.walk(path):
         for file in f:
-            files.append(path+file)
+            if '.txt' in file:
+                files.append(path+file)
 
 for file in files:
     path_flag = '--path '+file
-    outfile_flag = '--outfile '+file[:-4]+'_output.txt'
+    outfile_flag = '--outfile '+file[:-4]+'_output.tab'
     outfile.write(main_command)
     outfile.write(path_flag+' ')
     outfile.write(outfile_flag+'\n\n')
