@@ -15,7 +15,7 @@ for path in paths:
                 files.append(path+file)
 
 for file in files:
-    path_flag = '--path '+file
+    path_flag = '--path '+file[:-4]
     outfile_flag = '--outfile '+file[:-4]+'_output.tab'
     outfile.write(main_command)
     outfile.write(path_flag+' ')
