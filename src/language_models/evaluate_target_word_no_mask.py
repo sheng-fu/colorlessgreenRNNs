@@ -34,7 +34,7 @@ args = parser.parse_args()
 
 
 def parse_pairwise(path):
-    infile = open(path + '.txt', 'r')
+    infile = open(path + '_output.txt', 'r')
     outfile = open(path+ '_parsed.txt', 'w')
     infile = [x for x in infile.read().split('\n') if x != '']
     for i in range(len(infile)):
