@@ -3,7 +3,7 @@ library(jsonlite)
 
 setwd("~/GitHub/colorlessgreenRNNs/src/analysis")
 
-sentence_path = "~/GitHub/colorlessgreenRNNs/results/sentence/"
+sentence_path = "~/GitHub/colorlessgreenRNNs/results/sentence_rerun/"
 sentence_file = list.files(sentence_path)
 sentence_file = sentence_file[grepl("_parsed", sentence_file)]
 
@@ -27,7 +27,7 @@ for (file in sentence_file){
 
 result_sent$type = "sentence"
 
-prefix_path = "~/GitHub/colorlessgreenRNNs/results/prefix/"
+prefix_path = "~/GitHub/colorlessgreenRNNs/results/prefix_rerun/"
 prefix_file = list.files(prefix_path)
 prefix_file = prefix_file[grepl("_parsed", prefix_file)]
 
