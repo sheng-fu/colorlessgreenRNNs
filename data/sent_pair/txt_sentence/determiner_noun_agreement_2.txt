@@ -1,20 +1,20 @@
-Naomi investigates those waiters. <eos>
-Naomi investigates that waiters. <eos>
-A customer was lifting that chair. <eos>
-A customer was lifting those chair. <eos>
-A lot of customers watch these people. <eos>
-A lot of customers watch this people. <eos>
-Beverly praised this senator. <eos>
-Beverly praised these senator. <eos>
-These banks admire this book. <eos>
-These banks admire these book. <eos>
-Roger does talk about these actresses. <eos>
-Roger does talk about this actresses. <eos>
-Raymond hates this actor. <eos>
-Raymond hates these actor. <eos>
-The women praised this adult. <eos>
-The women praised these adult. <eos>
-Naomi cleaned that dish. <eos>
-Naomi cleaned those dish. <eos>
-These waitresses had disagreed with that person. <eos>
-These waitresses had disagreed with those person. <eos>
+Naomi investigates those waiters . <eos>
+Naomi investigates that waiters . <eos>
+A customer was lifting that chair . <eos>
+A customer was lifting those chair . <eos>
+A lot of customers watch these people . <eos>
+A lot of customers watch this people . <eos>
+Beverly praised this senator . <eos>
+Beverly praised these senator . <eos>
+These banks admire this book . <eos>
+These banks admire these book . <eos>
+Roger does talk about these actresses . <eos>
+Roger does talk about this actresses . <eos>
+Raymond hates this actor . <eos>
+Raymond hates these actor . <eos>
+The women praised this adult . <eos>
+The women praised these adult . <eos>
+Naomi cleaned that dish . <eos>
+Naomi cleaned those dish . <eos>
+These waitresses had disagreed with that person . <eos>
+These waitresses had disagreed with those person . <eos>

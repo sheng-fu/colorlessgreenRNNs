@@ -1,20 +1,20 @@
-Who should travis imagine can cook . <eos>
-Who should travis imagine that can cook . <eos>
-Who should janice explain wears many gloves. <eos>
-Who should janice explain that wears many gloves. <eos>
-Who has curtis said attack the woman. <eos>
-Who has curtis said that attack the woman. <eos>
-Who had wayne said was competing . <eos>
-Who had wayne said that was competing . <eos>
-Who should gary imagine sell the chairs. <eos>
-Who should gary imagine that sell the chairs. <eos>
-Who has walter thought conspired . <eos>
-Who has walter thought that conspired . <eos>
-Who were the guys explaining wear a lot of glasses. <eos>
-Who were the guys explaining that wear a lot of glasses. <eos>
-Who is dawn saying discuss some women. <eos>
-Who is dawn saying that discuss some women. <eos>
-Who was eva thinking should go to this college campus. <eos>
-Who was eva thinking that should go to this college campus. <eos>
-Who did helen imagine hasn't forgotten jane. <eos>
-Who did helen imagine that hasn't forgotten jane. <eos>
+Who should travis imagine can cook  . <eos>
+Who should travis imagine that can cook  . <eos>
+Who should janice explain wears many gloves . <eos>
+Who should janice explain that wears many gloves . <eos>
+Who has curtis said attack the woman . <eos>
+Who has curtis said that attack the woman . <eos>
+Who had wayne said was competing  . <eos>
+Who had wayne said that was competing  . <eos>
+Who should gary imagine sell the chairs . <eos>
+Who should gary imagine that sell the chairs . <eos>
+Who has walter thought conspired  . <eos>
+Who has walter thought that conspired  . <eos>
+Who were the guys explaining wear a lot of glasses . <eos>
+Who were the guys explaining that wear a lot of glasses . <eos>
+Who is dawn saying discuss some women . <eos>
+Who is dawn saying that discuss some women . <eos>
+Who was eva thinking should go to this college campus . <eos>
+Who was eva thinking that should go to this college campus . <eos>
+Who did helen imagine hasn't forgotten jane . <eos>
+Who did helen imagine that hasn't forgotten jane . <eos>

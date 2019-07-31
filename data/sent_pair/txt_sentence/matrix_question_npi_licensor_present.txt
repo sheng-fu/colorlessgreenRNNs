@@ -1,40 +1,40 @@
-Should matt ever discover who had sung?
-Matt should ever discover who had sung. <eos>
-Had renee ever boasted?
-Renee had ever boasted. <eos>
-Have all children ever met?
-All children have ever met. <eos>
-Had vanessa ever thought a lot of men assembled?
-Vanessa had ever thought a lot of men assembled. <eos>
-Should some pedestrian ever break the couch?
-Some pedestrian should ever break the couch. <eos>
-Has kristen ever shocked the companies?
-Kristen has ever shocked the companies. <eos>
-Had kristin ever forfeited?
-Kristin had ever forfeited. <eos>
-Should this grocery store ever aggravate helen?
-This grocery store should ever aggravate helen. <eos>
-Might caroline ever tour many high schools?
-Caroline might ever tour many high schools. <eos>
-Have boys ever gone fishing?
-Boys have ever gone fishing. <eos>
-Would a driver ever say benjamin can't see?
-A driver would ever say benjamin can't see. <eos>
-Might christina ever want didn't telephone?
-Christina might ever want didn't telephone. <eos>
-Did dennis ever spin around?
-Dennis did ever spin around. <eos>
-Has denise ever cheered?
-Denise has ever cheered. <eos>
-Will the libraries ever react?
-The libraries will ever react. <eos>
-Should these organizations ever compete?
-These organizations should ever compete. <eos>
-Have these children ever embraced?
-These children have ever embraced. <eos>
-Did kristen ever play?
-Kristen did ever play. <eos>
-Will holly ever drive to every cafe?
-Holly will ever drive to every cafe. <eos>
-Did steve ever cheer?
-Steve did ever cheer. <eos>
+Should matt ever discover who had sung ? <eos>
+Matt should ever discover who had sung . <eos>
+Had renee ever boasted ? <eos>
+Renee had ever boasted . <eos>
+Have all children ever met ? <eos>
+All children have ever met . <eos>
+Had vanessa ever thought a lot of men assembled ? <eos>
+Vanessa had ever thought a lot of men assembled . <eos>
+Should some pedestrian ever break the couch ? <eos>
+Some pedestrian should ever break the couch . <eos>
+Has kristen ever shocked the companies ? <eos>
+Kristen has ever shocked the companies . <eos>
+Had kristin ever forfeited ? <eos>
+Kristin had ever forfeited . <eos>
+Should this grocery store ever aggravate helen ? <eos>
+This grocery store should ever aggravate helen . <eos>
+Might caroline ever tour many high schools ? <eos>
+Caroline might ever tour many high schools . <eos>
+Have boys ever gone fishing ? <eos>
+Boys have ever gone fishing . <eos>
+Would a driver ever say benjamin can't see ? <eos>
+A driver would ever say benjamin can't see . <eos>
+Might christina ever want didn't telephone ? <eos>
+Christina might ever want didn't telephone . <eos>
+Did dennis ever spin around ? <eos>
+Dennis did ever spin around . <eos>
+Has denise ever cheered ? <eos>
+Denise has ever cheered . <eos>
+Will the libraries ever react ? <eos>
+The libraries will ever react . <eos>
+Should these organizations ever compete ? <eos>
+These organizations should ever compete . <eos>
+Have these children ever embraced ? <eos>
+These children have ever embraced . <eos>
+Did kristen ever play ? <eos>
+Kristen did ever play . <eos>
+Will holly ever drive to every cafe ? <eos>
+Holly will ever drive to every cafe . <eos>
+Did steve ever cheer ? <eos>
+Steve did ever cheer . <eos>

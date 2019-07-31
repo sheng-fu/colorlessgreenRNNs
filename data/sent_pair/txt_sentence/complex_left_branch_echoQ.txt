@@ -1,20 +1,20 @@
-Many adults are working with which customers?
-Which are many adults working with customers?
-Aaron has talked about what adult?
-What has aaron talked about adult?
-Douglas is leaving what patient?
-What is douglas leaving patient?
-Sharon was passing what art galleries?
-What was sharon passing art galleries?
-Barbara has dropped by whose museum?
-Whose has barbara dropped by museum?
-Suzanne will exit which schools?
-Which will suzanne exit schools?
-Kevin should aggravate what people?
-What should kevin aggravate people?
-Sharon was running around whose hospitals?
-Whose was sharon running around hospitals?
-Every dancer would see which teacher?
-Which would every dancer see teacher?
-Lisa has concealed what fish?
-What has lisa concealed fish?
+Many adults are working with which customers ? <eos>
+Which are many adults working with customers ? <eos>
+Aaron has talked about what adult ? <eos>
+What has aaron talked about adult ? <eos>
+Douglas is leaving what patient ? <eos>
+What is douglas leaving patient ? <eos>
+Sharon was passing what art galleries ? <eos>
+What was sharon passing art galleries ? <eos>
+Barbara has dropped by whose museum ? <eos>
+Whose has barbara dropped by museum ? <eos>
+Suzanne will exit which schools ? <eos>
+Which will suzanne exit schools ? <eos>
+Kevin should aggravate what people ? <eos>
+What should kevin aggravate people ? <eos>
+Sharon was running around whose hospitals ? <eos>
+Whose was sharon running around hospitals ? <eos>
+Every dancer would see which teacher ? <eos>
+Which would every dancer see teacher ? <eos>
+Lisa has concealed what fish ? <eos>
+What has lisa concealed fish ? <eos>

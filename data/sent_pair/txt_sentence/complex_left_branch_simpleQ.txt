@@ -1,20 +1,20 @@
-What woman could kristin talk to?
-What could kristin talk to woman?
-Which woman had carolyn scared?
-Which had carolyn scared woman?
-What high school could alice sound like?
-What could alice sound like high school?
-Which girl will bill observe?
-Which will bill observe girl?
-Whose legislature should matt confuse?
-Whose should matt confuse legislature?
-Whose reports could vincent sell?
-Whose could vincent sell reports?
-Which restaurants was christopher leaving?
-Which was christopher leaving restaurants?
-Which waiters will amelia investigate?
-Which will amelia investigate waiters?
-What cars did kathleen see?
-What did kathleen see cars?
-Whose plates was every teacher buying?
-Whose was every teacher buying plates?
+What woman could kristin talk to ? <eos>
+What could kristin talk to woman ? <eos>
+Which woman had carolyn scared ? <eos>
+Which had carolyn scared woman ? <eos>
+What high school could alice sound like ? <eos>
+What could alice sound like high school ? <eos>
+Which girl will bill observe ? <eos>
+Which will bill observe girl ? <eos>
+Whose legislature should matt confuse ? <eos>
+Whose should matt confuse legislature ? <eos>
+Whose reports could vincent sell ? <eos>
+Whose could vincent sell reports ? <eos>
+Which restaurants was christopher leaving ? <eos>
+Which was christopher leaving restaurants ? <eos>
+Which waiters will amelia investigate ? <eos>
+Which will amelia investigate waiters ? <eos>
+What cars did kathleen see ? <eos>
+What did kathleen see cars ? <eos>
+Whose plates was every teacher buying ? <eos>
+Whose was every teacher buying plates ? <eos>

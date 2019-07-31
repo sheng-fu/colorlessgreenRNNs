@@ -1,200 +1,200 @@
-The drawing bothered at most two people. <eos>
-No drawing bothered at most two people. <eos>
-Each adult exits at least ten hospitals. <eos>
-No adult exits at least ten hospitals. <eos>
-This patient attacks at most six senators. <eos>
-No patient attacks at most six senators. <eos>
-Each senator goes to at most five movie theaters. <eos>
-No senator goes to at most five movie theaters. <eos>
-The dancer has hated at most ten dancers. <eos>
-No dancer has hated at most ten dancers. <eos>
-Each child approached at most five boys. <eos>
-No child approached at most five boys. <eos>
-Every customer is observing at most three people. <eos>
-No customer is observing at most three people. <eos>
-Some dancer had worked with at most two doctors. <eos>
-No dancer had worked with at most two doctors. <eos>
-Each boy loved at least four people. <eos>
-No boy loved at least four people. <eos>
-Each child should respect at most three movie theaters. <eos>
-No child should respect at most three movie theaters. <eos>
-This woman knows at least eight waitresses. <eos>
-No woman knows at least eight waitresses. <eos>
-That patient passed at most eight public parks. <eos>
-No patient passed at most eight public parks. <eos>
-That pedestrian does go to at least four banks. <eos>
-No pedestrian does go to at least four banks. <eos>
-Every patient dropped by at most eight schools. <eos>
-No patient dropped by at most eight schools. <eos>
-A child likes at most ten children. <eos>
-No child likes at most ten children. <eos>
-Some person tours at least four museums. <eos>
-No person tours at least four museums. <eos>
-Every teacher scans at least five essays. <eos>
-No teacher scans at least five essays. <eos>
-That patient boycotted at most six high schools. <eos>
-No patient boycotted at most six high schools. <eos>
-The dancer helped at most nine children. <eos>
-No dancer helped at most nine children. <eos>
-That student explores at most ten college campuses. <eos>
-No student explores at most ten college campuses. <eos>
-Some pedestrian has insulted at least six newspaper articles. <eos>
-No pedestrian has insulted at least six newspaper articles. <eos>
-Some fork has disgusted at most four actors. <eos>
-No fork has disgusted at most four actors. <eos>
-Every boy worked with at least seven guys. <eos>
-No boy worked with at least seven guys. <eos>
-This senator has known at most ten guests. <eos>
-No senator has known at most ten guests. <eos>
-Every boy has looked like at least nine photographs. <eos>
-No boy has looked like at least nine photographs. <eos>
-The boy could conceal at least three women. <eos>
-No boy could conceal at least three women. <eos>
-The story does confuse at most five drivers. <eos>
-No story does confuse at most five drivers. <eos>
-That teenager buys at most ten drawings. <eos>
-No teenager buys at most ten drawings. <eos>
-A patient admires at most two patients. <eos>
-No patient admires at most two patients. <eos>
-The adult was arriving at at most eight movie theaters. <eos>
-No adult was arriving at at most eight movie theaters. <eos>
-That actor has observed at most six senators. <eos>
-No actor has observed at most six senators. <eos>
-This customer left at least four malls. <eos>
-No customer left at least four malls. <eos>
-Every woman walked through at most eight college campuses. <eos>
-No woman walked through at most eight college campuses. <eos>
-Every man could know at most eight actors. <eos>
-No man could know at most eight actors. <eos>
-The chair is resembling at least three prints. <eos>
-No chair is resembling at least three prints. <eos>
-That senator might break at least nine forks. <eos>
-No senator might break at least nine forks. <eos>
-Every doctor cared for at least six adults. <eos>
-No doctor cared for at least six adults. <eos>
-Some adult will disgust at most three children. <eos>
-No adult will disgust at most three children. <eos>
-That waiter would walk through at most seven schools. <eos>
-No waiter would walk through at most seven schools. <eos>
-The doctor praised at most three actresses. <eos>
-No doctor praised at most three actresses. <eos>
-That student is selling at least seven drawings. <eos>
-No student is selling at least seven drawings. <eos>
-A teenager had referenced at least four stories. <eos>
-No teenager had referenced at least four stories. <eos>
-A driver is disturbing at least four patients. <eos>
-No driver is disturbing at least four patients. <eos>
-The driver has passed at least six college campuses. <eos>
-No driver has passed at least six college campuses. <eos>
-Every boy was listening to at least ten doctors. <eos>
-No boy was listening to at least ten doctors. <eos>
-A child passes at least ten restaurants. <eos>
-No child passes at least ten restaurants. <eos>
-Each actress is selling at least eight glasses. <eos>
-No actress is selling at least eight glasses. <eos>
-Every plate will embarrass at most ten waiters. <eos>
-No plate will embarrass at most ten waiters. <eos>
-That grocery store is annoying at most six boys. <eos>
-No grocery store is annoying at most six boys. <eos>
-This lady had looked like at most five photographs. <eos>
-No lady had looked like at most five photographs. <eos>
-Every senator has disturbed at most ten senators. <eos>
-No senator has disturbed at most ten senators. <eos>
-That adult dropped by at most nine public parks. <eos>
-No adult dropped by at most nine public parks. <eos>
-Some patient appreciates at most seven pedestrians. <eos>
-No patient appreciates at most seven pedestrians. <eos>
-A waitress approaches at least six patients. <eos>
-No waitress approaches at least six patients. <eos>
-That picture looks like at least four rugs. <eos>
-No picture looks like at least four rugs. <eos>
-Every grocery store worried at least three senators. <eos>
-No grocery store worried at least three senators. <eos>
-The waiter was concealing at most four women. <eos>
-No waiter was concealing at most four women. <eos>
-That book is looking like at most eight paintings. <eos>
-No book is looking like at most eight paintings. <eos>
-Every child did pass at most five public parks. <eos>
-No child did pass at most five public parks. <eos>
-Every lady had investigated at least five students. <eos>
-No lady had investigated at least five students. <eos>
-Each boy lifted at most six pictures. <eos>
-No boy lifted at most six pictures. <eos>
-Every driver conceals at least six waiters. <eos>
-No driver conceals at least six waiters. <eos>
-Some teacher was driving to at least four restaurants. <eos>
-No teacher was driving to at least four restaurants. <eos>
-Every dancer attacked at least seven actresses. <eos>
-No dancer attacked at least seven actresses. <eos>
-The scarf is shocking at most ten guests. <eos>
-No scarf is shocking at most ten guests. <eos>
-This person examined at most two plays. <eos>
-No person examined at most two plays. <eos>
-Each grocery store might scare at least nine cashiers. <eos>
-No grocery store might scare at least nine cashiers. <eos>
-That actress has brought at most six shoes. <eos>
-No actress has brought at most six shoes. <eos>
-This boy had worn at least four shoes. <eos>
-No boy had worn at least four shoes. <eos>
-Each man attacked at least two senators. <eos>
-No man attacked at least two senators. <eos>
-Every actress runs around at least four malls. <eos>
-No actress runs around at least four malls. <eos>
-Some teacher will like at least two cars. <eos>
-No teacher will like at least two cars. <eos>
-Every rug has bored at least seven pedestrians. <eos>
-No rug has bored at least seven pedestrians. <eos>
-This teacher passed at most seven high schools. <eos>
-No teacher passed at most seven high schools. <eos>
-This guest was hugging at least seven guys. <eos>
-No guest was hugging at least seven guys. <eos>
-The lady has biked to at most ten malls. <eos>
-No lady has biked to at most ten malls. <eos>
-This actor cleaned at most four books. <eos>
-No actor cleaned at most four books. <eos>
-This actress can dislike at most ten hospitals. <eos>
-No actress can dislike at most ten hospitals. <eos>
-The picture should look like at most nine books. <eos>
-No picture should look like at most nine books. <eos>
-Every waiter was buying at most eight cars. <eos>
-No waiter was buying at most eight cars. <eos>
-The student sees at most ten rugs. <eos>
-No student sees at most ten rugs. <eos>
-This senator knows at most three children. <eos>
-No senator knows at most three children. <eos>
-Some story does disturb at most ten guys. <eos>
-No story does disturb at most ten guys. <eos>
-Each man confused at least two women. <eos>
-No man confused at least two women. <eos>
-Some guy has cleaned at least seven dishes. <eos>
-No guy has cleaned at least seven dishes. <eos>
-The child scans at least six essays. <eos>
-No child scans at least six essays. <eos>
-That driver cares for at most four guys. <eos>
-No driver cares for at most four guys. <eos>
-Every doctor upset at most eight guests. <eos>
-No doctor upset at most eight guests. <eos>
-Each pedestrian was selling at least four pants. <eos>
-No pedestrian was selling at least four pants. <eos>
-The lady has cleaned at least six forks. <eos>
-No lady has cleaned at least six forks. <eos>
-This child was dropping by at most six art galleries. <eos>
-No child was dropping by at most six art galleries. <eos>
-Some person is scanning at most eight stories. <eos>
-No person is scanning at most eight stories. <eos>
-This adult is investigating at least nine teachers. <eos>
-No adult is investigating at least nine teachers. <eos>
-This story can irritate at most nine pedestrians. <eos>
-No story can irritate at most nine pedestrians. <eos>
-The guest runs around at most seven restaurants. <eos>
-No guest runs around at most seven restaurants. <eos>
-This story had impressed at least eight guys. <eos>
-No story had impressed at least eight guys. <eos>
-That guy scanned at most five essays. <eos>
-No guy scanned at most five essays. <eos>
-This waitress sees at most three actresses. <eos>
-No waitress sees at most three actresses. <eos>
-A dancer brought at least six paintings. <eos>
-No dancer brought at least six paintings. <eos>
-A pedestrian has forgotten at most eight plays. <eos>
-No pedestrian has forgotten at most eight plays. <eos>
+The drawing bothered at most two people . <eos>
+No drawing bothered at most two people . <eos>
+Each adult exits at least ten hospitals . <eos>
+No adult exits at least ten hospitals . <eos>
+This patient attacks at most six senators . <eos>
+No patient attacks at most six senators . <eos>
+Each senator goes to at most five movie theaters . <eos>
+No senator goes to at most five movie theaters . <eos>
+The dancer has hated at most ten dancers . <eos>
+No dancer has hated at most ten dancers . <eos>
+Each child approached at most five boys . <eos>
+No child approached at most five boys . <eos>
+Every customer is observing at most three people . <eos>
+No customer is observing at most three people . <eos>
+Some dancer had worked with at most two doctors . <eos>
+No dancer had worked with at most two doctors . <eos>
+Each boy loved at least four people . <eos>
+No boy loved at least four people . <eos>
+Each child should respect at most three movie theaters . <eos>
+No child should respect at most three movie theaters . <eos>
+This woman knows at least eight waitresses . <eos>
+No woman knows at least eight waitresses . <eos>
+That patient passed at most eight public parks . <eos>
+No patient passed at most eight public parks . <eos>
+That pedestrian does go to at least four banks . <eos>
+No pedestrian does go to at least four banks . <eos>
+Every patient dropped by at most eight schools . <eos>
+No patient dropped by at most eight schools . <eos>
+A child likes at most ten children . <eos>
+No child likes at most ten children . <eos>
+Some person tours at least four museums . <eos>
+No person tours at least four museums . <eos>
+Every teacher scans at least five essays . <eos>
+No teacher scans at least five essays . <eos>
+That patient boycotted at most six high schools . <eos>
+No patient boycotted at most six high schools . <eos>
+The dancer helped at most nine children . <eos>
+No dancer helped at most nine children . <eos>
+That student explores at most ten college campuses . <eos>
+No student explores at most ten college campuses . <eos>
+Some pedestrian has insulted at least six newspaper articles . <eos>
+No pedestrian has insulted at least six newspaper articles . <eos>
+Some fork has disgusted at most four actors . <eos>
+No fork has disgusted at most four actors . <eos>
+Every boy worked with at least seven guys . <eos>
+No boy worked with at least seven guys . <eos>
+This senator has known at most ten guests . <eos>
+No senator has known at most ten guests . <eos>
+Every boy has looked like at least nine photographs . <eos>
+No boy has looked like at least nine photographs . <eos>
+The boy could conceal at least three women . <eos>
+No boy could conceal at least three women . <eos>
+The story does confuse at most five drivers . <eos>
+No story does confuse at most five drivers . <eos>
+That teenager buys at most ten drawings . <eos>
+No teenager buys at most ten drawings . <eos>
+A patient admires at most two patients . <eos>
+No patient admires at most two patients . <eos>
+The adult was arriving at at most eight movie theaters . <eos>
+No adult was arriving at at most eight movie theaters . <eos>
+That actor has observed at most six senators . <eos>
+No actor has observed at most six senators . <eos>
+This customer left at least four malls . <eos>
+No customer left at least four malls . <eos>
+Every woman walked through at most eight college campuses . <eos>
+No woman walked through at most eight college campuses . <eos>
+Every man could know at most eight actors . <eos>
+No man could know at most eight actors . <eos>
+The chair is resembling at least three prints . <eos>
+No chair is resembling at least three prints . <eos>
+That senator might break at least nine forks . <eos>
+No senator might break at least nine forks . <eos>
+Every doctor cared for at least six adults . <eos>
+No doctor cared for at least six adults . <eos>
+Some adult will disgust at most three children . <eos>
+No adult will disgust at most three children . <eos>
+That waiter would walk through at most seven schools . <eos>
+No waiter would walk through at most seven schools . <eos>
+The doctor praised at most three actresses . <eos>
+No doctor praised at most three actresses . <eos>
+That student is selling at least seven drawings . <eos>
+No student is selling at least seven drawings . <eos>
+A teenager had referenced at least four stories . <eos>
+No teenager had referenced at least four stories . <eos>
+A driver is disturbing at least four patients . <eos>
+No driver is disturbing at least four patients . <eos>
+The driver has passed at least six college campuses . <eos>
+No driver has passed at least six college campuses . <eos>
+Every boy was listening to at least ten doctors . <eos>
+No boy was listening to at least ten doctors . <eos>
+A child passes at least ten restaurants . <eos>
+No child passes at least ten restaurants . <eos>
+Each actress is selling at least eight glasses . <eos>
+No actress is selling at least eight glasses . <eos>
+Every plate will embarrass at most ten waiters . <eos>
+No plate will embarrass at most ten waiters . <eos>
+That grocery store is annoying at most six boys . <eos>
+No grocery store is annoying at most six boys . <eos>
+This lady had looked like at most five photographs . <eos>
+No lady had looked like at most five photographs . <eos>
+Every senator has disturbed at most ten senators . <eos>
+No senator has disturbed at most ten senators . <eos>
+That adult dropped by at most nine public parks . <eos>
+No adult dropped by at most nine public parks . <eos>
+Some patient appreciates at most seven pedestrians . <eos>
+No patient appreciates at most seven pedestrians . <eos>
+A waitress approaches at least six patients . <eos>
+No waitress approaches at least six patients . <eos>
+That picture looks like at least four rugs . <eos>
+No picture looks like at least four rugs . <eos>
+Every grocery store worried at least three senators . <eos>
+No grocery store worried at least three senators . <eos>
+The waiter was concealing at most four women . <eos>
+No waiter was concealing at most four women . <eos>
+That book is looking like at most eight paintings . <eos>
+No book is looking like at most eight paintings . <eos>
+Every child did pass at most five public parks . <eos>
+No child did pass at most five public parks . <eos>
+Every lady had investigated at least five students . <eos>
+No lady had investigated at least five students . <eos>
+Each boy lifted at most six pictures . <eos>
+No boy lifted at most six pictures . <eos>
+Every driver conceals at least six waiters . <eos>
+No driver conceals at least six waiters . <eos>
+Some teacher was driving to at least four restaurants . <eos>
+No teacher was driving to at least four restaurants . <eos>
+Every dancer attacked at least seven actresses . <eos>
+No dancer attacked at least seven actresses . <eos>
+The scarf is shocking at most ten guests . <eos>
+No scarf is shocking at most ten guests . <eos>
+This person examined at most two plays . <eos>
+No person examined at most two plays . <eos>
+Each grocery store might scare at least nine cashiers . <eos>
+No grocery store might scare at least nine cashiers . <eos>
+That actress has brought at most six shoes . <eos>
+No actress has brought at most six shoes . <eos>
+This boy had worn at least four shoes . <eos>
+No boy had worn at least four shoes . <eos>
+Each man attacked at least two senators . <eos>
+No man attacked at least two senators . <eos>
+Every actress runs around at least four malls . <eos>
+No actress runs around at least four malls . <eos>
+Some teacher will like at least two cars . <eos>
+No teacher will like at least two cars . <eos>
+Every rug has bored at least seven pedestrians . <eos>
+No rug has bored at least seven pedestrians . <eos>
+This teacher passed at most seven high schools . <eos>
+No teacher passed at most seven high schools . <eos>
+This guest was hugging at least seven guys . <eos>
+No guest was hugging at least seven guys . <eos>
+The lady has biked to at most ten malls . <eos>
+No lady has biked to at most ten malls . <eos>
+This actor cleaned at most four books . <eos>
+No actor cleaned at most four books . <eos>
+This actress can dislike at most ten hospitals . <eos>
+No actress can dislike at most ten hospitals . <eos>
+The picture should look like at most nine books . <eos>
+No picture should look like at most nine books . <eos>
+Every waiter was buying at most eight cars . <eos>
+No waiter was buying at most eight cars . <eos>
+The student sees at most ten rugs . <eos>
+No student sees at most ten rugs . <eos>
+This senator knows at most three children . <eos>
+No senator knows at most three children . <eos>
+Some story does disturb at most ten guys . <eos>
+No story does disturb at most ten guys . <eos>
+Each man confused at least two women . <eos>
+No man confused at least two women . <eos>
+Some guy has cleaned at least seven dishes . <eos>
+No guy has cleaned at least seven dishes . <eos>
+The child scans at least six essays . <eos>
+No child scans at least six essays . <eos>
+That driver cares for at most four guys . <eos>
+No driver cares for at most four guys . <eos>
+Every doctor upset at most eight guests . <eos>
+No doctor upset at most eight guests . <eos>
+Each pedestrian was selling at least four pants . <eos>
+No pedestrian was selling at least four pants . <eos>
+The lady has cleaned at least six forks . <eos>
+No lady has cleaned at least six forks . <eos>
+This child was dropping by at most six art galleries . <eos>
+No child was dropping by at most six art galleries . <eos>
+Some person is scanning at most eight stories . <eos>
+No person is scanning at most eight stories . <eos>
+This adult is investigating at least nine teachers . <eos>
+No adult is investigating at least nine teachers . <eos>
+This story can irritate at most nine pedestrians . <eos>
+No story can irritate at most nine pedestrians . <eos>
+The guest runs around at most seven restaurants . <eos>
+No guest runs around at most seven restaurants . <eos>
+This story had impressed at least eight guys . <eos>
+No story had impressed at least eight guys . <eos>
+That guy scanned at most five essays . <eos>
+No guy scanned at most five essays . <eos>
+This waitress sees at most three actresses . <eos>
+No waitress sees at most three actresses . <eos>
+A dancer brought at least six paintings . <eos>
+No dancer brought at least six paintings . <eos>
+A pedestrian has forgotten at most eight plays . <eos>
+No pedestrian has forgotten at most eight plays . <eos>
