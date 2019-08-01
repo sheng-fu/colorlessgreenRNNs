@@ -1,20 +1,2000 @@
-What and all movie theaters is valerie walking through ? <eos>
-What is valerie walking through and all movie theaters ? <eos>
-Who and guy should ella kiss ? <eos>
-Who should ella kiss and guy ? <eos>
-What and that hospital is martha touring ? <eos>
-What is martha touring and that hospital ? <eos>
-Who and andrea is kristen complaining about ? <eos>
-Who is kristen complaining about and andrea ? <eos>
-Who and angela had patrick concealed ? <eos>
-Who had patrick concealed and angela ? <eos>
-What and the public park has paul driven to ? <eos>
-What has paul driven to and the public park ? <eos>
-Who and dawn has daniel known ? <eos>
-Who has daniel known and dawn ? <eos>
-What and some hospitals has tina sounded like ? <eos>
-What has tina sounded like and some hospitals ? <eos>
-Who and steve has that government aggravated ? <eos>
-Who has that government aggravated and steve ? <eos>
-Who and julia has helen concealed ? <eos>
-Who has helen concealed and julia ? <eos>
+What and some lakes had Lucille passed ? <eos>
+What had Lucille passed and some lakes ? <eos>
+What and that shirt was Alice bringing ? <eos>
+What was Alice bringing and that shirt ? <eos>
+Who and Amanda did Diane disgust ? <eos>
+Who did Diane disgust and Amanda ? <eos>
+What and all stairs is Jerry ascending ? <eos>
+What is Jerry ascending and all stairs ? <eos>
+What and a commentary has Vincent examined ? <eos>
+What has Vincent examined and a commentary ? <eos>
+What and some hospital have a lot of doctors boycotted ? <eos>
+What have a lot of doctors boycotted and some hospital ? <eos>
+What and all mountains has Jane driven to ? <eos>
+What has Jane driven to and all mountains ? <eos>
+Who and some guests did Amy fire ? <eos>
+Who did Amy fire and some guests ? <eos>
+What and most ladders was Daniel climbing up ? <eos>
+What was Daniel climbing up and most ladders ? <eos>
+Who and Janice would Julie flee from ? <eos>
+Who would Julie flee from and Janice ? <eos>
+Who and Cheryl were a lot of actresses boasting about ? <eos>
+Who were a lot of actresses boasting about and Cheryl ? <eos>
+Who and Ann is Anne escaping from ? <eos>
+Who is Anne escaping from and Ann ? <eos>
+What and that couch has every student broken ? <eos>
+What has every student broken and that couch ? <eos>
+Who and Raymond should Charles listen to ? <eos>
+Who should Charles listen to and Raymond ? <eos>
+What and many birds have all prints looked like ? <eos>
+What have all prints looked like and many birds ? <eos>
+Who and Janice might that newspaper article conceal ? <eos>
+Who might that newspaper article conceal and Janice ? <eos>
+Who and Theodore had a lot of committees helped ? <eos>
+Who had a lot of committees helped and Theodore ? <eos>
+Who and Carlos has Tonya cured ? <eos>
+Who has Tonya cured and Carlos ? <eos>
+Who and Nicole has Bethany watched ? <eos>
+Who has Bethany watched and Nicole ? <eos>
+Who and Benjamin are some customers disagreeing with ? <eos>
+Who are some customers disagreeing with and Benjamin ? <eos>
+Who and Todd do many drawings hurt ? <eos>
+Who do many drawings hurt and Todd ? <eos>
+Who and Monica is Veronica concealing ? <eos>
+Who is Veronica concealing and Monica ? <eos>
+Who and Kendra have all patients visited ? <eos>
+Who have all patients visited and Kendra ? <eos>
+What and this grocery store had Brett ran around ? <eos>
+What had Brett ran around and this grocery store ? <eos>
+Who and Wayne were a lot of children concealing ? <eos>
+Who were a lot of children concealing and Wayne ? <eos>
+What and this river had Colleen appreciated ? <eos>
+What had Colleen appreciated and this river ? <eos>
+Who and Curtis could this eye embarrass ? <eos>
+Who could this eye embarrass and Curtis ? <eos>
+What and some mountain were all guests arriving at ? <eos>
+What were all guests arriving at and some mountain ? <eos>
+Who and Patricia would ladders confuse ? <eos>
+Who would ladders confuse and Patricia ? <eos>
+What and many drawings is Curtis looking like ? <eos>
+What is Curtis looking like and many drawings ? <eos>
+Who and Ann was Alexander kissing ? <eos>
+Who was Alexander kissing and Ann ? <eos>
+What and the nose did Marla like ? <eos>
+What did Marla like and the nose ? <eos>
+What and this car was Theresa messing up ? <eos>
+What was Theresa messing up and this car ? <eos>
+What and every bank is David passing ? <eos>
+What is David passing and every bank ? <eos>
+Who and Elizabeth is Joel visiting ? <eos>
+Who is Joel visiting and Elizabeth ? <eos>
+Who and Jason would Jeffrey help ? <eos>
+Who would Jeffrey help and Jason ? <eos>
+Who and Kathleen will Karla visit ? <eos>
+Who will Karla visit and Kathleen ? <eos>
+What and this slope does the waitress climb down ? <eos>
+What does the waitress climb down and this slope ? <eos>
+What and these organizations could that hospital worry ? <eos>
+What could that hospital worry and these organizations ? <eos>
+Who and Steve can Ann shock ? <eos>
+Who can Ann shock and Steve ? <eos>
+Who and Sandra can Adam worry ? <eos>
+Who can Adam worry and Sandra ? <eos>
+Who and Matt should the gate embarrass ? <eos>
+Who should the gate embarrass and Matt ? <eos>
+Who and Melissa is Robert approaching ? <eos>
+Who is Robert approaching and Melissa ? <eos>
+Who and Barbara did Barbara hurt ? <eos>
+Who did Barbara hurt and Barbara ? <eos>
+Who and Andrea is Janice disturbing ? <eos>
+Who is Janice disturbing and Andrea ? <eos>
+What and many schools was Rhonda walking through ? <eos>
+What was Rhonda walking through and many schools ? <eos>
+What and the public park has Deanna ran around ? <eos>
+What has Deanna ran around and the public park ? <eos>
+What and boxes is Michael bringing ? <eos>
+What is Michael bringing and boxes ? <eos>
+Who and Cynthia had every picture looked like ? <eos>
+Who had every picture looked like and Cynthia ? <eos>
+Who and Robert did April know ? <eos>
+Who did April know and Robert ? <eos>
+Who and Julie might Phillip hide ? <eos>
+Who might Phillip hide and Julie ? <eos>
+Who and some drivers might Aaron scare ? <eos>
+Who might Aaron scare and some drivers ? <eos>
+Who and Jill had some eye distracted ? <eos>
+Who had some eye distracted and Jill ? <eos>
+Who and Valerie had Florence healed ? <eos>
+Who had Florence healed and Valerie ? <eos>
+What and a lot of hills might Elizabeth bike to ? <eos>
+What might Elizabeth bike to and a lot of hills ? <eos>
+Who and Stacy had Edward talked about ? <eos>
+Who had Edward talked about and Stacy ? <eos>
+What and cars could Dennis break ? <eos>
+What could Dennis break and cars ? <eos>
+What and many restaurants does Nancy bike to ? <eos>
+What does Nancy bike to and many restaurants ? <eos>
+What and rivers is Heidi exiting ? <eos>
+What is Heidi exiting and rivers ? <eos>
+Who and all pedestrians were a lot of people annoying ? <eos>
+Who were a lot of people annoying and all pedestrians ? <eos>
+What and a report have many actresses scanned ? <eos>
+What have many actresses scanned and a report ? <eos>
+Who and Carl had every car disgusted ? <eos>
+Who had every car disgusted and Carl ? <eos>
+Who and these men did some actress appreciate ? <eos>
+Who did some actress appreciate and these men ? <eos>
+Who and Melanie should Michelle observe ? <eos>
+Who should Michelle observe and Melanie ? <eos>
+Who and Steve is Thomas visiting ? <eos>
+Who is Thomas visiting and Steve ? <eos>
+What and some box was Rose cleaning ? <eos>
+What was Rose cleaning and some box ? <eos>
+What and these libraries has some dancer driven to ? <eos>
+What has some dancer driven to and these libraries ? <eos>
+Who and John were most pictures shocking ? <eos>
+Who were most pictures shocking and John ? <eos>
+What and the car has Becky messed up ? <eos>
+What has Becky messed up and the car ? <eos>
+Who and some cashier has Grace referenced ? <eos>
+Who has Grace referenced and some cashier ? <eos>
+What and some university were most bananas boring ? <eos>
+What were most bananas boring and some university ? <eos>
+What and every bank might some turtles bother ? <eos>
+What might some turtles bother and every bank ? <eos>
+Who and a lot of students should these cats disgust ? <eos>
+Who should these cats disgust and a lot of students ? <eos>
+Who and Julia has the customer known ? <eos>
+Who has the customer known and Julia ? <eos>
+What and every bank had Becky driven to ? <eos>
+What had Becky driven to and every bank ? <eos>
+Who and Kristen does Marla hire ? <eos>
+Who does Marla hire and Kristen ? <eos>
+What and every college campus had Sarah messed up ? <eos>
+What had Sarah messed up and every college campus ? <eos>
+Who and these children was Tammy irritating ? <eos>
+Who was Tammy irritating and these children ? <eos>
+Who and Melissa would Anna sound like ? <eos>
+Who would Anna sound like and Melissa ? <eos>
+Who and some student might Sandra insult ? <eos>
+Who might Sandra insult and some student ? <eos>
+What and a movie has that senator complained about ? <eos>
+What has that senator complained about and a movie ? <eos>
+Who and Julie is some essay bothering ? <eos>
+Who is some essay bothering and Julie ? <eos>
+Who and ladies had Todd complained about ? <eos>
+Who had Todd complained about and ladies ? <eos>
+What and the stairs did Matt ascend ? <eos>
+What did Matt ascend and the stairs ? <eos>
+What and some lake has Bruce arrived at ? <eos>
+What has Bruce arrived at and some lake ? <eos>
+Who and a customer has Michael hugged ? <eos>
+Who has Michael hugged and a customer ? <eos>
+What and these cafes had Lissa criticized ? <eos>
+What had Lissa criticized and these cafes ? <eos>
+Who and Diane is Keith talking to ? <eos>
+Who is Keith talking to and Diane ? <eos>
+What and some documentaries can Nina scan ? <eos>
+What can Nina scan and some documentaries ? <eos>
+What and that company is the couch shocking ? <eos>
+What is the couch shocking and that company ? <eos>
+Who and Theodore has Alan fired ? <eos>
+Who has Alan fired and Theodore ? <eos>
+Who and the girls have most mountains hurt ? <eos>
+Who have most mountains hurt and the girls ? <eos>
+Who and Sandra will every hospital scare ? <eos>
+Who will every hospital scare and Sandra ? <eos>
+Who and Anne does Lissa respect ? <eos>
+Who does Lissa respect and Anne ? <eos>
+Who and Beverly has Paul bored ? <eos>
+Who has Paul bored and Beverly ? <eos>
+What and some sketches is Susan selling ? <eos>
+What is Susan selling and some sketches ? <eos>
+What and every high school is Claire messing up ? <eos>
+What is Claire messing up and every high school ? <eos>
+What and that slope has Alice descended ? <eos>
+What has Alice descended and that slope ? <eos>
+Who and Alan is Claire scaring ? <eos>
+Who is Claire scaring and Alan ? <eos>
+What and that bank have customers insulted ? <eos>
+What have customers insulted and that bank ? <eos>
+What and some steps was Gina climbing up ? <eos>
+What was Gina climbing up and some steps ? <eos>
+Who and Craig should Katherine talk to ? <eos>
+Who should Katherine talk to and Craig ? <eos>
+Who and Cindy has the waitress aggravated ? <eos>
+Who has the waitress aggravated and Cindy ? <eos>
+Who and Martha will most ladies praise ? <eos>
+Who will most ladies praise and Martha ? <eos>
+Who and Ellen had Samantha hired ? <eos>
+Who had Samantha hired and Ellen ? <eos>
+What and every closet could adults buy ? <eos>
+What could adults buy and every closet ? <eos>
+Who and some waitresses might Melinda observe ? <eos>
+Who might Melinda observe and some waitresses ? <eos>
+Who and many waiters does Diana criticize ? <eos>
+Who does Diana criticize and many waiters ? <eos>
+Who and Wendy could Homer escape from ? <eos>
+Who could Homer escape from and Wendy ? <eos>
+What and all windows has Karla cleaned ? <eos>
+What has Karla cleaned and all windows ? <eos>
+Who and Brad was Barbara observing ? <eos>
+Who was Barbara observing and Brad ? <eos>
+Who and Alicia could Scott like ? <eos>
+Who could Scott like and Alicia ? <eos>
+Who and Teresa will a commentary aggravate ? <eos>
+Who will a commentary aggravate and Teresa ? <eos>
+What and that hat had Kirsten worn ? <eos>
+What had Kirsten worn and that hat ? <eos>
+Who and Adam did Jacqueline watch ? <eos>
+Who did Jacqueline watch and Adam ? <eos>
+Who and Benjamin are the stories insulting ? <eos>
+Who are the stories insulting and Benjamin ? <eos>
+What and that library is George passing ? <eos>
+What is George passing and that library ? <eos>
+What and every hill might Gina climb down ? <eos>
+What might Gina climb down and every hill ? <eos>
+What and every library has Stephen exited ? <eos>
+What has Stephen exited and every library ? <eos>
+Who and these senators do most glasses hurt ? <eos>
+Who do most glasses hurt and these senators ? <eos>
+Who and Candice was Christina working with ? <eos>
+Who was Christina working with and Candice ? <eos>
+Who and Christopher was Tamara listening to ? <eos>
+Who was Tamara listening to and Christopher ? <eos>
+Who and Alice had this photograph looked like ? <eos>
+Who had this photograph looked like and Alice ? <eos>
+Who and Jodi is Allison finding ? <eos>
+Who is Allison finding and Jodi ? <eos>
+What and glasses is Theodore breaking ? <eos>
+What is Theodore breaking and glasses ? <eos>
+Who and Alice had Caroline disliked ? <eos>
+Who had Caroline disliked and Alice ? <eos>
+Who and David was a hospital bothering ? <eos>
+Who was a hospital bothering and David ? <eos>
+What and the documentaries was Amelia examining ? <eos>
+What was Amelia examining and the documentaries ? <eos>
+Who and Sheila is this spinach shocking ? <eos>
+Who is this spinach shocking and Sheila ? <eos>
+Who and Nicole might Roger astound ? <eos>
+Who might Roger astound and Nicole ? <eos>
+Who and Cindy had these pictures looked like ? <eos>
+Who had these pictures looked like and Cindy ? <eos>
+Who and customers does Lucille fire ? <eos>
+Who does Lucille fire and customers ? <eos>
+Who and Tonya will Lissa discuss ? <eos>
+Who will Lissa discuss and Tonya ? <eos>
+What and all pants was Barbara finding ? <eos>
+What was Barbara finding and all pants ? <eos>
+Who and a woman is a waiter escaping from ? <eos>
+Who is a waiter escaping from and a woman ? <eos>
+What and a sketch can Sarah resemble ? <eos>
+What can Sarah resemble and a sketch ? <eos>
+Who and many pedestrians has William helped ? <eos>
+Who has William helped and many pedestrians ? <eos>
+What and all sketches is Rachel admiring ? <eos>
+What is Rachel admiring and all sketches ? <eos>
+What and every mirror is Anne fixing ? <eos>
+What is Anne fixing and every mirror ? <eos>
+Who and these dancers was Patrick fleeing from ? <eos>
+Who was Patrick fleeing from and these dancers ? <eos>
+What and that hill does that actress buy ? <eos>
+What does that actress buy and that hill ? <eos>
+What and all cafes had Brian driven to ? <eos>
+What had Brian driven to and all cafes ? <eos>
+Who and Lisa could Christopher conceal ? <eos>
+Who could Christopher conceal and Lisa ? <eos>
+What and the museum is Samantha walking through ? <eos>
+What is Samantha walking through and the museum ? <eos>
+What and most shoes has Caroline worn ? <eos>
+What has Caroline worn and most shoes ? <eos>
+Who and Paul might the ladies bother ? <eos>
+Who might the ladies bother and Paul ? <eos>
+Who and Kristen might Gregory bother ? <eos>
+Who might Gregory bother and Kristen ? <eos>
+What and glasses were many people cleaning ? <eos>
+What were many people cleaning and glasses ? <eos>
+Who and Allison will Kevin know ? <eos>
+Who will Kevin know and Allison ? <eos>
+What and ladders was Claire descending ? <eos>
+What was Claire descending and ladders ? <eos>
+Who and Aaron had Naomi left ? <eos>
+Who had Naomi left and Aaron ? <eos>
+Who and Sheila is Laurie escaping from ? <eos>
+Who is Laurie escaping from and Sheila ? <eos>
+Who and Tina might Monica bore ? <eos>
+Who might Monica bore and Tina ? <eos>
+What and many newspaper articles has Carrie scanned ? <eos>
+What has Carrie scanned and many newspaper articles ? <eos>
+What and the mountain will Ann descend ? <eos>
+What will Ann descend and the mountain ? <eos>
+Who and Ellen has Danielle talked to ? <eos>
+Who has Danielle talked to and Ellen ? <eos>
+Who and Alan has the driver boasted about ? <eos>
+Who has the driver boasted about and Alan ? <eos>
+What and most movies is Gary scanning ? <eos>
+What is Gary scanning and most movies ? <eos>
+What and the book is Alice cleaning ? <eos>
+What is Alice cleaning and the book ? <eos>
+What and that high school had Vincent exited ? <eos>
+What had Vincent exited and that high school ? <eos>
+What and all schools will Christine go to ? <eos>
+What will Christine go to and all schools ? <eos>
+Who and Clyde should every movie theater distract ? <eos>
+Who should every movie theater distract and Clyde ? <eos>
+Who and Lawrence would Sandra work with ? <eos>
+Who would Sandra work with and Lawrence ? <eos>
+Who and Andrew has Brad cured ? <eos>
+Who has Brad cured and Andrew ? <eos>
+Who and Kristen had Anne astounded ? <eos>
+Who had Anne astounded and Kristen ? <eos>
+Who and Timothy had Russell loved ? <eos>
+Who had Russell loved and Timothy ? <eos>
+Who and Nancy had Derek respected ? <eos>
+Who had Derek respected and Nancy ? <eos>
+Who and Margaret has Erin watched ? <eos>
+Who has Erin watched and Margaret ? <eos>
+Who and some guys will Amanda talk about ? <eos>
+Who will Amanda talk about and some guys ? <eos>
+What and every company might Samantha boycott ? <eos>
+What might Samantha boycott and every company ? <eos>
+Who and Samuel was Alan alarming ? <eos>
+Who was Alan alarming and Samuel ? <eos>
+What and the plays is Mark arguing about ? <eos>
+What is Mark arguing about and the plays ? <eos>
+What and that ladder might Rachel climb down ? <eos>
+What might Rachel climb down and that ladder ? <eos>
+Who and Julie is Deborah scaring ? <eos>
+Who is Deborah scaring and Julie ? <eos>
+What and some school did Carol skate around ? <eos>
+What did Carol skate around and some school ? <eos>
+Who and Helen have most boys disliked ? <eos>
+Who have most boys disliked and Helen ? <eos>
+What and this museum did Joseph pass ? <eos>
+What did Joseph pass and this museum ? <eos>
+Who and Christine was Rodney fleeing from ? <eos>
+Who was Rodney fleeing from and Christine ? <eos>
+What and a lot of shoes had Adam worn ? <eos>
+What had Adam worn and a lot of shoes ? <eos>
+Who and Florence has Marla admired ? <eos>
+Who has Marla admired and Florence ? <eos>
+What and every fish did Russell cure ? <eos>
+What did Russell cure and every fish ? <eos>
+What and these movie theaters would Edward tour ? <eos>
+What would Edward tour and these movie theaters ? <eos>
+What and all banks was Ronald arriving at ? <eos>
+What was Ronald arriving at and all banks ? <eos>
+What and every mountain had every teacher cleaned ? <eos>
+What had every teacher cleaned and every mountain ? <eos>
+What and a lot of bicycles has Deanna broken ? <eos>
+What has Deanna broken and a lot of bicycles ? <eos>
+Who and Christina have women cared for ? <eos>
+Who have women cared for and Christina ? <eos>
+What and that mall did Alice explore ? <eos>
+What did Alice explore and that mall ? <eos>
+Who and Clyde has Debra investigated ? <eos>
+Who has Debra investigated and Clyde ? <eos>
+Who and Vanessa is that book talking about ? <eos>
+Who is that book talking about and Vanessa ? <eos>
+Who and Amanda are all waiters talking about ? <eos>
+Who are all waiters talking about and Amanda ? <eos>
+Who and Elizabeth could Michelle escape from ? <eos>
+Who could Michelle escape from and Elizabeth ? <eos>
+What and some computers will Alice bring ? <eos>
+What will Alice bring and some computers ? <eos>
+Who and Anne has Alice attacked ? <eos>
+Who has Alice attacked and Anne ? <eos>
+What and a plate did Jerry break ? <eos>
+What did Jerry break and a plate ? <eos>
+What and many photographs does Amelia resemble ? <eos>
+What does Amelia resemble and many photographs ? <eos>
+Who and Heather is Karla returning to ? <eos>
+Who is Karla returning to and Heather ? <eos>
+Who and a teacher has Carolyn known ? <eos>
+Who has Carolyn known and a teacher ? <eos>
+Who and Omar had Janice loved ? <eos>
+Who had Janice loved and Omar ? <eos>
+Who and Larry would Leslie complain about ? <eos>
+Who would Leslie complain about and Larry ? <eos>
+Who and Roger was Carmen aggravating ? <eos>
+Who was Carmen aggravating and Roger ? <eos>
+What and some museum has the mountain confused ? <eos>
+What has the mountain confused and some museum ? <eos>
+What and many windows had Candice concealed ? <eos>
+What had Candice concealed and many windows ? <eos>
+Who and Lissa did Julia distract ? <eos>
+Who did Julia distract and Lissa ? <eos>
+What and the book had Suzanne lifted ? <eos>
+What had Suzanne lifted and the book ? <eos>
+What and every slope is Christina taking ? <eos>
+What is Christina taking and every slope ? <eos>
+What and many hills will Erin bring ? <eos>
+What will Erin bring and many hills ? <eos>
+What and a newspaper article had Brad sold ? <eos>
+What had Brad sold and a newspaper article ? <eos>
+What and most dishes had a dancer messed up ? <eos>
+What had a dancer messed up and most dishes ? <eos>
+Who and an adult does Jill praise ? <eos>
+Who does Jill praise and an adult ? <eos>
+What and a lot of screens is this man fixing ? <eos>
+What is this man fixing and a lot of screens ? <eos>
+Who and Florence can some print impress ? <eos>
+Who can some print impress and Florence ? <eos>
+Who and girls did Mary talk to ? <eos>
+Who did Mary talk to and girls ? <eos>
+Who and Sheila has Wayne kissed ? <eos>
+Who has Wayne kissed and Sheila ? <eos>
+Who and Jessica had Marcus referenced ? <eos>
+Who had Marcus referenced and Jessica ? <eos>
+Who and Daniel has Todd admired ? <eos>
+Who has Todd admired and Daniel ? <eos>
+What and many steps were the students ascending ? <eos>
+What were the students ascending and many steps ? <eos>
+Who and Douglas were all eyes disgusting ? <eos>
+Who were all eyes disgusting and Douglas ? <eos>
+What and a lot of libraries has Charles disturbed ? <eos>
+What has Charles disturbed and a lot of libraries ? <eos>
+Who and Donna is Monica kissing ? <eos>
+Who is Monica kissing and Donna ? <eos>
+Who and these boys is Valerie observing ? <eos>
+Who is Valerie observing and these boys ? <eos>
+Who and Clyde had every woman watched ? <eos>
+Who had every woman watched and Clyde ? <eos>
+What and most snakes should all dancers lift ? <eos>
+What should all dancers lift and most snakes ? <eos>
+What and all hills has Michelle climbed up ? <eos>
+What has Michelle climbed up and all hills ? <eos>
+What and this skirt did Steven clean ? <eos>
+What did Steven clean and this skirt ? <eos>
+Who and Heidi had every waitress criticized ? <eos>
+Who had every waitress criticized and Heidi ? <eos>
+What and that report has Candice lifted ? <eos>
+What has Candice lifted and that report ? <eos>
+What and all museums was Anne messing up ? <eos>
+What was Anne messing up and all museums ? <eos>
+Who and the senator had a photograph looked like ? <eos>
+Who had a photograph looked like and the senator ? <eos>
+What and some high schools has Marie ran around ? <eos>
+What has Marie ran around and some high schools ? <eos>
+What and this college campus was Maria cleaning ? <eos>
+What was Maria cleaning and this college campus ? <eos>
+Who and Kenneth can these organizations remember ? <eos>
+Who can these organizations remember and Kenneth ? <eos>
+Who and the cashiers could Alan visit ? <eos>
+Who could Alan visit and the cashiers ? <eos>
+Who and Dawn was Pamela healing ? <eos>
+Who was Pamela healing and Dawn ? <eos>
+Who and Stacy did Brad conceal ? <eos>
+Who did Brad conceal and Stacy ? <eos>
+What and every plate would the children bring ? <eos>
+What would the children bring and every plate ? <eos>
+What and many cars has Noah broken ? <eos>
+What has Noah broken and many cars ? <eos>
+What and that hill will Nina ascend ? <eos>
+What will Nina ascend and that hill ? <eos>
+What and many museums is Charles skated around ? <eos>
+What is Charles skated around and many museums ? <eos>
+Who and William could every horse shock ? <eos>
+Who could every horse shock and William ? <eos>
+Who and that guest had Theodore discussed ? <eos>
+Who had Theodore discussed and that guest ? <eos>
+Who and Thomas would Karen respect ? <eos>
+Who would Karen respect and Thomas ? <eos>
+Who and Daniel have all guys watched ? <eos>
+Who have all guys watched and Daniel ? <eos>
+Who and Jerry has the customer hidden ? <eos>
+Who has the customer hidden and Jerry ? <eos>
+Who and this teacher can Colleen discuss ? <eos>
+Who can Colleen discuss and this teacher ? <eos>
+What and this painting is Paul looking like ? <eos>
+What is Paul looking like and this painting ? <eos>
+What and every closet could Kirsten arrive at ? <eos>
+What could Kirsten arrive at and every closet ? <eos>
+Who and many patients is Caroline watching ? <eos>
+Who is Caroline watching and many patients ? <eos>
+Who and Raymond was Adam leaving ? <eos>
+Who was Adam leaving and Raymond ? <eos>
+What and every mountain did Beth climb down ? <eos>
+What did Beth climb down and every mountain ? <eos>
+What and every public park had Karla exited ? <eos>
+What had Karla exited and every public park ? <eos>
+What and the mouth was Beth bringing ? <eos>
+What was Beth bringing and the mouth ? <eos>
+Who and Martha is Carol bothering ? <eos>
+Who is Carol bothering and Martha ? <eos>
+Who and this man are some waitresses investigating ? <eos>
+Who are some waitresses investigating and this man ? <eos>
+What and some schools has Daniel scared ? <eos>
+What has Daniel scared and some schools ? <eos>
+What and many mountains had Amelia ascended ? <eos>
+What had Amelia ascended and many mountains ? <eos>
+Who and Joseph were all women disagreeing with ? <eos>
+Who were all women disagreeing with and Joseph ? <eos>
+What and many glaciers should Steve go to ? <eos>
+What should Steve go to and many glaciers ? <eos>
+Who and some people has Michelle cured ? <eos>
+Who has Michelle cured and some people ? <eos>
+What and the mountain has Tara driven to ? <eos>
+What has Tara driven to and the mountain ? <eos>
+Who and Jennifer could Dawn bother ? <eos>
+Who could Dawn bother and Jennifer ? <eos>
+Who and Heather could Noah praise ? <eos>
+Who could Noah praise and Heather ? <eos>
+What and this story would Melanie scan ? <eos>
+What would Melanie scan and this story ? <eos>
+Who and Jane is Carl arguing about ? <eos>
+Who is Carl arguing about and Jane ? <eos>
+What and many gloves had many cashiers worn ? <eos>
+What had many cashiers worn and many gloves ? <eos>
+Who and the driver could Cindy criticize ? <eos>
+Who could Cindy criticize and the driver ? <eos>
+Who and Connie might Lawrence describe ? <eos>
+Who might Lawrence describe and Connie ? <eos>
+What and the dress were all photographs looking like ? <eos>
+What were all photographs looking like and the dress ? <eos>
+Who and Todd has Theresa attacked ? <eos>
+Who has Theresa attacked and Todd ? <eos>
+What and some glass was a child lifting ? <eos>
+What was a child lifting and some glass ? <eos>
+What and some pictures will Matt resemble ? <eos>
+What will Matt resemble and some pictures ? <eos>
+Who and that actress had this horse alarmed ? <eos>
+Who had this horse alarmed and that actress ? <eos>
+Who and all teachers has Steve disturbed ? <eos>
+Who has Steve disturbed and all teachers ? <eos>
+Who and Judy had Vanessa talked to ? <eos>
+Who had Vanessa talked to and Judy ? <eos>
+Who and every waiter has Naomi escaped from ? <eos>
+Who has Naomi escaped from and every waiter ? <eos>
+Who and Melanie has Carrie kissed ? <eos>
+Who has Carrie kissed and Melanie ? <eos>
+Who and Curtis does Charles like ? <eos>
+Who does Charles like and Curtis ? <eos>
+What and some art gallery is Julie touring ? <eos>
+What is Julie touring and some art gallery ? <eos>
+Who and Lisa does Diane describe ? <eos>
+Who does Diane describe and Lisa ? <eos>
+What and every ladder has the fish climbed up ? <eos>
+What has the fish climbed up and every ladder ? <eos>
+What and some ladders might Sarah see ? <eos>
+What might Sarah see and some ladders ? <eos>
+What and a hamster is Guy taking ? <eos>
+What is Guy taking and a hamster ? <eos>
+Who and Kimberley have all patients disagreed with ? <eos>
+Who have all patients disagreed with and Kimberley ? <eos>
+Who and Bethany has Heather scared ? <eos>
+Who has Heather scared and Bethany ? <eos>
+Who and Carol is Brad hurting ? <eos>
+Who is Brad hurting and Carol ? <eos>
+Who and Renee was Elaine hiding ? <eos>
+Who was Elaine hiding and Renee ? <eos>
+Who and Carmen had Christina upset ? <eos>
+Who had Christina upset and Carmen ? <eos>
+What and this play had Cynthia complained about ? <eos>
+What had Cynthia complained about and this play ? <eos>
+What and these prints was Theodore hiding ? <eos>
+What was Theodore hiding and these prints ? <eos>
+What and this sketch has Liam resembled ? <eos>
+What has Liam resembled and this sketch ? <eos>
+Who and Scott is every print looking like ? <eos>
+Who is every print looking like and Scott ? <eos>
+Who and Alan was Stephanie working with ? <eos>
+Who was Stephanie working with and Alan ? <eos>
+Who and many ladies would Amelia kiss ? <eos>
+Who would Amelia kiss and many ladies ? <eos>
+Who and Daniel has Stephen confused ? <eos>
+Who has Stephen confused and Daniel ? <eos>
+What and a couch can Sonia fix ? <eos>
+What can Sonia fix and a couch ? <eos>
+What and restaurants had Rodney toured ? <eos>
+What had Rodney toured and restaurants ? <eos>
+Who and Monica did Donald observe ? <eos>
+Who did Donald observe and Monica ? <eos>
+What and the association could David confuse ? <eos>
+What could David confuse and the association ? <eos>
+What and that rug has Cynthia messed up ? <eos>
+What has Cynthia messed up and that rug ? <eos>
+What and most books did Thomas lift ? <eos>
+What did Thomas lift and most books ? <eos>
+Who and Daniel should Dana astound ? <eos>
+Who should Dana astound and Daniel ? <eos>
+Who and Carlos had Grace escaped from ? <eos>
+Who had Grace escaped from and Carlos ? <eos>
+What and a dress has Dan worn ? <eos>
+What has Dan worn and a dress ? <eos>
+Who and Cynthia has Beth returned to ? <eos>
+Who has Beth returned to and Cynthia ? <eos>
+What and most art galleries is Danielle going to ? <eos>
+What is Danielle going to and most art galleries ? <eos>
+What and the lakes has Stacy biked to ? <eos>
+What has Stacy biked to and the lakes ? <eos>
+Who and Valerie was Jennifer complaining about ? <eos>
+Who was Jennifer complaining about and Valerie ? <eos>
+Who and Andrew should Christopher criticize ? <eos>
+Who should Christopher criticize and Andrew ? <eos>
+Who and most ladies can Walter work with ? <eos>
+Who can Walter work with and most ladies ? <eos>
+Who and Caroline might Leslie disturb ? <eos>
+Who might Leslie disturb and Caroline ? <eos>
+Who and George had Becca listened to ? <eos>
+Who had Becca listened to and George ? <eos>
+Who and Pamela have actresses complained about ? <eos>
+Who have actresses complained about and Pamela ? <eos>
+What and some closet could Claire exit ? <eos>
+What could Claire exit and some closet ? <eos>
+What and this ladder had a lot of senators climbed up ? <eos>
+What had a lot of senators climbed up and this ladder ? <eos>
+Who and Tara had Carrie concealed ? <eos>
+Who had Carrie concealed and Tara ? <eos>
+What and this couch can Sara have ? <eos>
+What can Sara have and this couch ? <eos>
+Who and that girl were many grocery stores irritating ? <eos>
+Who were many grocery stores irritating and that girl ? <eos>
+What and a print is every sketch looking like ? <eos>
+What is every sketch looking like and a print ? <eos>
+Who and Rebecca should Paul respect ? <eos>
+Who should Paul respect and Rebecca ? <eos>
+What and a lot of gates was every library taking ? <eos>
+What was every library taking and a lot of gates ? <eos>
+Who and Jane would Barbara watch ? <eos>
+Who would Barbara watch and Jane ? <eos>
+Who and every cashier has Eva visited ? <eos>
+Who has Eva visited and every cashier ? <eos>
+Who and Amy has Janice referenced ? <eos>
+Who has Janice referenced and Amy ? <eos>
+Who and Julia could Amy watch ? <eos>
+Who could Amy watch and Julia ? <eos>
+Who and Aaron had all rivers scared ? <eos>
+Who had all rivers scared and Aaron ? <eos>
+Who and that driver was Randolf finding ? <eos>
+Who was Randolf finding and that driver ? <eos>
+What and some mountains has Diane visited ? <eos>
+What has Diane visited and some mountains ? <eos>
+Who and the driver were these chairs embarrassing ? <eos>
+Who were these chairs embarrassing and the driver ? <eos>
+What and many movie theaters has Linda exited ? <eos>
+What has Linda exited and many movie theaters ? <eos>
+Who and Holly has Anne remembered ? <eos>
+Who has Anne remembered and Holly ? <eos>
+Who and Walter was Steven talking to ? <eos>
+Who was Steven talking to and Walter ? <eos>
+Who and actresses is this play criticizing ? <eos>
+Who is this play criticizing and actresses ? <eos>
+Who and Grace had that child helped ? <eos>
+Who had that child helped and Grace ? <eos>
+Who and Colleen might Heather help ? <eos>
+Who might Heather help and Colleen ? <eos>
+What and a lot of cafes should Cheryl exit ? <eos>
+What should Cheryl exit and a lot of cafes ? <eos>
+What and this lake was Liam exploring ? <eos>
+What was Liam exploring and this lake ? <eos>
+Who and Nina is Tiffany curing ? <eos>
+Who is Tiffany curing and Nina ? <eos>
+Who and Heidi had Chad approached ? <eos>
+Who had Chad approached and Heidi ? <eos>
+Who and Carl was some ice cream embarrassing ? <eos>
+Who was some ice cream embarrassing and Carl ? <eos>
+Who and Theresa does Anna love ? <eos>
+Who does Anna love and Theresa ? <eos>
+Who and Becca can Kayla criticize ? <eos>
+Who can Kayla criticize and Becca ? <eos>
+Who and Homer can some committees conceal ? <eos>
+Who can some committees conceal and Homer ? <eos>
+Who and Deanna was Heather praising ? <eos>
+Who was Heather praising and Deanna ? <eos>
+What and many malls was Suzanne exiting ? <eos>
+What was Suzanne exiting and many malls ? <eos>
+What and many mirrors was Bradley bringing ? <eos>
+What was Bradley bringing and many mirrors ? <eos>
+What and every hospital did Carl run around ? <eos>
+What did Carl run around and every hospital ? <eos>
+What and a lot of couches should Samuel break ? <eos>
+What should Samuel break and a lot of couches ? <eos>
+What and every book has Theresa bought ? <eos>
+What has Theresa bought and every book ? <eos>
+Who and the customers could Margaret approach ? <eos>
+Who could Margaret approach and the customers ? <eos>
+What and some closets has Becky admired ? <eos>
+What has Becky admired and some closets ? <eos>
+Who and Douglas is Charles hiring ? <eos>
+Who is Charles hiring and Douglas ? <eos>
+Who and Joseph was Chad discussing ? <eos>
+Who was Chad discussing and Joseph ? <eos>
+Who and Jeffrey had some organization disgusted ? <eos>
+Who had some organization disgusted and Jeffrey ? <eos>
+What and mountains has Florence walked through ? <eos>
+What has Florence walked through and mountains ? <eos>
+What and all paintings were most chairs looking like ? <eos>
+What were most chairs looking like and all paintings ? <eos>
+Who and Rebecca would Becca investigate ? <eos>
+Who would Becca investigate and Rebecca ? <eos>
+Who and patients did Edward see ? <eos>
+Who did Edward see and patients ? <eos>
+Who and Amelia does Suzanne approach ? <eos>
+Who does Suzanne approach and Amelia ? <eos>
+Who and Tammy had Dana talked about ? <eos>
+Who had Dana talked about and Tammy ? <eos>
+Who and Anna had every boy disgusted ? <eos>
+Who had every boy disgusted and Anna ? <eos>
+Who and Teresa has Ronald concealed ? <eos>
+Who has Ronald concealed and Teresa ? <eos>
+Who and Russell had every lady fired ? <eos>
+Who had every lady fired and Russell ? <eos>
+Who and Omar could Leslie watch ? <eos>
+Who could Leslie watch and Omar ? <eos>
+What and a high school has Leslie biked to ? <eos>
+What has Leslie biked to and a high school ? <eos>
+Who and Gregory might Steve upset ? <eos>
+Who might Steve upset and Gregory ? <eos>
+What and that cafe has Sarah fled from ? <eos>
+What has Sarah fled from and that cafe ? <eos>
+Who and Allison could an adult cure ? <eos>
+Who could an adult cure and Allison ? <eos>
+Who and Dennis has Nancy helped ? <eos>
+Who has Nancy helped and Dennis ? <eos>
+Who and Ellen has Kirsten hated ? <eos>
+Who has Kirsten hated and Ellen ? <eos>
+Who and Alicia is every actor worrying ? <eos>
+Who is every actor worrying and Alicia ? <eos>
+Who and Kimberley had Alexander respected ? <eos>
+Who had Alexander respected and Kimberley ? <eos>
+Who and a guy is Kendra revealing ? <eos>
+Who is Kendra revealing and a guy ? <eos>
+Who and a lot of students could every mountain bore ? <eos>
+Who could every mountain bore and a lot of students ? <eos>
+Who and Andrea had most paintings scared ? <eos>
+Who had most paintings scared and Andrea ? <eos>
+What and these banks would Bethany skate around ? <eos>
+What would Bethany skate around and these banks ? <eos>
+Who and Charles had Angela hated ? <eos>
+Who had Angela hated and Charles ? <eos>
+Who and Nicole had Tamara criticized ? <eos>
+Who had Tamara criticized and Nicole ? <eos>
+Who and Becca had Stephen forgotten ? <eos>
+Who had Stephen forgotten and Becca ? <eos>
+Who and Clyde had Randolf aggravated ? <eos>
+Who had Randolf aggravated and Clyde ? <eos>
+Who and Phillip was Kenneth talking to ? <eos>
+Who was Kenneth talking to and Phillip ? <eos>
+What and that hill should Janet climb up ? <eos>
+What should Janet climb up and that hill ? <eos>
+What and a lot of books was some picture looking like ? <eos>
+What was some picture looking like and a lot of books ? <eos>
+Who and Tanya might Todd distract ? <eos>
+Who might Todd distract and Tanya ? <eos>
+What and this school is Mark driving to ? <eos>
+What is Mark driving to and this school ? <eos>
+Who and Connie are these guys escaping from ? <eos>
+Who are these guys escaping from and Connie ? <eos>
+What and many windows would Nicole bring ? <eos>
+What would Nicole bring and many windows ? <eos>
+What and every drawing has Jane looked like ? <eos>
+What has Jane looked like and every drawing ? <eos>
+Who and Jennifer might some plates bore ? <eos>
+Who might some plates bore and Jennifer ? <eos>
+What and all high schools is Laura driving to ? <eos>
+What is Laura driving to and all high schools ? <eos>
+Who and this child was Dennis talking about ? <eos>
+Who was Dennis talking about and this child ? <eos>
+Who and Amanda has Tara revealed ? <eos>
+Who has Tara revealed and Amanda ? <eos>
+What and some public park were all teachers dropping by ? <eos>
+What were all teachers dropping by and some public park ? <eos>
+What and a shirt has Curtis worn ? <eos>
+What has Curtis worn and a shirt ? <eos>
+Who and Walter has Tina complained about ? <eos>
+Who has Tina complained about and Walter ? <eos>
+Who and George has Wendy complained about ? <eos>
+Who has Wendy complained about and George ? <eos>
+Who and Clyde can Walter embarrass ? <eos>
+Who can Walter embarrass and Clyde ? <eos>
+Who and Derek had many companies worried ? <eos>
+Who had many companies worried and Derek ? <eos>
+What and some newspaper articles is Caroline bringing ? <eos>
+What is Caroline bringing and some newspaper articles ? <eos>
+What and a skirt has Michael bought ? <eos>
+What has Michael bought and a skirt ? <eos>
+Who and Carol can the museum distract ? <eos>
+Who can the museum distract and Carol ? <eos>
+What and some high schools should Nina arrive at ? <eos>
+What should Nina arrive at and some high schools ? <eos>
+Who and Pamela is Pamela observing ? <eos>
+Who is Pamela observing and Pamela ? <eos>
+Who and Eva has Andrew returned to ? <eos>
+Who has Andrew returned to and Eva ? <eos>
+What and the high school could these girls run around ? <eos>
+What could these girls run around and the high school ? <eos>
+What and many stairs can Anne lift ? <eos>
+What can Anne lift and many stairs ? <eos>
+Who and Julie will Marla investigate ? <eos>
+Who will Marla investigate and Julie ? <eos>
+Who and Tamara is Katherine hurting ? <eos>
+Who is Katherine hurting and Tamara ? <eos>
+What and some mountain had Alan descended ? <eos>
+What had Alan descended and some mountain ? <eos>
+Who and Sara was Patrick watching ? <eos>
+Who was Patrick watching and Sara ? <eos>
+What and stairs has Paula descended ? <eos>
+What has Paula descended and stairs ? <eos>
+What and these commentaries will Rachelle examine ? <eos>
+What will Rachelle examine and these commentaries ? <eos>
+Who and the woman will Rhonda distract ? <eos>
+Who will Rhonda distract and the woman ? <eos>
+Who and Ruth will Kristen complain about ? <eos>
+Who will Kristen complain about and Ruth ? <eos>
+Who and Vanessa has Valerie approached ? <eos>
+Who has Valerie approached and Vanessa ? <eos>
+Who and these drivers does Nancy work with ? <eos>
+Who does Nancy work with and these drivers ? <eos>
+Who and Clyde are these glasses scaring ? <eos>
+Who are these glasses scaring and Clyde ? <eos>
+Who and Keith had Gerald watched ? <eos>
+Who had Gerald watched and Keith ? <eos>
+What and the movie theaters had the waiter walked through ? <eos>
+What had the waiter walked through and the movie theaters ? <eos>
+Who and Ruth had a lot of teachers disagreed with ? <eos>
+Who had a lot of teachers disagreed with and Ruth ? <eos>
+What and every company have many girls distracted ? <eos>
+What have many girls distracted and every company ? <eos>
+What and every tomato could Diana see ? <eos>
+What could Diana see and every tomato ? <eos>
+What and some schools might Adam tour ? <eos>
+What might Adam tour and some schools ? <eos>
+Who and Matt has Heather remembered ? <eos>
+Who has Heather remembered and Matt ? <eos>
+What and some stairs has Todd descended ? <eos>
+What has Todd descended and some stairs ? <eos>
+Who and the cashiers did some man argue about ? <eos>
+Who did some man argue about and the cashiers ? <eos>
+Who and the teachers has Florence healed ? <eos>
+Who has Florence healed and the teachers ? <eos>
+Who and Larry has Holly fired ? <eos>
+Who has Holly fired and Larry ? <eos>
+Who and Elizabeth will Sabrina find ? <eos>
+Who will Sabrina find and Elizabeth ? <eos>
+Who and Caroline can the drivers hurt ? <eos>
+Who can the drivers hurt and Caroline ? <eos>
+What and most movies could Tiffany examine ? <eos>
+What could Tiffany examine and most movies ? <eos>
+Who and Jerry did this painting look like ? <eos>
+Who did this painting look like and Jerry ? <eos>
+What and glasses had Ann worn ? <eos>
+What had Ann worn and glasses ? <eos>
+Who and Renee is Sandra helping ? <eos>
+Who is Sandra helping and Renee ? <eos>
+Who and some ladies is every school scaring ? <eos>
+Who is every school scaring and some ladies ? <eos>
+What and some documentary was Brett arguing about ? <eos>
+What was Brett arguing about and some documentary ? <eos>
+Who and Lori has Jeffrey left ? <eos>
+Who has Jeffrey left and Lori ? <eos>
+Who and Kirsten has Peter attacked ? <eos>
+Who has Peter attacked and Kirsten ? <eos>
+What and every glass is Jason fixing ? <eos>
+What is Jason fixing and every glass ? <eos>
+What and the glasses was Roger wearing ? <eos>
+What was Roger wearing and the glasses ? <eos>
+Who and Natalie will Paula scare ? <eos>
+Who will Paula scare and Natalie ? <eos>
+Who and Rhonda is Frank talking about ? <eos>
+Who is Frank talking about and Rhonda ? <eos>
+What and some college campus had Martin toured ? <eos>
+What had Martin toured and some college campus ? <eos>
+Who and Brad is Karla arguing about ? <eos>
+Who is Karla arguing about and Brad ? <eos>
+What and a lot of libraries is Eva skated around ? <eos>
+What is Eva skated around and a lot of libraries ? <eos>
+Who and some adults would the student leave ? <eos>
+Who would the student leave and some adults ? <eos>
+Who and Sara had a university worked with ? <eos>
+Who had a university worked with and Sara ? <eos>
+What and some shirt were the schools buying ? <eos>
+What were the schools buying and some shirt ? <eos>
+What and a lot of eyes is David lifting ? <eos>
+What is David lifting and a lot of eyes ? <eos>
+Who and Stacey was Rose irritating ? <eos>
+Who was Rose irritating and Stacey ? <eos>
+Who and Connie can Judy hate ? <eos>
+Who can Judy hate and Connie ? <eos>
+Who and April has Connie seen ? <eos>
+Who has Connie seen and April ? <eos>
+Who and a lot of guys might Gary visit ? <eos>
+Who might Gary visit and a lot of guys ? <eos>
+Who and the customers is Carolyn boring ? <eos>
+Who is Carolyn boring and the customers ? <eos>
+Who and Theodore might Veronica hide ? <eos>
+Who might Veronica hide and Theodore ? <eos>
+Who and Bradley had some person found ? <eos>
+Who had some person found and Bradley ? <eos>
+Who and Grace was that pedestrian worrying ? <eos>
+Who was that pedestrian worrying and Grace ? <eos>
+Who and this pedestrian had Paula healed ? <eos>
+Who had Paula healed and this pedestrian ? <eos>
+Who and Jill had a lot of boxes scared ? <eos>
+Who had a lot of boxes scared and Jill ? <eos>
+Who and Erin was Carolyn praising ? <eos>
+Who was Carolyn praising and Erin ? <eos>
+Who and Natalie has every documentary alarmed ? <eos>
+Who has every documentary alarmed and Natalie ? <eos>
+Who and Renee are some legislatures hiring ? <eos>
+Who are some legislatures hiring and Renee ? <eos>
+Who and Kimberley had these commentaries confused ? <eos>
+Who had these commentaries confused and Kimberley ? <eos>
+What and this museum had Peter boycotted ? <eos>
+What had Peter boycotted and this museum ? <eos>
+Who and Tina had some lady visited ? <eos>
+Who had some lady visited and Tina ? <eos>
+What and that documentary was Tonya appreciating ? <eos>
+What was Tonya appreciating and that documentary ? <eos>
+Who and Erin was every actor returning to ? <eos>
+Who was every actor returning to and Erin ? <eos>
+What and some mountains will Gina ascend ? <eos>
+What will Gina ascend and some mountains ? <eos>
+What and the malls had Matt walked through ? <eos>
+What had Matt walked through and the malls ? <eos>
+What and all college campuses had Joel walked through ? <eos>
+What had Joel walked through and all college campuses ? <eos>
+Who and this doctor are documentaries insulting ? <eos>
+Who are documentaries insulting and this doctor ? <eos>
+What and many restaurants has Martin driven to ? <eos>
+What has Martin driven to and many restaurants ? <eos>
+Who and Christina will Sharon insult ? <eos>
+Who will Sharon insult and Christina ? <eos>
+Who and Kirsten was Gerald admiring ? <eos>
+Who was Gerald admiring and Kirsten ? <eos>
+What and most public parks should Russell escape from ? <eos>
+What should Russell escape from and most public parks ? <eos>
+What and some car can Matt take ? <eos>
+What can Matt take and some car ? <eos>
+What and most newspaper articles had Theodore praised ? <eos>
+What had Theodore praised and most newspaper articles ? <eos>
+What and many governments has this popsicle impressed ? <eos>
+What has this popsicle impressed and many governments ? <eos>
+What and some hospitals might Brenda boycott ? <eos>
+What might Brenda boycott and some hospitals ? <eos>
+Who and Elizabeth would Amelia irritate ? <eos>
+Who would Amelia irritate and Elizabeth ? <eos>
+Who and Paul will Marla describe ? <eos>
+Who will Marla describe and Paul ? <eos>
+Who and Naomi might Erin approach ? <eos>
+Who might Erin approach and Naomi ? <eos>
+Who and Paula has Regina referenced ? <eos>
+Who has Regina referenced and Paula ? <eos>
+Who and Bruce should the hat hurt ? <eos>
+Who should the hat hurt and Bruce ? <eos>
+Who and Rachel will every print look like ? <eos>
+Who will every print look like and Rachel ? <eos>
+Who and Alicia was Alice investigating ? <eos>
+Who was Alice investigating and Alicia ? <eos>
+What and rugs has Becky messed up ? <eos>
+What has Becky messed up and rugs ? <eos>
+What and that car is Michael lifting ? <eos>
+What is Michael lifting and that car ? <eos>
+Who and Gerald had Angela irritated ? <eos>
+Who had Angela irritated and Gerald ? <eos>
+Who and Phillip can a lot of glaciers aggravate ? <eos>
+Who can a lot of glaciers aggravate and Phillip ? <eos>
+Who and Heather did some lady complain about ? <eos>
+Who did some lady complain about and Heather ? <eos>
+What and every picture would Anne resemble ? <eos>
+What would Anne resemble and every picture ? <eos>
+Who and Carolyn has Matt praised ? <eos>
+Who has Matt praised and Carolyn ? <eos>
+What and the mountain had Tiffany talked about ? <eos>
+What had Tiffany talked about and the mountain ? <eos>
+Who and Vanessa had Kendra embarrassed ? <eos>
+Who had Kendra embarrassed and Vanessa ? <eos>
+What and a lot of commentaries did Becky examine ? <eos>
+What did Becky examine and a lot of commentaries ? <eos>
+Who and Becky had Elizabeth hired ? <eos>
+Who had Elizabeth hired and Becky ? <eos>
+What and every closet is Douglas touring ? <eos>
+What is Douglas touring and every closet ? <eos>
+Who and some people might Erin flee from ? <eos>
+Who might Erin flee from and some people ? <eos>
+Who and Todd has Daniel boasted about ? <eos>
+Who has Daniel boasted about and Todd ? <eos>
+Who and Tracy is Dawn helping ? <eos>
+Who is Dawn helping and Tracy ? <eos>
+Who and Tara is Tiffany hiring ? <eos>
+Who is Tiffany hiring and Tara ? <eos>
+Who and Tonya has Emily fired ? <eos>
+Who has Emily fired and Tonya ? <eos>
+Who and Guy had Bruce upset ? <eos>
+Who had Bruce upset and Guy ? <eos>
+Who and Sheila had Scott worked with ? <eos>
+Who had Scott worked with and Sheila ? <eos>
+Who and every teacher had some pedestrians argued about ? <eos>
+Who had some pedestrians argued about and every teacher ? <eos>
+What and most hills had many actors ascended ? <eos>
+What had many actors ascended and most hills ? <eos>
+What and some museum had ladies skated around ? <eos>
+What had ladies skated around and some museum ? <eos>
+What and the libraries were these art galleries disgusting ? <eos>
+What were these art galleries disgusting and the libraries ? <eos>
+Who and Dawn had some boy investigated ? <eos>
+Who had some boy investigated and Dawn ? <eos>
+Who and Chad has Marie investigated ? <eos>
+Who has Marie investigated and Chad ? <eos>
+What and this ladder was Carolyn descending ? <eos>
+What was Carolyn descending and this ladder ? <eos>
+Who and April should Alan conceal ? <eos>
+Who should Alan conceal and April ? <eos>
+Who and Caroline are these actresses hiding ? <eos>
+Who are these actresses hiding and Caroline ? <eos>
+What and every skirt had Vincent worn ? <eos>
+What had Vincent worn and every skirt ? <eos>
+Who and that boy should Elizabeth escape from ? <eos>
+Who should Elizabeth escape from and that boy ? <eos>
+Who and Wendy did Lucille conceal ? <eos>
+Who did Lucille conceal and Wendy ? <eos>
+What and many stairs had Matt taken ? <eos>
+What had Matt taken and many stairs ? <eos>
+Who and Amanda has the movie discussed ? <eos>
+Who has the movie discussed and Amanda ? <eos>
+Who and Craig would the dancers reveal ? <eos>
+Who would the dancers reveal and Craig ? <eos>
+What and every fish does Tammy take ? <eos>
+What does Tammy take and every fish ? <eos>
+What and most plates can Christina break ? <eos>
+What can Christina break and most plates ? <eos>
+Who and Jodi would some actresses respect ? <eos>
+Who would some actresses respect and Jodi ? <eos>
+What and the malls had Patrick ran around ? <eos>
+What had Patrick ran around and the malls ? <eos>
+What and every photograph did these cars resemble ? <eos>
+What did these cars resemble and every photograph ? <eos>
+What and many malls has Colleen explored ? <eos>
+What has Colleen explored and many malls ? <eos>
+Who and Sarah is Gerald appreciating ? <eos>
+Who is Gerald appreciating and Sarah ? <eos>
+Who and a lot of women should Jane escape from ? <eos>
+Who should Jane escape from and a lot of women ? <eos>
+What and every art gallery was Anna touring ? <eos>
+What was Anna touring and every art gallery ? <eos>
+What and some school was Roger exiting ? <eos>
+What was Roger exiting and some school ? <eos>
+Who and Linda is Kristen healing ? <eos>
+Who is Kristen healing and Linda ? <eos>
+Who and Bruce was Ella referencing ? <eos>
+Who was Ella referencing and Bruce ? <eos>
+What and the dress did Stephen wear ? <eos>
+What did Stephen wear and the dress ? <eos>
+What and this museum might Mark exit ? <eos>
+What might Mark exit and this museum ? <eos>
+What and some malls was Kirsten running around ? <eos>
+What was Kirsten running around and some malls ? <eos>
+What and that college campus was a guy messing up ? <eos>
+What was a guy messing up and that college campus ? <eos>
+What and this government was Eric stunning ? <eos>
+What was Eric stunning and this government ? <eos>
+Who and David was Omar helping ? <eos>
+Who was Omar helping and David ? <eos>
+What and this high school has Sara arrived at ? <eos>
+What has Sara arrived at and this high school ? <eos>
+What and some public park would Martin bike to ? <eos>
+What would Martin bike to and some public park ? <eos>
+What and the college campuses are a lot of doctors boycotting ? <eos>
+What are a lot of doctors boycotting and the college campuses ? <eos>
+Who and Andrea has Claire disturbed ? <eos>
+Who has Claire disturbed and Andrea ? <eos>
+Who and all women had Gregory hugged ? <eos>
+Who had Gregory hugged and all women ? <eos>
+What and the report was Carl cleaning ? <eos>
+What was Carl cleaning and the report ? <eos>
+Who and that doctor can every mountain disgust ? <eos>
+Who can every mountain disgust and that doctor ? <eos>
+Who and Raymond is every horse annoying ? <eos>
+Who is every horse annoying and Raymond ? <eos>
+Who and Brett had Stephen referenced ? <eos>
+Who had Stephen referenced and Brett ? <eos>
+Who and most pedestrians is Michael upsetting ? <eos>
+Who is Michael upsetting and most pedestrians ? <eos>
+Who and most actors has Edward escaped from ? <eos>
+Who has Edward escaped from and most actors ? <eos>
+Who and Amy has Kevin respected ? <eos>
+Who has Kevin respected and Amy ? <eos>
+Who and a teacher had Kenneth loved ? <eos>
+Who had Kenneth loved and a teacher ? <eos>
+Who and Guy should Jane praise ? <eos>
+Who should Jane praise and Guy ? <eos>
+Who and Patrick would Adam complain about ? <eos>
+Who would Adam complain about and Patrick ? <eos>
+Who and Travis will Noah stun ? <eos>
+Who will Noah stun and Travis ? <eos>
+Who and all men will Mark bore ? <eos>
+Who will Mark bore and all men ? <eos>
+Who and Jeffrey does Noah listen to ? <eos>
+Who does Noah listen to and Jeffrey ? <eos>
+What and most movies do banks dislike ? <eos>
+What do banks dislike and most movies ? <eos>
+What and some spinach had Holly sold ? <eos>
+What had Holly sold and some spinach ? <eos>
+Who and Raymond would Andrew talk to ? <eos>
+Who would Andrew talk to and Raymond ? <eos>
+What and some chairs was Sheila cleaning ? <eos>
+What was Sheila cleaning and some chairs ? <eos>
+Who and some students had Becca fled from ? <eos>
+Who had Becca fled from and some students ? <eos>
+Who and Sandra is Marcus arguing about ? <eos>
+Who is Marcus arguing about and Sandra ? <eos>
+What and the vase will Donna break ? <eos>
+What will Donna break and the vase ? <eos>
+Who and Helen had Frank fired ? <eos>
+Who had Frank fired and Helen ? <eos>
+Who and Denise was David criticizing ? <eos>
+Who was David criticizing and Denise ? <eos>
+Who and this student has every waiter disliked ? <eos>
+Who has every waiter disliked and this student ? <eos>
+Who and Randolf will Karla investigate ? <eos>
+Who will Karla investigate and Randolf ? <eos>
+What and all museums had Alexander upset ? <eos>
+What had Alexander upset and all museums ? <eos>
+What and the movies had Sheila scanned ? <eos>
+What had Sheila scanned and the movies ? <eos>
+Who and Kathleen would many mirrors aggravate ? <eos>
+Who would many mirrors aggravate and Kathleen ? <eos>
+Who and Rhonda was Bethany kissing ? <eos>
+Who was Bethany kissing and Rhonda ? <eos>
+What and couches has every teacher revealed ? <eos>
+What has every teacher revealed and couches ? <eos>
+Who and Rachel might Rose heal ? <eos>
+Who might Rose heal and Rachel ? <eos>
+What and some schools might all icicles confuse ? <eos>
+What might all icicles confuse and some schools ? <eos>
+Who and some dancer was that newspaper article disagreeing with ? <eos>
+Who was that newspaper article disagreeing with and some dancer ? <eos>
+What and every restaurant was Ronald walking through ? <eos>
+What was Ronald walking through and every restaurant ? <eos>
+What and all ladders had the senators concealed ? <eos>
+What had the senators concealed and all ladders ? <eos>
+What and a school was Sherry biking to ? <eos>
+What was Sherry biking to and a school ? <eos>
+Who and Ann have some guests hated ? <eos>
+Who have some guests hated and Ann ? <eos>
+What and many plates has Ann broken ? <eos>
+What has Ann broken and many plates ? <eos>
+Who and Craig had Janice fled from ? <eos>
+Who had Janice fled from and Craig ? <eos>
+What and this ladder has Tracy climbed down ? <eos>
+What has Tracy climbed down and this ladder ? <eos>
+Who and Matt had many closets bored ? <eos>
+Who had many closets bored and Matt ? <eos>
+Who and Vanessa might Grace watch ? <eos>
+Who might Grace watch and Vanessa ? <eos>
+What and all doors had Katherine brought ? <eos>
+What had Katherine brought and all doors ? <eos>
+What and that school should Kayla sound like ? <eos>
+What should Kayla sound like and that school ? <eos>
+Who and Ann were all restaurants upsetting ? <eos>
+Who were all restaurants upsetting and Ann ? <eos>
+Who and Beverly would Sandra love ? <eos>
+Who would Sandra love and Beverly ? <eos>
+Who and some waitress has Dawn hugged ? <eos>
+Who has Dawn hugged and some waitress ? <eos>
+Who and many senators was a government scaring ? <eos>
+Who was a government scaring and many senators ? <eos>
+Who and Alice are the mirrors astounding ? <eos>
+Who are the mirrors astounding and Alice ? <eos>
+Who and these teachers does Todd hire ? <eos>
+Who does Todd hire and these teachers ? <eos>
+What and many couches was that teenager selling ? <eos>
+What was that teenager selling and many couches ? <eos>
+What and most libraries is Donna exploring ? <eos>
+What is Donna exploring and most libraries ? <eos>
+What and the movie theaters should all students clean ? <eos>
+What should all students clean and the movie theaters ? <eos>
+Who and Steven had Dana hated ? <eos>
+Who had Dana hated and Steven ? <eos>
+What and the screen did Ann buy ? <eos>
+What did Ann buy and the screen ? <eos>
+Who and Wayne had Lawrence annoyed ? <eos>
+Who had Lawrence annoyed and Wayne ? <eos>
+What and all stairs is Naomi descending ? <eos>
+What is Naomi descending and all stairs ? <eos>
+What and the movie theater has Amelia messed up ? <eos>
+What has Amelia messed up and the movie theater ? <eos>
+What and this movie theater has this boy explored ? <eos>
+What has this boy explored and this movie theater ? <eos>
+Who and April will Sarah attack ? <eos>
+Who will Sarah attack and April ? <eos>
+Who and Timothy can the high schools bore ? <eos>
+Who can the high schools bore and Timothy ? <eos>
+What and this book had Barbara examined ? <eos>
+What had Barbara examined and this book ? <eos>
+Who and Jodi could Claire aggravate ? <eos>
+Who could Claire aggravate and Jodi ? <eos>
+Who and Kenneth does this bicycle aggravate ? <eos>
+Who does this bicycle aggravate and Kenneth ? <eos>
+Who and Carol had Maria healed ? <eos>
+Who had Maria healed and Carol ? <eos>
+What and some turtle was Connie lifting ? <eos>
+What was Connie lifting and some turtle ? <eos>
+Who and Renee had Melinda approached ? <eos>
+Who had Melinda approached and Renee ? <eos>
+Who and Daniel are all senators bothering ? <eos>
+Who are all senators bothering and Daniel ? <eos>
+Who and Vincent would some newspaper article upset ? <eos>
+Who would some newspaper article upset and Vincent ? <eos>
+What and that bank might Samuel clean ? <eos>
+What might Samuel clean and that bank ? <eos>
+Who and John has Becca hidden ? <eos>
+Who has Becca hidden and John ? <eos>
+What and this mountain has Bruce climbed down ? <eos>
+What has Bruce climbed down and this mountain ? <eos>
+Who and Gregory could women dislike ? <eos>
+Who could women dislike and Gregory ? <eos>
+What and some rivers does every actress exit ? <eos>
+What does every actress exit and some rivers ? <eos>
+Who and Beverly can Monica find ? <eos>
+Who can Monica find and Beverly ? <eos>
+What and most grocery stores might a teacher arrive at ? <eos>
+What might a teacher arrive at and most grocery stores ? <eos>
+Who and Carolyn was Aaron visiting ? <eos>
+Who was Aaron visiting and Carolyn ? <eos>
+What and every computer was every hospital taking ? <eos>
+What was every hospital taking and every computer ? <eos>
+Who and Anne is this print looking like ? <eos>
+Who is this print looking like and Anne ? <eos>
+Who and Marla is Stephen kissing ? <eos>
+Who is Stephen kissing and Marla ? <eos>
+Who and Janice is that university alarming ? <eos>
+Who is that university alarming and Janice ? <eos>
+Who and Samantha could the photographs look like ? <eos>
+Who could the photographs look like and Samantha ? <eos>
+Who and Margaret might James alarm ? <eos>
+Who might James alarm and Margaret ? <eos>
+What and a lot of rugs can Bill clean ? <eos>
+What can Bill clean and a lot of rugs ? <eos>
+Who and this driver was the slope disgusting ? <eos>
+Who was the slope disgusting and this driver ? <eos>
+Who and John does Angela fire ? <eos>
+Who does Angela fire and John ? <eos>
+Who and most waitresses would every mouth upset ? <eos>
+Who would every mouth upset and most waitresses ? <eos>
+Who and Phillip was Renee healing ? <eos>
+Who was Renee healing and Phillip ? <eos>
+What and this school is Kathleen arriving at ? <eos>
+What is Kathleen arriving at and this school ? <eos>
+Who and Catherine is Dawn leaving ? <eos>
+Who is Dawn leaving and Catherine ? <eos>
+What and this mountain will Sharon descend ? <eos>
+What will Sharon descend and this mountain ? <eos>
+Who and Phillip can Walter distract ? <eos>
+Who can Walter distract and Phillip ? <eos>
+What and some cup has Candice found ? <eos>
+What has Candice found and some cup ? <eos>
+Who and Richard had Suzanne distracted ? <eos>
+Who had Suzanne distracted and Richard ? <eos>
+Who and Beth were these guys referencing ? <eos>
+Who were these guys referencing and Beth ? <eos>
+Who and that waitress had Karen loved ? <eos>
+Who had Karen loved and that waitress ? <eos>
+What and these mountains has Christine sold ? <eos>
+What has Christine sold and these mountains ? <eos>
+What and all hills was that pedestrian skated around ? <eos>
+What was that pedestrian skated around and all hills ? <eos>
+Who and Eric did Regina cure ? <eos>
+Who did Regina cure and Eric ? <eos>
+What and many plays is Rose examining ? <eos>
+What is Rose examining and many plays ? <eos>
+Who and teenagers do the ladies approach ? <eos>
+Who do the ladies approach and teenagers ? <eos>
+What and many couches is Donald breaking ? <eos>
+What is Donald breaking and many couches ? <eos>
+Who and a guy had Brad worked with ? <eos>
+Who had Brad worked with and a guy ? <eos>
+What and this movie theater is Rachel exploring ? <eos>
+What is Rachel exploring and this movie theater ? <eos>
+What and a lot of chairs could Catherine mess up ? <eos>
+What could Catherine mess up and a lot of chairs ? <eos>
+Who and Kimberley had Katherine returned to ? <eos>
+Who had Katherine returned to and Kimberley ? <eos>
+What and all movie theaters was Lori exiting ? <eos>
+What was Lori exiting and all movie theaters ? <eos>
+Who and Clyde would the children admire ? <eos>
+Who would the children admire and Clyde ? <eos>
+Who and Dennis is Carlos firing ? <eos>
+Who is Carlos firing and Dennis ? <eos>
+Who and Becca is Melinda concealing ? <eos>
+Who is Melinda concealing and Becca ? <eos>
+Who and Paula had Karen remembered ? <eos>
+Who had Karen remembered and Paula ? <eos>
+What and a lot of malls has Carolyn walked through ? <eos>
+What has Carolyn walked through and a lot of malls ? <eos>
+What and this computer would Veronica lift ? <eos>
+What would Veronica lift and this computer ? <eos>
+Who and Suzanne had most actresses discussed ? <eos>
+Who had most actresses discussed and Suzanne ? <eos>
+What and an art gallery had Stacy driven to ? <eos>
+What had Stacy driven to and an art gallery ? <eos>
+What and the glaciers was Derek driving to ? <eos>
+What was Derek driving to and the glaciers ? <eos>
+What and the cup is Marie messing up ? <eos>
+What is Marie messing up and the cup ? <eos>
+Who and Charles were the high schools astounding ? <eos>
+Who were the high schools astounding and Charles ? <eos>
+Who and Gregory will Kirsten embarrass ? <eos>
+Who will Kirsten embarrass and Gregory ? <eos>
+Who and Gerald is the mirror annoying ? <eos>
+Who is the mirror annoying and Gerald ? <eos>
+Who and Peter do many malls worry ? <eos>
+Who do many malls worry and Peter ? <eos>
+Who and some cashiers should Steve discuss ? <eos>
+Who should Steve discuss and some cashiers ? <eos>
+Who and Maria has Mary disgusted ? <eos>
+Who has Mary disgusted and Maria ? <eos>
+What and every school might Andrea flee from ? <eos>
+What might Andrea flee from and every school ? <eos>
+Who and every child would Karen describe ? <eos>
+Who would Karen describe and every child ? <eos>
+Who and Katherine has that girl revealed ? <eos>
+Who has that girl revealed and Katherine ? <eos>
+What and this computer were many customers breaking ? <eos>
+What were many customers breaking and this computer ? <eos>
+Who and Karla had Melinda left ? <eos>
+Who had Melinda left and Karla ? <eos>
+What and that commentary could Danielle scan ? <eos>
+What could Danielle scan and that commentary ? <eos>
+Who and Lawrence is this cashier returning to ? <eos>
+Who is this cashier returning to and Lawrence ? <eos>
+What and a lot of restaurants can patients drop by ? <eos>
+What can patients drop by and a lot of restaurants ? <eos>
+What and a glass was Homer messing up ? <eos>
+What was Homer messing up and a glass ? <eos>
+What and this public park can Tammy pass ? <eos>
+What can Tammy pass and this public park ? <eos>
+Who and Kathleen can Douglas impress ? <eos>
+Who can Douglas impress and Kathleen ? <eos>
+What and many glasses have the ladies worn ? <eos>
+What have the ladies worn and many glasses ? <eos>
+Who and that teacher did Janice admire ? <eos>
+Who did Janice admire and that teacher ? <eos>
+Who and Mary was Veronica leaving ? <eos>
+Who was Veronica leaving and Mary ? <eos>
+Who and Janice has every lady revealed ? <eos>
+Who has every lady revealed and Janice ? <eos>
+What and a bank had Martin disliked ? <eos>
+What had Martin disliked and a bank ? <eos>
+Who and Sharon are some customers escaping from ? <eos>
+Who are some customers escaping from and Sharon ? <eos>
+Who and Mark has Peter talked about ? <eos>
+Who has Peter talked about and Mark ? <eos>
+What and the bicycles was Suzanne breaking ? <eos>
+What was Suzanne breaking and the bicycles ? <eos>
+What and the mountain had Meredith descended ? <eos>
+What had Meredith descended and the mountain ? <eos>
+What and some screen is Gary breaking ? <eos>
+What is Gary breaking and some screen ? <eos>
+Who and Cynthia can Carlos conceal ? <eos>
+Who can Carlos conceal and Cynthia ? <eos>
+Who and Becca are the adults revealing ? <eos>
+Who are the adults revealing and Becca ? <eos>
+Who and Debra do the plays disgust ? <eos>
+Who do the plays disgust and Debra ? <eos>
+Who and Melanie will Cynthia criticize ? <eos>
+Who will Cynthia criticize and Melanie ? <eos>
+What and all art galleries has John driven to ? <eos>
+What has John driven to and all art galleries ? <eos>
+Who and Jodi is Donna aggravating ? <eos>
+Who is Donna aggravating and Jodi ? <eos>
+Who and Richard could all people respect ? <eos>
+Who could all people respect and Richard ? <eos>
+What and every cafe could Matt skate around ? <eos>
+What could Matt skate around and every cafe ? <eos>
+Who and Kendra is Tiffany hiring ? <eos>
+Who is Tiffany hiring and Kendra ? <eos>
+Who and Kenneth had most governments talked about ? <eos>
+Who had most governments talked about and Kenneth ? <eos>
+Who and Sally might Vincent visit ? <eos>
+Who might Vincent visit and Sally ? <eos>
+Who and Candice was Diana hurting ? <eos>
+Who was Diana hurting and Candice ? <eos>
+What and every window is Denise bringing ? <eos>
+What is Denise bringing and every window ? <eos>
+Who and Ella was Meredith disturbing ? <eos>
+Who was Meredith disturbing and Ella ? <eos>
+Who and Claire had Lucille boasted about ? <eos>
+Who had Lucille boasted about and Claire ? <eos>
+Who and Heather could many actors bore ? <eos>
+Who could many actors bore and Heather ? <eos>
+Who and Alan could the organization work with ? <eos>
+Who could the organization work with and Alan ? <eos>
+What and the stories has Candice examined ? <eos>
+What has Candice examined and the stories ? <eos>
+Who and Tonya is this driver arguing about ? <eos>
+Who is this driver arguing about and Tonya ? <eos>
+Who and Cynthia was Jacqueline impressing ? <eos>
+Who was Jacqueline impressing and Cynthia ? <eos>
+Who and Suzanne does Raymond talk to ? <eos>
+Who does Raymond talk to and Suzanne ? <eos>
+Who and Susan would that guest dislike ? <eos>
+Who would that guest dislike and Susan ? <eos>
+Who and Deanna has Irene complained about ? <eos>
+Who has Irene complained about and Deanna ? <eos>
+What and a dish had Travis sold ? <eos>
+What had Travis sold and a dish ? <eos>
+Who and every lady do some men leave ? <eos>
+Who do some men leave and every lady ? <eos>
+What and a lot of steps did Mark ascend ? <eos>
+What did Mark ascend and a lot of steps ? <eos>
+What and this grocery store could Rodney sound like ? <eos>
+What could Rodney sound like and this grocery store ? <eos>
+Who and Mitchell is Stephen listening to ? <eos>
+Who is Stephen listening to and Mitchell ? <eos>
+Who and Victoria might some person talk about ? <eos>
+Who might some person talk about and Victoria ? <eos>
+What and the hill did Samantha explore ? <eos>
+What did Samantha explore and the hill ? <eos>
+What and this lake had David passed ? <eos>
+What had David passed and this lake ? <eos>
+Who and Frank was a girl shocking ? <eos>
+Who was a girl shocking and Frank ? <eos>
+What and all rivers had Vanessa exited ? <eos>
+What had Vanessa exited and all rivers ? <eos>
+What and some hills would Carla skate around ? <eos>
+What would Carla skate around and some hills ? <eos>
+What and every library has Larry disliked ? <eos>
+What has Larry disliked and every library ? <eos>
+What and these ladders is Regina ascending ? <eos>
+What is Regina ascending and these ladders ? <eos>
+Who and Donald had Ann confused ? <eos>
+Who had Ann confused and Donald ? <eos>
+What and an association do many malls disgust ? <eos>
+What do many malls disgust and an association ? <eos>
+Who and Diana is Beth scaring ? <eos>
+Who is Beth scaring and Diana ? <eos>
+What and the couch had Bruce broken ? <eos>
+What had Bruce broken and the couch ? <eos>
+What and every mountain could Stephanie descend ? <eos>
+What could Stephanie descend and every mountain ? <eos>
+Who and every woman was this man concealing ? <eos>
+Who was this man concealing and every woman ? <eos>
+Who and Theresa could some bird confuse ? <eos>
+Who could some bird confuse and Theresa ? <eos>
+Who and Scott have some paintings looked like ? <eos>
+Who have some paintings looked like and Scott ? <eos>
+Who and guests is that waitress talking about ? <eos>
+Who is that waitress talking about and guests ? <eos>
+Who and Tanya was a person admiring ? <eos>
+Who was a person admiring and Tanya ? <eos>
+What and many drawings can that closet resemble ? <eos>
+What can that closet resemble and many drawings ? <eos>
+What and every school was Karen exiting ? <eos>
+What was Karen exiting and every school ? <eos>
+What and every skirt was Ronald wearing ? <eos>
+What was Ronald wearing and every skirt ? <eos>
+What and every hill was Beth climbing up ? <eos>
+What was Beth climbing up and every hill ? <eos>
+What and the eye was Michelle cleaning ? <eos>
+What was Michelle cleaning and the eye ? <eos>
+Who and Andrew can Susan respect ? <eos>
+Who can Susan respect and Andrew ? <eos>
+What and these lakes was every teenager touring ? <eos>
+What was every teenager touring and these lakes ? <eos>
+Who and that boy could Amanda talk to ? <eos>
+Who could Amanda talk to and that boy ? <eos>
+Who and Natalie might Tara distract ? <eos>
+Who might Tara distract and Natalie ? <eos>
+Who and Jennifer was Beth impressing ? <eos>
+Who was Beth impressing and Jennifer ? <eos>
+Who and some customers did Guy return to ? <eos>
+Who did Guy return to and some customers ? <eos>
+Who and Homer would that drawing look like ? <eos>
+Who would that drawing look like and Homer ? <eos>
+What and this gate is Stacey buying ? <eos>
+What is Stacey buying and this gate ? <eos>
+What and that dress is Douglas wearing ? <eos>
+What is Douglas wearing and that dress ? <eos>
+Who and Nancy does Chad talk about ? <eos>
+Who does Chad talk about and Nancy ? <eos>
+Who and many doctors did Carrie attack ? <eos>
+Who did Carrie attack and many doctors ? <eos>
+Who and Carlos had Beverly forgotten ? <eos>
+Who had Beverly forgotten and Carlos ? <eos>
+What and every cup might Travis break ? <eos>
+What might Travis break and every cup ? <eos>
+Who and Theodore has Sharon left ? <eos>
+Who has Sharon left and Theodore ? <eos>
+Who and Claire had David insulted ? <eos>
+Who had David insulted and Claire ? <eos>
+What and all malls had Timothy arrived at ? <eos>
+What had Timothy arrived at and all malls ? <eos>
+What and the plays was Jessica examining ? <eos>
+What was Jessica examining and the plays ? <eos>
+What and a lot of hills have some children climbed down ? <eos>
+What have some children climbed down and a lot of hills ? <eos>
+Who and Naomi was Matt healing ? <eos>
+Who was Matt healing and Naomi ? <eos>
+What and many public parks will Wendy mess up ? <eos>
+What will Wendy mess up and many public parks ? <eos>
+What and all high schools is Carol walking through ? <eos>
+What is Carol walking through and all high schools ? <eos>
+Who and Kimberley does every lady bother ? <eos>
+Who does every lady bother and Kimberley ? <eos>
+Who and Florence has Tracy talked to ? <eos>
+Who has Tracy talked to and Florence ? <eos>
+What and all pictures has Christopher revealed ? <eos>
+What has Christopher revealed and all pictures ? <eos>
+What and this book is Jerry lifting ? <eos>
+What is Jerry lifting and this book ? <eos>
+Who and Wayne is Beth stunning ? <eos>
+Who is Beth stunning and Wayne ? <eos>
+Who and Guy was Joel hugging ? <eos>
+Who was Joel hugging and Guy ? <eos>
+Who and Laurie should many teachers annoy ? <eos>
+Who should many teachers annoy and Laurie ? <eos>
+What and every museum is Monica touring ? <eos>
+What is Monica touring and every museum ? <eos>
+What and these cafes can Karen go to ? <eos>
+What can Karen go to and these cafes ? <eos>
+Who and Frank can Rose conceal ? <eos>
+Who can Rose conceal and Frank ? <eos>
+Who and Jennifer has the association impressed ? <eos>
+Who has the association impressed and Jennifer ? <eos>
+Who and Raymond had many drivers fired ? <eos>
+Who had many drivers fired and Raymond ? <eos>
+What and some art galleries could Rodney arrive at ? <eos>
+What could Rodney arrive at and some art galleries ? <eos>
+What and a lot of museums will many senators skate around ? <eos>
+What will many senators skate around and a lot of museums ? <eos>
+What and every banana has Marie bought ? <eos>
+What has Marie bought and every banana ? <eos>
+Who and Wayne is Victoria aggravating ? <eos>
+Who is Victoria aggravating and Wayne ? <eos>
+What and a shirt might a lot of teachers wear ? <eos>
+What might a lot of teachers wear and a shirt ? <eos>
+Who and Thomas had Paula annoyed ? <eos>
+Who had Paula annoyed and Thomas ? <eos>
+Who and Richard has Kathleen embarrassed ? <eos>
+Who has Kathleen embarrassed and Richard ? <eos>
+Who and Tanya did Kayla discuss ? <eos>
+Who did Kayla discuss and Tanya ? <eos>
+Who and some women has Jason watched ? <eos>
+Who has Jason watched and some women ? <eos>
+What and a lot of sketches was Wendy looking like ? <eos>
+What was Wendy looking like and a lot of sketches ? <eos>
+What and a movie had Eric talked about ? <eos>
+What had Eric talked about and a movie ? <eos>
+Who and Noah are waitresses aggravating ? <eos>
+Who are waitresses aggravating and Noah ? <eos>
+Who and Regina has some horse distracted ? <eos>
+Who has some horse distracted and Regina ? <eos>
+What and most gloves did Candice wear ? <eos>
+What did Candice wear and most gloves ? <eos>
+What and a documentary have waitresses criticized ? <eos>
+What have waitresses criticized and a documentary ? <eos>
+Who and Ann will the popsicle irritate ? <eos>
+Who will the popsicle irritate and Ann ? <eos>
+Who and Jacqueline had Alan returned to ? <eos>
+Who had Alan returned to and Jacqueline ? <eos>
+Who and these waitresses would a lot of children see ? <eos>
+Who would a lot of children see and these waitresses ? <eos>
+What and many ladders can Naomi climb down ? <eos>
+What can Naomi climb down and many ladders ? <eos>
+What and every art gallery would Chad skate around ? <eos>
+What would Chad skate around and every art gallery ? <eos>
+What and all turtles is Kristin finding ? <eos>
+What is Kristin finding and all turtles ? <eos>
+What and all universities were these governments alarming ? <eos>
+What were these governments alarming and all universities ? <eos>
+Who and Sara has William worked with ? <eos>
+Who has William worked with and Sara ? <eos>
+Who and Benjamin had Alexander referenced ? <eos>
+Who had Alexander referenced and Benjamin ? <eos>
+What and that movie theater had Samantha remembered ? <eos>
+What had Samantha remembered and that movie theater ? <eos>
+Who and Marie was Lisa curing ? <eos>
+Who was Lisa curing and Marie ? <eos>
+Who and Christina would Heidi forget ? <eos>
+Who would Heidi forget and Christina ? <eos>
+Who and Melinda was some guy alarming ? <eos>
+Who was some guy alarming and Melinda ? <eos>
+Who and Brad will sketches look like ? <eos>
+Who will sketches look like and Brad ? <eos>
+What and the book was Ella examining ? <eos>
+What was Ella examining and the book ? <eos>
+What and that closet has Julia sold ? <eos>
+What has Julia sold and that closet ? <eos>
+Who and the actress had Jessica fled from ? <eos>
+Who had Jessica fled from and the actress ? <eos>
+What and all pants will Elaine wear ? <eos>
+What will Elaine wear and all pants ? <eos>
+What and some cup does every lady break ? <eos>
+What does every lady break and some cup ? <eos>
+Who and Stacy did Frank aggravate ? <eos>
+Who did Frank aggravate and Stacy ? <eos>
+What and most cafes is Anne skated around ? <eos>
+What is Anne skated around and most cafes ? <eos>
+Who and Katherine was Lori hiding ? <eos>
+Who was Lori hiding and Katherine ? <eos>
+Who and Alice had Kirsten loved ? <eos>
+Who had Kirsten loved and Alice ? <eos>
+Who and Kristen is Lawrence hiring ? <eos>
+Who is Lawrence hiring and Kristen ? <eos>
+Who and every lady had April distracted ? <eos>
+Who had April distracted and every lady ? <eos>
+Who and Meredith is Meredith referencing ? <eos>
+Who is Meredith referencing and Meredith ? <eos>
+Who and Marcus has Christine complained about ? <eos>
+Who has Christine complained about and Marcus ? <eos>
+Who and Veronica might Erin work with ? <eos>
+Who might Erin work with and Veronica ? <eos>
+Who and Anna does this bird bother ? <eos>
+Who does this bird bother and Anna ? <eos>
+What and the committee will Lucille boycott ? <eos>
+What will Lucille boycott and the committee ? <eos>
+Who and Candice has Victoria aggravated ? <eos>
+Who has Victoria aggravated and Candice ? <eos>
+Who and these customers should the public parks worry ? <eos>
+Who should the public parks worry and these customers ? <eos>
+What and that lake was a student exploring ? <eos>
+What was a student exploring and that lake ? <eos>
+Who and Eric has some customer confused ? <eos>
+Who has some customer confused and Eric ? <eos>
+What and that bird has Robert bought ? <eos>
+What has Robert bought and that bird ? <eos>
+What and the schools could Natalie disgust ? <eos>
+What could Natalie disgust and the schools ? <eos>
+Who and Scott was Scott concealing ? <eos>
+Who was Scott concealing and Scott ? <eos>
+Who and Noah is Helen talking to ? <eos>
+Who is Helen talking to and Noah ? <eos>
+Who and Sharon is Naomi aggravating ? <eos>
+Who is Naomi aggravating and Sharon ? <eos>
+What and that book has Tanya scanned ? <eos>
+What has Tanya scanned and that book ? <eos>
+Who and Ann will Pamela discuss ? <eos>
+Who will Pamela discuss and Ann ? <eos>
+What and the libraries had Sabrina ran around ? <eos>
+What had Sabrina ran around and the libraries ? <eos>
+What and some hair might Danielle sell ? <eos>
+What might Danielle sell and some hair ? <eos>
+Who and Leslie had Donna watched ? <eos>
+Who had Donna watched and Leslie ? <eos>
+Who and a lot of waiters is Tiffany discussing ? <eos>
+Who is Tiffany discussing and a lot of waiters ? <eos>
+Who and Vanessa has Rodney hidden ? <eos>
+Who has Rodney hidden and Vanessa ? <eos>
+What and that print did Regina look like ? <eos>
+What did Regina look like and that print ? <eos>
+What and these malls had Theodore driven to ? <eos>
+What had Theodore driven to and these malls ? <eos>
+What and a lot of lakes was Pamela passing ? <eos>
+What was Pamela passing and a lot of lakes ? <eos>
+Who and some man are a lot of teachers curing ? <eos>
+Who are a lot of teachers curing and some man ? <eos>
+Who and Danielle had Grace irritated ? <eos>
+Who had Grace irritated and Danielle ? <eos>
+What and some computer is Becky breaking ? <eos>
+What is Becky breaking and some computer ? <eos>
+What and this art gallery does every teacher bike to ? <eos>
+What does every teacher bike to and this art gallery ? <eos>
+What and some bird has Clyde taken ? <eos>
+What has Clyde taken and some bird ? <eos>
+Who and Donna did that teacher talk about ? <eos>
+Who did that teacher talk about and Donna ? <eos>
+Who and Deanna has that dancer fled from ? <eos>
+Who has that dancer fled from and Deanna ? <eos>
+Who and Cynthia can Cynthia work with ? <eos>
+Who can Cynthia work with and Cynthia ? <eos>
+Who and George has Nancy watched ? <eos>
+Who has Nancy watched and George ? <eos>
+Who and every teacher had Craig upset ? <eos>
+Who had Craig upset and every teacher ? <eos>
+Who and Elaine was Theresa boring ? <eos>
+Who was Theresa boring and Elaine ? <eos>
+Who and Brett could Heidi heal ? <eos>
+Who could Heidi heal and Brett ? <eos>
+Who and Cindy is Amelia firing ? <eos>
+Who is Amelia firing and Cindy ? <eos>
+Who and waitresses had Christopher fled from ? <eos>
+Who had Christopher fled from and waitresses ? <eos>
+What and ladders had Jason hidden ? <eos>
+What had Jason hidden and ladders ? <eos>
+Who and Martin was every doctor embarrassing ? <eos>
+Who was every doctor embarrassing and Martin ? <eos>
+Who and Margaret might that sketch look like ? <eos>
+Who might that sketch look like and Margaret ? <eos>
+What and the documentaries has the lady scanned ? <eos>
+What has the lady scanned and the documentaries ? <eos>
+Who and Deanna has Theresa concealed ? <eos>
+Who has Theresa concealed and Deanna ? <eos>
+Who and Margaret should Stacy see ? <eos>
+Who should Stacy see and Margaret ? <eos>
+Who and Theodore should Irene hire ? <eos>
+Who should Irene hire and Theodore ? <eos>
+Who and Carlos is some ladder distracting ? <eos>
+Who is some ladder distracting and Carlos ? <eos>
+Who and Lissa will the organization bother ? <eos>
+Who will the organization bother and Lissa ? <eos>
+Who and Tammy has Sherry appreciated ? <eos>
+Who has Sherry appreciated and Tammy ? <eos>
+Who and Nancy was Julia upsetting ? <eos>
+Who was Julia upsetting and Nancy ? <eos>
+What and some hamster are many children curing ? <eos>
+What are many children curing and some hamster ? <eos>
+Who and Sherry would Sarah approach ? <eos>
+Who would Sarah approach and Sherry ? <eos>
+What and every mountain had Christina descended ? <eos>
+What had Christina descended and every mountain ? <eos>
+What and most couches might Margaret fix ? <eos>
+What might Margaret fix and most couches ? <eos>
+Who and Walter will some women scare ? <eos>
+Who will some women scare and Walter ? <eos>
+Who and Judy has Jason remembered ? <eos>
+Who has Jason remembered and Judy ? <eos>
+Who and Tammy has Dana listened to ? <eos>
+Who has Dana listened to and Tammy ? <eos>
+Who and Kristen are the cats scaring ? <eos>
+Who are the cats scaring and Kristen ? <eos>
+Who and Nina had Maria disgusted ? <eos>
+Who had Maria disgusted and Nina ? <eos>
+Who and Cynthia have these shoes disturbed ? <eos>
+Who have these shoes disturbed and Cynthia ? <eos>
+Who and a lot of actresses should Beverly listen to ? <eos>
+Who should Beverly listen to and a lot of actresses ? <eos>
+Who and that guest has Maria embarrassed ? <eos>
+Who has Maria embarrassed and that guest ? <eos>
+What and some organizations have all drivers disgusted ? <eos>
+What have all drivers disgusted and some organizations ? <eos>
+What and that hair had George cleaned ? <eos>
+What had George cleaned and that hair ? <eos>
+Who and Rachel has Regina admired ? <eos>
+Who has Regina admired and Rachel ? <eos>
+What and every ladder should Melissa climb up ? <eos>
+What should Melissa climb up and every ladder ? <eos>
+Who and some cashiers was every guest listening to ? <eos>
+Who was every guest listening to and some cashiers ? <eos>
+What and some screens is Laura buying ? <eos>
+What is Laura buying and some screens ? <eos>
+Who and Jane do many pedestrians hire ? <eos>
+Who do many pedestrians hire and Jane ? <eos>
+What and the glacier had Rodney toured ? <eos>
+What had Rodney toured and the glacier ? <eos>
+Who and Adam has Jill concealed ? <eos>
+Who has Jill concealed and Adam ? <eos>
+Who and Richard was Stephanie helping ? <eos>
+Who was Stephanie helping and Richard ? <eos>
+Who and Rebecca had Dawn revealed ? <eos>
+Who had Dawn revealed and Rebecca ? <eos>
+Who and Candice will Matt irritate ? <eos>
+Who will Matt irritate and Candice ? <eos>
+What and the art gallery is Tiffany biking to ? <eos>
+What is Tiffany biking to and the art gallery ? <eos>
+What and the glass is Valerie messing up ? <eos>
+What is Valerie messing up and the glass ? <eos>
+Who and all guests were most documentaries confusing ? <eos>
+Who were most documentaries confusing and all guests ? <eos>
+What and that library was Ellen skated around ? <eos>
+What was Ellen skated around and that library ? <eos>
+Who and this senator has Michael hugged ? <eos>
+Who has Michael hugged and this senator ? <eos>
+What and a grocery store might Frank talk about ? <eos>
+What might Frank talk about and a grocery store ? <eos>
+Who and Marie can all teachers hire ? <eos>
+Who can all teachers hire and Marie ? <eos>
+Who and Carlos can Jacqueline help ? <eos>
+Who can Jacqueline help and Carlos ? <eos>
+Who and Kayla has this guest worried ? <eos>
+Who has this guest worried and Kayla ? <eos>
+Who and Elizabeth could the actresses observe ? <eos>
+Who could the actresses observe and Elizabeth ? <eos>
+What and this glacier might dancers skate around ? <eos>
+What might dancers skate around and this glacier ? <eos>
+What and some print would Deborah resemble ? <eos>
+What would Deborah resemble and some print ? <eos>
+What and the banks might Margaret run around ? <eos>
+What might Margaret run around and the banks ? <eos>
+Who and this adult has Connie discussed ? <eos>
+Who has Connie discussed and this adult ? <eos>
+What and the book has Denise scanned ? <eos>
+What has Denise scanned and the book ? <eos>
+Who and Theresa had Carmen hired ? <eos>
+Who had Carmen hired and Theresa ? <eos>
+Who and Claire has the boy found ? <eos>
+Who has the boy found and Claire ? <eos>
+What and these associations is this student annoying ? <eos>
+What is this student annoying and these associations ? <eos>
+Who and Kristin was Natalie returning to ? <eos>
+Who was Natalie returning to and Kristin ? <eos>
+Who and Mark has Aaron seen ? <eos>
+Who has Aaron seen and Mark ? <eos>
+What and fish was Candice lifting ? <eos>
+What was Candice lifting and fish ? <eos>
+Who and James is Carlos healing ? <eos>
+Who is Carlos healing and James ? <eos>
+Who and Vincent has Helen alarmed ? <eos>
+Who has Helen alarmed and Vincent ? <eos>
+What and these fish have these waiters taken ? <eos>
+What have these waiters taken and these fish ? <eos>
+Who and Charles are many actors disturbing ? <eos>
+Who are many actors disturbing and Charles ? <eos>
+Who and Katherine can Jessica hug ? <eos>
+Who can Jessica hug and Katherine ? <eos>
+Who and Dan were many patients arguing about ? <eos>
+Who were many patients arguing about and Dan ? <eos>
+Who and Alicia was that legislature describing ? <eos>
+Who was that legislature describing and Alicia ? <eos>
+What and every restaurant did Raymond explore ? <eos>
+What did Raymond explore and every restaurant ? <eos>
+What and that restaurant had Sara dropped by ? <eos>
+What had Sara dropped by and that restaurant ? <eos>
+What and that couch is Matt messing up ? <eos>
+What is Matt messing up and that couch ? <eos>
+Who and George would Bruce appreciate ? <eos>
+Who would Bruce appreciate and George ? <eos>
+Who and Scott have most dancers boasted about ? <eos>
+Who have most dancers boasted about and Scott ? <eos>
+Who and Lisa was this association astounding ? <eos>
+Who was this association astounding and Lisa ? <eos>
+What and the closet is Vincent going to ? <eos>
+What is Vincent going to and the closet ? <eos>
+Who and Janet was that bicycle shocking ? <eos>
+Who was that bicycle shocking and Janet ? <eos>
+Who and James was Julie arguing about ? <eos>
+Who was Julie arguing about and James ? <eos>
+What and mouths is Ann hiding ? <eos>
+What is Ann hiding and mouths ? <eos>
+Who and Sabrina are most waiters disagreeing with ? <eos>
+Who are most waiters disagreeing with and Sabrina ? <eos>
+What and these pants will Judy clean ? <eos>
+What will Judy clean and these pants ? <eos>
+Who and Sonia has Natalie impressed ? <eos>
+Who has Natalie impressed and Sonia ? <eos>
+What and a lot of glaciers is Bradley exiting ? <eos>
+What is Bradley exiting and a lot of glaciers ? <eos>
+Who and Renee has Theresa talked about ? <eos>
+Who has Theresa talked about and Renee ? <eos>
+What and some eyes had this photograph looked like ? <eos>
+What had this photograph looked like and some eyes ? <eos>
+Who and Wayne was the doctor finding ? <eos>
+Who was the doctor finding and Wayne ? <eos>
+What and a library would Becky pass ? <eos>
+What would Becky pass and a library ? <eos>
+Who and Ruth might Karla find ? <eos>
+Who might Karla find and Ruth ? <eos>
+Who and Brett would Sharon sound like ? <eos>
+Who would Sharon sound like and Brett ? <eos>
+What and this box should Timothy have ? <eos>
+What should Timothy have and this box ? <eos>
+Who and Rachelle has Stephanie concealed ? <eos>
+Who has Stephanie concealed and Rachelle ? <eos>
+What and all restaurants could most boys drop by ? <eos>
+What could most boys drop by and all restaurants ? <eos>
+Who and Jane did the legislature discuss ? <eos>
+Who did the legislature discuss and Jane ? <eos>
+What and cafes had Kayla skated around ? <eos>
+What had Kayla skated around and cafes ? <eos>
+What and the libraries had Walter driven to ? <eos>
+What had Walter driven to and the libraries ? <eos>
+Who and Beth had some mouths aggravated ? <eos>
+Who had some mouths aggravated and Beth ? <eos>
+What and every cafe is Liam exiting ? <eos>
+What is Liam exiting and every cafe ? <eos>
+What and the forks has Gary messed up ? <eos>
+What has Gary messed up and the forks ? <eos>
+Who and Kendra had Tonya observed ? <eos>
+Who had Tonya observed and Kendra ? <eos>
+Who and William has that rug distracted ? <eos>
+Who has that rug distracted and William ? <eos>
+Who and Carrie has Stacey visited ? <eos>
+Who has Stacey visited and Carrie ? <eos>
+What and every mountain has the guest walked through ? <eos>
+What has the guest walked through and every mountain ? <eos>
+Who and a lot of people would Kathleen heal ? <eos>
+Who would Kathleen heal and a lot of people ? <eos>
+Who and Erin has the horse astounded ? <eos>
+Who has the horse astounded and Erin ? <eos>
+What and these bananas did the guys buy ? <eos>
+What did the guys buy and these bananas ? <eos>
+Who and Eric had Rebecca disliked ? <eos>
+Who had Rebecca disliked and Eric ? <eos>
+Who and an actress can Bruce hug ? <eos>
+Who can Bruce hug and an actress ? <eos>
+Who and that pedestrian is Grace hiring ? <eos>
+Who is Grace hiring and that pedestrian ? <eos>
+Who and Marie was this girl praising ? <eos>
+Who was this girl praising and Marie ? <eos>
+What and that river should Caroline go to ? <eos>
+What should Caroline go to and that river ? <eos>
+What and some movies had April remembered ? <eos>
+What had April remembered and some movies ? <eos>
+Who and Guy can Karla watch ? <eos>
+Who can Karla watch and Guy ? <eos>
+What and a lot of eyes had Tina bought ? <eos>
+What had Tina bought and a lot of eyes ? <eos>
+Who and Gerald is Gary describing ? <eos>
+Who is Gary describing and Gerald ? <eos>
+What and the mountain did Angela climb down ? <eos>
+What did Angela climb down and the mountain ? <eos>
+Who and Barbara was Stephanie helping ? <eos>
+Who was Stephanie helping and Barbara ? <eos>
+Who and some dancer would a turtle shock ? <eos>
+Who would a turtle shock and some dancer ? <eos>
+Who and Sheila had Renee remembered ? <eos>
+Who had Renee remembered and Sheila ? <eos>
+Who and Renee was Beverly talking about ? <eos>
+Who was Beverly talking about and Renee ? <eos>
+Who and Tiffany has Sonia left ? <eos>
+Who has Sonia left and Tiffany ? <eos>
+Who and Steve had Tiffany referenced ? <eos>
+Who had Tiffany referenced and Steve ? <eos>
+Who and Cynthia are the plates distracting ? <eos>
+Who are the plates distracting and Cynthia ? <eos>
+Who and Sabrina could the essay astound ? <eos>
+Who could the essay astound and Sabrina ? <eos>
+What and some shirt had a lot of doctors worn ? <eos>
+What had a lot of doctors worn and some shirt ? <eos>
+Who and Carolyn has Sherry admired ? <eos>
+Who has Sherry admired and Carolyn ? <eos>
+Who and Curtis is this turtle hiding ? <eos>
+Who is this turtle hiding and Curtis ? <eos>
+What and most grocery stores might Alan walk through ? <eos>
+What might Alan walk through and most grocery stores ? <eos>
+Who and Scott does Clyde sound like ? <eos>
+Who does Clyde sound like and Scott ? <eos>
+Who and Bethany could Joel visit ? <eos>
+Who could Joel visit and Bethany ? <eos>
+What and a lot of glaciers were some people appreciating ? <eos>
+What were some people appreciating and a lot of glaciers ? <eos>
+What and most bananas was some cashier buying ? <eos>
+What was some cashier buying and most bananas ? <eos>
+Who and Valerie was Candice escaping from ? <eos>
+Who was Candice escaping from and Valerie ? <eos>
+Who and Patrick is Phillip observing ? <eos>
+Who is Phillip observing and Patrick ? <eos>
+Who and some doctor has Florence shocked ? <eos>
+Who has Florence shocked and some doctor ? <eos>
+Who and Amelia had a lot of art galleries shocked ? <eos>
+Who had a lot of art galleries shocked and Amelia ? <eos>
+Who and Stephanie should Rachel hire ? <eos>
+Who should Rachel hire and Stephanie ? <eos>
+What and a college campus is Andrea walking through ? <eos>
+What is Andrea walking through and a college campus ? <eos>
+Who and the teenager was Roger concealing ? <eos>
+Who was Roger concealing and the teenager ? <eos>
+Who and Carolyn does Steve investigate ? <eos>
+Who does Steve investigate and Carolyn ? <eos>
+What and most boxes had William sold ? <eos>
+What had William sold and most boxes ? <eos>
+What and every bank were dancers dropping by ? <eos>
+What were dancers dropping by and every bank ? <eos>
+Who and Tara might these companies astound ? <eos>
+Who might these companies astound and Tara ? <eos>
+Who and a senator could Rachelle describe ? <eos>
+Who could Rachelle describe and a senator ? <eos>
+What and many couches does Craig fix ? <eos>
+What does Craig fix and many couches ? <eos>
+What and a lot of couches will Paul clean ? <eos>
+What will Paul clean and a lot of couches ? <eos>
+What and these art galleries had girls toured ? <eos>
+What had girls toured and these art galleries ? <eos>
+What and some documentaries should Martha talk about ? <eos>
+What should Martha talk about and some documentaries ? <eos>
+What and these hills does Cheryl go to ? <eos>
+What does Cheryl go to and these hills ? <eos>
+What and most schools might Natalie drop by ? <eos>
+What might Natalie drop by and most schools ? <eos>
+What and a lot of art galleries had Alexander exited ? <eos>
+What had Alexander exited and a lot of art galleries ? <eos>
+Who and Colleen had Melinda forgotten ? <eos>
+Who had Melinda forgotten and Colleen ? <eos>
+What and a lot of bicycles had Richard bought ? <eos>
+What had Richard bought and a lot of bicycles ? <eos>
+Who and Allison had this waitress worked with ? <eos>
+Who had this waitress worked with and Allison ? <eos>
+Who and Daniel was the screen stunning ? <eos>
+Who was the screen stunning and Daniel ? <eos>
+Who and Becca had many girls praised ? <eos>
+Who had many girls praised and Becca ? <eos>
+What and every mountain should Jill drive to ? <eos>
+What should Jill drive to and every mountain ? <eos>
+What and all couches had most students fixed ? <eos>
+What had most students fixed and all couches ? <eos>
+Who and Dan were all libraries hiring ? <eos>
+Who were all libraries hiring and Dan ? <eos>
+What and the story does Rachelle examine ? <eos>
+What does Rachelle examine and the story ? <eos>
+What and a library did Bradley tour ? <eos>
+What did Bradley tour and a library ? <eos>
