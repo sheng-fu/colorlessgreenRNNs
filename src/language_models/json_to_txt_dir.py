@@ -23,9 +23,9 @@ for jsonl in jsonls:
     outfile = open(path+'/txt_sentence/'+jsonl[:-6]+'.txt', 'w')
 
     for i in infile_json:
-        outfile.write(re.sub('(.$)', ' \\1 <eos>', i['sentence_good']))
+        outfile.write(re.sub('(.$)', ' \\1', i['sentence_good']))
         outfile.write('\n')
-        outfile.write(re.sub('(.$)', ' \\1 <eos>', i['sentence_bad']))
+        outfile.write(re.sub('(.$)', ' \\1', i['sentence_bad']))
         outfile.write('\n')
 
 
