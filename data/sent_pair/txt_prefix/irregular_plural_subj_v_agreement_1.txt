@@ -30,7 +30,7 @@ Many people weren't
 Many people is n't
 Most men do n't
 Most men does n't
-Every alumnus hasn't
+Every alumnus has n't
 Every alumnus have n't
 A person does
 A person do
@@ -38,7 +38,7 @@ The men are n't
 The men wasn't
 The axis does n't
 The axis do n't
-Every person hasn't
+Every person has n't
 Every person have n't
 This alumnus does n't
 This alumnus do n't
@@ -62,13 +62,13 @@ The octopus does n't
 The octopus do n't
 Every child has
 Every child have
-Some man hasn't
+Some man has n't
 Some man have n't
-That child hasn't
+That child has n't
 That child have n't
 The people have
 The people has
-Every radius hasn't
+Every radius has n't
 Every radius have n't
 Men do
 Men does
@@ -80,11 +80,11 @@ Many women weren't
 Many women is n't
 That offspring has
 That offspring have
-Every man hasn't
+Every man has n't
 Every man have n't
 Most women have n't
-Most women hasn't
-This offspring hasn't
+Most women has n't
+This offspring has n't
 This offspring have n't
 Every child does
 Every child do
@@ -101,16 +101,16 @@ The men is
 The phenomenon has
 The phenomenon have
 People have n't
-People hasn't
+People has n't
 A lot of women do n't
 A lot of women does n't
 Many men do n't
 Many men does n't
 This man wasn't
 This man weren't
-A person hasn't
+A person has n't
 A person have n't
-Every child hasn't
+Every child has n't
 Every child have n't
 Most men were
 Most men was
@@ -137,7 +137,7 @@ All women has
 This man does
 This man do
 The people have n't
-The people hasn't
+The people has n't
 The men do n't
 The men does n't
 Every child is
@@ -157,9 +157,9 @@ A person weren't
 That man does
 That man do
 Many women have n't
-Many women hasn't
+Many women has n't
 A lot of men have n't
-A lot of men hasn't
+A lot of men has n't
 Every woman does n't
 Every woman do n't
 This man does
@@ -189,7 +189,7 @@ That person have
 The man does n't
 The man do n't
 Some men have n't
-Some men hasn't
+Some men has n't
 The people are
 The people is
 The foot is
@@ -204,17 +204,17 @@ The child does
 The child do
 Many people have
 Many people has
-Some stimulus hasn't
+Some stimulus has n't
 Some stimulus have n't
 This person does
 This person do
 A lot of people have n't
-A lot of people hasn't
+A lot of people has n't
 Some woman was
 Some woman are
 Men have n't
-Men hasn't
-A person hasn't
+Men has n't
+A person has n't
 A person have n't
 Some child is
 Some child were
@@ -227,8 +227,8 @@ Every man do n't
 Men do n't
 Men does n't
 Some men have n't
-Some men hasn't
-The man hasn't
+Some men has n't
+The man has n't
 The man have n't
 Every child does n't
 Every child do n't
@@ -260,7 +260,7 @@ Some people do
 Some people does
 Every radius does n't
 Every radius do n't
-This child hasn't
+This child has n't
 This child have n't
 The people do
 The people does
@@ -282,7 +282,7 @@ Some offspring has
 Some offspring have
 The men do n't
 The men does n't
-That synopsis hasn't
+That synopsis has n't
 That synopsis have n't
 Some child wasn't
 Some child weren't
@@ -297,7 +297,7 @@ The octopus do
 That alumnus does
 That alumnus do
 Some women have n't
-Some women hasn't
+Some women has n't
 A person is
 A person were
 A lot of men are n't
@@ -305,7 +305,7 @@ A lot of men wasn't
 This fish has
 This fish have
 All men have n't
-All men hasn't
+All men has n't
 The men have
 The men has
 These men are
@@ -316,13 +316,13 @@ Most women are
 Most women is
 This man is n't
 This man are n't
-Some child hasn't
+Some child has n't
 Some child have n't
 Most women are
 Most women is
 Women have n't
-Women hasn't
-This person hasn't
+Women has n't
+This person has n't
 This person have n't
 Some women do
 Some women does
@@ -330,7 +330,7 @@ Every child has
 Every child have
 Some people have
 Some people has
-A child hasn't
+A child has n't
 A child have n't
 Every person does
 Every person do
@@ -372,9 +372,9 @@ The men do
 The men does
 Some man has
 Some man have
-Some offspring hasn't
+Some offspring has n't
 Some offspring have n't
-This species hasn't
+This species has n't
 This species have n't
 The people have
 The people has
@@ -401,7 +401,7 @@ That fish weren't
 That woman does n't
 That woman do n't
 Many people have n't
-Many people hasn't
+Many people has n't
 Some child wasn't
 Some child are n't
 The man does n't
@@ -412,11 +412,11 @@ A lot of men do n't
 A lot of men does n't
 People weren't
 People is n't
-This man hasn't
+This man has n't
 This man have n't
 Some women do n't
 Some women does n't
-The man hasn't
+The man has n't
 The man have n't
 An offspring does n't
 An offspring do n't
@@ -426,7 +426,7 @@ This man wasn't
 This man are n't
 The woman was
 The woman were
-Every woman hasn't
+Every woman has n't
 Every woman have n't
 Some fish wasn't
 Some fish are n't
@@ -448,7 +448,7 @@ All women are n't
 All women wasn't
 Some offspring does
 Some offspring do
-Every man hasn't
+Every man has n't
 Every man have n't
 Some thesis is n't
 Some thesis are n't
@@ -470,9 +470,9 @@ These women were
 These women was
 A lot of women are
 A lot of women is
-The man hasn't
+The man has n't
 The man have n't
-That sheep hasn't
+That sheep has n't
 That sheep have n't
 A woman is
 A woman are
@@ -481,10 +481,10 @@ Women does n't
 Many women do
 Many women does
 A lot of people have n't
-A lot of people hasn't
+A lot of people has n't
 That offspring does
 That offspring do
-A child hasn't
+A child has n't
 A child have n't
 Some men were
 Some men is
@@ -497,7 +497,7 @@ The offspring do n't
 That woman does
 That woman do
 A lot of men have n't
-A lot of men hasn't
+A lot of men has n't
 Every child was
 Every child were
 Some man does n't
@@ -511,7 +511,7 @@ The people is n't
 That medium has
 That medium have
 Some people have n't
-Some people hasn't
+Some people has n't
 This child is
 This child were
 The woman is
@@ -561,7 +561,7 @@ Many people is
 That man is n't
 That man are n't
 All men have n't
-All men hasn't
+All men has n't
 Every person is
 Every person are
 Every man wasn't
@@ -595,7 +595,7 @@ An alumnus have
 This offspring wasn't
 This offspring are n't
 These people have n't
-These people hasn't
+These people has n't
 Some child wasn't
 Some child weren't
 All men are n't
@@ -604,7 +604,7 @@ The man does n't
 The man do n't
 The women do n't
 The women does n't
-Every woman hasn't
+Every woman has n't
 Every woman have n't
 Many women are n't
 Many women wasn't
@@ -636,7 +636,7 @@ This diagnosis is n't
 This diagnosis are n't
 That man is n't
 That man are n't
-That mouse hasn't
+That mouse has n't
 That mouse have n't
 That analysis has
 That analysis have
@@ -655,14 +655,14 @@ Most men wasn't
 Many women do n't
 Many women does n't
 Men have n't
-Men hasn't
+Men has n't
 These women have n't
-These women hasn't
+These women has n't
 Some man does
 Some man do
-The woman hasn't
+The woman has n't
 The woman have n't
-A woman hasn't
+A woman has n't
 A woman have n't
 A lot of men have
 A lot of men has
@@ -686,7 +686,7 @@ Every stimulus does n't
 Every stimulus do n't
 That person has
 That person have
-Some child hasn't
+Some child has n't
 Some child have n't
 People do n't
 People does n't
@@ -712,7 +712,7 @@ Every person is n't
 Every person weren't
 That child does n't
 That child do n't
-Every woman hasn't
+Every woman has n't
 Every woman have n't
 That offspring is n't
 That offspring are n't
@@ -720,7 +720,7 @@ Some people are
 Some people was
 That person wasn't
 That person weren't
-That child hasn't
+That child has n't
 That child have n't
 A woman wasn't
 A woman weren't
@@ -732,7 +732,7 @@ This man does n't
 This man do n't
 Some offspring does n't
 Some offspring do n't
-This child hasn't
+This child has n't
 This child have n't
 These men do
 These men does
@@ -744,13 +744,13 @@ Most men do
 Most men does
 This foot has
 This foot have
-The man hasn't
+The man has n't
 The man have n't
 Every offspring has
 Every offspring have
 Every man was
 Every man are
-This man hasn't
+This man has n't
 This man have n't
 Every series was
 Every series were
@@ -762,7 +762,7 @@ All men do
 All men does
 A man has
 A man have
-Some child hasn't
+Some child has n't
 Some child have n't
 These men weren't
 These men is n't
@@ -773,12 +773,12 @@ These women has
 The octopus was
 The octopus are
 A lot of women have n't
-A lot of women hasn't
+A lot of women has n't
 That analysis does n't
 That analysis do n't
 That alumnus wasn't
 That alumnus are n't
-Some child hasn't
+Some child has n't
 Some child have n't
 That child was
 That child are
@@ -837,7 +837,7 @@ An offspring do n't
 That offspring does n't
 That offspring do n't
 The men have n't
-The men hasn't
+The men has n't
 Some species is
 Some species were
 The women do n't
@@ -856,10 +856,10 @@ A woman has
 A woman have
 This person wasn't
 This person are n't
-A person hasn't
+A person has n't
 A person have n't
 Most men have n't
-Most men hasn't
+Most men has n't
 Every man does n't
 Every man do n't
 Many women have
@@ -883,11 +883,11 @@ Some child do
 The woman was
 The woman are
 People have n't
-People hasn't
+People has n't
 These women have
 These women has
 A lot of women have n't
-A lot of women hasn't
+A lot of women has n't
 That series has
 That series have
 That foot has
@@ -904,7 +904,7 @@ Some person was
 Some person are
 This woman does n't
 This woman do n't
-A person hasn't
+A person has n't
 A person have n't
 The man is n't
 The man weren't
@@ -938,7 +938,7 @@ The sheep is n't
 The sheep weren't
 Every woman does n't
 Every woman do n't
-The child hasn't
+The child has n't
 The child have n't
 Every woman wasn't
 Every woman are n't
@@ -954,7 +954,7 @@ Most women are n't
 Most women wasn't
 That woman is
 That woman are
-This thesis hasn't
+This thesis has n't
 This thesis have n't
 That man has
 That man have
@@ -972,7 +972,7 @@ An offspring was
 An offspring are
 The species does n't
 The species do n't
-That woman hasn't
+That woman has n't
 That woman have n't
 All men do
 All men does
@@ -987,7 +987,7 @@ Some man are n't
 This child does n't
 This child do n't
 Women have n't
-Women hasn't
+Women has n't
 The man has
 The man have
 The person is n't
@@ -996,7 +996,7 @@ Some man does n't
 Some man do n't
 That woman was
 That woman are
-This person hasn't
+This person has n't
 This person have n't
 An offspring does
 An offspring do
@@ -1006,10 +1006,10 @@ This alumnus is n't
 This alumnus weren't
 A woman has
 A woman have
-Every goose hasn't
+Every goose has n't
 Every goose have n't
 Women have n't
-Women hasn't
+Women has n't
 Some women do n't
 Some women does n't
 Some woman is
@@ -1028,12 +1028,12 @@ That child does
 That child do
 A lot of women do n't
 A lot of women does n't
-The man hasn't
+The man has n't
 The man have n't
 All women are
 All women is
 The men have n't
-The men hasn't
+The men has n't
 That radius does
 That radius do
 An analysis does
@@ -1048,7 +1048,7 @@ Some people have
 Some people has
 Every goose does
 Every goose do
-That child hasn't
+That child has n't
 That child have n't
 Every deer does n't
 Every deer do n't
@@ -1060,13 +1060,13 @@ This man was
 This man were
 This offspring does
 This offspring do
-That axis hasn't
+That axis has n't
 That axis have n't
 Most people were
 Most people was
 Every offspring does n't
 Every offspring do n't
-That alumnus hasn't
+That alumnus has n't
 That alumnus have n't
 This man wasn't
 This man are n't
@@ -1084,7 +1084,7 @@ Every woman does n't
 Every woman do n't
 Every man is n't
 Every man weren't
-That alumnus hasn't
+That alumnus has n't
 That alumnus have n't
 This person wasn't
 This person are n't
@@ -1094,14 +1094,14 @@ Most people do
 Most people does
 This offspring does n't
 This offspring do n't
-Some child hasn't
+Some child has n't
 Some child have n't
 Many women have n't
-Many women hasn't
+Many women has n't
 Many people are n't
 Many people wasn't
 These men have n't
-These men hasn't
+These men has n't
 Every person has
 Every person have
 An offspring was
@@ -1143,7 +1143,7 @@ The child do n't
 All men do n't
 All men does n't
 A lot of people have n't
-A lot of people hasn't
+A lot of people has n't
 A child does
 A child do
 A woman was
@@ -1172,13 +1172,13 @@ The men do
 The men does
 The radius is
 The radius were
-The woman hasn't
+The woman has n't
 The woman have n't
 The child does
 The child do
 This ox does
 This ox do
-That woman hasn't
+That woman has n't
 That woman have n't
 This person wasn't
 This person are n't
@@ -1190,12 +1190,12 @@ The offspring does n't
 The offspring do n't
 An alumnus does n't
 An alumnus do n't
-That woman hasn't
+That woman has n't
 That woman have n't
 The child does
 The child do
 Most people have n't
-Most people hasn't
+Most people has n't
 Every man has
 Every man have
 This man has
@@ -1209,7 +1209,7 @@ That goose do n't
 Many people weren't
 Many people is n't
 These people have n't
-These people hasn't
+These people has n't
 A lot of people are n't
 A lot of people wasn't
 All women weren't
@@ -1229,8 +1229,8 @@ Some people is n't
 This child does n't
 This child do n't
 Most men have n't
-Most men hasn't
-Some woman hasn't
+Most men has n't
+Some woman has n't
 Some woman have n't
 Most people have
 Most people has
@@ -1266,7 +1266,7 @@ Some synopsis does
 Some synopsis do
 Every deer is n't
 Every deer weren't
-That child hasn't
+That child has n't
 That child have n't
 Some men have
 Some men has
@@ -1283,8 +1283,8 @@ The woman do
 This child does
 This child do
 All people have n't
-All people hasn't
-A man hasn't
+All people has n't
+A man has n't
 A man have n't
 Many people do n't
 Many people does n't
@@ -1322,7 +1322,7 @@ Some woman does
 Some woman do
 A lot of people were
 A lot of people is
-This louse hasn't
+This louse has n't
 This louse have n't
 The alumnus does n't
 The alumnus do n't
@@ -1337,14 +1337,14 @@ The woman were
 Some alumnus does
 Some alumnus do
 Some people have n't
-Some people hasn't
+Some people has n't
 The woman does n't
 The woman do n't
 That man does
 That man do
 Some radius is
 Some radius were
-The child hasn't
+The child has n't
 The child have n't
 Some man is n't
 Some man are n't
@@ -1352,13 +1352,13 @@ The fish is
 The fish were
 Every alumnus does
 Every alumnus do
-The offspring hasn't
+The offspring has n't
 The offspring have n't
 Some man was
 Some man were
 Most people do
 Most people does
-Some person hasn't
+Some person has n't
 Some person have n't
 Many women do
 Many women does
@@ -1415,7 +1415,7 @@ Many women has
 Some woman was
 Some woman were
 Some people have n't
-Some people hasn't
+Some people has n't
 The women have
 The women has
 All women have
@@ -1428,11 +1428,11 @@ The thesis does n't
 The thesis do n't
 Some woman has
 Some woman have
-The woman hasn't
+The woman has n't
 The woman have n't
 Some women do
 Some women does
-The woman hasn't
+The woman has n't
 The woman have n't
 Most men were
 Most men was
@@ -1460,7 +1460,7 @@ An alumnus does n't
 An alumnus do n't
 A person has
 A person have
-Some woman hasn't
+Some woman has n't
 Some woman have n't
 That child was
 That child are
@@ -1501,7 +1501,7 @@ An offspring do n't
 Most men are
 Most men was
 These men have n't
-These men hasn't
+These men has n't
 Some men were
 Some men was
 An alumnus is n't
@@ -1513,9 +1513,9 @@ The woman have
 Most women have
 Most women has
 Most women have n't
-Most women hasn't
+Most women has n't
 All men have n't
-All men hasn't
+All men has n't
 The child does n't
 The child do n't
 Some woman does
@@ -1529,7 +1529,7 @@ Every thesis do n't
 Most men are
 Most men was
 Women have n't
-Women hasn't
+Women has n't
 This woman is
 This woman were
 Some alumnus has
@@ -1541,7 +1541,7 @@ A child are
 Every woman does n't
 Every woman do n't
 Many men have n't
-Many men hasn't
+Many men has n't
 That child does
 That child do
 All people do
@@ -1557,14 +1557,14 @@ All men is
 Some men do n't
 Some men does n't
 Women have n't
-Women hasn't
+Women has n't
 The women were
 The women was
 That fish has
 That fish have
 The man has
 The man have
-The woman hasn't
+The woman has n't
 The woman have n't
 All women weren't
 All women wasn't
@@ -1593,7 +1593,7 @@ That cactus were
 Every child does
 Every child do
 The men have n't
-The men hasn't
+The men has n't
 A lot of women weren't
 A lot of women wasn't
 A lot of women do
@@ -1603,17 +1603,17 @@ Men is n't
 That child does n't
 That child do n't
 Many men have n't
-Many men hasn't
+Many men has n't
 A person is
 A person are
 Most women do n't
 Most women does n't
 Men have n't
-Men hasn't
+Men has n't
 Some child does n't
 Some child do n't
 Some people have n't
-Some people hasn't
+Some people has n't
 This child wasn't
 This child are n't
 Every person wasn't
@@ -1662,7 +1662,7 @@ The people do
 The people does
 Every person does
 Every person do
-A woman hasn't
+A woman has n't
 A woman have n't
 An alumnus does n't
 An alumnus do n't
@@ -1677,20 +1677,20 @@ That child do n't
 Some women are
 Some women was
 The people have n't
-The people hasn't
+The people has n't
 Every woman is n't
 Every woman weren't
 That child does
 That child do
 A lot of men do
 A lot of men does
-Some offspring hasn't
+Some offspring has n't
 Some offspring have n't
 Some women do n't
 Some women does n't
-That child hasn't
+That child has n't
 That child have n't
-That person hasn't
+That person has n't
 That person have n't
 Women are
 Women was
@@ -1705,7 +1705,7 @@ Men does n't
 Some child was
 Some child were
 Many women have n't
-Many women hasn't
+Many women has n't
 Some woman is
 Some woman were
 This child wasn't
@@ -1724,15 +1724,15 @@ This person does n't
 This person do n't
 These people are n't
 These people is n't
-This woman hasn't
+This woman has n't
 This woman have n't
 A lot of men do n't
 A lot of men does n't
 Some women are n't
 Some women is n't
-That parenthesis hasn't
+That parenthesis has n't
 That parenthesis have n't
-Every fungus hasn't
+Every fungus has n't
 Every fungus have n't
 Every woman has
 Every woman have
@@ -1740,13 +1740,13 @@ The woman does n't
 The woman do n't
 Some offspring has
 Some offspring have
-A child hasn't
+A child has n't
 A child have n't
 Some women have
 Some women has
 The men have n't
-The men hasn't
-This woman hasn't
+The men has n't
+This woman has n't
 This woman have n't
 The women weren't
 The women wasn't
@@ -1762,7 +1762,7 @@ These men do
 These men does
 That person is
 That person are
-Every man hasn't
+Every man has n't
 Every man have n't
 All men are
 All men is
@@ -1791,27 +1791,27 @@ A lot of women has
 A lot of men do
 A lot of men does
 Many women have n't
-Many women hasn't
+Many women has n't
 The women have n't
-The women hasn't
+The women has n't
 A woman has
 A woman have
 Most women do n't
 Most women does n't
 Many women do
 Many women does
-Some woman hasn't
+Some woman has n't
 Some woman have n't
 That child does n't
 That child do n't
 Every woman is n't
 Every woman weren't
-Every child hasn't
+Every child has n't
 Every child have n't
-Every woman hasn't
+Every woman has n't
 Every woman have n't
 A lot of men have n't
-A lot of men hasn't
+A lot of men has n't
 The woman is
 The woman were
 That parenthesis has
@@ -1832,9 +1832,9 @@ The child has
 The child have
 These people do n't
 These people does n't
-That man hasn't
+That man has n't
 That man have n't
-Some alumnus hasn't
+Some alumnus has n't
 Some alumnus have n't
 An offspring does n't
 An offspring do n't
@@ -1845,7 +1845,7 @@ Many men does
 That child was
 That child were
 The women have n't
-The women hasn't
+The women has n't
 A lot of men do n't
 A lot of men does n't
 Every woman does n't
@@ -1858,7 +1858,7 @@ That tooth has
 That tooth have
 Most people weren't
 Most people wasn't
-Every child hasn't
+Every child has n't
 Every child have n't
 The child does
 The child do
@@ -1876,17 +1876,17 @@ Most women have
 Most women has
 Most people do n't
 Most people does n't
-Every offspring hasn't
+Every offspring has n't
 Every offspring have n't
 The child is
 The child are
 Many people are
 Many people is
-Every offspring hasn't
+Every offspring has n't
 Every offspring have n't
 That woman does n't
 That woman do n't
-Every child hasn't
+Every child has n't
 Every child have n't
 Some man has
 Some man have
@@ -1894,15 +1894,15 @@ Some alumnus wasn't
 Some alumnus weren't
 People have
 People has
-A man hasn't
+A man has n't
 A man have n't
-Some man hasn't
+Some man has n't
 Some man have n't
-Some woman hasn't
+Some woman has n't
 Some woman have n't
 The person does n't
 The person do n't
-This offspring hasn't
+This offspring has n't
 This offspring have n't
 Every man wasn't
 Every man weren't
@@ -1917,7 +1917,7 @@ All men is
 The woman is
 The woman are
 All women have n't
-All women hasn't
+All women has n't
 The people are
 The people is
 Every woman has
@@ -1926,7 +1926,7 @@ This sheep is
 This sheep are
 The women are n't
 The women is n't
-Every alumnus hasn't
+Every alumnus has n't
 Every alumnus have n't
 Most women are n't
 Most women is n't
@@ -1956,10 +1956,10 @@ Some man wasn't
 Some man are n't
 This synopsis does
 This synopsis do
-That child hasn't
+That child has n't
 That child have n't
 Some women have n't
-Some women hasn't
+Some women has n't
 Every offspring does
 Every offspring do
 This stimulus does
@@ -1982,15 +1982,15 @@ This woman does n't
 This woman do n't
 Some woman does n't
 Some woman do n't
-The child hasn't
+The child has n't
 The child have n't
 These men do
 These men does
 Some people were
 Some people is
 Many men have n't
-Many men hasn't
-A child hasn't
+Many men has n't
+A child has n't
 A child have n't
 Most people do
 Most people does
