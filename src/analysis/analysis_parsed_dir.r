@@ -3,7 +3,7 @@ library(jsonlite)
 
 setwd("~/GitHub/colorlessgreenRNNs/src/analysis")
 
-sentence_path = "~/GitHub/colorlessgreenRNNs/results/sentence_rerun/"
+sentence_path = "~/GitHub/colorlessgreenRNNs/results/sentence_full/"
 sentence_file = list.files(sentence_path)
 sentence_file = sentence_file[grepl("_parsed", sentence_file)]
 
@@ -15,7 +15,7 @@ for (file in sentence_file){
   no_ext = gsub("_output_parsed\\.tab", "", file)
   data = stream_in(file(paste(jsonl_path, no_ext, ".jsonl", sep="")))
   data = as_data_frame(data)
-  data = select(data, sentence_good, sentence_bad, category, 
+  data = select(data, sentence_good, sentence_bad,
                 field, linguistics_term, UID, 
                 simple_LM_method, one_prefix_method, two_prefix_method, 
                 lexically_identical)
@@ -27,7 +27,7 @@ for (file in sentence_file){
 
 result_sent$type = "sentence"
 
-prefix_path = "~/GitHub/colorlessgreenRNNs/results/prefix_rerun/"
+prefix_path = "~/GitHub/colorlessgreenRNNs/results/prefix_full/"
 prefix_file = list.files(prefix_path)
 prefix_file = prefix_file[grepl("_parsed", prefix_file)]
 
@@ -37,7 +37,7 @@ for (file in prefix_file){
   no_ext = gsub("_output_parsed\\.tab", "", file)
   data = stream_in(file(paste(jsonl_path, no_ext, ".jsonl", sep="")))
   data = as_data_frame(data)
-  data = select(data, sentence_good, sentence_bad, category, 
+  data = select(data, sentence_good, sentence_bad,  
                 field, linguistics_term, UID, 
                 simple_LM_method, one_prefix_method, two_prefix_method, 
                 lexically_identical)
@@ -61,7 +61,7 @@ group_by(result_all, type) %>% summarise(acc = mean(prob_dec), n = n())
 
 View(breakdown)  
 
-write.table(result_all, "scil_pilot.tsv", sep='\t', quote=F, row.names = F)
-write.table(breakdown, "scil_breakdown.tsv", sep='\t', quote=F, row.names = F)
+write.table(result_all, "scil_pilot_full.tsv", sep='\t', quote=F, row.names = F)
+write.table(breakdown, "scil_breakdown_full.tsv", sep='\t', quote=F, row.names = F)
 
 
