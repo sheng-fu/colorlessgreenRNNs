@@ -568,8 +568,8 @@ Craig clearly works hard . <eos>
 Craig ever works hard . <eos>
 All eyes have really shut . <eos>
 All eyes have ever shut . <eos>
-Gina has also explained Steve doesn't reference James . <eos>
-Gina has ever explained Steve doesn't reference James . <eos>
+Gina has also explained Steve does n't reference James . <eos>
+Gina has ever explained Steve does n't reference James . <eos>
 A pedestrian might often eat . <eos>
 A pedestrian might ever eat . <eos>
 Allison clearly realized who regret these rivers hadn't impressed Vincent . <eos>
@@ -910,8 +910,8 @@ Danielle has certainly toured the mall . <eos>
 Danielle has ever toured the mall . <eos>
 Stacey had certainly ran around many libraries . <eos>
 Stacey had ever ran around many libraries . <eos>
-Tara certainly wonders who doesn't irritate that patient . <eos>
-Tara ever wonders who doesn't irritate that patient . <eos>
+Tara certainly wonders who does n't irritate that patient . <eos>
+Tara ever wonders who does n't irritate that patient . <eos>
 Alice often investigated who think these boys hadn't departed . <eos>
 Alice ever investigated who think these boys hadn't departed . <eos>
 Every teacher really impressed Ella . <eos>
@@ -1354,8 +1354,8 @@ Florence did often sing . <eos>
 Florence did ever sing . <eos>
 Bill should really leave . <eos>
 Bill should ever leave . <eos>
-Brad also wanted to want Teresa to doubt every banana doesn't rot . <eos>
-Brad ever wanted to want Teresa to doubt every banana doesn't rot . <eos>
+Brad also wanted to want Teresa to doubt every banana does n't rot . <eos>
+Brad ever wanted to want Teresa to doubt every banana does n't rot . <eos>
 A library had also conferred . <eos>
 A library had ever conferred . <eos>
 Walter also visited Gregory . <eos>
@@ -1462,8 +1462,8 @@ Many patients certainly clashed . <eos>
 Many patients ever clashed . <eos>
 Some cashiers really refuse to like Frank . <eos>
 Some cashiers ever refuse to like Frank . <eos>
-Marla will really figure out who hasn't investigated Theresa . <eos>
-Marla will ever figure out who hasn't investigated Theresa . <eos>
+Marla will really figure out who has n't investigated Theresa . <eos>
+Marla will ever figure out who has n't investigated Theresa . <eos>
 All patients certainly whisper . <eos>
 All patients ever whisper . <eos>
 Rachelle would often play . <eos>
@@ -1896,8 +1896,8 @@ Marie really hunted . <eos>
 Marie ever hunted . <eos>
 Claire clearly complained about Scott . <eos>
 Claire ever complained about Scott . <eos>
-Men clearly know who hasn't littered . <eos>
-Men ever know who hasn't littered . <eos>
+Men clearly know who has n't littered . <eos>
+Men ever know who has n't littered . <eos>
 Melinda also wanted Kenneth to hate Mitchell . <eos>
 Melinda ever wanted Kenneth to hate Mitchell . <eos>
 Pedestrians clearly go fishing . <eos>

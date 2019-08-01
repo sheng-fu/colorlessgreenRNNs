@@ -40,10 +40,10 @@ George imagines Alicia talks about herself . <eos>
 Alicia imagines George talks about herself . <eos>
 Catherine thinks William helps himself . <eos>
 William thinks Catherine helps himself . <eos>
-George doesn't say Deborah will help herself . <eos>
-Deborah doesn't say George will help herself . <eos>
-Bruce doesn't think Katherine didn't hide herself . <eos>
-Katherine doesn't think Bruce didn't hide herself . <eos>
+George does n't say Deborah will help herself . <eos>
+Deborah does n't say George will help herself . <eos>
+Bruce does n't think Katherine didn't hide herself . <eos>
+Katherine does n't think Bruce didn't hide herself . <eos>
 Eva explains James will care for himself . <eos>
 James explains Eva will care for himself . <eos>
 Timothy won't think Caroline appreciates herself . <eos>
@@ -52,8 +52,8 @@ Sara explains Russell would annoy himself . <eos>
 Russell explains Sara would annoy himself . <eos>
 A girl might say Stephen returns to himself . <eos>
 Stephen might say a girl returns to himself . <eos>
-Christina explains Raymond doesn't investigate himself . <eos>
-Raymond explains Christina doesn't investigate himself . <eos>
+Christina explains Raymond does n't investigate himself . <eos>
+Raymond explains Christina does n't investigate himself . <eos>
 Amy imagines Todd discusses himself . <eos>
 Todd imagines Amy discusses himself . <eos>
 Danielle thinks Stacy's son couldn't alarm himself . <eos>
@@ -64,8 +64,8 @@ Meredith should explain Homer would flee from himself . <eos>
 Homer should explain Meredith would flee from himself . <eos>
 Allison can say Christopher wouldn't upset himself . <eos>
 Christopher can say Allison wouldn't upset himself . <eos>
-Frank thinks Sonia doesn't help herself . <eos>
-Sonia thinks Frank doesn't help herself . <eos>
+Frank thinks Sonia does n't help herself . <eos>
+Sonia thinks Frank does n't help herself . <eos>
 Elaine didn't imagine Phillip couldn't return to himself . <eos>
 Phillip didn't imagine Elaine couldn't return to himself . <eos>
 Caroline can't think George conceals himself . <eos>
@@ -98,8 +98,8 @@ Nancy couldn't explain Marcus's father wouldn't flee from himself . <eos>
 Marcus's father couldn't explain Nancy wouldn't flee from himself . <eos>
 Jane shouldn't say Patrick shouldn't impress himself . <eos>
 Patrick shouldn't say Jane shouldn't impress himself . <eos>
-Kendra could explain Gary doesn't fire himself . <eos>
-Gary could explain Kendra doesn't fire himself . <eos>
+Kendra could explain Gary does n't fire himself . <eos>
+Gary could explain Kendra does n't fire himself . <eos>
 Veronica thinks Bruce visits himself . <eos>
 Bruce thinks Veronica visits himself . <eos>
 Noah's ex-husband says Rachel wouldn't know herself . <eos>
@@ -130,12 +130,12 @@ Ruth says every man can't bother himself . <eos>
 Every man says Ruth can't bother himself . <eos>
 Donald could think Sharon wouldn't forget herself . <eos>
 Sharon could think Donald wouldn't forget herself . <eos>
-Heather doesn't say John does admire himself . <eos>
-John doesn't say Heather does admire himself . <eos>
+Heather does n't say John does admire himself . <eos>
+John does n't say Heather does admire himself . <eos>
 Lucille did explain Keith won't care for himself . <eos>
 Keith did explain Lucille won't care for himself . <eos>
-Erin does think Matt doesn't admire himself . <eos>
-Matt does think Erin doesn't admire himself . <eos>
+Erin does think Matt does n't admire himself . <eos>
+Matt does think Erin does n't admire himself . <eos>
 Martin says Laura does praise herself . <eos>
 Laura says Martin does praise herself . <eos>
 William explains Sarah discusses herself . <eos>
@@ -146,8 +146,8 @@ Martin imagines Valerie didn't impress herself . <eos>
 Valerie imagines Martin didn't impress herself . <eos>
 Mitchell explains Melissa will investigate herself . <eos>
 Melissa explains Mitchell will investigate herself . <eos>
-Kevin says Cheryl doesn't hurt herself . <eos>
-Cheryl says Kevin doesn't hurt herself . <eos>
+Kevin says Cheryl does n't hurt herself . <eos>
+Cheryl says Kevin does n't hurt herself . <eos>
 Curtis imagines Lori can listen to herself . <eos>
 Lori imagines Curtis can listen to herself . <eos>
 Donald imagines Theresa can see herself . <eos>
@@ -172,8 +172,8 @@ Jerry thinks Teresa could escape from herself . <eos>
 Teresa thinks Jerry could escape from herself . <eos>
 Allison thinks Daniel can criticize himself . <eos>
 Daniel thinks Allison can criticize himself . <eos>
-Thomas could say this son of Jennifer's sister doesn't escape from herself . <eos>
-This son of Jennifer's sister could say Thomas doesn't escape from herself . <eos>
+Thomas could say this son of Jennifer's sister does n't escape from herself . <eos>
+This son of Jennifer's sister could say Thomas does n't escape from herself . <eos>
 All actresses' niece didn't say Natalie's grandfather does distract himself . <eos>
 Natalie's grandfather didn't say all actresses' niece does distract himself . <eos>
 Steve's grandfather says Marie won't argue about herself . <eos>
@@ -224,8 +224,8 @@ Susan couldn't explain every brother of that nephew of girls' French teacher's b
 Every brother of that nephew of girls' French teacher's brother couldn't explain Susan could stun himself . <eos>
 Gary shouldn't think Dawn didn't distract herself . <eos>
 Dawn shouldn't think Gary didn't distract herself . <eos>
-A lady doesn't think Richard approaches himself . <eos>
-Richard doesn't think a lady approaches himself . <eos>
+A lady does n't think Richard approaches himself . <eos>
+Richard does n't think a lady approaches himself . <eos>
 Bradley explains an actress didn't conceal herself . <eos>
 An actress explains Bradley didn't conceal herself . <eos>
 All granddaughters of Carlos's ex-boyfriend's grandmother imagines Walter likes himself . <eos>
@@ -256,8 +256,8 @@ Sheila imagines Samuel reveals himself . <eos>
 Samuel imagines Sheila reveals himself . <eos>
 Paula says Peter might listen to himself . <eos>
 Peter says Paula might listen to himself . <eos>
-Deanna doesn't explain Guy shouldn't flee from himself . <eos>
-Guy doesn't explain Deanna shouldn't flee from himself . <eos>
+Deanna does n't explain Guy shouldn't flee from himself . <eos>
+Guy does n't explain Deanna shouldn't flee from himself . <eos>
 Christine imagines John did visit himself . <eos>
 John imagines Christine did visit himself . <eos>
 Brett says Theresa should alarm herself . <eos>
@@ -272,8 +272,8 @@ Mark explains Carol fires herself . <eos>
 Carol explains Mark fires herself . <eos>
 Deanna would think Dennis could hug himself . <eos>
 Dennis would think Deanna could hug himself . <eos>
-John can imagine Naomi doesn't shock herself . <eos>
-Naomi can imagine John doesn't shock herself . <eos>
+John can imagine Naomi does n't shock herself . <eos>
+Naomi can imagine John does n't shock herself . <eos>
 Donald would think Melanie discusses herself . <eos>
 Melanie would think Donald discusses herself . <eos>
 Veronica says Travis approaches himself . <eos>
@@ -300,14 +300,14 @@ Alan should say Deborah can't like herself . <eos>
 Deborah should say Alan can't like herself . <eos>
 Catherine explains Matt can listen to himself . <eos>
 Matt explains Catherine can listen to himself . <eos>
-Deborah imagines Kenneth's son doesn't appreciate himself . <eos>
-Kenneth's son imagines Deborah doesn't appreciate himself . <eos>
+Deborah imagines Kenneth's son does n't appreciate himself . <eos>
+Kenneth's son imagines Deborah does n't appreciate himself . <eos>
 Kendra imagines Robert does care for himself . <eos>
 Robert imagines Kendra does care for himself . <eos>
 Melanie thinks William can't embarrass himself . <eos>
 William thinks Melanie can't embarrass himself . <eos>
-Homer doesn't imagine Caroline can't reveal herself . <eos>
-Caroline doesn't imagine Homer can't reveal herself . <eos>
+Homer does n't imagine Caroline can't reveal herself . <eos>
+Caroline does n't imagine Homer can't reveal herself . <eos>
 Helen can think Lawrence hates himself . <eos>
 Lawrence can think Helen hates himself . <eos>
 Suzanne explains Dennis wouldn't impress himself . <eos>
@@ -332,8 +332,8 @@ Brett says Marla appreciates herself . <eos>
 Marla says Brett appreciates herself . <eos>
 Gary couldn't imagine Sandra couldn't stun herself . <eos>
 Sandra couldn't imagine Gary couldn't stun herself . <eos>
-Aaron doesn't imagine Mary conceals herself . <eos>
-Mary doesn't imagine Aaron conceals herself . <eos>
+Aaron does n't imagine Mary conceals herself . <eos>
+Mary does n't imagine Aaron conceals herself . <eos>
 Joseph thinks Andrea couldn't return to herself . <eos>
 Andrea thinks Joseph couldn't return to herself . <eos>
 Kevin thinks Alice should scare herself . <eos>
@@ -350,8 +350,8 @@ George won't imagine Tiffany can return to herself . <eos>
 Tiffany won't imagine George can return to herself . <eos>
 Emily didn't say Phillip shouldn't aggravate himself . <eos>
 Phillip didn't say Emily shouldn't aggravate himself . <eos>
-Tammy doesn't think Chad admires himself . <eos>
-Chad doesn't think Tammy admires himself . <eos>
+Tammy does n't think Chad admires himself . <eos>
+Chad does n't think Tammy admires himself . <eos>
 Leslie will say that brother of Amelia's nephew can't talk about himself . <eos>
 That brother of Amelia's nephew will say Leslie can't talk about himself . <eos>
 Samantha does imagine Rodney did flee from himself . <eos>
@@ -386,8 +386,8 @@ Douglas can't think Sabrina did remember herself . <eos>
 Sabrina can't think Douglas did remember herself . <eos>
 Sherry says Noah criticizes himself . <eos>
 Noah says Sherry criticizes himself . <eos>
-Sarah doesn't imagine Bill listens to himself . <eos>
-Bill doesn't imagine Sarah listens to himself . <eos>
+Sarah does n't imagine Bill listens to himself . <eos>
+Bill does n't imagine Sarah listens to himself . <eos>
 Judy says David listens to himself . <eos>
 David says Judy listens to himself . <eos>
 Vincent thinks Jane might praise herself . <eos>
@@ -420,8 +420,8 @@ Randolf imagines Jennifer wouldn't distract herself . <eos>
 Jennifer imagines Randolf wouldn't distract herself . <eos>
 Melanie's boyfriend could imagine Victoria won't talk about herself . <eos>
 Victoria could imagine Melanie's boyfriend won't talk about herself . <eos>
-Teresa wouldn't think Charles doesn't fire himself . <eos>
-Charles wouldn't think Teresa doesn't fire himself . <eos>
+Teresa wouldn't think Charles does n't fire himself . <eos>
+Charles wouldn't think Teresa does n't fire himself . <eos>
 William thinks Anna describes herself . <eos>
 Anna thinks William describes herself . <eos>
 Alan explains Colleen will disturb herself . <eos>
@@ -446,8 +446,8 @@ Kimberley shouldn't say Adam will reveal himself . <eos>
 Adam shouldn't say Kimberley will reveal himself . <eos>
 Lisa thinks Timothy did find himself . <eos>
 Timothy thinks Lisa did find himself . <eos>
-Becky imagines Alexander doesn't escape from himself . <eos>
-Alexander imagines Becky doesn't escape from himself . <eos>
+Becky imagines Alexander does n't escape from himself . <eos>
+Alexander imagines Becky does n't escape from himself . <eos>
 Martin wouldn't explain Ruth did forget herself . <eos>
 Ruth wouldn't explain Martin did forget herself . <eos>
 A grandfather of Veronica's boyfriend can't say Anna would impress herself . <eos>
@@ -482,8 +482,8 @@ That dancer didn't say Steven likes himself . <eos>
 Steven didn't say that dancer likes himself . <eos>
 Michael's employees' grandson will imagine Colleen couldn't hate herself . <eos>
 Colleen will imagine Michael's employees' grandson couldn't hate herself . <eos>
-Charles doesn't explain Valerie leaves herself . <eos>
-Valerie doesn't explain Charles leaves herself . <eos>
+Charles does n't explain Valerie leaves herself . <eos>
+Valerie does n't explain Charles leaves herself . <eos>
 Brian explains Marie remembers herself . <eos>
 Marie explains Brian remembers herself . <eos>
 Becca should explain Brian knows himself . <eos>
@@ -516,8 +516,8 @@ Keith might imagine April might discuss herself . <eos>
 April might imagine Keith might discuss herself . <eos>
 Elaine says David sees himself . <eos>
 David says Elaine sees himself . <eos>
-Denise thinks Derek doesn't talk about himself . <eos>
-Derek thinks Denise doesn't talk about himself . <eos>
+Denise thinks Derek does n't talk about himself . <eos>
+Derek thinks Denise does n't talk about himself . <eos>
 Christopher says Victoria will upset herself . <eos>
 Victoria says Christopher will upset herself . <eos>
 Bill says Sharon respects herself . <eos>
@@ -530,8 +530,8 @@ Phillip shouldn't think Sandra works with herself . <eos>
 Sandra shouldn't think Phillip works with herself . <eos>
 Keith imagines Nicole fires herself . <eos>
 Nicole imagines Keith fires herself . <eos>
-Martin could explain Carolyn doesn't hide herself . <eos>
-Carolyn could explain Martin doesn't hide herself . <eos>
+Martin could explain Carolyn does n't hide herself . <eos>
+Carolyn could explain Martin does n't hide herself . <eos>
 Richard explains Wendy wouldn't return to herself . <eos>
 Wendy explains Richard wouldn't return to herself . <eos>
 Brett thinks Carmen wouldn't astound herself . <eos>
@@ -556,8 +556,8 @@ Homer says Angela respects herself . <eos>
 Angela says Homer respects herself . <eos>
 Rhonda could say Raymond finds himself . <eos>
 Raymond could say Rhonda finds himself . <eos>
-Carlos doesn't think Amy won't admire herself . <eos>
-Amy doesn't think Carlos won't admire herself . <eos>
+Carlos does n't think Amy won't admire herself . <eos>
+Amy does n't think Carlos won't admire herself . <eos>
 Beverly says Brett sounds like himself . <eos>
 Brett says Beverly sounds like himself . <eos>
 Tammy explains John's grandfather talks about himself . <eos>
@@ -568,8 +568,8 @@ Veronica's sister says Derek should shock himself . <eos>
 Derek says Veronica's sister should shock himself . <eos>
 Elizabeth thinks Joseph can't describe himself . <eos>
 Joseph thinks Elizabeth can't describe himself . <eos>
-Andrea says Omar doesn't conceal himself . <eos>
-Omar says Andrea doesn't conceal himself . <eos>
+Andrea says Omar does n't conceal himself . <eos>
+Omar says Andrea does n't conceal himself . <eos>
 Daniel shouldn't imagine Heather might listen to herself . <eos>
 Heather shouldn't imagine Daniel might listen to herself . <eos>
 Leslie thinks Richard talks about himself . <eos>
@@ -590,8 +590,8 @@ Ella's senators' brother did think Susan forgets herself . <eos>
 Susan did think Ella's senators' brother forgets herself . <eos>
 Bruce says Linda did confuse herself . <eos>
 Linda says Bruce did confuse herself . <eos>
-Elizabeth couldn't say David doesn't aggravate himself . <eos>
-David couldn't say Elizabeth doesn't aggravate himself . <eos>
+Elizabeth couldn't say David does n't aggravate himself . <eos>
+David couldn't say Elizabeth does n't aggravate himself . <eos>
 Carla imagines Curtis would appreciate himself . <eos>
 Curtis imagines Carla would appreciate himself . <eos>
 Becca says this boy visits himself . <eos>
@@ -690,8 +690,8 @@ Edward does imagine Stacy heals herself . <eos>
 Stacy does imagine Edward heals herself . <eos>
 Anna thinks Vincent does see himself . <eos>
 Vincent thinks Anna does see himself . <eos>
-Anna doesn't say Frank's nephew won't upset himself . <eos>
-Frank's nephew doesn't say Anna won't upset himself . <eos>
+Anna does n't say Frank's nephew won't upset himself . <eos>
+Frank's nephew does n't say Anna won't upset himself . <eos>
 Heather says Larry does disgust himself . <eos>
 Larry says Heather does disgust himself . <eos>
 Kristin shouldn't explain Gregory conceals himself . <eos>
@@ -706,8 +706,8 @@ Debra says Derek hates himself . <eos>
 Derek says Debra hates himself . <eos>
 Tamara thinks Stephen works with himself . <eos>
 Stephen thinks Tamara works with himself . <eos>
-Suzanne imagines Mark doesn't scare himself . <eos>
-Mark imagines Suzanne doesn't scare himself . <eos>
+Suzanne imagines Mark does n't scare himself . <eos>
+Mark imagines Suzanne does n't scare himself . <eos>
 Emily thinks Andrew might shock himself . <eos>
 Andrew thinks Emily might shock himself . <eos>
 Stephen will explain Erin can't hurt herself . <eos>
@@ -752,8 +752,8 @@ Joseph would say Heather sees herself . <eos>
 Heather would say Joseph sees herself . <eos>
 Walter does think Julie will argue about herself . <eos>
 Julie does think Walter will argue about herself . <eos>
-Erin can't imagine Mark doesn't criticize himself . <eos>
-Mark can't imagine Erin doesn't criticize himself . <eos>
+Erin can't imagine Mark does n't criticize himself . <eos>
+Mark can't imagine Erin does n't criticize himself . <eos>
 Alice should say Noah would observe himself . <eos>
 Noah should say Alice would observe himself . <eos>
 Margaret shouldn't think Chad respects himself . <eos>
@@ -772,8 +772,8 @@ Charles thinks Theresa dislikes herself . <eos>
 Theresa thinks Charles dislikes herself . <eos>
 Raymond says Rachel does hug herself . <eos>
 Rachel says Raymond does hug herself . <eos>
-Diana's senators' girlfriend does think Charles doesn't bore himself . <eos>
-Charles does think Diana's senators' girlfriend doesn't bore himself . <eos>
+Diana's senators' girlfriend does think Charles does n't bore himself . <eos>
+Charles does think Diana's senators' girlfriend does n't bore himself . <eos>
 Holly should explain Donald appreciates himself . <eos>
 Donald should explain Holly appreciates himself . <eos>
 Sabrina explains Ronald won't conceal himself . <eos>
@@ -818,8 +818,8 @@ Derek couldn't imagine Rachelle appreciates herself . <eos>
 Rachelle couldn't imagine Derek appreciates herself . <eos>
 Amelia thinks John's ex-boyfriend would disagree with himself . <eos>
 John's ex-boyfriend thinks Amelia would disagree with himself . <eos>
-Diana's oncologists' son doesn't think Jane shouldn't complain about herself . <eos>
-Jane doesn't think Diana's oncologists' son shouldn't complain about herself . <eos>
+Diana's oncologists' son does n't think Jane shouldn't complain about herself . <eos>
+Jane does n't think Diana's oncologists' son shouldn't complain about herself . <eos>
 Sabrina might say Theodore will reveal himself . <eos>
 Theodore might say Sabrina will reveal himself . <eos>
 Rebecca's wife should explain Timothy couldn't boast about himself . <eos>
@@ -854,8 +854,8 @@ Douglas might say Monica couldn't upset herself . <eos>
 Monica might say Douglas couldn't upset herself . <eos>
 Carlos might think that waitress leaves herself . <eos>
 That waitress might think Carlos leaves herself . <eos>
-Stacey doesn't explain Mitchell can reference himself . <eos>
-Mitchell doesn't explain Stacey can reference himself . <eos>
+Stacey does n't explain Mitchell can reference himself . <eos>
+Mitchell does n't explain Stacey can reference himself . <eos>
 Julie's wife thinks Stephen didn't stun himself . <eos>
 Stephen thinks Julie's wife didn't stun himself . <eos>
 Melanie says Charles will alarm himself . <eos>
@@ -912,8 +912,8 @@ Grace can imagine Larry won't confuse himself . <eos>
 Larry can imagine Grace won't confuse himself . <eos>
 Lawrence thinks Margaret wouldn't hurt herself . <eos>
 Margaret thinks Lawrence wouldn't hurt herself . <eos>
-Eva doesn't think Derek does see himself . <eos>
-Derek doesn't think Eva does see himself . <eos>
+Eva does n't think Derek does see himself . <eos>
+Derek does n't think Eva does see himself . <eos>
 Rachel might think Christopher does describe himself . <eos>
 Christopher might think Rachel does describe himself . <eos>
 Kimberley thinks Walter admires himself . <eos>
@@ -938,8 +938,8 @@ Danielle imagines Brad knows himself . <eos>
 Brad imagines Danielle knows himself . <eos>
 Caroline can imagine Martin did leave himself . <eos>
 Martin can imagine Caroline did leave himself . <eos>
-Kevin doesn't say Amanda didn't admire herself . <eos>
-Amanda doesn't say Kevin didn't admire herself . <eos>
+Kevin does n't say Amanda didn't admire herself . <eos>
+Amanda does n't say Kevin didn't admire herself . <eos>
 A boy imagines Emily would observe herself . <eos>
 Emily imagines a boy would observe herself . <eos>
 Melissa didn't explain Peter approaches himself . <eos>
@@ -976,16 +976,16 @@ Clyde can say Stacey might aggravate herself . <eos>
 Stacey can say Clyde might aggravate herself . <eos>
 Sherry couldn't think Paul couldn't appreciate himself . <eos>
 Paul couldn't think Sherry couldn't appreciate himself . <eos>
-Laurie doesn't think Phillip boasts about himself . <eos>
-Phillip doesn't think Laurie boasts about himself . <eos>
+Laurie does n't think Phillip boasts about himself . <eos>
+Phillip does n't think Laurie boasts about himself . <eos>
 Jason explains Debra could hate herself . <eos>
 Debra explains Jason could hate herself . <eos>
 Leslie's mother says Gerald can't reveal himself . <eos>
 Gerald says Leslie's mother can't reveal himself . <eos>
 A lot of students' nephew imagines Brenda won't sound like herself . <eos>
 Brenda imagines a lot of students' nephew won't sound like herself . <eos>
-Paula would say Keith doesn't care for himself . <eos>
-Keith would say Paula doesn't care for himself . <eos>
+Paula would say Keith does n't care for himself . <eos>
+Keith would say Paula does n't care for himself . <eos>
 Janice wouldn't say every man flees from himself . <eos>
 Every man wouldn't say Janice flees from himself . <eos>
 Christopher would think Maria forgets herself . <eos>
@@ -1004,8 +1004,8 @@ Bethany thinks Dennis heals himself . <eos>
 Dennis thinks Bethany heals himself . <eos>
 Michelle says Joel does conceal himself . <eos>
 Joel says Michelle does conceal himself . <eos>
-Benjamin explains Becky doesn't argue about herself . <eos>
-Becky explains Benjamin doesn't argue about herself . <eos>
+Benjamin explains Becky does n't argue about herself . <eos>
+Becky explains Benjamin does n't argue about herself . <eos>
 Samuel didn't explain Dawn hugs herself . <eos>
 Dawn didn't explain Samuel hugs herself . <eos>
 Leslie should explain Edward would hide himself . <eos>
@@ -1014,8 +1014,8 @@ Guy imagines Colleen can't watch herself . <eos>
 Colleen imagines Guy can't watch herself . <eos>
 James would explain Becky flees from herself . <eos>
 Becky would explain James flees from herself . <eos>
-Craig would think Michelle doesn't leave herself . <eos>
-Michelle would think Craig doesn't leave herself . <eos>
+Craig would think Michelle does n't leave herself . <eos>
+Michelle would think Craig does n't leave herself . <eos>
 Ellen can imagine Charles didn't sound like himself . <eos>
 Charles can imagine Ellen didn't sound like himself . <eos>
 Caroline says Stephen does flee from himself . <eos>
@@ -1072,8 +1072,8 @@ Kevin explains Julie investigates herself . <eos>
 Julie explains Kevin investigates herself . <eos>
 Michelle wouldn't say William could approach himself . <eos>
 William wouldn't say Michelle could approach himself . <eos>
-Keith can't say Sarah doesn't watch herself . <eos>
-Sarah can't say Keith doesn't watch herself . <eos>
+Keith can't say Sarah does n't watch herself . <eos>
+Sarah can't say Keith does n't watch herself . <eos>
 The dancer's ex-girlfriend might explain Frank references himself . <eos>
 Frank might explain the dancer's ex-girlfriend references himself . <eos>
 Daniel says Rachelle reveals herself . <eos>
@@ -1114,16 +1114,16 @@ Sarah thinks Scott's father likes himself . <eos>
 Scott's father thinks Sarah likes himself . <eos>
 Chad could think Jill's niece can insult herself . <eos>
 Jill's niece could think Chad can insult herself . <eos>
-Sheila imagines Benjamin doesn't stun himself . <eos>
-Benjamin imagines Sheila doesn't stun himself . <eos>
+Sheila imagines Benjamin does n't stun himself . <eos>
+Benjamin imagines Sheila does n't stun himself . <eos>
 Becky could explain Charles loves himself . <eos>
 Charles could explain Becky loves himself . <eos>
 Amy explains Vincent investigates himself . <eos>
 Vincent explains Amy investigates himself . <eos>
 Jeffrey shouldn't say Jennifer might reveal herself . <eos>
 Jennifer shouldn't say Jeffrey might reveal herself . <eos>
-Cynthia says Peter's son doesn't disgust himself . <eos>
-Peter's son says Cynthia doesn't disgust himself . <eos>
+Cynthia says Peter's son does n't disgust himself . <eos>
+Peter's son says Cynthia does n't disgust himself . <eos>
 Rhonda says Curtis flees from himself . <eos>
 Curtis says Rhonda flees from himself . <eos>
 Amelia should think Phillip's sons' oncologists' boyfriend should work with himself . <eos>
@@ -1182,18 +1182,18 @@ Brian imagines Kristin will appreciate herself . <eos>
 Kristin imagines Brian will appreciate herself . <eos>
 Julie's guest's wife says Liam couldn't heal himself . <eos>
 Liam says Julie's guest's wife couldn't heal himself . <eos>
-Jerry doesn't explain Jennifer didn't work with herself . <eos>
-Jennifer doesn't explain Jerry didn't work with herself . <eos>
+Jerry does n't explain Jennifer didn't work with herself . <eos>
+Jennifer does n't explain Jerry didn't work with herself . <eos>
 Julie wouldn't say Becca's grandson shouldn't flee from himself . <eos>
 Becca's grandson wouldn't say Julie shouldn't flee from himself . <eos>
-Holly imagines Aaron doesn't bore himself . <eos>
-Aaron imagines Holly doesn't bore himself . <eos>
+Holly imagines Aaron does n't bore himself . <eos>
+Aaron imagines Holly does n't bore himself . <eos>
 Sherry imagines Jeffrey wouldn't talk to himself . <eos>
 Jeffrey imagines Sherry wouldn't talk to himself . <eos>
 Ruth explains every teacher's nephew will reference himself . <eos>
 Every teacher's nephew explains Ruth will reference himself . <eos>
-Jessica doesn't imagine Benjamin escapes from himself . <eos>
-Benjamin doesn't imagine Jessica escapes from himself . <eos>
+Jessica does n't imagine Benjamin escapes from himself . <eos>
+Benjamin does n't imagine Jessica escapes from himself . <eos>
 Jerry should say Kirsten did hide herself . <eos>
 Kirsten should say Jerry did hide herself . <eos>
 Barbara thinks Russell couldn't conceal himself . <eos>
@@ -1208,8 +1208,8 @@ Jacqueline explains Douglas couldn't talk about himself . <eos>
 Douglas explains Jacqueline couldn't talk about himself . <eos>
 Rodney could explain Tamara hugs herself . <eos>
 Tamara could explain Rodney hugs herself . <eos>
-Elizabeth doesn't imagine Steven can't find himself . <eos>
-Steven doesn't imagine Elizabeth can't find himself . <eos>
+Elizabeth does n't imagine Steven can't find himself . <eos>
+Steven does n't imagine Elizabeth can't find himself . <eos>
 Danielle explains Michael respects himself . <eos>
 Michael explains Danielle respects himself . <eos>
 Carmen explains Homer couldn't care for himself . <eos>
@@ -1242,8 +1242,8 @@ Karla can imagine Jerry couldn't listen to himself . <eos>
 Jerry can imagine Karla couldn't listen to himself . <eos>
 Christine thinks Guy hates himself . <eos>
 Guy thinks Christine hates himself . <eos>
-Curtis doesn't say Catherine could hug herself . <eos>
-Catherine doesn't say Curtis could hug herself . <eos>
+Curtis does n't say Catherine could hug herself . <eos>
+Catherine does n't say Curtis could hug herself . <eos>
 Adam won't imagine Allison hires herself . <eos>
 Allison won't imagine Adam hires herself . <eos>
 Maria imagines Joseph could distract himself . <eos>
@@ -1252,8 +1252,8 @@ Kayla's teachers' girlfriend will imagine Ronald leaves himself . <eos>
 Ronald will imagine Kayla's teachers' girlfriend leaves himself . <eos>
 Homer explains Irene didn't alarm herself . <eos>
 Irene explains Homer didn't alarm herself . <eos>
-Heather imagines Phillip doesn't irritate himself . <eos>
-Phillip imagines Heather doesn't irritate himself . <eos>
+Heather imagines Phillip does n't irritate himself . <eos>
+Phillip imagines Heather does n't irritate himself . <eos>
 Carl imagines Victoria approaches herself . <eos>
 Victoria imagines Carl approaches herself . <eos>
 Edward thinks Stacey won't worry herself . <eos>
@@ -1268,8 +1268,8 @@ George might think Jane did talk about herself . <eos>
 Jane might think George did talk about herself . <eos>
 Melissa would say Donald conceals himself . <eos>
 Donald would say Melissa conceals himself . <eos>
-Michael says Carrie doesn't kiss herself . <eos>
-Carrie says Michael doesn't kiss herself . <eos>
+Michael says Carrie does n't kiss herself . <eos>
+Carrie says Michael does n't kiss herself . <eos>
 Jodi might explain Joel hates himself . <eos>
 Joel might explain Jodi hates himself . <eos>
 Mary says some daughter of Valerie's boyfriend did disgust himself . <eos>
@@ -1296,16 +1296,16 @@ Stephen can explain Kimberley works with herself . <eos>
 Kimberley can explain Stephen works with herself . <eos>
 Karen shouldn't say Joel loves himself . <eos>
 Joel shouldn't say Karen loves himself . <eos>
-These granddaughters of Janet's husband explains Sabrina doesn't return to herself . <eos>
-Sabrina explains these granddaughters of Janet's husband doesn't return to herself . <eos>
-Elaine doesn't think Michael will distract himself . <eos>
-Michael doesn't think Elaine will distract himself . <eos>
+These granddaughters of Janet's husband explains Sabrina does n't return to herself . <eos>
+Sabrina explains these granddaughters of Janet's husband does n't return to herself . <eos>
+Elaine does n't think Michael will distract himself . <eos>
+Michael does n't think Elaine will distract himself . <eos>
 Bill says Kayla wouldn't watch herself . <eos>
 Kayla says Bill wouldn't watch herself . <eos>
 Derek can't imagine Alicia watches herself . <eos>
 Alicia can't imagine Derek watches herself . <eos>
-Alan couldn't think Anne doesn't find herself . <eos>
-Anne couldn't think Alan doesn't find herself . <eos>
+Alan couldn't think Anne does n't find herself . <eos>
+Anne couldn't think Alan does n't find herself . <eos>
 Regina didn't think Bruce's ex-husband did distract himself . <eos>
 Bruce's ex-husband didn't think Regina did distract himself . <eos>
 George can't imagine Jeffrey's supervisor's wife describes herself . <eos>
@@ -1318,8 +1318,8 @@ Donna explains George escapes from himself . <eos>
 George explains Donna escapes from himself . <eos>
 Becky's wife imagines Alan remembers himself . <eos>
 Alan imagines Becky's wife remembers himself . <eos>
-Rhonda imagines Guy doesn't disgust himself . <eos>
-Guy imagines Rhonda doesn't disgust himself . <eos>
+Rhonda imagines Guy does n't disgust himself . <eos>
+Guy imagines Rhonda does n't disgust himself . <eos>
 Theodore says Eva would cure herself . <eos>
 Eva says Theodore would cure herself . <eos>
 Gerald explains Rebecca would observe herself . <eos>
@@ -1352,10 +1352,10 @@ Julia thinks Steven could conceal himself . <eos>
 Steven thinks Julia could conceal himself . <eos>
 Jessica might explain Brett's father won't praise himself . <eos>
 Brett's father might explain Jessica won't praise himself . <eos>
-Melanie says Patrick doesn't impress himself . <eos>
-Patrick says Melanie doesn't impress himself . <eos>
-Tiffany imagines Homer doesn't attack himself . <eos>
-Homer imagines Tiffany doesn't attack himself . <eos>
+Melanie says Patrick does n't impress himself . <eos>
+Patrick says Melanie does n't impress himself . <eos>
+Tiffany imagines Homer does n't attack himself . <eos>
+Homer imagines Tiffany does n't attack himself . <eos>
 Tammy will think Charles cures himself . <eos>
 Charles will think Tammy cures himself . <eos>
 Grace explains Keith won't hate himself . <eos>
@@ -1366,8 +1366,8 @@ Jerry says Bethany insults herself . <eos>
 Bethany says Jerry insults herself . <eos>
 Carlos wouldn't think Cynthia likes herself . <eos>
 Cynthia wouldn't think Carlos likes herself . <eos>
-Carmen doesn't say David shouldn't like himself . <eos>
-David doesn't say Carmen shouldn't like himself . <eos>
+Carmen does n't say David shouldn't like himself . <eos>
+David does n't say Carmen shouldn't like himself . <eos>
 Regina says Patrick admires himself . <eos>
 Patrick says Regina admires himself . <eos>
 Jacqueline can say Lawrence should work with himself . <eos>
@@ -1460,8 +1460,8 @@ Derek won't say Stacy's ex-wife can discuss herself . <eos>
 Stacy's ex-wife won't say Derek can discuss herself . <eos>
 Julie says William can care for himself . <eos>
 William says Julie can care for himself . <eos>
-A boy might explain Rhonda doesn't see herself . <eos>
-Rhonda might explain a boy doesn't see herself . <eos>
+A boy might explain Rhonda does n't see herself . <eos>
+Rhonda might explain a boy does n't see herself . <eos>
 That woman thinks Christopher would stun himself . <eos>
 Christopher thinks that woman would stun himself . <eos>
 Denise would say Brian might praise himself . <eos>
@@ -1530,8 +1530,8 @@ Paula's grandson shouldn't explain Andrea did shock herself . <eos>
 Andrea shouldn't explain Paula's grandson did shock herself . <eos>
 Bethany should explain Dennis can't appreciate himself . <eos>
 Dennis should explain Bethany can't appreciate himself . <eos>
-Melissa did explain Steve doesn't dislike himself . <eos>
-Steve did explain Melissa doesn't dislike himself . <eos>
+Melissa did explain Steve does n't dislike himself . <eos>
+Steve did explain Melissa does n't dislike himself . <eos>
 Michelle's boyfriend explains Sharon admires herself . <eos>
 Sharon explains Michelle's boyfriend admires herself . <eos>
 Theodore does imagine Anna helps herself . <eos>
@@ -1556,8 +1556,8 @@ Jessica did say Guy leaves himself . <eos>
 Guy did say Jessica leaves himself . <eos>
 Daniel can't explain Margaret attacks herself . <eos>
 Margaret can't explain Daniel attacks herself . <eos>
-Martha won't explain Paul doesn't annoy himself . <eos>
-Paul won't explain Martha doesn't annoy himself . <eos>
+Martha won't explain Paul does n't annoy himself . <eos>
+Paul won't explain Martha does n't annoy himself . <eos>
 Vanessa imagines Theodore hugs himself . <eos>
 Theodore imagines Vanessa hugs himself . <eos>
 Christine says Jason didn't cure himself . <eos>
@@ -1606,14 +1606,14 @@ Alice does think Phillip wouldn't praise himself . <eos>
 Phillip does think Alice wouldn't praise himself . <eos>
 Mary's son does explain Sara sees herself . <eos>
 Sara does explain Mary's son sees herself . <eos>
-Scott explains Tiffany doesn't find herself . <eos>
-Tiffany explains Scott doesn't find herself . <eos>
+Scott explains Tiffany does n't find herself . <eos>
+Tiffany explains Scott does n't find herself . <eos>
 Laura didn't think this senator's husband's handyman's brother shouldn't find himself . <eos>
 This senator's husband's handyman's brother didn't think Laura shouldn't find himself . <eos>
 Dan imagines Lori references herself . <eos>
 Lori imagines Dan references herself . <eos>
-Kimberley doesn't imagine Daniel did annoy himself . <eos>
-Daniel doesn't imagine Kimberley did annoy himself . <eos>
+Kimberley does n't imagine Daniel did annoy himself . <eos>
+Daniel does n't imagine Kimberley did annoy himself . <eos>
 Robert's nephew can't think Alice shouldn't like herself . <eos>
 Alice can't think Robert's nephew shouldn't like herself . <eos>
 Tracy didn't think Curtis does listen to himself . <eos>
@@ -1630,8 +1630,8 @@ Tanya does explain Clyde won't flee from himself . <eos>
 Clyde does explain Tanya won't flee from himself . <eos>
 Jacqueline won't explain Alan works with himself . <eos>
 Alan won't explain Jacqueline works with himself . <eos>
-Gary doesn't say Sharon did admire herself . <eos>
-Sharon doesn't say Gary did admire herself . <eos>
+Gary does n't say Sharon did admire herself . <eos>
+Sharon does n't say Gary did admire herself . <eos>
 The patients' father did imagine Helen helps herself . <eos>
 Helen did imagine the patients' father helps herself . <eos>
 Margaret should say Scott hides himself . <eos>
@@ -1668,16 +1668,16 @@ Omar says Melanie did talk about herself . <eos>
 Melanie says Omar did talk about herself . <eos>
 Carl's doctor's tutors' grandson won't say Martha conceals herself . <eos>
 Martha won't say Carl's doctor's tutors' grandson conceals herself . <eos>
-Anna doesn't imagine Scott did admire himself . <eos>
-Scott doesn't imagine Anna did admire himself . <eos>
+Anna does n't imagine Scott did admire himself . <eos>
+Scott does n't imagine Anna did admire himself . <eos>
 Renee didn't think Rachelle's colleagues' boyfriend should disagree with himself . <eos>
 Rachelle's colleagues' boyfriend didn't think Renee should disagree with himself . <eos>
 Paula should think Carlos won't alarm himself . <eos>
 Carlos should think Paula won't alarm himself . <eos>
 Carmen thinks Paul returns to himself . <eos>
 Paul thinks Carmen returns to himself . <eos>
-Brad imagines Lissa's ex-wife doesn't disagree with herself . <eos>
-Lissa's ex-wife imagines Brad doesn't disagree with herself . <eos>
+Brad imagines Lissa's ex-wife does n't disagree with herself . <eos>
+Lissa's ex-wife imagines Brad does n't disagree with herself . <eos>
 Debra says Walter couldn't fire himself . <eos>
 Walter says Debra couldn't fire himself . <eos>
 Bethany's grandmother imagines these waiters' husband sees himself . <eos>
@@ -1702,8 +1702,8 @@ Thomas does explain Linda shouldn't shock herself . <eos>
 Linda does explain Thomas shouldn't shock herself . <eos>
 Susan explains Raymond shouldn't upset himself . <eos>
 Raymond explains Susan shouldn't upset himself . <eos>
-Cynthia doesn't think Todd talks to himself . <eos>
-Todd doesn't think Cynthia talks to himself . <eos>
+Cynthia does n't think Todd talks to himself . <eos>
+Todd does n't think Cynthia talks to himself . <eos>
 Douglas can't say Heidi should see herself . <eos>
 Heidi can't say Douglas should see herself . <eos>
 Frank thinks Cheryl can conceal herself . <eos>
@@ -1724,10 +1724,10 @@ Cindy says Timothy praises himself . <eos>
 Timothy says Cindy praises himself . <eos>
 Guy says Laurie loves herself . <eos>
 Laurie says Guy loves herself . <eos>
-Nancy will explain Jane's ex-boyfriend doesn't reveal himself . <eos>
-Jane's ex-boyfriend will explain Nancy doesn't reveal himself . <eos>
-Sally doesn't think Martin might love himself . <eos>
-Martin doesn't think Sally might love himself . <eos>
+Nancy will explain Jane's ex-boyfriend does n't reveal himself . <eos>
+Jane's ex-boyfriend will explain Nancy does n't reveal himself . <eos>
+Sally does n't think Martin might love himself . <eos>
+Martin does n't think Sally might love himself . <eos>
 Martin shouldn't say Sarah dislikes herself . <eos>
 Sarah shouldn't say Martin dislikes herself . <eos>
 Cynthia says Kenneth complains about himself . <eos>
@@ -1750,8 +1750,8 @@ Noah might think Samantha won't flee from herself . <eos>
 Samantha might think Noah won't flee from herself . <eos>
 Holly could think Wayne might criticize himself . <eos>
 Wayne could think Holly might criticize himself . <eos>
-Diane doesn't say Timothy can respect himself . <eos>
-Timothy doesn't say Diane can respect himself . <eos>
+Diane does n't say Timothy can respect himself . <eos>
+Timothy does n't say Diane can respect himself . <eos>
 Suzanne couldn't say Charles couldn't sound like himself . <eos>
 Charles couldn't say Suzanne couldn't sound like himself . <eos>
 Chad would imagine Danielle attacks herself . <eos>
@@ -1802,8 +1802,8 @@ Robert explains Wendy did attack herself . <eos>
 Wendy explains Robert did attack herself . <eos>
 Marla says Dan reveals himself . <eos>
 Dan says Marla reveals himself . <eos>
-Alexander doesn't explain Linda wouldn't argue about herself . <eos>
-Linda doesn't explain Alexander wouldn't argue about herself . <eos>
+Alexander does n't explain Linda wouldn't argue about herself . <eos>
+Linda does n't explain Alexander wouldn't argue about herself . <eos>
 Clyde couldn't imagine Kendra should watch herself . <eos>
 Kendra couldn't imagine Clyde should watch herself . <eos>
 Omar thinks Karla wouldn't forget herself . <eos>
@@ -1816,8 +1816,8 @@ Daniel can say Sonia references herself . <eos>
 Sonia can say Daniel references herself . <eos>
 Candice did think Joseph could conceal himself . <eos>
 Joseph did think Candice could conceal himself . <eos>
-Candice doesn't imagine every man conceals himself . <eos>
-Every man doesn't imagine Candice conceals himself . <eos>
+Candice does n't imagine every man conceals himself . <eos>
+Every man does n't imagine Candice conceals himself . <eos>
 Kristen couldn't say Martin discusses himself . <eos>
 Martin couldn't say Kristen discusses himself . <eos>
 Christina imagines Douglas would remember himself . <eos>
@@ -1862,8 +1862,8 @@ Dawn could imagine Edward couldn't upset himself . <eos>
 Edward could imagine Dawn couldn't upset himself . <eos>
 Holly would explain Dan does hire himself . <eos>
 Dan would explain Holly does hire himself . <eos>
-Jacqueline doesn't explain Edward complains about himself . <eos>
-Edward doesn't explain Jacqueline complains about himself . <eos>
+Jacqueline does n't explain Edward complains about himself . <eos>
+Edward does n't explain Jacqueline complains about himself . <eos>
 Steven couldn't imagine Renee criticizes herself . <eos>
 Renee couldn't imagine Steven criticizes herself . <eos>
 Diane might think Eric can describe himself . <eos>
@@ -1928,16 +1928,16 @@ Samantha would explain Donald investigates himself . <eos>
 Donald would explain Samantha investigates himself . <eos>
 Sabrina will explain Charles escapes from himself . <eos>
 Charles will explain Sabrina escapes from himself . <eos>
-Colleen doesn't imagine Chad's brother did reference himself . <eos>
-Chad's brother doesn't imagine Colleen did reference himself . <eos>
+Colleen does n't imagine Chad's brother did reference himself . <eos>
+Chad's brother does n't imagine Colleen did reference himself . <eos>
 The guy shouldn't imagine April investigates herself . <eos>
 April shouldn't imagine the guy investigates herself . <eos>
 Brenda says George did shock himself . <eos>
 George says Brenda did shock himself . <eos>
-Amelia doesn't think Julie's grandfather does reference himself . <eos>
-Julie's grandfather doesn't think Amelia does reference himself . <eos>
-Donald explains Sandra doesn't admire herself . <eos>
-Sandra explains Donald doesn't admire herself . <eos>
+Amelia does n't think Julie's grandfather does reference himself . <eos>
+Julie's grandfather does n't think Amelia does reference himself . <eos>
+Donald explains Sandra does n't admire herself . <eos>
+Sandra explains Donald does n't admire herself . <eos>
 Rhonda explains Samuel won't know himself . <eos>
 Samuel explains Rhonda won't know himself . <eos>
 Bethany should imagine Matt talks to himself . <eos>
@@ -1988,8 +1988,8 @@ Lisa explains Vincent could conceal himself . <eos>
 Vincent explains Lisa could conceal himself . <eos>
 April thinks Mark dislikes himself . <eos>
 Mark thinks April dislikes himself . <eos>
-Mary won't explain Samuel doesn't hug himself . <eos>
-Samuel won't explain Mary doesn't hug himself . <eos>
+Mary won't explain Samuel does n't hug himself . <eos>
+Samuel won't explain Mary does n't hug himself . <eos>
 Christina can't think many teenagers' ex-boyfriend should reference himself . <eos>
 Many teenagers' ex-boyfriend can't think Christina should reference himself . <eos>
 Brett explains Heidi didn't conceal herself . <eos>

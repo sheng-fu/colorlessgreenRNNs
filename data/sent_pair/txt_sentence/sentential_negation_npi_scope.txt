@@ -126,8 +126,8 @@ Patrick's plumbers that do hug Rhonda should not ever describe Allison . <eos>
 Patrick's plumbers that do not hug Rhonda should ever describe Allison . <eos>
 Theresa's hairdressers who will tour these grocery stores did not ever break the plate . <eos>
 Theresa's hairdressers who will not tour these grocery stores did ever break the plate . <eos>
-Todd's employees who had talked about Irene had not ever learned who hasn't spun around . <eos>
-Todd's employees who had not talked about Irene had ever learned who hasn't spun around . <eos>
+Todd's employees who had talked about Irene had not ever learned who has n't spun around . <eos>
+Todd's employees who had not talked about Irene had ever learned who has n't spun around . <eos>
 Some girls that have resembled many prints do not ever climb up some slopes . <eos>
 Some girls that have not resembled many prints do ever climb up some slopes . <eos>
 Jennifer's senators who have exited many malls had not ever baked . <eos>
@@ -356,8 +356,8 @@ Donna's students that should attack Lawrence would not ever respond . <eos>
 Donna's students that should not attack Lawrence would ever respond . <eos>
 Denise's niece who is bothering Noah does not ever wash . <eos>
 Denise's niece who is not bothering Noah does ever wash . <eos>
-Patients who do clean most rugs should not ever learn who doesn't shout . <eos>
-Patients who do not clean most rugs should ever learn who doesn't shout . <eos>
+Patients who do clean most rugs should not ever learn who does n't shout . <eos>
+Patients who do not clean most rugs should ever learn who does n't shout . <eos>
 The father of Omar who was insulting children has not ever thought a teenager hadn't visited Michelle . <eos>
 The father of Omar who was not insulting children has ever thought a teenager hadn't visited Michelle . <eos>
 A lot of patients that do embarrass this company will not ever visit the child . <eos>
@@ -908,8 +908,8 @@ A patient who has messed up a lot of cafes had not ever observed Mitchell . <eos
 A patient who has not messed up a lot of cafes had ever observed Mitchell . <eos>
 Heidi's father's electrician that does descend many mountains can not ever exercise . <eos>
 Heidi's father's electrician that does not descend many mountains can ever exercise . <eos>
-All actors that have fired Teresa could not ever reveal who isn't winning . <eos>
-All actors that have not fired Teresa could ever reveal who isn't winning . <eos>
+All actors that have fired Teresa could not ever reveal who is n't winning . <eos>
+All actors that have not fired Teresa could ever reveal who is n't winning . <eos>
 All daughters of Travis that have concealed Guy could not ever mutter . <eos>
 All daughters of Travis that have not concealed Guy could ever mutter . <eos>
 Some doctor that has kissed Larry had not ever explained everything . <eos>
@@ -998,8 +998,8 @@ That brother of every nephew of Michelle that had toured every grocery store has
 That brother of every nephew of Michelle that had not toured every grocery store has ever sung . <eos>
 The museums that were referencing these reports have not ever succeeded . <eos>
 The museums that were not referencing these reports have ever succeeded . <eos>
-All grandfathers of Jennifer's son that had ascended most steps did not ever say Steve isn't suffering . <eos>
-All grandfathers of Jennifer's son that had not ascended most steps did ever say Steve isn't suffering . <eos>
+All grandfathers of Jennifer's son that had ascended most steps did not ever say Steve is n't suffering . <eos>
+All grandfathers of Jennifer's son that had not ascended most steps did ever say Steve is n't suffering . <eos>
 Some sons of Randolf that were describing Julie had not ever thought some library testified . <eos>
 Some sons of Randolf that were not describing Julie had ever thought some library testified . <eos>
 The waitress who can look like pictures did not ever observe that actor . <eos>
@@ -1718,8 +1718,8 @@ Melinda's supervisor who had embarrassed Janice had not ever considered Christin
 Melinda's supervisor who had not embarrassed Janice had ever considered Christina to reveal Bradley . <eos>
 The gate that did scare Derek will not ever close . <eos>
 The gate that did not scare Derek will ever close . <eos>
-Mary's mentee's sister that could reference Caroline might not ever investigate who isn't boycotting a lot of libraries . <eos>
-Mary's mentee's sister that could not reference Caroline might ever investigate who isn't boycotting a lot of libraries . <eos>
+Mary's mentee's sister that could reference Caroline might not ever investigate who is n't boycotting a lot of libraries . <eos>
+Mary's mentee's sister that could not reference Caroline might ever investigate who is n't boycotting a lot of libraries . <eos>
 That guy that would work with Gregory would not ever bring all mountains . <eos>
 That guy that would not work with Gregory would ever bring all mountains . <eos>
 Lucille's supervisor who can reveal a lot of steps will not ever wake up . <eos>
@@ -1848,8 +1848,8 @@ Who that could reveal a scarf could not ever bring the mountains . <eos>
 Who that could not reveal a scarf could ever bring the mountains . <eos>
 Marcus's lawyers that should talk to Bill had not ever learned who wasn't standing up . <eos>
 Marcus's lawyers that should not talk to Bill had ever learned who wasn't standing up . <eos>
-Rhonda's mother's plumbers' students that can bike to the museum have not ever prevented Beverly from imagining Bradley had figured out who hasn't forfeited . <eos>
-Rhonda's mother's plumbers' students that can not bike to the museum have ever prevented Beverly from imagining Bradley had figured out who hasn't forfeited . <eos>
+Rhonda's mother's plumbers' students that can bike to the museum have not ever prevented Beverly from imagining Bradley had figured out who has n't forfeited . <eos>
+Rhonda's mother's plumbers' students that can not bike to the museum have ever prevented Beverly from imagining Bradley had figured out who has n't forfeited . <eos>
 All drivers' granddaughter's partner that will talk about Dana has not ever stunned Ellen . <eos>
 All drivers' granddaughter's partner that will not talk about Dana has ever stunned Ellen . <eos>
 Lisa's contractors who had biked to some grocery stores might not ever compete . <eos>

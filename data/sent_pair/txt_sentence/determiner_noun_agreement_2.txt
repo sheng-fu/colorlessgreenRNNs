@@ -1,5 +1,5 @@
-Angela hasn't concealed these waiters . <eos>
-Angela hasn't concealed this waiters . <eos>
+Angela has n't concealed these waiters . <eos>
+Angela has n't concealed this waiters . <eos>
 Jason listens to this teacher . <eos>
 Jason listens to these teacher . <eos>
 Jerry has scanned this essay . <eos>
@@ -14,8 +14,8 @@ Suzanne helped that girl . <eos>
 Suzanne helped those girl . <eos>
 Wendy embarrassed that woman . <eos>
 Wendy embarrassed those woman . <eos>
-Some girls haven't appreciated these museums . <eos>
-Some girls haven't appreciated this museums . <eos>
+Some girls have n't appreciated these museums . <eos>
+Some girls have n't appreciated this museums . <eos>
 James sold this cat . <eos>
 James sold these cat . <eos>
 Edward knows this guest . <eos>
@@ -30,8 +30,8 @@ Rose referenced these reports . <eos>
 Rose referenced this reports . <eos>
 Some picture looked like these photographs . <eos>
 Some picture looked like this photographs . <eos>
-Samuel isn't lifting that nose . <eos>
-Samuel isn't lifting those nose . <eos>
+Samuel is n't lifting that nose . <eos>
+Samuel is n't lifting those nose . <eos>
 A child will clean these shoes . <eos>
 A child will clean this shoes . <eos>
 Florence discusses this movie theater . <eos>
@@ -58,8 +58,8 @@ Some girls bore those adults . <eos>
 Some girls bore that adults . <eos>
 Tara scanned those books . <eos>
 Tara scanned that books . <eos>
-The waiters don't confuse that adult . <eos>
-The waiters don't confuse those adult . <eos>
+The waiters do n't confuse that adult . <eos>
+The waiters do n't confuse those adult . <eos>
 Most women break that dish . <eos>
 Most women break those dish . <eos>
 Grace couldn't aggravate those women . <eos>
@@ -72,16 +72,16 @@ Suzanne cared for those customers . <eos>
 Suzanne cared for that customers . <eos>
 Tammy goes to those libraries . <eos>
 Tammy goes to that libraries . <eos>
-Clyde hasn't lifted this fork . <eos>
-Clyde hasn't lifted these fork . <eos>
+Clyde has n't lifted this fork . <eos>
+Clyde has n't lifted these fork . <eos>
 Brad won't care for that adult . <eos>
 Brad won't care for those adult . <eos>
 Steven will drive to that movie theater . <eos>
 Steven will drive to those movie theater . <eos>
 Tina attacked that lady . <eos>
 Tina attacked those lady . <eos>
-Gary hasn't astounded this waiter . <eos>
-Gary hasn't astounded these waiter . <eos>
+Gary has n't astounded this waiter . <eos>
+Gary has n't astounded these waiter . <eos>
 Homer distracted those hospitals . <eos>
 Homer distracted that hospitals . <eos>
 Alan goes to these banks . <eos>
@@ -90,10 +90,10 @@ A lot of shoes alarm these ladies . <eos>
 A lot of shoes alarm this ladies . <eos>
 Every organization disliked this documentary . <eos>
 Every organization disliked these documentary . <eos>
-Jennifer doesn't bike to this grocery store . <eos>
-Jennifer doesn't bike to these grocery store . <eos>
-Sonia isn't healing this waitress . <eos>
-Sonia isn't healing these waitress . <eos>
+Jennifer does n't bike to this grocery store . <eos>
+Jennifer does n't bike to these grocery store . <eos>
+Sonia is n't healing this waitress . <eos>
+Sonia is n't healing these waitress . <eos>
 Donald has sold these cats . <eos>
 Donald has sold this cats . <eos>
 Kristin will run around that college campus . <eos>
@@ -116,8 +116,8 @@ Mary returns to this child . <eos>
 Mary returns to these child . <eos>
 That report had talked about these stories . <eos>
 That report had talked about this stories . <eos>
-Teresa hasn't worked with these drivers . <eos>
-Teresa hasn't worked with this drivers . <eos>
+Teresa has n't worked with these drivers . <eos>
+Teresa has n't worked with this drivers . <eos>
 Every library can discuss that driver . <eos>
 Every library can discuss those driver . <eos>
 Allison could run around that high school . <eos>
@@ -152,12 +152,12 @@ Rodney listens to that pedestrian . <eos>
 Rodney listens to those pedestrian . <eos>
 The customer hadn't disliked those boys . <eos>
 The customer hadn't disliked that boys . <eos>
-Angela hasn't impressed that pedestrian . <eos>
-Angela hasn't impressed those pedestrian . <eos>
+Angela has n't impressed that pedestrian . <eos>
+Angela has n't impressed those pedestrian . <eos>
 Stacy should conceal those gloves . <eos>
 Stacy should conceal that gloves . <eos>
-Kimberley isn't touring these art galleries . <eos>
-Kimberley isn't touring this art galleries . <eos>
+Kimberley is n't touring these art galleries . <eos>
+Kimberley is n't touring this art galleries . <eos>
 Dancers exit this grocery store . <eos>
 Dancers exit these grocery store . <eos>
 Walter distracted this teenager . <eos>
@@ -192,10 +192,10 @@ A lady wasn't talking about these adults . <eos>
 A lady wasn't talking about this adults . <eos>
 Some doctors clean that glass . <eos>
 Some doctors clean those glass . <eos>
-A lot of movie theaters don't embarrass these patients . <eos>
-A lot of movie theaters don't embarrass this patients . <eos>
-April hasn't kissed that cashier . <eos>
-April hasn't kissed those cashier . <eos>
+A lot of movie theaters do n't embarrass these patients . <eos>
+A lot of movie theaters do n't embarrass this patients . <eos>
+April has n't kissed that cashier . <eos>
+April has n't kissed those cashier . <eos>
 A doctor attacked those girls . <eos>
 A doctor attacked that girls . <eos>
 Some stairs look like those drawings . <eos>
@@ -238,8 +238,8 @@ Some adults wear this dress . <eos>
 Some adults wear these dress . <eos>
 Donna broke this dish . <eos>
 Donna broke these dish . <eos>
-Janice hasn't dropped by this college campus . <eos>
-Janice hasn't dropped by these college campus . <eos>
+Janice has n't dropped by this college campus . <eos>
+Janice has n't dropped by these college campus . <eos>
 Ann disagrees with that documentary . <eos>
 Ann disagrees with those documentary . <eos>
 Most men break that glass . <eos>
@@ -252,8 +252,8 @@ Leslie might aggravate this association . <eos>
 Leslie might aggravate these association . <eos>
 The women conceal that cashier . <eos>
 The women conceal those cashier . <eos>
-Some cashier isn't fleeing from that alumnus . <eos>
-Some cashier isn't fleeing from those alumnus . <eos>
+Some cashier is n't fleeing from that alumnus . <eos>
+Some cashier is n't fleeing from those alumnus . <eos>
 Ellen can't see these books . <eos>
 Ellen can't see this books . <eos>
 The associations respect those students . <eos>
@@ -266,8 +266,8 @@ Bruce listens to those women . <eos>
 Bruce listens to that women . <eos>
 Margaret was buying that book . <eos>
 Margaret was buying those book . <eos>
-Sara isn't firing this customer . <eos>
-Sara isn't firing these customer . <eos>
+Sara is n't firing this customer . <eos>
+Sara is n't firing these customer . <eos>
 The drivers scan this report . <eos>
 The drivers scan these report . <eos>
 The children bike to these schools . <eos>
@@ -296,10 +296,10 @@ All patients reference this synopsis . <eos>
 All patients reference these synopsis . <eos>
 Sandra forgets those actresses . <eos>
 Sandra forgets that actresses . <eos>
-Some hospital doesn't know those customers . <eos>
-Some hospital doesn't know that customers . <eos>
-Carlos doesn't clean this glass . <eos>
-Carlos doesn't clean these glass . <eos>
+Some hospital does n't know those customers . <eos>
+Some hospital does n't know that customers . <eos>
+Carlos does n't clean this glass . <eos>
+Carlos does n't clean these glass . <eos>
 That adult didn't bother that company . <eos>
 That adult didn't bother those company . <eos>
 Eva can attack those senators . <eos>
@@ -308,8 +308,8 @@ Many glaciers annoy those customers . <eos>
 Many glaciers annoy that customers . <eos>
 Cynthia was cleaning this snake . <eos>
 Cynthia was cleaning these snake . <eos>
-Cynthia isn't curing those drivers . <eos>
-Cynthia isn't curing that drivers . <eos>
+Cynthia is n't curing those drivers . <eos>
+Cynthia is n't curing that drivers . <eos>
 Robert shocked these actresses . <eos>
 Robert shocked this actresses . <eos>
 Connie was helping this guy . <eos>
@@ -320,14 +320,14 @@ Teenagers should exit these restaurants . <eos>
 Teenagers should exit this restaurants . <eos>
 Anna couldn't drop by those art galleries . <eos>
 Anna couldn't drop by that art galleries . <eos>
-The committee hasn't disliked this analysis . <eos>
-The committee hasn't disliked these analysis . <eos>
-Phillip isn't confusing these universities . <eos>
-Phillip isn't confusing this universities . <eos>
+The committee has n't disliked this analysis . <eos>
+The committee has n't disliked these analysis . <eos>
+Phillip is n't confusing these universities . <eos>
+Phillip is n't confusing this universities . <eos>
 Every window disgusts these doctors . <eos>
 Every window disgusts this doctors . <eos>
-Christine hasn't astounded this association . <eos>
-Christine hasn't astounded these association . <eos>
+Christine has n't astounded this association . <eos>
+Christine has n't astounded these association . <eos>
 Dancers aggravate this committee . <eos>
 Dancers aggravate these committee . <eos>
 The actor upset that person . <eos>
@@ -338,14 +338,14 @@ Some boy could watch this actress . <eos>
 Some boy could watch these actress . <eos>
 Tracy references that senator . <eos>
 Tracy references those senator . <eos>
-This print isn't looking like that drawing . <eos>
-This print isn't looking like those drawing . <eos>
+This print is n't looking like that drawing . <eos>
+This print is n't looking like those drawing . <eos>
 Some public park had astounded that cashier . <eos>
 Some public park had astounded those cashier . <eos>
 Some hospital had this cat . <eos>
 Some hospital had these cat . <eos>
-Dawn isn't biking to those libraries . <eos>
-Dawn isn't biking to that libraries . <eos>
+Dawn is n't biking to those libraries . <eos>
+Dawn is n't biking to that libraries . <eos>
 Carmen has seen this dancer . <eos>
 Carmen has seen these dancer . <eos>
 Every dress should confuse those organizations . <eos>
@@ -358,8 +358,8 @@ Steven walked through that movie theater . <eos>
 Steven walked through those movie theater . <eos>
 The actor walked through those banks . <eos>
 The actor walked through that banks . <eos>
-Melinda hasn't biked to these public parks . <eos>
-Melinda hasn't biked to this public parks . <eos>
+Melinda has n't biked to these public parks . <eos>
+Melinda has n't biked to this public parks . <eos>
 Some guy wasn't firing this offspring . <eos>
 Some guy wasn't firing these offspring . <eos>
 Phillip walked through that mall . <eos>
@@ -380,8 +380,8 @@ Pedestrians do argue about those actors . <eos>
 Pedestrians do argue about that actors . <eos>
 Marla was observing that person . <eos>
 Marla was observing those person . <eos>
-Katherine doesn't discuss this book . <eos>
-Katherine doesn't discuss these book . <eos>
+Katherine does n't discuss this book . <eos>
+Katherine does n't discuss these book . <eos>
 Martin wasn't going to this grocery store . <eos>
 Martin wasn't going to these grocery store . <eos>
 A lot of snakes resemble this painting . <eos>
@@ -392,8 +392,8 @@ Sandra might admire this teenager . <eos>
 Sandra might admire these teenager . <eos>
 Sara has helped that doctor . <eos>
 Sara has helped those doctor . <eos>
-Christopher isn't lifting that car . <eos>
-Christopher isn't lifting those car . <eos>
+Christopher is n't lifting that car . <eos>
+Christopher is n't lifting those car . <eos>
 Martha won't walk through that grocery store . <eos>
 Martha won't walk through those grocery store . <eos>
 Catherine observes that guest . <eos>
@@ -402,8 +402,8 @@ Some waiters embarrass that customer . <eos>
 Some waiters embarrass those customer . <eos>
 Bruce would bike to that museum . <eos>
 Bruce would bike to those museum . <eos>
-Students don't disagree with this guest . <eos>
-Students don't disagree with these guest . <eos>
+Students do n't disagree with this guest . <eos>
+Students do n't disagree with these guest . <eos>
 The child was concealing this man . <eos>
 The child was concealing these man . <eos>
 Carmen alarmed that driver . <eos>
@@ -420,14 +420,14 @@ Katherine escapes from those cashiers . <eos>
 Katherine escapes from that cashiers . <eos>
 That popsicle scares that offspring . <eos>
 That popsicle scares those offspring . <eos>
-Travis hasn't brought this sketch . <eos>
-Travis hasn't brought these sketch . <eos>
+Travis has n't brought this sketch . <eos>
+Travis has n't brought these sketch . <eos>
 Many people had examined these movies . <eos>
 Many people had examined this movies . <eos>
 Robert messes up those public parks . <eos>
 Robert messes up that public parks . <eos>
-Roger isn't driving to this library . <eos>
-Roger isn't driving to these library . <eos>
+Roger is n't driving to this library . <eos>
+Roger is n't driving to these library . <eos>
 Susan has known these ladies . <eos>
 Susan has known this ladies . <eos>
 Mary might confuse this teacher . <eos>
@@ -498,8 +498,8 @@ Emily can skate around that mall . <eos>
 Emily can skate around those mall . <eos>
 Veronica praised this thesis . <eos>
 Veronica praised these thesis . <eos>
-Claire hasn't lifted this book . <eos>
-Claire hasn't lifted these book . <eos>
+Claire has n't lifted this book . <eos>
+Claire has n't lifted these book . <eos>
 Barbara loves that book . <eos>
 Barbara loves those book . <eos>
 Heather shouldn't drop by that high school . <eos>
@@ -530,16 +530,16 @@ Michelle discussed those movie theaters . <eos>
 Michelle discussed that movie theaters . <eos>
 Dana was fleeing from this art gallery . <eos>
 Dana was fleeing from these art gallery . <eos>
-Kevin doesn't confuse these ladies . <eos>
-Kevin doesn't confuse this ladies . <eos>
+Kevin does n't confuse these ladies . <eos>
+Kevin does n't confuse this ladies . <eos>
 Stephanie had driven to those museums . <eos>
 Stephanie had driven to that museums . <eos>
 Gina was impressing that company . <eos>
 Gina was impressing those company . <eos>
 Kathleen had seen this bird . <eos>
 Kathleen had seen these bird . <eos>
-Most pictures haven't looked like this child . <eos>
-Most pictures haven't looked like these child . <eos>
+Most pictures have n't looked like this child . <eos>
+Most pictures have n't looked like these child . <eos>
 Most waiters break this dish . <eos>
 Most waiters break these dish . <eos>
 Melanie has boycotted those high schools . <eos>
@@ -552,8 +552,8 @@ Omar might arrive at these banks . <eos>
 Omar might arrive at this banks . <eos>
 A lot of governments remember those hospitals . <eos>
 A lot of governments remember that hospitals . <eos>
-Rebecca hasn't brought this plate . <eos>
-Rebecca hasn't brought these plate . <eos>
+Rebecca has n't brought this plate . <eos>
+Rebecca has n't brought these plate . <eos>
 Mark revealed those women . <eos>
 Mark revealed that women . <eos>
 The customers go to these high schools . <eos>
@@ -568,8 +568,8 @@ Curtis observed these girls . <eos>
 Curtis observed this girls . <eos>
 Melinda is escaping from this pedestrian . <eos>
 Melinda is escaping from these pedestrian . <eos>
-Mitchell doesn't conceal that teenager . <eos>
-Mitchell doesn't conceal those teenager . <eos>
+Mitchell does n't conceal that teenager . <eos>
+Mitchell does n't conceal those teenager . <eos>
 Maria breaks that fork . <eos>
 Maria breaks those fork . <eos>
 Christina hadn't sold these plates . <eos>
@@ -586,8 +586,8 @@ A doctor listens to those patients . <eos>
 A doctor listens to that patients . <eos>
 Some grocery store has embarrassed those students . <eos>
 Some grocery store has embarrassed that students . <eos>
-Amanda isn't revealing this rabbit . <eos>
-Amanda isn't revealing these rabbit . <eos>
+Amanda is n't revealing this rabbit . <eos>
+Amanda is n't revealing these rabbit . <eos>
 Pamela can know this customer . <eos>
 Pamela can know these customer . <eos>
 Elizabeth has criticized these children . <eos>
@@ -606,8 +606,8 @@ Committees respect these public parks . <eos>
 Committees respect this public parks . <eos>
 Linda had annoyed those universities . <eos>
 Linda had annoyed that universities . <eos>
-Omar doesn't have those hamsters . <eos>
-Omar doesn't have that hamsters . <eos>
+Omar does n't have those hamsters . <eos>
+Omar does n't have that hamsters . <eos>
 Lisa passed these restaurants . <eos>
 Lisa passed this restaurants . <eos>
 The doors irritate these women . <eos>
@@ -622,24 +622,24 @@ Florence couldn't boycott these companies . <eos>
 Florence couldn't boycott this companies . <eos>
 Stephanie dropped by those college campuses . <eos>
 Stephanie dropped by that college campuses . <eos>
-Dennis hasn't bored those boys . <eos>
-Dennis hasn't bored that boys . <eos>
+Dennis has n't bored those boys . <eos>
+Dennis has n't bored that boys . <eos>
 Heather didn't break that chair . <eos>
 Heather didn't break those chair . <eos>
 Matt was disturbing those hospitals . <eos>
 Matt was disturbing that hospitals . <eos>
 Craig arrived at this restaurant . <eos>
 Craig arrived at these restaurant . <eos>
-Roger isn't admiring those plates . <eos>
-Roger isn't admiring that plates . <eos>
+Roger is n't admiring those plates . <eos>
+Roger is n't admiring that plates . <eos>
 Every movie won't confuse this guy . <eos>
 Every movie won't confuse these guy . <eos>
-Some university isn't helping these senators . <eos>
-Some university isn't helping this senators . <eos>
+Some university is n't helping these senators . <eos>
+Some university is n't helping this senators . <eos>
 Allison alarmed that senator . <eos>
 Allison alarmed those senator . <eos>
-Some story hasn't insulted this museum . <eos>
-Some story hasn't insulted these museum . <eos>
+Some story has n't insulted this museum . <eos>
+Some story has n't insulted these museum . <eos>
 Kimberley won't work with those adults . <eos>
 Kimberley won't work with that adults . <eos>
 All cars hadn't bothered that patient . <eos>
@@ -682,16 +682,16 @@ Candice buys that horse . <eos>
 Candice buys those horse . <eos>
 Many drawings astound those girls . <eos>
 Many drawings astound that girls . <eos>
-Samuel hasn't approached these adults . <eos>
-Samuel hasn't approached this adults . <eos>
+Samuel has n't approached these adults . <eos>
+Samuel has n't approached this adults . <eos>
 Kristin has driven to these hospitals . <eos>
 Kristin has driven to this hospitals . <eos>
 Tamara might cure this turtle . <eos>
 Tamara might cure these turtle . <eos>
 These women forget this teacher . <eos>
 These women forget these teacher . <eos>
-Melanie isn't biking to these schools . <eos>
-Melanie isn't biking to this schools . <eos>
+Melanie is n't biking to these schools . <eos>
+Melanie is n't biking to this schools . <eos>
 Donna should scan these documentaries . <eos>
 Donna should scan this documentaries . <eos>
 Pedestrians annoyed those adults . <eos>
@@ -700,8 +700,8 @@ Todd cleaned that bank . <eos>
 Todd cleaned those bank . <eos>
 Janet escapes from that guest . <eos>
 Janet escapes from those guest . <eos>
-Margaret hasn't worried those customers . <eos>
-Margaret hasn't worried that customers . <eos>
+Margaret has n't worried those customers . <eos>
+Margaret has n't worried that customers . <eos>
 Glasses are looking like these photographs . <eos>
 Glasses are looking like this photographs . <eos>
 Brenda wouldn't exit that hospital . <eos>
@@ -772,8 +772,8 @@ Patrick had passed that hospital . <eos>
 Patrick had passed those hospital . <eos>
 Alexander wasn't alarming this student . <eos>
 Alexander wasn't alarming these student . <eos>
-Nicole hasn't attacked those pedestrians . <eos>
-Nicole hasn't attacked that pedestrians . <eos>
+Nicole has n't attacked those pedestrians . <eos>
+Nicole has n't attacked that pedestrians . <eos>
 Patricia will hide these glasses . <eos>
 Patricia will hide this glasses . <eos>
 Some guys escape from that cashier . <eos>
@@ -818,14 +818,14 @@ Sonia wasn't running around that grocery store . <eos>
 Sonia wasn't running around those grocery store . <eos>
 Some customers hate that teenager . <eos>
 Some customers hate those teenager . <eos>
-Carla doesn't heal those guests . <eos>
-Carla doesn't heal that guests . <eos>
+Carla does n't heal those guests . <eos>
+Carla does n't heal that guests . <eos>
 Most guys break these forks . <eos>
 Most guys break this forks . <eos>
 Kendra breaks those couches . <eos>
 Kendra breaks that couches . <eos>
-Sheila isn't leaving that actor . <eos>
-Sheila isn't leaving those actor . <eos>
+Sheila is n't leaving that actor . <eos>
+Sheila is n't leaving those actor . <eos>
 Ronald can't cure that actress . <eos>
 Ronald can't cure those actress . <eos>
 Victoria skated around those libraries . <eos>
@@ -884,8 +884,8 @@ Helen praises that story . <eos>
 Helen praises those story . <eos>
 Julie was investigating those pedestrians . <eos>
 Julie was investigating that pedestrians . <eos>
-Pamela isn't fleeing from those girls . <eos>
-Pamela isn't fleeing from that girls . <eos>
+Pamela is n't fleeing from those girls . <eos>
+Pamela is n't fleeing from that girls . <eos>
 Sonia had those reports . <eos>
 Sonia had that reports . <eos>
 Veronica dislikes these banks . <eos>
@@ -898,8 +898,8 @@ Most cashiers complain about this alumnus . <eos>
 Most cashiers complain about these alumnus . <eos>
 All senators weren't hiding those children . <eos>
 All senators weren't hiding that children . <eos>
-Amelia isn't fleeing from these children . <eos>
-Amelia isn't fleeing from this children . <eos>
+Amelia is n't fleeing from these children . <eos>
+Amelia is n't fleeing from this children . <eos>
 This ladder astounds this bank . <eos>
 This ladder astounds these bank . <eos>
 Daniel was firing that guest . <eos>
@@ -916,16 +916,16 @@ A photograph bothers those teachers . <eos>
 A photograph bothers that teachers . <eos>
 The doctors do work with these teenagers . <eos>
 The doctors do work with this teenagers . <eos>
-The prints aren't looking like these chairs . <eos>
-The prints aren't looking like this chairs . <eos>
+The prints are n't looking like these chairs . <eos>
+The prints are n't looking like this chairs . <eos>
 Children pass these grocery stores . <eos>
 Children pass this grocery stores . <eos>
 Many dishes scare those customers . <eos>
 Many dishes scare that customers . <eos>
 Stacy hated these dancers . <eos>
 Stacy hated this dancers . <eos>
-Tammy hasn't resembled those paintings . <eos>
-Tammy hasn't resembled that paintings . <eos>
+Tammy has n't resembled those paintings . <eos>
+Tammy has n't resembled that paintings . <eos>
 Craig referenced these boys . <eos>
 Craig referenced this boys . <eos>
 Sara attacked this guy . <eos>
@@ -1020,14 +1020,14 @@ Emily hadn't revealed this painting . <eos>
 Emily hadn't revealed these painting . <eos>
 The guy is describing those ladies . <eos>
 The guy is describing that ladies . <eos>
-Denise hasn't stunned those women . <eos>
-Denise hasn't stunned that women . <eos>
+Denise has n't stunned those women . <eos>
+Denise has n't stunned that women . <eos>
 Many dogs annoy those waitresses . <eos>
 Many dogs annoy that waitresses . <eos>
-The ladder isn't looking like those paintings . <eos>
-The ladder isn't looking like that paintings . <eos>
-Julia hasn't cleaned these shoes . <eos>
-Julia hasn't cleaned this shoes . <eos>
+The ladder is n't looking like those paintings . <eos>
+The ladder is n't looking like that paintings . <eos>
+Julia has n't cleaned these shoes . <eos>
+Julia has n't cleaned this shoes . <eos>
 Alice arrived at those college campuses . <eos>
 Alice arrived at that college campuses . <eos>
 Tamara hadn't bought that rabbit . <eos>
@@ -1056,16 +1056,16 @@ Most doctors observe those drivers . <eos>
 Most doctors observe that drivers . <eos>
 Wayne walked through these schools . <eos>
 Wayne walked through this schools . <eos>
-The teacher doesn't examine this story . <eos>
-The teacher doesn't examine these story . <eos>
+The teacher does n't examine this story . <eos>
+The teacher does n't examine these story . <eos>
 Julie heals that student . <eos>
 Julie heals those student . <eos>
 Eva hugged those children . <eos>
 Eva hugged that children . <eos>
 Dennis could like those cars . <eos>
 Dennis could like that cars . <eos>
-Susan doesn't admire this lady . <eos>
-Susan doesn't admire these lady . <eos>
+Susan does n't admire this lady . <eos>
+Susan does n't admire these lady . <eos>
 A lot of glaciers distract that doctor . <eos>
 A lot of glaciers distract those doctor . <eos>
 All vases alarm those girls . <eos>
@@ -1104,8 +1104,8 @@ Caroline runs around these art galleries . <eos>
 Caroline runs around this art galleries . <eos>
 Gary cleaned these forks . <eos>
 Gary cleaned this forks . <eos>
-Tiffany doesn't approach these children . <eos>
-Tiffany doesn't approach this children . <eos>
+Tiffany does n't approach these children . <eos>
+Tiffany does n't approach this children . <eos>
 Many newspaper articles disagreed with these waitresses . <eos>
 Many newspaper articles disagreed with this waitresses . <eos>
 Judy wasn't watching that child . <eos>
@@ -1130,8 +1130,8 @@ Margaret scanned this brochure . <eos>
 Margaret scanned these brochure . <eos>
 Some cashiers appreciate this customer . <eos>
 Some cashiers appreciate these customer . <eos>
-Carlos isn't cleaning this bank . <eos>
-Carlos isn't cleaning these bank . <eos>
+Carlos is n't cleaning this bank . <eos>
+Carlos is n't cleaning these bank . <eos>
 Carrie has examined these newspaper articles . <eos>
 Carrie has examined this newspaper articles . <eos>
 Donald exited these restaurants . <eos>
@@ -1144,8 +1144,8 @@ Renee wasn't boring these waitresses . <eos>
 Renee wasn't boring this waitresses . <eos>
 Vanessa upset those hospitals . <eos>
 Vanessa upset that hospitals . <eos>
-The actress hasn't approached those drivers . <eos>
-The actress hasn't approached that drivers . <eos>
+The actress has n't approached those drivers . <eos>
+The actress has n't approached that drivers . <eos>
 Lori aggravated those boys . <eos>
 Lori aggravated that boys . <eos>
 Rachel cures that turtle . <eos>
@@ -1210,10 +1210,10 @@ Kimberley buys those rabbits . <eos>
 Kimberley buys that rabbits . <eos>
 This lady couldn't listen to this pedestrian . <eos>
 This lady couldn't listen to these pedestrian . <eos>
-Omar hasn't remembered those books . <eos>
-Omar hasn't remembered that books . <eos>
-Deborah hasn't fled from this alumnus . <eos>
-Deborah hasn't fled from these alumnus . <eos>
+Omar has n't remembered those books . <eos>
+Omar has n't remembered that books . <eos>
+Deborah has n't fled from this alumnus . <eos>
+Deborah has n't fled from these alumnus . <eos>
 Gerald shouldn't conceal these people . <eos>
 Gerald shouldn't conceal this people . <eos>
 This customer tours this hospital . <eos>
@@ -1234,8 +1234,8 @@ Cheryl explores those hospitals . <eos>
 Cheryl explores that hospitals . <eos>
 Heidi hadn't hated these pamphlets . <eos>
 Heidi hadn't hated this pamphlets . <eos>
-Stephen isn't finding this man . <eos>
-Stephen isn't finding these man . <eos>
+Stephen is n't finding this man . <eos>
+Stephen is n't finding these man . <eos>
 Mary wouldn't listen to these ladies . <eos>
 Mary wouldn't listen to this ladies . <eos>
 Some shirt won't look like that painting . <eos>
@@ -1288,8 +1288,8 @@ Some bank has discussed this documentary . <eos>
 Some bank has discussed these documentary . <eos>
 That senator biked to this art gallery . <eos>
 That senator biked to these art gallery . <eos>
-Wendy doesn't skate around this library . <eos>
-Wendy doesn't skate around these library . <eos>
+Wendy does n't skate around this library . <eos>
+Wendy does n't skate around these library . <eos>
 Schools distracted these adults . <eos>
 Schools distracted this adults . <eos>
 Some hat stuns that senator . <eos>
@@ -1298,10 +1298,10 @@ Some teacher is cleaning those books . <eos>
 Some teacher is cleaning that books . <eos>
 Craig was fleeing from those dancers . <eos>
 Craig was fleeing from that dancers . <eos>
-Committees haven't worked with these boys . <eos>
-Committees haven't worked with this boys . <eos>
-Jennifer hasn't bought that shirt . <eos>
-Jennifer hasn't bought those shirt . <eos>
+Committees have n't worked with these boys . <eos>
+Committees have n't worked with this boys . <eos>
+Jennifer has n't bought that shirt . <eos>
+Jennifer has n't bought those shirt . <eos>
 Women kiss that senator . <eos>
 Women kiss those senator . <eos>
 Every patient is finding these dishes . <eos>
@@ -1316,8 +1316,8 @@ This mirror bores these governments . <eos>
 This mirror bores this governments . <eos>
 Irene has bored this organization . <eos>
 Irene has bored these organization . <eos>
-Mark isn't healing those children . <eos>
-Mark isn't healing that children . <eos>
+Mark is n't healing those children . <eos>
+Mark is n't healing that children . <eos>
 Regina won't describe these grocery stores . <eos>
 Regina won't describe this grocery stores . <eos>
 Tamara couldn't fire that actress . <eos>
@@ -1330,8 +1330,8 @@ Hospitals talk about these movies . <eos>
 Hospitals talk about this movies . <eos>
 Tamara has visited that waiter . <eos>
 Tamara has visited those waiter . <eos>
-Marcus doesn't observe that doctor . <eos>
-Marcus doesn't observe those doctor . <eos>
+Marcus does n't observe that doctor . <eos>
+Marcus does n't observe those doctor . <eos>
 Alice could go to this mall . <eos>
 Alice could go to these mall . <eos>
 Kristen should leave that man . <eos>
@@ -1340,8 +1340,8 @@ Martha wasn't complaining about these teachers . <eos>
 Martha wasn't complaining about this teachers . <eos>
 Gary annoyed that bank . <eos>
 Gary annoyed those bank . <eos>
-Tiffany isn't selling that snake . <eos>
-Tiffany isn't selling those snake . <eos>
+Tiffany is n't selling that snake . <eos>
+Tiffany is n't selling those snake . <eos>
 A boy cleaned those cars . <eos>
 A boy cleaned that cars . <eos>
 Clyde walks through this art gallery . <eos>
@@ -1350,8 +1350,8 @@ Catherine knew those men . <eos>
 Catherine knew that men . <eos>
 The closet was annoying that senator . <eos>
 The closet was annoying those senator . <eos>
-All documentaries don't disagree with this senator . <eos>
-All documentaries don't disagree with these senator . <eos>
+All documentaries do n't disagree with this senator . <eos>
+All documentaries do n't disagree with these senator . <eos>
 Ruth attacked those dancers . <eos>
 Ruth attacked that dancers . <eos>
 Most art galleries annoyed those hospitals . <eos>
@@ -1382,8 +1382,8 @@ Paula explores that college campus . <eos>
 Paula explores those college campus . <eos>
 Candice had sounded like this movie theater . <eos>
 Candice had sounded like these movie theater . <eos>
-Most glaciers haven't embarrassed that girl . <eos>
-Most glaciers haven't embarrassed those girl . <eos>
+Most glaciers have n't embarrassed that girl . <eos>
+Most glaciers have n't embarrassed those girl . <eos>
 Tonya had escaped from that customer . <eos>
 Tonya had escaped from those customer . <eos>
 That ice distracts this actress . <eos>
@@ -1406,8 +1406,8 @@ Most teachers aggravates that man . <eos>
 Most teachers aggravates those man . <eos>
 The pants distract this student . <eos>
 The pants distract these student . <eos>
-Mitchell isn't observing those adults . <eos>
-Mitchell isn't observing that adults . <eos>
+Mitchell is n't observing those adults . <eos>
+Mitchell is n't observing that adults . <eos>
 Some actors hire this person . <eos>
 Some actors hire these person . <eos>
 Paul was visiting these girls . <eos>
@@ -1418,8 +1418,8 @@ Many waiters hurts that guest . <eos>
 Many waiters hurts those guest . <eos>
 Theresa visited these museums . <eos>
 Theresa visited this museums . <eos>
-Carmen isn't helping that guest . <eos>
-Carmen isn't helping those guest . <eos>
+Carmen is n't helping that guest . <eos>
+Carmen is n't helping those guest . <eos>
 Most dancers irritate this museum . <eos>
 Most dancers irritate these museum . <eos>
 Kimberley drops by those high schools . <eos>
@@ -1450,8 +1450,8 @@ A lot of boys didn't hug this senator . <eos>
 A lot of boys didn't hug these senator . <eos>
 Charles attacks this dancer . <eos>
 Charles attacks these dancer . <eos>
-Matt hasn't criticized that boy . <eos>
-Matt hasn't criticized those boy . <eos>
+Matt has n't criticized that boy . <eos>
+Matt has n't criticized those boy . <eos>
 Tamara hadn't toured these libraries . <eos>
 Tamara hadn't toured this libraries . <eos>
 The companies were aggravating these teachers . <eos>
@@ -1460,8 +1460,8 @@ Laura has forgotten that driver . <eos>
 Laura has forgotten those driver . <eos>
 All women can't watch that teacher . <eos>
 All women can't watch those teacher . <eos>
-These steps haven't astounded that student . <eos>
-These steps haven't astounded those student . <eos>
+These steps have n't astounded that student . <eos>
+These steps have n't astounded those student . <eos>
 Donna wasn't complaining about those men . <eos>
 Donna wasn't complaining about that men . <eos>
 The woman wasn't describing these movies . <eos>
@@ -1474,8 +1474,8 @@ Emily has approached this waiter . <eos>
 Emily has approached these waiter . <eos>
 Most children exit these high schools . <eos>
 Most children exit this high schools . <eos>
-Sara isn't hiring this girl . <eos>
-Sara isn't hiring these girl . <eos>
+Sara is n't hiring this girl . <eos>
+Sara is n't hiring these girl . <eos>
 Jason can care for this child . <eos>
 Jason can care for these child . <eos>
 Carrie has impressed that person . <eos>
@@ -1488,8 +1488,8 @@ Monica works with those boys . <eos>
 Monica works with that boys . <eos>
 Ladies boycott these hospitals . <eos>
 Ladies boycott this hospitals . <eos>
-Wendy isn't fixing this fork . <eos>
-Wendy isn't fixing these fork . <eos>
+Wendy is n't fixing this fork . <eos>
+Wendy is n't fixing these fork . <eos>
 Beth has stunned those legislatures . <eos>
 Beth has stunned that legislatures . <eos>
 Denise hadn't broken that fork . <eos>
@@ -1512,12 +1512,12 @@ Christina remembered that driver . <eos>
 Christina remembered those driver . <eos>
 Melissa is going to those banks . <eos>
 Melissa is going to that banks . <eos>
-Claire doesn't bore those organizations . <eos>
-Claire doesn't bore that organizations . <eos>
+Claire does n't bore those organizations . <eos>
+Claire does n't bore that organizations . <eos>
 Mark investigates those men . <eos>
 Mark investigates that men . <eos>
-Janet hasn't talked about those pamphlets . <eos>
-Janet hasn't talked about that pamphlets . <eos>
+Janet has n't talked about those pamphlets . <eos>
+Janet has n't talked about that pamphlets . <eos>
 All men sell these cups . <eos>
 All men sell this cups . <eos>
 Alexander praises these doctors . <eos>
@@ -1548,12 +1548,12 @@ Kayla insulted these banks . <eos>
 Kayla insulted this banks . <eos>
 Most guys flee from these dancers . <eos>
 Most guys flee from this dancers . <eos>
-Samantha hasn't walked through this art gallery . <eos>
-Samantha hasn't walked through these art gallery . <eos>
-Sharon hasn't cleaned that museum . <eos>
-Sharon hasn't cleaned those museum . <eos>
-The mountain isn't impressing this patient . <eos>
-The mountain isn't impressing these patient . <eos>
+Samantha has n't walked through this art gallery . <eos>
+Samantha has n't walked through these art gallery . <eos>
+Sharon has n't cleaned that museum . <eos>
+Sharon has n't cleaned those museum . <eos>
+The mountain is n't impressing this patient . <eos>
+The mountain is n't impressing these patient . <eos>
 Irene was boring that company . <eos>
 Irene was boring those company . <eos>
 Every doctor has arrived at those college campuses . <eos>
@@ -1562,8 +1562,8 @@ The students listen to this waitress . <eos>
 The students listen to these waitress . <eos>
 Christopher shouldn't bring those dogs . <eos>
 Christopher shouldn't bring that dogs . <eos>
-The turtles aren't worrying this university . <eos>
-The turtles aren't worrying these university . <eos>
+The turtles are n't worrying this university . <eos>
+The turtles are n't worrying these university . <eos>
 Laura did cure this lady . <eos>
 Laura did cure these lady . <eos>
 Natalie hadn't biked to this art gallery . <eos>
@@ -1572,14 +1572,14 @@ Alicia ran around these college campuses . <eos>
 Alicia ran around this college campuses . <eos>
 Dennis won't talk to these waitresses . <eos>
 Dennis won't talk to this waitresses . <eos>
-That teacher hasn't talked about that guest . <eos>
-That teacher hasn't talked about those guest . <eos>
+That teacher has n't talked about that guest . <eos>
+That teacher has n't talked about those guest . <eos>
 This bank fired these waitresses . <eos>
 This bank fired this waitresses . <eos>
 Commentaries sound like that library . <eos>
 Commentaries sound like those library . <eos>
-Andrew hasn't brought that rug . <eos>
-Andrew hasn't brought those rug . <eos>
+Andrew has n't brought that rug . <eos>
+Andrew has n't brought those rug . <eos>
 Jeffrey explores that high school . <eos>
 Jeffrey explores those high school . <eos>
 These men do find these pedestrians . <eos>
@@ -1592,8 +1592,8 @@ The dish is shocking those libraries . <eos>
 The dish is shocking that libraries . <eos>
 All adults work with these guests . <eos>
 All adults work with this guests . <eos>
-Brian isn't cleaning those brochures . <eos>
-Brian isn't cleaning that brochures . <eos>
+Brian is n't cleaning those brochures . <eos>
+Brian is n't cleaning that brochures . <eos>
 A dog stuns that university . <eos>
 A dog stuns those university . <eos>
 Tara had worried these universities . <eos>
@@ -1602,12 +1602,12 @@ Bethany hadn't hired this senator . <eos>
 Bethany hadn't hired these senator . <eos>
 Ella wore these shoes . <eos>
 Ella wore this shoes . <eos>
-Phillip isn't disturbing these women . <eos>
-Phillip isn't disturbing this women . <eos>
+Phillip is n't disturbing these women . <eos>
+Phillip is n't disturbing this women . <eos>
 All teenagers discuss those boys . <eos>
 All teenagers discuss that boys . <eos>
-Roger hasn't scared this teacher . <eos>
-Roger hasn't scared these teacher . <eos>
+Roger has n't scared this teacher . <eos>
+Roger has n't scared these teacher . <eos>
 James broke this fork . <eos>
 James broke these fork . <eos>
 Curtis embarrassed that company . <eos>
@@ -1624,8 +1624,8 @@ A lot of women hug this actor . <eos>
 A lot of women hug these actor . <eos>
 A school confuses those waitresses . <eos>
 A school confuses that waitresses . <eos>
-A grocery store hasn't irritated this child . <eos>
-A grocery store hasn't irritated these child . <eos>
+A grocery store has n't irritated this child . <eos>
+A grocery store has n't irritated these child . <eos>
 Some documentary wasn't aggravating those hospitals . <eos>
 Some documentary wasn't aggravating that hospitals . <eos>
 The prints astound these legislatures . <eos>
@@ -1636,8 +1636,8 @@ Tiffany would conceal that teenager . <eos>
 Tiffany would conceal those teenager . <eos>
 These children disagreed with those cashiers . <eos>
 These children disagreed with that cashiers . <eos>
-That guy hasn't talked about this waiter . <eos>
-That guy hasn't talked about these waiter . <eos>
+That guy has n't talked about this waiter . <eos>
+That guy has n't talked about these waiter . <eos>
 April is revealing that glass . <eos>
 April is revealing those glass . <eos>
 Every bird concealed that rug . <eos>
@@ -1652,14 +1652,14 @@ Clyde praises these pedestrians . <eos>
 Clyde praises this pedestrians . <eos>
 Most pedestrians have this sketch . <eos>
 Most pedestrians have these sketch . <eos>
-Danielle hasn't visited this guest . <eos>
-Danielle hasn't visited these guest . <eos>
+Danielle has n't visited this guest . <eos>
+Danielle has n't visited these guest . <eos>
 Christopher had attacked this person . <eos>
 Christopher had attacked these person . <eos>
 Children mess up that restaurant . <eos>
 Children mess up those restaurant . <eos>
-James hasn't talked about these movies . <eos>
-James hasn't talked about this movies . <eos>
+James has n't talked about these movies . <eos>
+James has n't talked about this movies . <eos>
 Some legislatures reference those doctors . <eos>
 Some legislatures reference that doctors . <eos>
 Brett shouldn't bother these schools . <eos>
@@ -1672,20 +1672,20 @@ Some boys leave that college campus . <eos>
 Some boys leave those college campus . <eos>
 Claire finds those snakes . <eos>
 Claire finds that snakes . <eos>
-Noah hasn't discussed that analysis . <eos>
-Noah hasn't discussed those analysis . <eos>
+Noah has n't discussed that analysis . <eos>
+Noah has n't discussed those analysis . <eos>
 A lot of tomatoes shouldn't shock those women . <eos>
 A lot of tomatoes shouldn't shock that women . <eos>
 Rhonda passes this bank . <eos>
 Rhonda passes these bank . <eos>
-The people aren't buying this picture . <eos>
-The people aren't buying these picture . <eos>
-Candice hasn't kissed those students . <eos>
-Candice hasn't kissed that students . <eos>
+The people are n't buying this picture . <eos>
+The people are n't buying these picture . <eos>
+Candice has n't kissed those students . <eos>
+Candice has n't kissed that students . <eos>
 Colleen revealed this pedestrian . <eos>
 Colleen revealed these pedestrian . <eos>
-Sharon isn't hugging this dancer . <eos>
-Sharon isn't hugging these dancer . <eos>
+Sharon is n't hugging this dancer . <eos>
+Sharon is n't hugging these dancer . <eos>
 A lot of public parks distracted those dancers . <eos>
 A lot of public parks distracted that dancers . <eos>
 A lot of mountains worry those doctors . <eos>
@@ -1698,12 +1698,12 @@ Deanna was listening to this waitress . <eos>
 Deanna was listening to these waitress . <eos>
 Grace might criticize that newspaper article . <eos>
 Grace might criticize those newspaper article . <eos>
-Beverly isn't aggravating that library . <eos>
-Beverly isn't aggravating those library . <eos>
+Beverly is n't aggravating that library . <eos>
+Beverly is n't aggravating those library . <eos>
 Aaron resembled that sketch . <eos>
 Aaron resembled those sketch . <eos>
-Many museums haven't criticized this public park . <eos>
-Many museums haven't criticized these public park . <eos>
+Many museums have n't criticized this public park . <eos>
+Many museums have n't criticized these public park . <eos>
 Theresa broke that fork . <eos>
 Theresa broke those fork . <eos>
 Every girl references that student . <eos>
@@ -1776,16 +1776,16 @@ Jodi can appreciate those documentaries . <eos>
 Jodi can appreciate that documentaries . <eos>
 Many doctors shouldn't have those chairs . <eos>
 Many doctors shouldn't have that chairs . <eos>
-Claire hasn't broken that glass . <eos>
-Claire hasn't broken those glass . <eos>
+Claire has n't broken that glass . <eos>
+Claire has n't broken those glass . <eos>
 A lot of banks forget that play . <eos>
 A lot of banks forget those play . <eos>
 Most customers explored this museum . <eos>
 Most customers explored these museum . <eos>
 Tiffany has hired those actresses . <eos>
 Tiffany has hired that actresses . <eos>
-Alice doesn't aggravate those senators . <eos>
-Alice doesn't aggravate that senators . <eos>
+Alice does n't aggravate those senators . <eos>
+Alice does n't aggravate that senators . <eos>
 Many customers go to this restaurant . <eos>
 Many customers go to these restaurant . <eos>
 Tammy wouldn't dislike this man . <eos>
@@ -1822,16 +1822,16 @@ Brett escaped from this offspring . <eos>
 Brett escaped from these offspring . <eos>
 That person didn't heal these cashiers . <eos>
 That person didn't heal this cashiers . <eos>
-Lucille isn't criticizing this essay . <eos>
-Lucille isn't criticizing these essay . <eos>
+Lucille is n't criticizing this essay . <eos>
+Lucille is n't criticizing these essay . <eos>
 Allison passed those cafes . <eos>
 Allison passed that cafes . <eos>
 All men scan these stories . <eos>
 All men scan this stories . <eos>
 Angela broke those plates . <eos>
 Angela broke that plates . <eos>
-Martin isn't approaching this man . <eos>
-Martin isn't approaching these man . <eos>
+Martin is n't approaching this man . <eos>
+Martin is n't approaching these man . <eos>
 Donald fires these teenagers . <eos>
 Donald fires this teenagers . <eos>
 Kendra investigated this alumnus . <eos>
@@ -1840,8 +1840,8 @@ Victoria concealed these pamphlets . <eos>
 Victoria concealed this pamphlets . <eos>
 Eva can't mess up those cars . <eos>
 Eva can't mess up that cars . <eos>
-The dancer hasn't embarrassed these girls . <eos>
-The dancer hasn't embarrassed this girls . <eos>
+The dancer has n't embarrassed these girls . <eos>
+The dancer has n't embarrassed this girls . <eos>
 Donna resembles those photographs . <eos>
 Donna resembles that photographs . <eos>
 All glasses have distracted this bank . <eos>
@@ -1858,14 +1858,14 @@ Ladies disgust that organization . <eos>
 Ladies disgust those organization . <eos>
 Todd had alarmed this offspring . <eos>
 Todd had alarmed these offspring . <eos>
-Stacy doesn't reveal this cat . <eos>
-Stacy doesn't reveal these cat . <eos>
+Stacy does n't reveal this cat . <eos>
+Stacy does n't reveal these cat . <eos>
 A lot of girls reveal those couches . <eos>
 A lot of girls reveal that couches . <eos>
 Regina cared for those guys . <eos>
 Regina cared for that guys . <eos>
-Diana isn't selling that cat . <eos>
-Diana isn't selling those cat . <eos>
+Diana is n't selling that cat . <eos>
+Diana is n't selling those cat . <eos>
 Jacqueline cured this girl . <eos>
 Jacqueline cured these girl . <eos>
 Helen biked to that cafe . <eos>
@@ -1876,8 +1876,8 @@ These students go to those high schools . <eos>
 These students go to that high schools . <eos>
 Gerald did forget these commentaries . <eos>
 Gerald did forget this commentaries . <eos>
-Donna hasn't talked to those guests . <eos>
-Donna hasn't talked to that guests . <eos>
+Donna has n't talked to those guests . <eos>
+Donna has n't talked to that guests . <eos>
 Some actresses have disliked that analysis . <eos>
 Some actresses have disliked those analysis . <eos>
 Benjamin had criticized those dancers . <eos>
@@ -1890,12 +1890,12 @@ Some dancers had attacked those guys . <eos>
 Some dancers had attacked that guys . <eos>
 Eva exited that high school . <eos>
 Eva exited those high school . <eos>
-Commentaries don't worry this organization . <eos>
-Commentaries don't worry these organization . <eos>
+Commentaries do n't worry this organization . <eos>
+Commentaries do n't worry these organization . <eos>
 Stories didn't annoy this teenager . <eos>
 Stories didn't annoy these teenager . <eos>
-All teenagers aren't wearing that scarf . <eos>
-All teenagers aren't wearing those scarf . <eos>
+All teenagers are n't wearing that scarf . <eos>
+All teenagers are n't wearing those scarf . <eos>
 Amelia confused that association . <eos>
 Amelia confused those association . <eos>
 Some girl was listening to that child . <eos>
@@ -1922,8 +1922,8 @@ Melissa could clean that cup . <eos>
 Melissa could clean those cup . <eos>
 Becca heals these dogs . <eos>
 Becca heals this dogs . <eos>
-Lawrence doesn't appreciate those brochures . <eos>
-Lawrence doesn't appreciate that brochures . <eos>
+Lawrence does n't appreciate those brochures . <eos>
+Lawrence does n't appreciate that brochures . <eos>
 Some students hadn't praised those guests . <eos>
 Some students hadn't praised that guests . <eos>
 This committee couldn't insult these restaurants . <eos>
@@ -1948,12 +1948,12 @@ Kayla saw this snake . <eos>
 Kayla saw these snake . <eos>
 Some senators leave those guys . <eos>
 Some senators leave that guys . <eos>
-Documentaries haven't talked about this boy . <eos>
-Documentaries haven't talked about these boy . <eos>
-The college campus hasn't upset those drivers . <eos>
-The college campus hasn't upset that drivers . <eos>
-Jacqueline doesn't complain about that lady . <eos>
-Jacqueline doesn't complain about those lady . <eos>
+Documentaries have n't talked about this boy . <eos>
+Documentaries have n't talked about these boy . <eos>
+The college campus has n't upset those drivers . <eos>
+The college campus has n't upset that drivers . <eos>
+Jacqueline does n't complain about that lady . <eos>
+Jacqueline does n't complain about those lady . <eos>
 Some organizations buy that glass . <eos>
 Some organizations buy those glass . <eos>
 These boys had concealed this man . <eos>
@@ -1986,8 +1986,8 @@ Kristen drives to those museums . <eos>
 Kristen drives to that museums . <eos>
 Some legislature should respect that waitress . <eos>
 Some legislature should respect those waitress . <eos>
-Ella isn't attacking those teenagers . <eos>
-Ella isn't attacking that teenagers . <eos>
+Ella is n't attacking those teenagers . <eos>
+Ella is n't attacking that teenagers . <eos>
 Most waiters distracts those children . <eos>
 Most waiters distracts that children . <eos>
 Tina wasn't criticizing this actor . <eos>

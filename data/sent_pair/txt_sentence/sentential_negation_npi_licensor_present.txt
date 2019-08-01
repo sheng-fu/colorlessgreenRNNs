@@ -656,8 +656,8 @@ The cashier had not ever studied . <eos>
 The cashier had fortunately ever studied . <eos>
 A lot of children could not ever date . <eos>
 A lot of children could probably ever date . <eos>
-The doctors have not ever found out who hasn't boycotted the hills . <eos>
-The doctors have really ever found out who hasn't boycotted the hills . <eos>
+The doctors have not ever found out who has n't boycotted the hills . <eos>
+The doctors have really ever found out who has n't boycotted the hills . <eos>
 A lot of women have not ever realized who ascended that hill . <eos>
 A lot of women have really ever realized who ascended that hill . <eos>
 Eric would not ever get fired . <eos>
@@ -1782,8 +1782,8 @@ Brian did not ever clean these libraries . <eos>
 Brian did really ever clean these libraries . <eos>
 All actors had not ever flirted . <eos>
 All actors had probably ever flirted . <eos>
-Vanessa had not ever doubted the schools aren't struggling . <eos>
-Vanessa had really ever doubted the schools aren't struggling . <eos>
+Vanessa had not ever doubted the schools are n't struggling . <eos>
+Vanessa had really ever doubted the schools are n't struggling . <eos>
 A lot of students do not ever marry . <eos>
 A lot of students do really ever marry . <eos>
 Tamara does not ever speak up . <eos>

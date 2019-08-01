@@ -54,8 +54,8 @@ Did these organizations ever profit ? <eos>
 These organizations did ever profit . <eos>
 Will Valerie ever compromise ? <eos>
 Valerie will ever compromise . <eos>
-Had Gina ever remembered who hasn't left ? <eos>
-Gina had ever remembered who hasn't left . <eos>
+Had Gina ever remembered who has n't left ? <eos>
+Gina had ever remembered who has n't left . <eos>
 Has Donna ever talked to all cashiers ? <eos>
 Donna has ever talked to all cashiers . <eos>
 Should Travis ever love Monica ? <eos>
@@ -174,8 +174,8 @@ Have girls ever testified ? <eos>
 Girls have ever testified . <eos>
 Should Marla ever love the doctor ? <eos>
 Marla should ever love the doctor . <eos>
-Had Eva ever said Russell hasn't boasted about Suzanne ? <eos>
-Eva had ever said Russell hasn't boasted about Suzanne . <eos>
+Had Eva ever said Russell has n't boasted about Suzanne ? <eos>
+Eva had ever said Russell has n't boasted about Suzanne . <eos>
 Have most men ever learned who respects Joel ? <eos>
 Most men have ever learned who respects Joel . <eos>
 Should Janice ever learn ? <eos>
@@ -280,8 +280,8 @@ Has Claire ever appreciated Homer ? <eos>
 Claire has ever appreciated Homer . <eos>
 Had Charles ever lifted books ? <eos>
 Charles had ever lifted books . <eos>
-Has Teresa ever investigated who hasn't suffered ? <eos>
-Teresa has ever investigated who hasn't suffered . <eos>
+Has Teresa ever investigated who has n't suffered ? <eos>
+Teresa has ever investigated who has n't suffered . <eos>
 Might many girls ever correspond ? <eos>
 Many girls might ever correspond . <eos>
 Would Carolyn ever complain about Teresa ? <eos>
@@ -466,8 +466,8 @@ Had Frank ever impressed Homer ? <eos>
 Frank had ever impressed Homer . <eos>
 Would David ever investigate Amelia ? <eos>
 David would ever investigate Amelia . <eos>
-Has Kenneth ever investigated who aren't wearing some skirt ? <eos>
-Kenneth has ever investigated who aren't wearing some skirt . <eos>
+Has Kenneth ever investigated who are n't wearing some skirt ? <eos>
+Kenneth has ever investigated who are n't wearing some skirt . <eos>
 Could Larry ever murmur ? <eos>
 Larry could ever murmur . <eos>
 Had these customers ever reacted ? <eos>
@@ -538,8 +538,8 @@ Has Martin ever cured Carla ? <eos>
 Martin has ever cured Carla . <eos>
 Had Teresa ever written ? <eos>
 Teresa had ever written . <eos>
-Will Margaret ever regret that lake hasn't melted ? <eos>
-Margaret will ever regret that lake hasn't melted . <eos>
+Will Margaret ever regret that lake has n't melted ? <eos>
+Margaret will ever regret that lake has n't melted . <eos>
 Had Catherine ever broken that car ? <eos>
 Catherine had ever broken that car . <eos>
 Has Anna ever prevented Brian from going fishing ? <eos>
@@ -744,12 +744,12 @@ Did Jacqueline ever regret a waiter hid many forks ? <eos>
 Jacqueline did ever regret a waiter hid many forks . <eos>
 Had Liam ever revealed Alexander ? <eos>
 Liam had ever revealed Alexander . <eos>
-Has Liam ever remembered who isn't performing ? <eos>
-Liam has ever remembered who isn't performing . <eos>
+Has Liam ever remembered who is n't performing ? <eos>
+Liam has ever remembered who is n't performing . <eos>
 Will Homer ever sit down ? <eos>
 Homer will ever sit down . <eos>
-Do these boys ever remember who hasn't chuckled ? <eos>
-These boys do ever remember who hasn't chuckled . <eos>
+Do these boys ever remember who has n't chuckled ? <eos>
+These boys do ever remember who has n't chuckled . <eos>
 Might Heidi ever irritate that teenager ? <eos>
 Heidi might ever irritate that teenager . <eos>
 Had many drivers ever retaliated ? <eos>
@@ -814,8 +814,8 @@ Had the customers ever explained everything ? <eos>
 The customers had ever explained everything . <eos>
 Can this box ever close ? <eos>
 This box can ever close . <eos>
-Has Jill ever thought about who isn't praising Denise ? <eos>
-Jill has ever thought about who isn't praising Denise . <eos>
+Has Jill ever thought about who is n't praising Denise ? <eos>
+Jill has ever thought about who is n't praising Denise . <eos>
 Has Samuel ever imagined boys would get a job ? <eos>
 Samuel has ever imagined boys would get a job . <eos>
 Will most actors ever sing ? <eos>
@@ -830,8 +830,8 @@ Could students ever conspire ? <eos>
 Students could ever conspire . <eos>
 Had Melissa ever remembered what might fight ? <eos>
 Melissa had ever remembered what might fight . <eos>
-Does every school ever try to remember who hasn't driven to this lake ? <eos>
-Every school does ever try to remember who hasn't driven to this lake . <eos>
+Does every school ever try to remember who has n't driven to this lake ? <eos>
+Every school does ever try to remember who has n't driven to this lake . <eos>
 Can the dress ever shrink ? <eos>
 The dress can ever shrink . <eos>
 Had many waiters ever explored a lot of malls ? <eos>
@@ -1062,8 +1062,8 @@ Had these hospitals ever coped ? <eos>
 These hospitals had ever coped . <eos>
 Did some cashier ever imagine some teacher is screaming ? <eos>
 Some cashier did ever imagine some teacher is screaming . <eos>
-Might Melanie ever forget who hasn't astounded Tammy ? <eos>
-Melanie might ever forget who hasn't astounded Tammy . <eos>
+Might Melanie ever forget who has n't astounded Tammy ? <eos>
+Melanie might ever forget who has n't astounded Tammy . <eos>
 Does this water ever melt ? <eos>
 This water does ever melt . <eos>
 Had some documentary ever concealed Helen ? <eos>
@@ -1154,8 +1154,8 @@ Did Rose ever compromise ? <eos>
 Rose did ever compromise . <eos>
 Will Guy ever slump over ? <eos>
 Guy will ever slump over . <eos>
-Had some man ever discovered who doesn't criticize Homer ? <eos>
-Some man had ever discovered who doesn't criticize Homer . <eos>
+Had some man ever discovered who does n't criticize Homer ? <eos>
+Some man had ever discovered who does n't criticize Homer . <eos>
 Has Gina ever helped Brenda ? <eos>
 Gina has ever helped Brenda . <eos>
 Did Joseph ever want to go to some mountains ? <eos>
@@ -1360,8 +1360,8 @@ Can Tamara ever compromise ? <eos>
 Tamara can ever compromise . <eos>
 Might many mouths ever close ? <eos>
 Many mouths might ever close . <eos>
-Will Amy ever try to investigate what haven't forfeited ? <eos>
-Amy will ever try to investigate what haven't forfeited . <eos>
+Will Amy ever try to investigate what have n't forfeited ? <eos>
+Amy will ever try to investigate what have n't forfeited . <eos>
 Had the waiters ever studied ? <eos>
 The waiters had ever studied . <eos>
 Have a lot of patients ever respected Ann ? <eos>
@@ -1398,8 +1398,8 @@ Have all guys ever conferred ? <eos>
 All guys have ever conferred . <eos>
 Might the doctors ever profit ? <eos>
 The doctors might ever profit . <eos>
-Might Joel ever think Randolf hasn't fired a lot of senators ? <eos>
-Joel might ever think Randolf hasn't fired a lot of senators . <eos>
+Might Joel ever think Randolf has n't fired a lot of senators ? <eos>
+Joel might ever think Randolf has n't fired a lot of senators . <eos>
 Can Lori ever try to spin around ? <eos>
 Lori can ever try to spin around . <eos>
 Did most museums ever protest ? <eos>
@@ -1484,8 +1484,8 @@ Can Aaron ever hire some actresses ? <eos>
 Aaron can ever hire some actresses . <eos>
 Had a lot of libraries ever reunited ? <eos>
 A lot of libraries had ever reunited . <eos>
-Would Rose ever learn who isn't shrugging ? <eos>
-Rose would ever learn who isn't shrugging . <eos>
+Would Rose ever learn who is n't shrugging ? <eos>
+Rose would ever learn who is n't shrugging . <eos>
 Had Vincent ever refused to weep ? <eos>
 Vincent had ever refused to weep . <eos>
 Can Carolyn ever laugh ? <eos>
@@ -1512,8 +1512,8 @@ Could Lisa ever boast ? <eos>
 Lisa could ever boast . <eos>
 Might Natalie ever find out who get a job ? <eos>
 Natalie might ever find out who get a job . <eos>
-Had Travis ever learned what isn't responding ? <eos>
-Travis had ever learned what isn't responding . <eos>
+Had Travis ever learned what is n't responding ? <eos>
+Travis had ever learned what is n't responding . <eos>
 Has Patricia ever regretted Brad is biking to all rivers ? <eos>
 Patricia has ever regretted Brad is biking to all rivers . <eos>
 Could this guy ever scratch ? <eos>
@@ -1660,8 +1660,8 @@ Have most legislatures ever cooperated ? <eos>
 Most legislatures have ever cooperated . <eos>
 Does John ever worry Rachelle ? <eos>
 John does ever worry Rachelle . <eos>
-Has Joseph ever thought the legislatures haven't worried ? <eos>
-Joseph has ever thought the legislatures haven't worried . <eos>
+Has Joseph ever thought the legislatures have n't worried ? <eos>
+Joseph has ever thought the legislatures have n't worried . <eos>
 Has a pedestrian ever muttered ? <eos>
 A pedestrian has ever muttered . <eos>
 Has Debra ever sounded like these cafes ? <eos>
@@ -1900,8 +1900,8 @@ Would this actor ever boast about some lady ? <eos>
 This actor would ever boast about some lady . <eos>
 Had all pedestrians ever divorced ? <eos>
 All pedestrians had ever divorced . <eos>
-Had these guests ever discovered who hasn't loved Grace ? <eos>
-These guests had ever discovered who hasn't loved Grace . <eos>
+Had these guests ever discovered who has n't loved Grace ? <eos>
+These guests had ever discovered who has n't loved Grace . <eos>
 Had a customer ever sounded like Ronald ? <eos>
 A customer had ever sounded like Ronald . <eos>
 Had Florence ever cheered ? <eos>

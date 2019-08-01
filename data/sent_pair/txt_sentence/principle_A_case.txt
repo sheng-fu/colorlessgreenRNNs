@@ -4,18 +4,18 @@ Children say that they concealed Kevin . <eos>
 Children say that themselves concealed Kevin . <eos>
 Lawrence wasn't saying that he had examined that report . <eos>
 Lawrence wasn't saying that himself had examined that report . <eos>
-Laura isn't explaining that she works with Janet . <eos>
-Laura isn't explaining that herself works with Janet . <eos>
+Laura is n't explaining that she works with Janet . <eos>
+Laura is n't explaining that herself works with Janet . <eos>
 Many cashiers thought that they ran around that high school . <eos>
 Many cashiers thought that themselves ran around that high school . <eos>
 Timothy said that he attacked a lot of pedestrians . <eos>
 Timothy said that himself attacked a lot of pedestrians . <eos>
-Some children explain that they haven't talked to students . <eos>
-Some children explain that themselves haven't talked to students . <eos>
+Some children explain that they have n't talked to students . <eos>
+Some children explain that themselves have n't talked to students . <eos>
 Noah wasn't thinking that he does aggravate Allison . <eos>
 Noah wasn't thinking that himself does aggravate Allison . <eos>
-Gary shouldn't explain that he hasn't revealed Kathleen . <eos>
-Gary shouldn't explain that himself hasn't revealed Kathleen . <eos>
+Gary shouldn't explain that he has n't revealed Kathleen . <eos>
+Gary shouldn't explain that himself has n't revealed Kathleen . <eos>
 Joel hadn't imagined that he looks like some print . <eos>
 Joel hadn't imagined that himself looks like some print . <eos>
 Bill had said that he can't fire Melanie . <eos>
@@ -26,8 +26,8 @@ Paul does think that he hadn't resembled photographs . <eos>
 Paul does think that himself hadn't resembled photographs . <eos>
 Many senators imagine that they buy the rabbit . <eos>
 Many senators imagine that themselves buy the rabbit . <eos>
-Sara wasn't explaining that she hasn't looked like every drawing . <eos>
-Sara wasn't explaining that herself hasn't looked like every drawing . <eos>
+Sara wasn't explaining that she has n't looked like every drawing . <eos>
+Sara wasn't explaining that herself has n't looked like every drawing . <eos>
 Noah thinks that he has returned to Walter . <eos>
 Noah thinks that himself has returned to Walter . <eos>
 Meredith wouldn't imagine that she can talk to all dancers . <eos>
@@ -48,24 +48,24 @@ Ronald explained that he won't disturb Sally . <eos>
 Ronald explained that himself won't disturb Sally . <eos>
 Susan shouldn't explain that she ascended these ladders . <eos>
 Susan shouldn't explain that herself ascended these ladders . <eos>
-Paula isn't imagining that she hadn't ascended the mountain . <eos>
-Paula isn't imagining that herself hadn't ascended the mountain . <eos>
+Paula is n't imagining that she hadn't ascended the mountain . <eos>
+Paula is n't imagining that herself hadn't ascended the mountain . <eos>
 Rose couldn't imagine that she has impressed Steven . <eos>
 Rose couldn't imagine that herself has impressed Steven . <eos>
-The cashiers aren't thinking that they returned to Caroline . <eos>
-The cashiers aren't thinking that themselves returned to Caroline . <eos>
+The cashiers are n't thinking that they returned to Caroline . <eos>
+The cashiers are n't thinking that themselves returned to Caroline . <eos>
 Patricia hadn't explained that she had fired Walter . <eos>
 Patricia hadn't explained that herself had fired Walter . <eos>
 Peter imagined that he should sell many shoes . <eos>
 Peter imagined that himself should sell many shoes . <eos>
 Janet wouldn't say that she explores all banks . <eos>
 Janet wouldn't say that herself explores all banks . <eos>
-Deborah imagined that she isn't irritating Vincent . <eos>
-Deborah imagined that herself isn't irritating Vincent . <eos>
+Deborah imagined that she is n't irritating Vincent . <eos>
+Deborah imagined that herself is n't irritating Vincent . <eos>
 Guests say that they bothers Alexander . <eos>
 Guests say that themselves bothers Alexander . <eos>
-Cynthia hasn't thought that she has skated around the mountain . <eos>
-Cynthia hasn't thought that herself has skated around the mountain . <eos>
+Cynthia has n't thought that she has skated around the mountain . <eos>
+Cynthia has n't thought that herself has skated around the mountain . <eos>
 Paula was explaining that she drives to many mountains . <eos>
 Paula was explaining that herself drives to many mountains . <eos>
 Valerie was imagining that she wasn't aggravating Stacy . <eos>
@@ -108,8 +108,8 @@ Omar explains that he approached a lot of senators . <eos>
 Omar explains that himself approached a lot of senators . <eos>
 Theodore might explain that he hadn't referenced Mary . <eos>
 Theodore might explain that himself hadn't referenced Mary . <eos>
-Emily wasn't saying that she hasn't toured some art galleries . <eos>
-Emily wasn't saying that herself hasn't toured some art galleries . <eos>
+Emily wasn't saying that she has n't toured some art galleries . <eos>
+Emily wasn't saying that herself has n't toured some art galleries . <eos>
 These girls think that they hadn't approached a doctor . <eos>
 These girls think that themselves hadn't approached a doctor . <eos>
 Natalie imagines that she looked like some painting . <eos>
@@ -134,8 +134,8 @@ Eric wouldn't explain that he wasn't hurting Samantha . <eos>
 Eric wouldn't explain that himself wasn't hurting Samantha . <eos>
 Bill does imagine that he scared Angela . <eos>
 Bill does imagine that himself scared Angela . <eos>
-These girls aren't saying that they disturbed Stephanie . <eos>
-These girls aren't saying that themselves disturbed Stephanie . <eos>
+These girls are n't saying that they disturbed Stephanie . <eos>
+These girls are n't saying that themselves disturbed Stephanie . <eos>
 The doctors say that they are worrying Christine . <eos>
 The doctors say that themselves are worrying Christine . <eos>
 Candice hadn't imagined that she reveals Debra . <eos>
@@ -148,8 +148,8 @@ Gerald wasn't explaining that he liked Alicia . <eos>
 Gerald wasn't explaining that himself liked Alicia . <eos>
 Tamara imagines that she didn't run around libraries . <eos>
 Tamara imagines that herself didn't run around libraries . <eos>
-Drivers aren't saying that they weren't praising Scott . <eos>
-Drivers aren't saying that themselves weren't praising Scott . <eos>
+Drivers are n't saying that they weren't praising Scott . <eos>
+Drivers are n't saying that themselves weren't praising Scott . <eos>
 Rhonda does imagine that she brought every fish . <eos>
 Rhonda does imagine that herself brought every fish . <eos>
 Suzanne was imagining that she didn't bike to a lot of grocery stores . <eos>
@@ -162,20 +162,20 @@ A lot of customers imagine that they hadn't hated Teresa . <eos>
 A lot of customers imagine that themselves hadn't hated Teresa . <eos>
 Craig should say that he is arriving at these libraries . <eos>
 Craig should say that himself is arriving at these libraries . <eos>
-Caroline hasn't imagined that she can't escape from Tamara . <eos>
-Caroline hasn't imagined that herself can't escape from Tamara . <eos>
+Caroline has n't imagined that she can't escape from Tamara . <eos>
+Caroline has n't imagined that herself can't escape from Tamara . <eos>
 Many waiters imagined that they helped April . <eos>
 Many waiters imagined that themselves helped April . <eos>
 The dancers can't explain that they won't fire Melinda . <eos>
 The dancers can't explain that themselves won't fire Melinda . <eos>
 Drivers explain that they referenced Charles . <eos>
 Drivers explain that themselves referenced Charles . <eos>
-Most waiters say that they don't confuse Amanda . <eos>
-Most waiters say that themselves don't confuse Amanda . <eos>
+Most waiters say that they do n't confuse Amanda . <eos>
+Most waiters say that themselves do n't confuse Amanda . <eos>
 Martin can't think that he could observe Robert . <eos>
 Martin can't think that himself could observe Robert . <eos>
-Brad thinks that he hasn't hugged Karen . <eos>
-Brad thinks that himself hasn't hugged Karen . <eos>
+Brad thinks that he has n't hugged Karen . <eos>
+Brad thinks that himself has n't hugged Karen . <eos>
 James should think that he wasn't lifting a lot of bananas . <eos>
 James should think that himself wasn't lifting a lot of bananas . <eos>
 Scott explained that he was climbing down this slope . <eos>
@@ -196,44 +196,44 @@ Phillip might explain that he can't reference Laura . <eos>
 Phillip might explain that himself can't reference Laura . <eos>
 All students explained that they have impressed Janet . <eos>
 All students explained that themselves have impressed Janet . <eos>
-Larry hasn't explained that he breaks every chair . <eos>
-Larry hasn't explained that himself breaks every chair . <eos>
+Larry has n't explained that he breaks every chair . <eos>
+Larry has n't explained that himself breaks every chair . <eos>
 Samuel hadn't explained that he didn't sell paintings . <eos>
 Samuel hadn't explained that himself didn't sell paintings . <eos>
-Julia isn't saying that she sold this hair . <eos>
-Julia isn't saying that herself sold this hair . <eos>
+Julia is n't saying that she sold this hair . <eos>
+Julia is n't saying that herself sold this hair . <eos>
 Emily imagines that she hadn't attacked Liam . <eos>
 Emily imagines that herself hadn't attacked Liam . <eos>
 Angela imagines that she was scaring Brad . <eos>
 Angela imagines that herself was scaring Brad . <eos>
 Many boys imagine that they wear that scarf . <eos>
 Many boys imagine that themselves wear that scarf . <eos>
-Most senators imagine that they aren't leaving the mountain . <eos>
-Most senators imagine that themselves aren't leaving the mountain . <eos>
+Most senators imagine that they are n't leaving the mountain . <eos>
+Most senators imagine that themselves are n't leaving the mountain . <eos>
 Joseph explained that he attacked Russell . <eos>
 Joseph explained that himself attacked Russell . <eos>
-Lucille thought that she hasn't messed up every mall . <eos>
-Lucille thought that herself hasn't messed up every mall . <eos>
-Julia won't say that she hasn't kissed Alice . <eos>
-Julia won't say that herself hasn't kissed Alice . <eos>
+Lucille thought that she has n't messed up every mall . <eos>
+Lucille thought that herself has n't messed up every mall . <eos>
+Julia won't say that she has n't kissed Alice . <eos>
+Julia won't say that herself has n't kissed Alice . <eos>
 Danielle was explaining that she knew Sally . <eos>
 Danielle was explaining that herself knew Sally . <eos>
 Anne shouldn't explain that she had hired Clyde . <eos>
 Anne shouldn't explain that herself had hired Clyde . <eos>
 Donald couldn't explain that he might climb down every hill . <eos>
 Donald couldn't explain that himself might climb down every hill . <eos>
-Leslie hasn't thought that she forgot the story . <eos>
-Leslie hasn't thought that herself forgot the story . <eos>
+Leslie has n't thought that she forgot the story . <eos>
+Leslie has n't thought that herself forgot the story . <eos>
 Cynthia thought that she listens to Melanie . <eos>
 Cynthia thought that herself listens to Melanie . <eos>
 The waiters thought that they hadn't confused Brian . <eos>
 The waiters thought that themselves hadn't confused Brian . <eos>
-Patricia isn't saying that she boycotts lakes . <eos>
-Patricia isn't saying that herself boycotts lakes . <eos>
+Patricia is n't saying that she boycotts lakes . <eos>
+Patricia is n't saying that herself boycotts lakes . <eos>
 Randolf explained that he wasn't impressing Kenneth . <eos>
 Randolf explained that himself wasn't impressing Kenneth . <eos>
-Paul wouldn't think that he hasn't healed every dog . <eos>
-Paul wouldn't think that himself hasn't healed every dog . <eos>
+Paul wouldn't think that he has n't healed every dog . <eos>
+Paul wouldn't think that himself has n't healed every dog . <eos>
 Craig wasn't saying that he hadn't climbed up that hill . <eos>
 Craig wasn't saying that himself hadn't climbed up that hill . <eos>
 Most drivers imagine that they hide cashiers . <eos>
@@ -244,20 +244,20 @@ John had imagined that he ascended the stairs . <eos>
 John had imagined that himself ascended the stairs . <eos>
 Jacqueline won't say that she has sold the tomato . <eos>
 Jacqueline won't say that herself has sold the tomato . <eos>
-Robert can think that he doesn't investigate Daniel . <eos>
-Robert can think that himself doesn't investigate Daniel . <eos>
+Robert can think that he does n't investigate Daniel . <eos>
+Robert can think that himself does n't investigate Daniel . <eos>
 A lot of women explain that they should discuss Beverly . <eos>
 A lot of women explain that themselves should discuss Beverly . <eos>
-Debra hasn't explained that she has stunned Elaine . <eos>
-Debra hasn't explained that herself has stunned Elaine . <eos>
+Debra has n't explained that she has stunned Elaine . <eos>
+Debra has n't explained that herself has stunned Elaine . <eos>
 Derek has thought that he hates Donald . <eos>
 Derek has thought that himself hates Donald . <eos>
 Guy can say that he has explored the lakes . <eos>
 Guy can say that himself has explored the lakes . <eos>
 Diane does say that she can remember Daniel . <eos>
 Diane does say that herself can remember Daniel . <eos>
-Many actresses imagine that they aren't hugging Laura . <eos>
-Many actresses imagine that themselves aren't hugging Laura . <eos>
+Many actresses imagine that they are n't hugging Laura . <eos>
+Many actresses imagine that themselves are n't hugging Laura . <eos>
 Steve says that he hadn't brought that snake . <eos>
 Steve says that himself hadn't brought that snake . <eos>
 Most women think that they returned to Ann . <eos>
@@ -270,8 +270,8 @@ Janice thinks that she fixes vases . <eos>
 Janice thinks that herself fixes vases . <eos>
 Many patients imagine that they do hide that door . <eos>
 Many patients imagine that themselves do hide that door . <eos>
-Derek is thinking that he isn't appreciating Vanessa . <eos>
-Derek is thinking that himself isn't appreciating Vanessa . <eos>
+Derek is thinking that he is n't appreciating Vanessa . <eos>
+Derek is thinking that himself is n't appreciating Vanessa . <eos>
 Stacey imagined that she hadn't bored Donna . <eos>
 Stacey imagined that herself hadn't bored Donna . <eos>
 Jacqueline said that she watches Deanna . <eos>
@@ -286,8 +286,8 @@ Cynthia thought that she forgot these girls . <eos>
 Cynthia thought that herself forgot these girls . <eos>
 Elaine explains that she had worried Vanessa . <eos>
 Elaine explains that herself had worried Vanessa . <eos>
-Allison hasn't thought that she was taking this gate . <eos>
-Allison hasn't thought that herself was taking this gate . <eos>
+Allison has n't thought that she was taking this gate . <eos>
+Allison has n't thought that herself was taking this gate . <eos>
 Jessica thinks that she wasn't taking every print . <eos>
 Jessica thinks that herself wasn't taking every print . <eos>
 Tiffany says that she won't scan many stories . <eos>
@@ -298,16 +298,16 @@ Beth explains that she annoyed Veronica . <eos>
 Beth explains that herself annoyed Veronica . <eos>
 Richard said that he hadn't left Stacey . <eos>
 Richard said that himself hadn't left Stacey . <eos>
-Scott explained that he doesn't tour every grocery store . <eos>
-Scott explained that himself doesn't tour every grocery store . <eos>
+Scott explained that he does n't tour every grocery store . <eos>
+Scott explained that himself does n't tour every grocery store . <eos>
 Some people think that they looked like all drawings . <eos>
 Some people think that themselves looked like all drawings . <eos>
 Peter is imagining that he concealed Marcus . <eos>
 Peter is imagining that himself concealed Marcus . <eos>
 Omar imagines that he sounded like Russell . <eos>
 Omar imagines that himself sounded like Russell . <eos>
-Rose thought that she hasn't remembered this lady . <eos>
-Rose thought that herself hasn't remembered this lady . <eos>
+Rose thought that she has n't remembered this lady . <eos>
+Rose thought that herself has n't remembered this lady . <eos>
 A waitress couldn't say that she exits many hospitals . <eos>
 A waitress couldn't say that herself exits many hospitals . <eos>
 Laurie does think that she wasn't bringing most slopes . <eos>
@@ -326,14 +326,14 @@ Chad might say that he went to every high school . <eos>
 Chad might say that himself went to every high school . <eos>
 Carol thought that she had worried Andrea . <eos>
 Carol thought that herself had worried Andrea . <eos>
-All dancers say that they don't mess up all glasses . <eos>
-All dancers say that themselves don't mess up all glasses . <eos>
+All dancers say that they do n't mess up all glasses . <eos>
+All dancers say that themselves do n't mess up all glasses . <eos>
 Sarah imagined that she helped Lori . <eos>
 Sarah imagined that herself helped Lori . <eos>
 Jill had thought that she had these drawings . <eos>
 Jill had thought that herself had these drawings . <eos>
-Daniel isn't thinking that he hasn't embarrassed a university . <eos>
-Daniel isn't thinking that himself hasn't embarrassed a university . <eos>
+Daniel is n't thinking that he has n't embarrassed a university . <eos>
+Daniel is n't thinking that himself has n't embarrassed a university . <eos>
 Most children think that they had examined this story . <eos>
 Most children think that themselves had examined this story . <eos>
 All waitresses say that they appreciate some ladies . <eos>
@@ -344,10 +344,10 @@ Carlos explains that he hates Raymond . <eos>
 Carlos explains that himself hates Raymond . <eos>
 Students explain that they forgot Dennis . <eos>
 Students explain that themselves forgot Dennis . <eos>
-Danielle thinks that she isn't appreciating this book . <eos>
-Danielle thinks that herself isn't appreciating this book . <eos>
-Carolyn had imagined that she hasn't taken all rabbits . <eos>
-Carolyn had imagined that herself hasn't taken all rabbits . <eos>
+Danielle thinks that she is n't appreciating this book . <eos>
+Danielle thinks that herself is n't appreciating this book . <eos>
+Carolyn had imagined that she has n't taken all rabbits . <eos>
+Carolyn had imagined that herself has n't taken all rabbits . <eos>
 Deanna was thinking that she references Anne . <eos>
 Deanna was thinking that herself references Anne . <eos>
 Many guys imagine that they talk to Keith . <eos>
@@ -378,8 +378,8 @@ Ella has imagined that she was working with Michelle . <eos>
 Ella has imagined that herself was working with Michelle . <eos>
 Liam had said that he won't break that glass . <eos>
 Liam had said that himself won't break that glass . <eos>
-April hasn't imagined that she didn't insult the waiter . <eos>
-April hasn't imagined that herself didn't insult the waiter . <eos>
+April has n't imagined that she didn't insult the waiter . <eos>
+April has n't imagined that herself didn't insult the waiter . <eos>
 A lot of girls explain that they didn't insult a bank . <eos>
 A lot of girls explain that themselves didn't insult a bank . <eos>
 Diane imagines that she cleans every door . <eos>
@@ -390,14 +390,14 @@ Eva explained that she should investigate the schools . <eos>
 Eva explained that herself should investigate the schools . <eos>
 Most adults think that they bought a lot of gates . <eos>
 Most adults think that themselves bought a lot of gates . <eos>
-Mary isn't explaining that she hasn't lifted this skirt . <eos>
-Mary isn't explaining that herself hasn't lifted this skirt . <eos>
+Mary is n't explaining that she has n't lifted this skirt . <eos>
+Mary is n't explaining that herself has n't lifted this skirt . <eos>
 Matt had imagined that he hadn't healed Bethany . <eos>
 Matt had imagined that himself hadn't healed Bethany . <eos>
 Dawn says that she disagrees with Tina . <eos>
 Dawn says that herself disagrees with Tina . <eos>
-Vincent says that he isn't embarrassing these hospitals . <eos>
-Vincent says that himself isn't embarrassing these hospitals . <eos>
+Vincent says that he is n't embarrassing these hospitals . <eos>
+Vincent says that himself is n't embarrassing these hospitals . <eos>
 Most actors explain that they cleaned this hospital . <eos>
 Most actors explain that themselves cleaned this hospital . <eos>
 Larry says that he wore a dress . <eos>
@@ -416,12 +416,12 @@ Lissa is imagining that she describes Scott . <eos>
 Lissa is imagining that herself describes Scott . <eos>
 Many adults weren't thinking that they hire adults . <eos>
 Many adults weren't thinking that themselves hire adults . <eos>
-The adults think that they aren't praising Alicia . <eos>
-The adults think that themselves aren't praising Alicia . <eos>
+The adults think that they are n't praising Alicia . <eos>
+The adults think that themselves are n't praising Alicia . <eos>
 These drivers shouldn't think that they weren't arguing about Patricia . <eos>
 These drivers shouldn't think that themselves weren't arguing about Patricia . <eos>
-Matt isn't thinking that he has revealed most cars . <eos>
-Matt isn't thinking that himself has revealed most cars . <eos>
+Matt is n't thinking that he has revealed most cars . <eos>
+Matt is n't thinking that himself has revealed most cars . <eos>
 Stephanie shouldn't say that she walked through most hospitals . <eos>
 Stephanie shouldn't say that herself walked through most hospitals . <eos>
 Some pedestrians imagine that they will criticize Dennis . <eos>
@@ -432,8 +432,8 @@ These boys imagine that they weren't helping Dawn . <eos>
 These boys imagine that themselves weren't helping Dawn . <eos>
 Some waitresses say that they can't sell these computers . <eos>
 Some waitresses say that themselves can't sell these computers . <eos>
-Alexander thinks that he hasn't arrived at art galleries . <eos>
-Alexander thinks that himself hasn't arrived at art galleries . <eos>
+Alexander thinks that he has n't arrived at art galleries . <eos>
+Alexander thinks that himself has n't arrived at art galleries . <eos>
 These waitresses imagine that they had disgusted waitresses . <eos>
 These waitresses imagine that themselves had disgusted waitresses . <eos>
 Tina was thinking that she did hurt the associations . <eos>
@@ -452,8 +452,8 @@ Cindy wasn't imagining that she hadn't visited Caroline . <eos>
 Cindy wasn't imagining that herself hadn't visited Caroline . <eos>
 Eric is imagining that he should talk about Charles . <eos>
 Eric is imagining that himself should talk about Charles . <eos>
-Many waitresses explain that they haven't bought that photograph . <eos>
-Many waitresses explain that themselves haven't bought that photograph . <eos>
+Many waitresses explain that they have n't bought that photograph . <eos>
+Many waitresses explain that themselves have n't bought that photograph . <eos>
 These adults had imagined that they can't scare Connie . <eos>
 These adults had imagined that themselves can't scare Connie . <eos>
 The dancer thinks that she bothered Steven . <eos>
@@ -468,36 +468,36 @@ Most dancers explain that they weren't describing Joel . <eos>
 Most dancers explain that themselves weren't describing Joel . <eos>
 Bruce imagines that he had gone to the closets . <eos>
 Bruce imagines that himself had gone to the closets . <eos>
-Sheila thinks that she hasn't sounded like some guys . <eos>
-Sheila thinks that herself hasn't sounded like some guys . <eos>
-Some dancer thought that she hasn't hired a lot of men . <eos>
-Some dancer thought that herself hasn't hired a lot of men . <eos>
-Many pedestrians don't think that they might kiss Rhonda . <eos>
-Many pedestrians don't think that themselves might kiss Rhonda . <eos>
+Sheila thinks that she has n't sounded like some guys . <eos>
+Sheila thinks that herself has n't sounded like some guys . <eos>
+Some dancer thought that she has n't hired a lot of men . <eos>
+Some dancer thought that herself has n't hired a lot of men . <eos>
+Many pedestrians do n't think that they might kiss Rhonda . <eos>
+Many pedestrians do n't think that themselves might kiss Rhonda . <eos>
 These children wouldn't imagine that they return to these closets . <eos>
 These children wouldn't imagine that themselves return to these closets . <eos>
 Curtis says that he wears a lot of gloves . <eos>
 Curtis says that himself wears a lot of gloves . <eos>
-Tracy was imagining that she hasn't described Emily . <eos>
-Tracy was imagining that herself hasn't described Emily . <eos>
+Tracy was imagining that she has n't described Emily . <eos>
+Tracy was imagining that herself has n't described Emily . <eos>
 Guy imagined that he messed up a lot of cups . <eos>
 Guy imagined that himself messed up a lot of cups . <eos>
 Homer will say that he scanned the newspaper articles . <eos>
 Homer will say that himself scanned the newspaper articles . <eos>
-Debra thinks that she isn't bringing every mirror . <eos>
-Debra thinks that herself isn't bringing every mirror . <eos>
+Debra thinks that she is n't bringing every mirror . <eos>
+Debra thinks that herself is n't bringing every mirror . <eos>
 Bethany might say that she references these girls . <eos>
 Bethany might say that herself references these girls . <eos>
 Elaine wouldn't explain that she has loved Christopher . <eos>
 Elaine wouldn't explain that herself has loved Christopher . <eos>
-Catherine was explaining that she isn't selling a fish . <eos>
-Catherine was explaining that herself isn't selling a fish . <eos>
-Scott hasn't thought that he brought a lot of computers . <eos>
-Scott hasn't thought that himself brought a lot of computers . <eos>
+Catherine was explaining that she is n't selling a fish . <eos>
+Catherine was explaining that herself is n't selling a fish . <eos>
+Scott has n't thought that he brought a lot of computers . <eos>
+Scott has n't thought that himself brought a lot of computers . <eos>
 Samantha explains that she investigated Mary . <eos>
 Samantha explains that herself investigated Mary . <eos>
-Sally hasn't thought that she might sell all fish . <eos>
-Sally hasn't thought that herself might sell all fish . <eos>
+Sally has n't thought that she might sell all fish . <eos>
+Sally has n't thought that herself might sell all fish . <eos>
 Kirsten can't imagine that she talks to Timothy . <eos>
 Kirsten can't imagine that herself talks to Timothy . <eos>
 Some waiters think that they clean that public park . <eos>
@@ -506,12 +506,12 @@ Vanessa thought that she sounds like Heather . <eos>
 Vanessa thought that herself sounds like Heather . <eos>
 A lot of pedestrians imagine that they walked through a lot of hills . <eos>
 A lot of pedestrians imagine that themselves walked through a lot of hills . <eos>
-Paul explains that he hasn't respected most guys . <eos>
-Paul explains that himself hasn't respected most guys . <eos>
+Paul explains that he has n't respected most guys . <eos>
+Paul explains that himself has n't respected most guys . <eos>
 Many guys imagine that they have ascended some hills . <eos>
 Many guys imagine that themselves have ascended some hills . <eos>
-A guy says that he hasn't embarrassed the school . <eos>
-A guy says that himself hasn't embarrassed the school . <eos>
+A guy says that he has n't embarrassed the school . <eos>
+A guy says that himself has n't embarrassed the school . <eos>
 Adam did explain that he broke the fork . <eos>
 Adam did explain that himself broke the fork . <eos>
 Some teenagers say that they have cared for Lissa . <eos>
@@ -528,10 +528,10 @@ Charles thinks that he conceals Keith . <eos>
 Charles thinks that himself conceals Keith . <eos>
 Dan shouldn't think that he cared for every waiter . <eos>
 Dan shouldn't think that himself cared for every waiter . <eos>
-Jane imagined that she hasn't discussed that high school . <eos>
-Jane imagined that herself hasn't discussed that high school . <eos>
-Dawn thinks that she hasn't descended a lot of hills . <eos>
-Dawn thinks that herself hasn't descended a lot of hills . <eos>
+Jane imagined that she has n't discussed that high school . <eos>
+Jane imagined that herself has n't discussed that high school . <eos>
+Dawn thinks that she has n't descended a lot of hills . <eos>
+Dawn thinks that herself has n't descended a lot of hills . <eos>
 Nina wasn't thinking that she had annoyed Edward . <eos>
 Nina wasn't thinking that herself had annoyed Edward . <eos>
 Stephanie imagined that she hadn't bothered William . <eos>
@@ -540,10 +540,10 @@ These women imagine that they wore a skirt . <eos>
 These women imagine that themselves wore a skirt . <eos>
 All men explain that they were messing up these pants . <eos>
 All men explain that themselves were messing up these pants . <eos>
-Cindy hasn't said that she walks through public parks . <eos>
-Cindy hasn't said that herself walks through public parks . <eos>
-Heidi had said that she hasn't bought the rabbits . <eos>
-Heidi had said that herself hasn't bought the rabbits . <eos>
+Cindy has n't said that she walks through public parks . <eos>
+Cindy has n't said that herself walks through public parks . <eos>
+Heidi had said that she has n't bought the rabbits . <eos>
+Heidi had said that herself has n't bought the rabbits . <eos>
 Deanna won't think that she disgusted these organizations . <eos>
 Deanna won't think that herself disgusted these organizations . <eos>
 Stephanie wasn't explaining that she helps Richard . <eos>
@@ -556,8 +556,8 @@ Steven has said that he looks like prints . <eos>
 Steven has said that himself looks like prints . <eos>
 Jason imagines that he can't praise some guest . <eos>
 Jason imagines that himself can't praise some guest . <eos>
-These actors aren't thinking that they criticized Raymond . <eos>
-These actors aren't thinking that themselves criticized Raymond . <eos>
+These actors are n't thinking that they criticized Raymond . <eos>
+These actors are n't thinking that themselves criticized Raymond . <eos>
 Eric thinks that he should tour some school . <eos>
 Eric thinks that himself should tour some school . <eos>
 Carla imagined that she did kiss Becca . <eos>
@@ -586,14 +586,14 @@ A lot of drivers will imagine that they went to a lot of high schools . <eos>
 A lot of drivers will imagine that themselves went to a lot of high schools . <eos>
 Stacy shouldn't think that she walks through this mountain . <eos>
 Stacy shouldn't think that herself walks through this mountain . <eos>
-Derek isn't explaining that he is going to the movie theater . <eos>
-Derek isn't explaining that himself is going to the movie theater . <eos>
+Derek is n't explaining that he is going to the movie theater . <eos>
+Derek is n't explaining that himself is going to the movie theater . <eos>
 Amelia imagined that she did reference many guests . <eos>
 Amelia imagined that herself did reference many guests . <eos>
 Ladies say that they hadn't attacked Rose . <eos>
 Ladies say that themselves hadn't attacked Rose . <eos>
-Kevin isn't thinking that he isn't aggravating these hospitals . <eos>
-Kevin isn't thinking that himself isn't aggravating these hospitals . <eos>
+Kevin is n't thinking that he is n't aggravating these hospitals . <eos>
+Kevin is n't thinking that himself is n't aggravating these hospitals . <eos>
 Walter shouldn't explain that he wasn't boring students . <eos>
 Walter shouldn't explain that himself wasn't boring students . <eos>
 Some guests imagine that they broke many cups . <eos>
@@ -616,16 +616,16 @@ The people say that they had observed an actress . <eos>
 The people say that themselves had observed an actress . <eos>
 Jessica was imagining that she bikes to the college campus . <eos>
 Jessica was imagining that herself bikes to the college campus . <eos>
-William isn't saying that he shouldn't look like some prints . <eos>
-William isn't saying that himself shouldn't look like some prints . <eos>
+William is n't saying that he shouldn't look like some prints . <eos>
+William is n't saying that himself shouldn't look like some prints . <eos>
 Many ladies say that they are cleaning every ladder . <eos>
 Many ladies say that themselves are cleaning every ladder . <eos>
 Some pedestrians say that they hadn't bored George . <eos>
 Some pedestrians say that themselves hadn't bored George . <eos>
 Alicia has said that she fired Gina . <eos>
 Alicia has said that herself fired Gina . <eos>
-Deborah hasn't explained that she couldn't climb down a lot of steps . <eos>
-Deborah hasn't explained that herself couldn't climb down a lot of steps . <eos>
+Deborah has n't explained that she couldn't climb down a lot of steps . <eos>
+Deborah has n't explained that herself couldn't climb down a lot of steps . <eos>
 Valerie wasn't imagining that she was disturbing Karla . <eos>
 Valerie wasn't imagining that herself was disturbing Karla . <eos>
 The boy did think that he loved some boy . <eos>
@@ -634,8 +634,8 @@ Colleen explained that she listened to Brenda . <eos>
 Colleen explained that herself listened to Brenda . <eos>
 All dancers weren't imagining that they criticized some commentary . <eos>
 All dancers weren't imagining that themselves criticized some commentary . <eos>
-Charles was imagining that he hasn't insulted that college campus . <eos>
-Charles was imagining that himself hasn't insulted that college campus . <eos>
+Charles was imagining that he has n't insulted that college campus . <eos>
+Charles was imagining that himself has n't insulted that college campus . <eos>
 The woman thinks that she did run around some library . <eos>
 The woman thinks that herself did run around some library . <eos>
 Carlos thinks that he wasn't hiring Martin . <eos>
@@ -644,12 +644,12 @@ Michelle says that she hadn't ran around the malls . <eos>
 Michelle says that herself hadn't ran around the malls . <eos>
 The actors explain that they ascend this ladder . <eos>
 The actors explain that themselves ascend this ladder . <eos>
-Derek hasn't said that he should help Connie . <eos>
-Derek hasn't said that himself should help Connie . <eos>
+Derek has n't said that he should help Connie . <eos>
+Derek has n't said that himself should help Connie . <eos>
 All women say that they did skate around some river . <eos>
 All women say that themselves did skate around some river . <eos>
-Eva had said that she hasn't annoyed Judy . <eos>
-Eva had said that herself hasn't annoyed Judy . <eos>
+Eva had said that she has n't annoyed Judy . <eos>
+Eva had said that herself has n't annoyed Judy . <eos>
 Most actors think that they had fired Leslie . <eos>
 Most actors think that themselves had fired Leslie . <eos>
 Helen thought that she had discussed Rhonda . <eos>
@@ -668,10 +668,10 @@ Naomi is imagining that she can't tour that high school . <eos>
 Naomi is imagining that herself can't tour that high school . <eos>
 Most customers think that they climb down many hills . <eos>
 Most customers think that themselves climb down many hills . <eos>
-Sandra hasn't said that she respects a girl . <eos>
-Sandra hasn't said that herself respects a girl . <eos>
-Most patients imagined that they haven't approached Benjamin . <eos>
-Most patients imagined that themselves haven't approached Benjamin . <eos>
+Sandra has n't said that she respects a girl . <eos>
+Sandra has n't said that herself respects a girl . <eos>
+Most patients imagined that they have n't approached Benjamin . <eos>
+Most patients imagined that themselves have n't approached Benjamin . <eos>
 Julie can't imagine that she annoyed Melissa . <eos>
 Julie can't imagine that herself annoyed Melissa . <eos>
 Regina shouldn't think that she would like Bruce . <eos>
@@ -702,8 +702,8 @@ Raymond does explain that he hadn't brought some skirt . <eos>
 Raymond does explain that himself hadn't brought some skirt . <eos>
 Kevin has said that he looked like that photograph . <eos>
 Kevin has said that himself looked like that photograph . <eos>
-Renee can't explain that she doesn't skate around some glaciers . <eos>
-Renee can't explain that herself doesn't skate around some glaciers . <eos>
+Renee can't explain that she does n't skate around some glaciers . <eos>
+Renee can't explain that herself does n't skate around some glaciers . <eos>
 Benjamin imagines that he hadn't scared Derek . <eos>
 Benjamin imagines that himself hadn't scared Derek . <eos>
 Some dancers think that they hadn't praised many adults . <eos>
@@ -714,40 +714,40 @@ All students say that they conceal Danielle . <eos>
 All students say that themselves conceal Danielle . <eos>
 The lady thought that she boycotts an organization . <eos>
 The lady thought that herself boycotts an organization . <eos>
-Raymond hasn't imagined that he couldn't drive to some college campuses . <eos>
-Raymond hasn't imagined that himself couldn't drive to some college campuses . <eos>
+Raymond has n't imagined that he couldn't drive to some college campuses . <eos>
+Raymond has n't imagined that himself couldn't drive to some college campuses . <eos>
 Victoria explained that she hid the actresses . <eos>
 Victoria explained that herself hid the actresses . <eos>
 Peter says that he ascends most slopes . <eos>
 Peter says that himself ascends most slopes . <eos>
-A lot of pedestrians think that they aren't helping Kirsten . <eos>
-A lot of pedestrians think that themselves aren't helping Kirsten . <eos>
+A lot of pedestrians think that they are n't helping Kirsten . <eos>
+A lot of pedestrians think that themselves are n't helping Kirsten . <eos>
 Kirsten was explaining that she won't climb up this ladder . <eos>
 Kirsten was explaining that herself won't climb up this ladder . <eos>
 A lot of dancers could think that they will hurt Sara . <eos>
 A lot of dancers could think that themselves will hurt Sara . <eos>
 Kirsten didn't explain that she had embarrassed these men . <eos>
 Kirsten didn't explain that herself had embarrassed these men . <eos>
-Laura doesn't say that she exits every restaurant . <eos>
-Laura doesn't say that herself exits every restaurant . <eos>
-Judy isn't thinking that she didn't scare Diana . <eos>
-Judy isn't thinking that herself didn't scare Diana . <eos>
+Laura does n't say that she exits every restaurant . <eos>
+Laura does n't say that herself exits every restaurant . <eos>
+Judy is n't thinking that she didn't scare Diana . <eos>
+Judy is n't thinking that herself didn't scare Diana . <eos>
 These waiters say that they go to some closets . <eos>
 These waiters say that themselves go to some closets . <eos>
 Raymond explained that he appreciates Martha . <eos>
 Raymond explained that himself appreciates Martha . <eos>
-Nicole hasn't imagined that she hugs Chad . <eos>
-Nicole hasn't imagined that herself hugs Chad . <eos>
+Nicole has n't imagined that she hugs Chad . <eos>
+Nicole has n't imagined that herself hugs Chad . <eos>
 All guests say that they disagreed with Teresa . <eos>
 All guests say that themselves disagreed with Teresa . <eos>
 A lady says that she revealed Donna . <eos>
 A lady says that herself revealed Donna . <eos>
 Some customers say that they look like all prints . <eos>
 Some customers say that themselves look like all prints . <eos>
-Carrie hasn't said that she insulted Homer . <eos>
-Carrie hasn't said that herself insulted Homer . <eos>
-All dancers explained that they haven't examined the commentary . <eos>
-All dancers explained that themselves haven't examined the commentary . <eos>
+Carrie has n't said that she insulted Homer . <eos>
+Carrie has n't said that herself insulted Homer . <eos>
+All dancers explained that they have n't examined the commentary . <eos>
+All dancers explained that themselves have n't examined the commentary . <eos>
 Scott says that he is returning to the senator . <eos>
 Scott says that himself is returning to the senator . <eos>
 Some adults say that they should return to Carlos . <eos>
@@ -770,8 +770,8 @@ The dancer had imagined that she could help Patrick . <eos>
 The dancer had imagined that herself could help Patrick . <eos>
 These people say that they investigate these students . <eos>
 These people say that themselves investigate these students . <eos>
-Gregory said that he hasn't lifted this picture . <eos>
-Gregory said that himself hasn't lifted this picture . <eos>
+Gregory said that he has n't lifted this picture . <eos>
+Gregory said that himself has n't lifted this picture . <eos>
 All senators had said that they watch Dennis . <eos>
 All senators had said that themselves watch Dennis . <eos>
 Christine thinks that she is examining most plays . <eos>
@@ -794,10 +794,10 @@ Most waiters say that they embarrassed Gregory . <eos>
 Most waiters say that themselves embarrassed Gregory . <eos>
 Tara won't say that she fixes the cup . <eos>
 Tara won't say that herself fixes the cup . <eos>
-Kirsten hasn't explained that she is confusing Stephen . <eos>
-Kirsten hasn't explained that herself is confusing Stephen . <eos>
-Denise is saying that she isn't boycotting some committee . <eos>
-Denise is saying that herself isn't boycotting some committee . <eos>
+Kirsten has n't explained that she is confusing Stephen . <eos>
+Kirsten has n't explained that herself is confusing Stephen . <eos>
+Denise is saying that she is n't boycotting some committee . <eos>
+Denise is saying that herself is n't boycotting some committee . <eos>
 Holly wasn't explaining that she hadn't lifted some chair . <eos>
 Holly wasn't explaining that herself hadn't lifted some chair . <eos>
 Steve had imagined that he hid Gerald . <eos>
@@ -806,16 +806,16 @@ A woman thinks that she wasn't going to these movie theaters . <eos>
 A woman thinks that herself wasn't going to these movie theaters . <eos>
 Rebecca can't explain that she is fleeing from Judy . <eos>
 Rebecca can't explain that herself is fleeing from Judy . <eos>
-Pedestrians aren't explaining that they stun Edward . <eos>
-Pedestrians aren't explaining that themselves stun Edward . <eos>
+Pedestrians are n't explaining that they stun Edward . <eos>
+Pedestrians are n't explaining that themselves stun Edward . <eos>
 This lady might explain that she criticizes Nina . <eos>
 This lady might explain that herself criticizes Nina . <eos>
 Patricia could say that she won't praise this essay . <eos>
 Patricia could say that herself won't praise this essay . <eos>
-Tracy explains that she doesn't bring some newspaper articles . <eos>
-Tracy explains that herself doesn't bring some newspaper articles . <eos>
-Tonya did say that she hasn't found Brian . <eos>
-Tonya did say that herself hasn't found Brian . <eos>
+Tracy explains that she does n't bring some newspaper articles . <eos>
+Tracy explains that herself does n't bring some newspaper articles . <eos>
+Tonya did say that she has n't found Brian . <eos>
+Tonya did say that herself has n't found Brian . <eos>
 Men think that they distract Homer . <eos>
 Men think that themselves distract Homer . <eos>
 Most dancers say that they weren't hiring Jeffrey . <eos>
@@ -824,36 +824,36 @@ All pedestrians explain that they fix that plate . <eos>
 All pedestrians explain that themselves fix that plate . <eos>
 Benjamin is explaining that he didn't pass that art gallery . <eos>
 Benjamin is explaining that himself didn't pass that art gallery . <eos>
-Keith isn't imagining that he has upset all legislatures . <eos>
-Keith isn't imagining that himself has upset all legislatures . <eos>
-Mary isn't imagining that she wouldn't complain about all movies . <eos>
-Mary isn't imagining that herself wouldn't complain about all movies . <eos>
+Keith is n't imagining that he has upset all legislatures . <eos>
+Keith is n't imagining that himself has upset all legislatures . <eos>
+Mary is n't imagining that she wouldn't complain about all movies . <eos>
+Mary is n't imagining that herself wouldn't complain about all movies . <eos>
 These girls say that they drive to this high school . <eos>
 These girls say that themselves drive to this high school . <eos>
-Steven thought that he isn't praising Scott . <eos>
-Steven thought that himself isn't praising Scott . <eos>
+Steven thought that he is n't praising Scott . <eos>
+Steven thought that himself is n't praising Scott . <eos>
 A boy won't think that he hides some print . <eos>
 A boy won't think that himself hides some print . <eos>
-Sandra hasn't imagined that she is ascending the slope . <eos>
-Sandra hasn't imagined that herself is ascending the slope . <eos>
+Sandra has n't imagined that she is ascending the slope . <eos>
+Sandra has n't imagined that herself is ascending the slope . <eos>
 Rachel can think that she was disturbing museums . <eos>
 Rachel can think that herself was disturbing museums . <eos>
-Alice hasn't said that she lifts every slope . <eos>
-Alice hasn't said that herself lifts every slope . <eos>
-Barbara hasn't said that she isn't attacking Florence . <eos>
-Barbara hasn't said that herself isn't attacking Florence . <eos>
-A lot of patients aren't saying that they can't sound like Jane . <eos>
-A lot of patients aren't saying that themselves can't sound like Jane . <eos>
-Sandra hasn't imagined that she respected this adult . <eos>
-Sandra hasn't imagined that herself respected this adult . <eos>
-The teenagers explain that they haven't hugged Deborah . <eos>
-The teenagers explain that themselves haven't hugged Deborah . <eos>
-Charles did think that he hasn't cleaned many reports . <eos>
-Charles did think that himself hasn't cleaned many reports . <eos>
+Alice has n't said that she lifts every slope . <eos>
+Alice has n't said that herself lifts every slope . <eos>
+Barbara has n't said that she is n't attacking Florence . <eos>
+Barbara has n't said that herself is n't attacking Florence . <eos>
+A lot of patients are n't saying that they can't sound like Jane . <eos>
+A lot of patients are n't saying that themselves can't sound like Jane . <eos>
+Sandra has n't imagined that she respected this adult . <eos>
+Sandra has n't imagined that herself respected this adult . <eos>
+The teenagers explain that they have n't hugged Deborah . <eos>
+The teenagers explain that themselves have n't hugged Deborah . <eos>
+Charles did think that he has n't cleaned many reports . <eos>
+Charles did think that himself has n't cleaned many reports . <eos>
 Patricia explained that she hadn't investigated the hospitals . <eos>
 Patricia explained that herself hadn't investigated the hospitals . <eos>
-Kristin thinks that she isn't disgusting Paula . <eos>
-Kristin thinks that herself isn't disgusting Paula . <eos>
+Kristin thinks that she is n't disgusting Paula . <eos>
+Kristin thinks that herself is n't disgusting Paula . <eos>
 Curtis had explained that he had climbed up some mountain . <eos>
 Curtis had explained that himself had climbed up some mountain . <eos>
 These adults are thinking that they broke the dish . <eos>
@@ -862,26 +862,26 @@ Kathleen imagined that she has forgotten Erin . <eos>
 Kathleen imagined that herself has forgotten Erin . <eos>
 Rodney does explain that he was cleaning some forks . <eos>
 Rodney does explain that himself was cleaning some forks . <eos>
-Mark said that he hasn't dropped by the hill . <eos>
-Mark said that himself hasn't dropped by the hill . <eos>
+Mark said that he has n't dropped by the hill . <eos>
+Mark said that himself has n't dropped by the hill . <eos>
 Andrew said that he had appreciated Nina . <eos>
 Andrew said that himself had appreciated Nina . <eos>
-Claire can think that she isn't concealing many cars . <eos>
-Claire can think that herself isn't concealing many cars . <eos>
+Claire can think that she is n't concealing many cars . <eos>
+Claire can think that herself is n't concealing many cars . <eos>
 Most ladies weren't imagining that they had cleaned the banks . <eos>
 Most ladies weren't imagining that themselves had cleaned the banks . <eos>
 Lucille explained that she has scanned an commentary . <eos>
 Lucille explained that herself has scanned an commentary . <eos>
-Some girls think that they haven't ascended some stairs . <eos>
-Some girls think that themselves haven't ascended some stairs . <eos>
+Some girls think that they have n't ascended some stairs . <eos>
+Some girls think that themselves have n't ascended some stairs . <eos>
 David explained that he climbs down that slope . <eos>
 David explained that himself climbs down that slope . <eos>
 Homer explains that he healed Kendra . <eos>
 Homer explains that himself healed Kendra . <eos>
 Scott is thinking that he won't look like this photograph . <eos>
 Scott is thinking that himself won't look like this photograph . <eos>
-Kathleen isn't saying that she examined some essays . <eos>
-Kathleen isn't saying that herself examined some essays . <eos>
+Kathleen is n't saying that she examined some essays . <eos>
+Kathleen is n't saying that herself examined some essays . <eos>
 Wayne wasn't imagining that he didn't cure Omar . <eos>
 Wayne wasn't imagining that himself didn't cure Omar . <eos>
 Natalie thought that she passed a lot of banks . <eos>
@@ -914,8 +914,8 @@ The teachers imagine that they had looked like every picture . <eos>
 The teachers imagine that themselves had looked like every picture . <eos>
 Dennis is saying that he could hug some patients . <eos>
 Dennis is saying that himself could hug some patients . <eos>
-Erin isn't explaining that she examined every report . <eos>
-Erin isn't explaining that herself examined every report . <eos>
+Erin is n't explaining that she examined every report . <eos>
+Erin is n't explaining that herself examined every report . <eos>
 Jerry can't say that he ascended all slopes . <eos>
 Jerry can't say that himself ascended all slopes . <eos>
 Irene thinks that she was revealing Samantha . <eos>
@@ -930,20 +930,20 @@ A lot of drivers imagine that they dropped by every river . <eos>
 A lot of drivers imagine that themselves dropped by every river . <eos>
 Most teenagers imagine that they broke many bicycles . <eos>
 Most teenagers imagine that themselves broke many bicycles . <eos>
-Rebecca isn't thinking that she isn't looking like some photograph . <eos>
-Rebecca isn't thinking that herself isn't looking like some photograph . <eos>
+Rebecca is n't thinking that she is n't looking like some photograph . <eos>
+Rebecca is n't thinking that herself is n't looking like some photograph . <eos>
 All drivers say that they skated around a mall . <eos>
 All drivers say that themselves skated around a mall . <eos>
-Timothy said that he isn't wearing some dress . <eos>
-Timothy said that himself isn't wearing some dress . <eos>
-Helen isn't thinking that she bothered Lori . <eos>
-Helen isn't thinking that herself bothered Lori . <eos>
+Timothy said that he is n't wearing some dress . <eos>
+Timothy said that himself is n't wearing some dress . <eos>
+Helen is n't thinking that she bothered Lori . <eos>
+Helen is n't thinking that herself bothered Lori . <eos>
 This dancer has said that she has gone to most hospitals . <eos>
 This dancer has said that herself has gone to most hospitals . <eos>
 Jennifer imagines that she can't have these ladders . <eos>
 Jennifer imagines that herself can't have these ladders . <eos>
-The boy was explaining that he isn't describing Lisa . <eos>
-The boy was explaining that himself isn't describing Lisa . <eos>
+The boy was explaining that he is n't describing Lisa . <eos>
+The boy was explaining that himself is n't describing Lisa . <eos>
 Derek says that he cleaned horses . <eos>
 Derek says that himself cleaned horses . <eos>
 Most waiters thought that they like the waiter . <eos>
@@ -966,8 +966,8 @@ Tracy explains that she is distracting Vincent . <eos>
 Tracy explains that herself is distracting Vincent . <eos>
 Frank can't explain that he would heal Steve . <eos>
 Frank can't explain that himself would heal Steve . <eos>
-Colleen imagines that she hasn't helped Lawrence . <eos>
-Colleen imagines that herself hasn't helped Lawrence . <eos>
+Colleen imagines that she has n't helped Lawrence . <eos>
+Colleen imagines that herself has n't helped Lawrence . <eos>
 Carlos couldn't say that he hadn't bothered Randolf . <eos>
 Carlos couldn't say that himself hadn't bothered Randolf . <eos>
 Amy explained that she passes all restaurants . <eos>
@@ -996,8 +996,8 @@ Renee couldn't explain that she boasts about John . <eos>
 Renee couldn't explain that herself boasts about John . <eos>
 Alan had thought that he hadn't hugged Samantha . <eos>
 Alan had thought that himself hadn't hugged Samantha . <eos>
-Children aren't thinking that they reference Amy . <eos>
-Children aren't thinking that themselves reference Amy . <eos>
+Children are n't thinking that they reference Amy . <eos>
+Children are n't thinking that themselves reference Amy . <eos>
 Raymond explains that he hired Colleen . <eos>
 Raymond explains that himself hired Colleen . <eos>
 Sally can say that she breaks some mirror . <eos>
@@ -1012,8 +1012,8 @@ Tracy imagines that she was dropping by that glacier . <eos>
 Tracy imagines that herself was dropping by that glacier . <eos>
 Janice imagines that she won't see some turtles . <eos>
 Janice imagines that herself won't see some turtles . <eos>
-Rebecca said that she isn't climbing down a lot of hills . <eos>
-Rebecca said that herself isn't climbing down a lot of hills . <eos>
+Rebecca said that she is n't climbing down a lot of hills . <eos>
+Rebecca said that herself is n't climbing down a lot of hills . <eos>
 Some guy explains that he did criticize all patients . <eos>
 Some guy explains that himself did criticize all patients . <eos>
 Connie explained that she talked to all drivers . <eos>
@@ -1022,8 +1022,8 @@ Tara should imagine that she annoyed Theodore . <eos>
 Tara should imagine that herself annoyed Theodore . <eos>
 Omar was imagining that he does scan every essay . <eos>
 Omar was imagining that himself does scan every essay . <eos>
-Elizabeth did say that she hasn't disturbed Carl . <eos>
-Elizabeth did say that herself hasn't disturbed Carl . <eos>
+Elizabeth did say that she has n't disturbed Carl . <eos>
+Elizabeth did say that herself has n't disturbed Carl . <eos>
 The dancer won't think that she conceals every hill . <eos>
 The dancer won't think that herself conceals every hill . <eos>
 Some children think that they hadn't irritated all waitresses . <eos>
@@ -1032,14 +1032,14 @@ Emily says that she bought most screens . <eos>
 Emily says that herself bought most screens . <eos>
 All doctors say that they fired Laura . <eos>
 All doctors say that themselves fired Laura . <eos>
-The waitresses think that they aren't attacking Raymond . <eos>
-The waitresses think that themselves aren't attacking Raymond . <eos>
+The waitresses think that they are n't attacking Raymond . <eos>
+The waitresses think that themselves are n't attacking Raymond . <eos>
 Steve imagines that he does walk through the mountains . <eos>
 Steve imagines that himself does walk through the mountains . <eos>
 These adults say that they listened to Jacqueline . <eos>
 These adults say that themselves listened to Jacqueline . <eos>
-Nina isn't saying that she drops by this restaurant . <eos>
-Nina isn't saying that herself drops by this restaurant . <eos>
+Nina is n't saying that she drops by this restaurant . <eos>
+Nina is n't saying that herself drops by this restaurant . <eos>
 Wayne can say that he skates around this museum . <eos>
 Wayne can say that himself skates around this museum . <eos>
 A lot of drivers say that they weren't approaching Donald . <eos>
@@ -1048,16 +1048,16 @@ A lot of waitresses think that they hadn't shocked these universities . <eos>
 A lot of waitresses think that themselves hadn't shocked these universities . <eos>
 Melinda said that she did remember every cashier . <eos>
 Melinda said that herself did remember every cashier . <eos>
-These waitresses say that they aren't disgusting Gregory . <eos>
-These waitresses say that themselves aren't disgusting Gregory . <eos>
+These waitresses say that they are n't disgusting Gregory . <eos>
+These waitresses say that themselves are n't disgusting Gregory . <eos>
 Melinda hadn't thought that she didn't boycott a lot of glaciers . <eos>
 Melinda hadn't thought that herself didn't boycott a lot of glaciers . <eos>
 Emily does imagine that she climbed up a lot of stairs . <eos>
 Emily does imagine that herself climbed up a lot of stairs . <eos>
 Charles might think that he hugs Andrea . <eos>
 Charles might think that himself hugs Andrea . <eos>
-Randolf isn't thinking that he has alarmed Vincent . <eos>
-Randolf isn't thinking that himself has alarmed Vincent . <eos>
+Randolf is n't thinking that he has alarmed Vincent . <eos>
+Randolf is n't thinking that himself has alarmed Vincent . <eos>
 Edward had explained that he impressed Gina . <eos>
 Edward had explained that himself impressed Gina . <eos>
 Bruce does say that he found Sandra . <eos>
@@ -1070,22 +1070,22 @@ Tiffany had explained that she has hurt all associations . <eos>
 Tiffany had explained that herself has hurt all associations . <eos>
 Some doctors explain that they have ascended slopes . <eos>
 Some doctors explain that themselves have ascended slopes . <eos>
-Colleen hasn't imagined that she won't resemble the painting . <eos>
-Colleen hasn't imagined that herself won't resemble the painting . <eos>
+Colleen has n't imagined that she won't resemble the painting . <eos>
+Colleen has n't imagined that herself won't resemble the painting . <eos>
 Ladies imagine that they listen to Theresa . <eos>
 Ladies imagine that themselves listen to Theresa . <eos>
 Vincent hadn't imagined that he has embarrassed a bank . <eos>
 Vincent hadn't imagined that himself has embarrassed a bank . <eos>
-These waitresses think that they haven't walked through most malls . <eos>
-These waitresses think that themselves haven't walked through most malls . <eos>
+These waitresses think that they have n't walked through most malls . <eos>
+These waitresses think that themselves have n't walked through most malls . <eos>
 Some guests said that they are praising Anna . <eos>
 Some guests said that themselves are praising Anna . <eos>
-Charles hasn't explained that he had left Kristen . <eos>
-Charles hasn't explained that himself had left Kristen . <eos>
+Charles has n't explained that he had left Kristen . <eos>
+Charles has n't explained that himself had left Kristen . <eos>
 Most women said that they respected Gregory . <eos>
 Most women said that themselves respected Gregory . <eos>
-Tara couldn't explain that she hasn't ran around this river . <eos>
-Tara couldn't explain that herself hasn't ran around this river . <eos>
+Tara couldn't explain that she has n't ran around this river . <eos>
+Tara couldn't explain that herself has n't ran around this river . <eos>
 These adults were saying that they find Larry . <eos>
 These adults were saying that themselves find Larry . <eos>
 Melinda won't think that she won't kiss Kristin . <eos>
@@ -1098,8 +1098,8 @@ The senators imagine that they have scanned a lot of plays . <eos>
 The senators imagine that themselves have scanned a lot of plays . <eos>
 Timothy had thought that he wasn't discussing Anne . <eos>
 Timothy had thought that himself wasn't discussing Anne . <eos>
-Caroline said that she hasn't concealed every skirt . <eos>
-Caroline said that herself hasn't concealed every skirt . <eos>
+Caroline said that she has n't concealed every skirt . <eos>
+Caroline said that herself has n't concealed every skirt . <eos>
 Janet hadn't explained that she will wear these glasses . <eos>
 Janet hadn't explained that herself will wear these glasses . <eos>
 Sonia has imagined that she conceals Thomas . <eos>
@@ -1118,10 +1118,10 @@ Thomas explains that he appreciates Beverly . <eos>
 Thomas explains that himself appreciates Beverly . <eos>
 Most actors explain that they are climbing down every ladder . <eos>
 Most actors explain that themselves are climbing down every ladder . <eos>
-Thomas isn't explaining that he wouldn't climb down every mountain . <eos>
-Thomas isn't explaining that himself wouldn't climb down every mountain . <eos>
-Irene isn't thinking that she was praising Amelia . <eos>
-Irene isn't thinking that herself was praising Amelia . <eos>
+Thomas is n't explaining that he wouldn't climb down every mountain . <eos>
+Thomas is n't explaining that himself wouldn't climb down every mountain . <eos>
+Irene is n't thinking that she was praising Amelia . <eos>
+Irene is n't thinking that herself was praising Amelia . <eos>
 Omar thought that he did criticize Sharon . <eos>
 Omar thought that himself did criticize Sharon . <eos>
 Russell thinks that he will approach Veronica . <eos>
@@ -1130,8 +1130,8 @@ A girl is explaining that she approached many pedestrians . <eos>
 A girl is explaining that herself approached many pedestrians . <eos>
 These guys say that they should sell some skirt . <eos>
 These guys say that themselves should sell some skirt . <eos>
-Carrie imagined that she hasn't toured some glaciers . <eos>
-Carrie imagined that herself hasn't toured some glaciers . <eos>
+Carrie imagined that she has n't toured some glaciers . <eos>
+Carrie imagined that herself has n't toured some glaciers . <eos>
 Kirsten said that she criticizes Victoria . <eos>
 Kirsten said that herself criticizes Victoria . <eos>
 April explains that she has hired Allison . <eos>
@@ -1140,16 +1140,16 @@ Richard had imagined that he is listening to Karen . <eos>
 Richard had imagined that himself is listening to Karen . <eos>
 Children imagine that they have impressed Matt . <eos>
 Children imagine that themselves have impressed Matt . <eos>
-Carrie has explained that she isn't criticizing Sherry . <eos>
-Carrie has explained that herself isn't criticizing Sherry . <eos>
-Christine hasn't explained that she can't forget Brett . <eos>
-Christine hasn't explained that herself can't forget Brett . <eos>
+Carrie has explained that she is n't criticizing Sherry . <eos>
+Carrie has explained that herself is n't criticizing Sherry . <eos>
+Christine has n't explained that she can't forget Brett . <eos>
+Christine has n't explained that herself can't forget Brett . <eos>
 Most adults say that they do help Martha . <eos>
 Most adults say that themselves do help Martha . <eos>
 Many boys imagine that they descend a lot of mountains . <eos>
 Many boys imagine that themselves descend a lot of mountains . <eos>
-Dawn isn't thinking that she observes Carolyn . <eos>
-Dawn isn't thinking that herself observes Carolyn . <eos>
+Dawn is n't thinking that she observes Carolyn . <eos>
+Dawn is n't thinking that herself observes Carolyn . <eos>
 The ladies imagine that they were buying some fish . <eos>
 The ladies imagine that themselves were buying some fish . <eos>
 Russell explains that he has attacked Marla . <eos>
@@ -1158,8 +1158,8 @@ Janet thought that she hires Marcus . <eos>
 Janet thought that herself hires Marcus . <eos>
 These cashiers say that they leave Bethany . <eos>
 These cashiers say that themselves leave Bethany . <eos>
-Dawn hasn't explained that she hasn't cleaned that shirt . <eos>
-Dawn hasn't explained that herself hasn't cleaned that shirt . <eos>
+Dawn has n't explained that she has n't cleaned that shirt . <eos>
+Dawn has n't explained that herself has n't cleaned that shirt . <eos>
 Most drivers imagine that they can't bike to grocery stores . <eos>
 Most drivers imagine that themselves can't bike to grocery stores . <eos>
 Brad explained that he reveals this cilantro . <eos>
@@ -1172,8 +1172,8 @@ Tammy was saying that she hadn't upset Charles . <eos>
 Tammy was saying that herself hadn't upset Charles . <eos>
 Rodney thought that he wouldn't heal Sonia . <eos>
 Rodney thought that himself wouldn't heal Sonia . <eos>
-Wayne isn't explaining that he insults Jane . <eos>
-Wayne isn't explaining that himself insults Jane . <eos>
+Wayne is n't explaining that he insults Jane . <eos>
+Wayne is n't explaining that himself insults Jane . <eos>
 These boys imagine that they had broken a lot of glasses . <eos>
 These boys imagine that themselves had broken a lot of glasses . <eos>
 Patricia thought that she boycotts the governments . <eos>
@@ -1192,8 +1192,8 @@ Rhonda wasn't saying that she cleans that vase . <eos>
 Rhonda wasn't saying that herself cleans that vase . <eos>
 Jennifer can imagine that she observes Rachel . <eos>
 Jennifer can imagine that herself observes Rachel . <eos>
-Vincent hasn't explained that he has astounded patients . <eos>
-Vincent hasn't explained that himself has astounded patients . <eos>
+Vincent has n't explained that he has astounded patients . <eos>
+Vincent has n't explained that himself has astounded patients . <eos>
 Andrew had said that he hadn't examined these reports . <eos>
 Andrew had said that himself hadn't examined these reports . <eos>
 Eric is imagining that he shouldn't bore Teresa . <eos>
@@ -1214,8 +1214,8 @@ Every actress says that she wears some skirt . <eos>
 Every actress says that herself wears some skirt . <eos>
 Janice had said that she shouldn't leave drivers . <eos>
 Janice had said that herself shouldn't leave drivers . <eos>
-Dawn doesn't imagine that she hadn't disgusted Florence . <eos>
-Dawn doesn't imagine that herself hadn't disgusted Florence . <eos>
+Dawn does n't imagine that she hadn't disgusted Florence . <eos>
+Dawn does n't imagine that herself hadn't disgusted Florence . <eos>
 Phillip has thought that he sees Ronald . <eos>
 Phillip has thought that himself sees Ronald . <eos>
 Every actress should think that she drives to that glacier . <eos>
@@ -1228,20 +1228,20 @@ Andrew explains that he wasn't insulting Veronica . <eos>
 Andrew explains that himself wasn't insulting Veronica . <eos>
 A lot of teenagers explain that they describe Aaron . <eos>
 A lot of teenagers explain that themselves describe Aaron . <eos>
-Carl had said that he hasn't visited Larry . <eos>
-Carl had said that himself hasn't visited Larry . <eos>
+Carl had said that he has n't visited Larry . <eos>
+Carl had said that himself has n't visited Larry . <eos>
 Vanessa says that she hadn't distracted Roger . <eos>
 Vanessa says that herself hadn't distracted Roger . <eos>
-Amelia imagined that she isn't complaining about Katherine . <eos>
-Amelia imagined that herself isn't complaining about Katherine . <eos>
+Amelia imagined that she is n't complaining about Katherine . <eos>
+Amelia imagined that herself is n't complaining about Katherine . <eos>
 Christopher has explained that he had brought all pants . <eos>
 Christopher has explained that himself had brought all pants . <eos>
-Brett had said that he hasn't ascended most steps . <eos>
-Brett had said that himself hasn't ascended most steps . <eos>
-Larry thinks that he hasn't examined reports . <eos>
-Larry thinks that himself hasn't examined reports . <eos>
-A lot of girls think that they haven't broken this mirror . <eos>
-A lot of girls think that themselves haven't broken this mirror . <eos>
+Brett had said that he has n't ascended most steps . <eos>
+Brett had said that himself has n't ascended most steps . <eos>
+Larry thinks that he has n't examined reports . <eos>
+Larry thinks that himself has n't examined reports . <eos>
+A lot of girls think that they have n't broken this mirror . <eos>
+A lot of girls think that themselves have n't broken this mirror . <eos>
 All students explain that they talked about Sonia . <eos>
 All students explain that themselves talked about Sonia . <eos>
 Ruth shouldn't think that she was listening to Colleen . <eos>
@@ -1254,8 +1254,8 @@ Lucille thought that she wasn't boring Emily . <eos>
 Lucille thought that herself wasn't boring Emily . <eos>
 Tracy could imagine that she could praise this senator . <eos>
 Tracy could imagine that herself could praise this senator . <eos>
-Eva explained that she isn't distracting Deanna . <eos>
-Eva explained that herself isn't distracting Deanna . <eos>
+Eva explained that she is n't distracting Deanna . <eos>
+Eva explained that herself is n't distracting Deanna . <eos>
 Dan imagines that he stunned Susan . <eos>
 Dan imagines that himself stunned Susan . <eos>
 Anne says that she appreciated Randolf . <eos>
@@ -1266,12 +1266,12 @@ Most patients imagine that they embarrasses Tanya . <eos>
 Most patients imagine that themselves embarrasses Tanya . <eos>
 A man explains that he impressed Dana . <eos>
 A man explains that himself impressed Dana . <eos>
-Gregory hasn't explained that he has complained about Veronica . <eos>
-Gregory hasn't explained that himself has complained about Veronica . <eos>
+Gregory has n't explained that he has complained about Veronica . <eos>
+Gregory has n't explained that himself has complained about Veronica . <eos>
 Teachers say that they have described many reports . <eos>
 Teachers say that themselves have described many reports . <eos>
-Teresa was thinking that she hasn't examined this story . <eos>
-Teresa was thinking that herself hasn't examined this story . <eos>
+Teresa was thinking that she has n't examined this story . <eos>
+Teresa was thinking that herself has n't examined this story . <eos>
 Many girls explain that they had lifted this box . <eos>
 Many girls explain that themselves had lifted this box . <eos>
 These girls think that they examine a newspaper article . <eos>
@@ -1294,12 +1294,12 @@ These ladies imagine that they sound like Sharon . <eos>
 These ladies imagine that themselves sound like Sharon . <eos>
 All women say that they have walked through a bank . <eos>
 All women say that themselves have walked through a bank . <eos>
-Noah hasn't imagined that he had returned to Andrew . <eos>
-Noah hasn't imagined that himself had returned to Andrew . <eos>
+Noah has n't imagined that he had returned to Andrew . <eos>
+Noah has n't imagined that himself had returned to Andrew . <eos>
 Jerry will say that he cured Jodi . <eos>
 Jerry will say that himself cured Jodi . <eos>
-Kristin isn't thinking that she examines most movies . <eos>
-Kristin isn't thinking that herself examines most movies . <eos>
+Kristin is n't thinking that she examines most movies . <eos>
+Kristin is n't thinking that herself examines most movies . <eos>
 Some patients explain that they are breaking every plate . <eos>
 Some patients explain that themselves are breaking every plate . <eos>
 Some ladies think that they discussed Tamara . <eos>
@@ -1308,16 +1308,16 @@ Tanya imagines that she cleans a chair . <eos>
 Tanya imagines that herself cleans a chair . <eos>
 Eric explains that he might observe Amelia . <eos>
 Eric explains that himself might observe Amelia . <eos>
-Becky hasn't said that she won't know Beverly . <eos>
-Becky hasn't said that herself won't know Beverly . <eos>
+Becky has n't said that she won't know Beverly . <eos>
+Becky has n't said that herself won't know Beverly . <eos>
 All senators imagined that they described the movie theaters . <eos>
 All senators imagined that themselves described the movie theaters . <eos>
 Tonya didn't explain that she has gone to all college campuses . <eos>
 Tonya didn't explain that herself has gone to all college campuses . <eos>
 Many women think that they tour many banks . <eos>
 Many women think that themselves tour many banks . <eos>
-Mark isn't saying that he wasn't investigating Angela . <eos>
-Mark isn't saying that himself wasn't investigating Angela . <eos>
+Mark is n't saying that he wasn't investigating Angela . <eos>
+Mark is n't saying that himself wasn't investigating Angela . <eos>
 A lot of waiters imagine that they couldn't shock every dancer . <eos>
 A lot of waiters imagine that themselves couldn't shock every dancer . <eos>
 Karla thinks that she explored the rivers . <eos>
@@ -1342,16 +1342,16 @@ This lady was saying that she criticizes an report . <eos>
 This lady was saying that herself criticizes an report . <eos>
 Carmen is saying that she concealed this window . <eos>
 Carmen is saying that herself concealed this window . <eos>
-All guys could think that they haven't impressed Colleen . <eos>
-All guys could think that themselves haven't impressed Colleen . <eos>
+All guys could think that they have n't impressed Colleen . <eos>
+All guys could think that themselves have n't impressed Colleen . <eos>
 A lot of adults explain that they didn't attack Becky . <eos>
 A lot of adults explain that themselves didn't attack Becky . <eos>
 All customers think that they are exiting some art gallery . <eos>
 All customers think that themselves are exiting some art gallery . <eos>
 The boys think that they were disturbing Alexander . <eos>
 The boys think that themselves were disturbing Alexander . <eos>
-Christine thought that she hasn't passed this library . <eos>
-Christine thought that herself hasn't passed this library . <eos>
+Christine thought that she has n't passed this library . <eos>
+Christine thought that herself has n't passed this library . <eos>
 Rodney imagines that he had cleaned many schools . <eos>
 Rodney imagines that himself had cleaned many schools . <eos>
 Leslie imagined that she does watch every adult . <eos>
@@ -1362,12 +1362,12 @@ Gary says that he wasn't taking an report . <eos>
 Gary says that himself wasn't taking an report . <eos>
 Alice said that she had escaped from some college campuses . <eos>
 Alice said that herself had escaped from some college campuses . <eos>
-Debra isn't thinking that she can climb up a lot of hills . <eos>
-Debra isn't thinking that herself can climb up a lot of hills . <eos>
-Roger can imagine that he hasn't disliked Paula . <eos>
-Roger can imagine that himself hasn't disliked Paula . <eos>
-Rose hasn't explained that she hadn't sold the snake . <eos>
-Rose hasn't explained that herself hadn't sold the snake . <eos>
+Debra is n't thinking that she can climb up a lot of hills . <eos>
+Debra is n't thinking that herself can climb up a lot of hills . <eos>
+Roger can imagine that he has n't disliked Paula . <eos>
+Roger can imagine that himself has n't disliked Paula . <eos>
+Rose has n't explained that she hadn't sold the snake . <eos>
+Rose has n't explained that herself hadn't sold the snake . <eos>
 Samantha thought that she has arrived at some museum . <eos>
 Samantha thought that herself has arrived at some museum . <eos>
 Veronica hadn't said that she was complaining about Noah . <eos>
@@ -1378,14 +1378,14 @@ Carl has explained that he could discuss all college campuses . <eos>
 Carl has explained that himself could discuss all college campuses . <eos>
 Laura is imagining that she hires Jessica . <eos>
 Laura is imagining that herself hires Jessica . <eos>
-Waiters haven't explained that they aren't disgusting Holly . <eos>
-Waiters haven't explained that themselves aren't disgusting Holly . <eos>
+Waiters have n't explained that they are n't disgusting Holly . <eos>
+Waiters have n't explained that themselves are n't disgusting Holly . <eos>
 Students think that they are returning to the girls . <eos>
 Students think that themselves are returning to the girls . <eos>
 Some senators explain that they weren't climbing down all steps . <eos>
 Some senators explain that themselves weren't climbing down all steps . <eos>
-Valerie thought that she isn't distracting Beverly . <eos>
-Valerie thought that herself isn't distracting Beverly . <eos>
+Valerie thought that she is n't distracting Beverly . <eos>
+Valerie thought that herself is n't distracting Beverly . <eos>
 Sharon explained that she could exit all banks . <eos>
 Sharon explained that herself could exit all banks . <eos>
 Tammy thinks that she wasn't talking about that grocery store . <eos>
@@ -1394,8 +1394,8 @@ Most people hadn't imagined that they wouldn't bother Sharon . <eos>
 Most people hadn't imagined that themselves wouldn't bother Sharon . <eos>
 Leslie wasn't imagining that she had dropped by all closets . <eos>
 Leslie wasn't imagining that herself had dropped by all closets . <eos>
-Peter thinks that he isn't boasting about some senator . <eos>
-Peter thinks that himself isn't boasting about some senator . <eos>
+Peter thinks that he is n't boasting about some senator . <eos>
+Peter thinks that himself is n't boasting about some senator . <eos>
 Barbara has imagined that she describes this grocery store . <eos>
 Barbara has imagined that herself describes this grocery store . <eos>
 Most teachers thought that they couldn't take the chairs . <eos>
@@ -1412,8 +1412,8 @@ Peter has thought that he confused Wayne . <eos>
 Peter has thought that himself confused Wayne . <eos>
 Amanda was thinking that she has revealed Alexander . <eos>
 Amanda was thinking that herself has revealed Alexander . <eos>
-Sarah isn't explaining that she wasn't investigating Cheryl . <eos>
-Sarah isn't explaining that herself wasn't investigating Cheryl . <eos>
+Sarah is n't explaining that she wasn't investigating Cheryl . <eos>
+Sarah is n't explaining that herself wasn't investigating Cheryl . <eos>
 Some actresses imagine that they didn't examine some stories . <eos>
 Some actresses imagine that themselves didn't examine some stories . <eos>
 That woman thinks that she shouldn't drive to high schools . <eos>
@@ -1430,14 +1430,14 @@ Jessica didn't think that she was going to these banks . <eos>
 Jessica didn't think that herself was going to these banks . <eos>
 Cynthia said that she could boast about Martin . <eos>
 Cynthia said that herself could boast about Martin . <eos>
-Chad doesn't say that he argued about Gregory . <eos>
-Chad doesn't say that himself argued about Gregory . <eos>
+Chad does n't say that he argued about Gregory . <eos>
+Chad does n't say that himself argued about Gregory . <eos>
 Some boy says that he has sold some windows . <eos>
 Some boy says that himself has sold some windows . <eos>
 Heidi shouldn't say that she wouldn't drive to all high schools . <eos>
 Heidi shouldn't say that herself wouldn't drive to all high schools . <eos>
-Thomas didn't say that he isn't hiring Christina . <eos>
-Thomas didn't say that himself isn't hiring Christina . <eos>
+Thomas didn't say that he is n't hiring Christina . <eos>
+Thomas didn't say that himself is n't hiring Christina . <eos>
 Jessica thinks that she was running around these libraries . <eos>
 Jessica thinks that herself was running around these libraries . <eos>
 Linda imagined that she hadn't climbed up steps . <eos>
@@ -1452,16 +1452,16 @@ Debra explains that she will arrive at most movie theaters . <eos>
 Debra explains that herself will arrive at most movie theaters . <eos>
 Amy said that she wasn't buying this hill . <eos>
 Amy said that herself wasn't buying this hill . <eos>
-Brett won't say that he hasn't known Leslie . <eos>
-Brett won't say that himself hasn't known Leslie . <eos>
+Brett won't say that he has n't known Leslie . <eos>
+Brett won't say that himself has n't known Leslie . <eos>
 Susan is thinking that she hated Chad . <eos>
 Susan is thinking that herself hated Chad . <eos>
 Most patients say that they distract Melissa . <eos>
 Most patients say that themselves distract Melissa . <eos>
-Stephen would explain that he hasn't cleaned that book . <eos>
-Stephen would explain that himself hasn't cleaned that book . <eos>
-A lot of children imagined that they haven't bothered Ann . <eos>
-A lot of children imagined that themselves haven't bothered Ann . <eos>
+Stephen would explain that he has n't cleaned that book . <eos>
+Stephen would explain that himself has n't cleaned that book . <eos>
+A lot of children imagined that they have n't bothered Ann . <eos>
+A lot of children imagined that themselves have n't bothered Ann . <eos>
 Sharon has thought that she might ascend this ladder . <eos>
 Sharon has thought that herself might ascend this ladder . <eos>
 Bill said that he climbed up all mountains . <eos>
@@ -1470,10 +1470,10 @@ Barbara can't say that she will embarrass Thomas . <eos>
 Barbara can't say that herself will embarrass Thomas . <eos>
 Sherry was thinking that she had disturbed Heather . <eos>
 Sherry was thinking that herself had disturbed Heather . <eos>
-Walter doesn't think that he hasn't known a senator . <eos>
-Walter doesn't think that himself hasn't known a senator . <eos>
-John hadn't imagined that he isn't biking to the libraries . <eos>
-John hadn't imagined that himself isn't biking to the libraries . <eos>
+Walter does n't think that he has n't known a senator . <eos>
+Walter does n't think that himself has n't known a senator . <eos>
+John hadn't imagined that he is n't biking to the libraries . <eos>
+John hadn't imagined that himself is n't biking to the libraries . <eos>
 Guy won't imagine that he wasn't passing some libraries . <eos>
 Guy won't imagine that himself wasn't passing some libraries . <eos>
 Julia says that she is touring the college campus . <eos>
@@ -1484,8 +1484,8 @@ Julia hadn't thought that she cared for Kayla . <eos>
 Julia hadn't thought that herself cared for Kayla . <eos>
 Lisa didn't explain that she impressed Janet . <eos>
 Lisa didn't explain that herself impressed Janet . <eos>
-Jennifer isn't imagining that she referenced Martha . <eos>
-Jennifer isn't imagining that herself referenced Martha . <eos>
+Jennifer is n't imagining that she referenced Martha . <eos>
+Jennifer is n't imagining that herself referenced Martha . <eos>
 Lisa thinks that she might kiss Ellen . <eos>
 Lisa thinks that herself might kiss Ellen . <eos>
 A lot of adults are saying that they hadn't discussed Joel . <eos>
@@ -1502,14 +1502,14 @@ All women imagine that they hurt Naomi . <eos>
 All women imagine that themselves hurt Naomi . <eos>
 Carrie imagines that she had sold every snake . <eos>
 Carrie imagines that herself had sold every snake . <eos>
-Steven couldn't explain that he hasn't worried Candice . <eos>
-Steven couldn't explain that himself hasn't worried Candice . <eos>
+Steven couldn't explain that he has n't worried Candice . <eos>
+Steven couldn't explain that himself has n't worried Candice . <eos>
 Marcus thought that he had seen this teacher . <eos>
 Marcus thought that himself had seen this teacher . <eos>
 Paul can't say that he appreciated Judy . <eos>
 Paul can't say that himself appreciated Judy . <eos>
-Natalie hasn't said that she hasn't upset Michelle . <eos>
-Natalie hasn't said that herself hasn't upset Michelle . <eos>
+Natalie has n't said that she has n't upset Michelle . <eos>
+Natalie has n't said that herself has n't upset Michelle . <eos>
 Jacqueline thinks that she has brought a lot of paintings . <eos>
 Jacqueline thinks that herself has brought a lot of paintings . <eos>
 Kenneth is saying that he is firing Gregory . <eos>
@@ -1526,32 +1526,32 @@ A lot of pedestrians say that they did investigate Gary . <eos>
 A lot of pedestrians say that themselves did investigate Gary . <eos>
 Janice explains that she loved Patricia . <eos>
 Janice explains that herself loved Patricia . <eos>
-Judy hasn't explained that she discusses Ruth . <eos>
-Judy hasn't explained that herself discusses Ruth . <eos>
-The waitress imagines that she hasn't stunned Colleen . <eos>
-The waitress imagines that herself hasn't stunned Colleen . <eos>
-Carmen imagined that she isn't concealing Raymond . <eos>
-Carmen imagined that herself isn't concealing Raymond . <eos>
+Judy has n't explained that she discusses Ruth . <eos>
+Judy has n't explained that herself discusses Ruth . <eos>
+The waitress imagines that she has n't stunned Colleen . <eos>
+The waitress imagines that herself has n't stunned Colleen . <eos>
+Carmen imagined that she is n't concealing Raymond . <eos>
+Carmen imagined that herself is n't concealing Raymond . <eos>
 Most customers were imagining that they had cared for a lot of actors . <eos>
 Most customers were imagining that themselves had cared for a lot of actors . <eos>
 The pedestrians will imagine that they should worry Sally . <eos>
 The pedestrians will imagine that themselves should worry Sally . <eos>
 Donna has said that she is breaking couches . <eos>
 Donna has said that herself is breaking couches . <eos>
-Sara hasn't said that she left Sonia . <eos>
-Sara hasn't said that herself left Sonia . <eos>
+Sara has n't said that she left Sonia . <eos>
+Sara has n't said that herself left Sonia . <eos>
 Diana imagines that she couldn't wear this shirt . <eos>
 Diana imagines that herself couldn't wear this shirt . <eos>
-Paula will think that she isn't distracting Ronald . <eos>
-Paula will think that herself isn't distracting Ronald . <eos>
+Paula will think that she is n't distracting Ronald . <eos>
+Paula will think that herself is n't distracting Ronald . <eos>
 Sharon said that she shouldn't find Lucille . <eos>
 Sharon said that herself shouldn't find Lucille . <eos>
 Some woman imagined that she could work with that teacher . <eos>
 Some woman imagined that herself could work with that teacher . <eos>
 Bradley is saying that he cleans some mountains . <eos>
 Bradley is saying that himself cleans some mountains . <eos>
-Dennis hadn't thought that he doesn't embarrass every guy . <eos>
-Dennis hadn't thought that himself doesn't embarrass every guy . <eos>
+Dennis hadn't thought that he does n't embarrass every guy . <eos>
+Dennis hadn't thought that himself does n't embarrass every guy . <eos>
 Actresses say that they might approach Margaret . <eos>
 Actresses say that themselves might approach Margaret . <eos>
 Tracy did explain that she resembled most photographs . <eos>
@@ -1560,10 +1560,10 @@ Lisa explains that she didn't boycott some art gallery . <eos>
 Lisa explains that herself didn't boycott some art gallery . <eos>
 These dancers think that they biked to the closets . <eos>
 These dancers think that themselves biked to the closets . <eos>
-James imagines that he isn't climbing up steps . <eos>
-James imagines that himself isn't climbing up steps . <eos>
-Dawn isn't thinking that she was selling some rugs . <eos>
-Dawn isn't thinking that herself was selling some rugs . <eos>
+James imagines that he is n't climbing up steps . <eos>
+James imagines that himself is n't climbing up steps . <eos>
+Dawn is n't thinking that she was selling some rugs . <eos>
+Dawn is n't thinking that herself was selling some rugs . <eos>
 Roger explained that he is praising Carolyn . <eos>
 Roger explained that himself is praising Carolyn . <eos>
 Meredith imagined that she hadn't skated around most grocery stores . <eos>
@@ -1578,20 +1578,20 @@ These waiters say that they irritate Melanie . <eos>
 These waiters say that themselves irritate Melanie . <eos>
 Alice had explained that she has impressed Julia . <eos>
 Alice had explained that herself has impressed Julia . <eos>
-Carolyn hasn't said that she didn't fire Carolyn . <eos>
-Carolyn hasn't said that herself didn't fire Carolyn . <eos>
+Carolyn has n't said that she didn't fire Carolyn . <eos>
+Carolyn has n't said that herself didn't fire Carolyn . <eos>
 Heidi wasn't imagining that she would sell some screen . <eos>
 Heidi wasn't imagining that herself would sell some screen . <eos>
 Every woman wasn't thinking that she fled from Diana . <eos>
 Every woman wasn't thinking that herself fled from Diana . <eos>
-Gregory imagined that he doesn't insult Kimberley . <eos>
-Gregory imagined that himself doesn't insult Kimberley . <eos>
+Gregory imagined that he does n't insult Kimberley . <eos>
+Gregory imagined that himself does n't insult Kimberley . <eos>
 Matt won't say that he can work with Kristen . <eos>
 Matt won't say that himself can work with Kristen . <eos>
 David thought that he escapes from Carolyn . <eos>
 David thought that himself escapes from Carolyn . <eos>
-Tara imagined that she isn't revealing Steven . <eos>
-Tara imagined that herself isn't revealing Steven . <eos>
+Tara imagined that she is n't revealing Steven . <eos>
+Tara imagined that herself is n't revealing Steven . <eos>
 Carmen says that she is cleaning these cups . <eos>
 Carmen says that herself is cleaning these cups . <eos>
 Kathleen wasn't saying that she has dropped by some public parks . <eos>
@@ -1602,38 +1602,38 @@ Most customers imagine that they did pass every school . <eos>
 Most customers imagine that themselves did pass every school . <eos>
 Most cashiers imagine that they weren't distracting Theresa . <eos>
 Most cashiers imagine that themselves weren't distracting Theresa . <eos>
-Irene explained that she isn't watching some patients . <eos>
-Irene explained that herself isn't watching some patients . <eos>
+Irene explained that she is n't watching some patients . <eos>
+Irene explained that herself is n't watching some patients . <eos>
 Jason is thinking that he broke the plates . <eos>
 Jason is thinking that himself broke the plates . <eos>
-Stacey isn't thinking that she was cleaning these forks . <eos>
-Stacey isn't thinking that herself was cleaning these forks . <eos>
-Ellen hasn't said that she fixes most cars . <eos>
-Ellen hasn't said that herself fixes most cars . <eos>
-That girl imagined that she isn't escaping from Dan . <eos>
-That girl imagined that herself isn't escaping from Dan . <eos>
+Stacey is n't thinking that she was cleaning these forks . <eos>
+Stacey is n't thinking that herself was cleaning these forks . <eos>
+Ellen has n't said that she fixes most cars . <eos>
+Ellen has n't said that herself fixes most cars . <eos>
+That girl imagined that she is n't escaping from Dan . <eos>
+That girl imagined that herself is n't escaping from Dan . <eos>
 Some pedestrians think that they resembled all prints . <eos>
 Some pedestrians think that themselves resembled all prints . <eos>
-Robert isn't explaining that he has all rabbits . <eos>
-Robert isn't explaining that himself has all rabbits . <eos>
+Robert is n't explaining that he has all rabbits . <eos>
+Robert is n't explaining that himself has all rabbits . <eos>
 Caroline was thinking that she has taken that dog . <eos>
 Caroline was thinking that herself has taken that dog . <eos>
 Alan said that he had taken many windows . <eos>
 Alan said that himself had taken many windows . <eos>
-Bill might imagine that he doesn't visit Jessica . <eos>
-Bill might imagine that himself doesn't visit Jessica . <eos>
+Bill might imagine that he does n't visit Jessica . <eos>
+Bill might imagine that himself does n't visit Jessica . <eos>
 The people think that they lift some closet . <eos>
 The people think that themselves lift some closet . <eos>
 Brett thinks that he had talked to pedestrians . <eos>
 Brett thinks that himself had talked to pedestrians . <eos>
 The patients said that they bike to these movie theaters . <eos>
 The patients said that themselves bike to these movie theaters . <eos>
-Tammy hasn't explained that she discussed Larry . <eos>
-Tammy hasn't explained that herself discussed Larry . <eos>
+Tammy has n't explained that she discussed Larry . <eos>
+Tammy has n't explained that herself discussed Larry . <eos>
 Regina can explain that she hadn't scared that association . <eos>
 Regina can explain that herself hadn't scared that association . <eos>
-Bruce isn't imagining that he could irritate Steven . <eos>
-Bruce isn't imagining that himself could irritate Steven . <eos>
+Bruce is n't imagining that he could irritate Steven . <eos>
+Bruce is n't imagining that himself could irritate Steven . <eos>
 Phillip thinks that he couldn't aggravate Stephen . <eos>
 Phillip thinks that himself couldn't aggravate Stephen . <eos>
 Catherine hadn't said that she didn't walk through every movie theater . <eos>
@@ -1670,8 +1670,8 @@ Connie shouldn't think that she concealed Timothy . <eos>
 Connie shouldn't think that herself concealed Timothy . <eos>
 Many actors explain that they knew Gina . <eos>
 Many actors explain that themselves knew Gina . <eos>
-Frank doesn't explain that he climbs down steps . <eos>
-Frank doesn't explain that himself climbs down steps . <eos>
+Frank does n't explain that he climbs down steps . <eos>
+Frank does n't explain that himself climbs down steps . <eos>
 Laurie explains that she helped April . <eos>
 Laurie explains that herself helped April . <eos>
 Sarah hadn't imagined that she observes Peter . <eos>
@@ -1700,20 +1700,20 @@ Grace imagined that she hadn't healed Kirsten . <eos>
 Grace imagined that herself hadn't healed Kirsten . <eos>
 Many customers think that they might disagree with Liam . <eos>
 Many customers think that themselves might disagree with Liam . <eos>
-George isn't imagining that he scared Cheryl . <eos>
-George isn't imagining that himself scared Cheryl . <eos>
+George is n't imagining that he scared Cheryl . <eos>
+George is n't imagining that himself scared Cheryl . <eos>
 Tara didn't imagine that she climbs down all steps . <eos>
 Tara didn't imagine that herself climbs down all steps . <eos>
 Some girl thinks that she could boast about George . <eos>
 Some girl thinks that herself could boast about George . <eos>
-Alice isn't imagining that she hasn't bored Stacey . <eos>
-Alice isn't imagining that herself hasn't bored Stacey . <eos>
+Alice is n't imagining that she has n't bored Stacey . <eos>
+Alice is n't imagining that herself has n't bored Stacey . <eos>
 Jeffrey said that he listened to Claire . <eos>
 Jeffrey said that himself listened to Claire . <eos>
-Paula imagined that she isn't climbing down the stairs . <eos>
-Paula imagined that herself isn't climbing down the stairs . <eos>
-Stephanie hasn't said that she couldn't disturb Tiffany . <eos>
-Stephanie hasn't said that herself couldn't disturb Tiffany . <eos>
+Paula imagined that she is n't climbing down the stairs . <eos>
+Paula imagined that herself is n't climbing down the stairs . <eos>
+Stephanie has n't said that she couldn't disturb Tiffany . <eos>
+Stephanie has n't said that herself couldn't disturb Tiffany . <eos>
 Andrew wouldn't think that he can bore Regina . <eos>
 Andrew wouldn't think that himself can bore Regina . <eos>
 Debra thought that she has cleaned a school . <eos>
@@ -1726,16 +1726,16 @@ Andrew thinks that he approached Ruth . <eos>
 Andrew thinks that himself approached Ruth . <eos>
 Many waiters say that they shock these pedestrians . <eos>
 Many waiters say that themselves shock these pedestrians . <eos>
-Kirsten had explained that she hasn't aggravated Kristin . <eos>
-Kirsten had explained that herself hasn't aggravated Kristin . <eos>
+Kirsten had explained that she has n't aggravated Kristin . <eos>
+Kirsten had explained that herself has n't aggravated Kristin . <eos>
 Carolyn wasn't thinking that she has this mirror . <eos>
 Carolyn wasn't thinking that herself has this mirror . <eos>
 Elaine thinks that she observes Erin . <eos>
 Elaine thinks that herself observes Erin . <eos>
 Thomas explains that he knew Marie . <eos>
 Thomas explains that himself knew Marie . <eos>
-Eric had said that he hasn't alarmed Cynthia . <eos>
-Eric had said that himself hasn't alarmed Cynthia . <eos>
+Eric had said that he has n't alarmed Cynthia . <eos>
+Eric had said that himself has n't alarmed Cynthia . <eos>
 The people explain that they hadn't investigated Monica . <eos>
 The people explain that themselves hadn't investigated Monica . <eos>
 Omar imagined that he flees from Gary . <eos>
@@ -1750,22 +1750,22 @@ Sharon hadn't imagined that she should discuss Heather . <eos>
 Sharon hadn't imagined that herself should discuss Heather . <eos>
 Many girls explain that they annoys Tina . <eos>
 Many girls explain that themselves annoys Tina . <eos>
-Patients say that they aren't disturbing this guy . <eos>
-Patients say that themselves aren't disturbing this guy . <eos>
-Jodi isn't imagining that she buys this face . <eos>
-Jodi isn't imagining that herself buys this face . <eos>
-Patrick imagined that he isn't breaking some vase . <eos>
-Patrick imagined that himself isn't breaking some vase . <eos>
-Sabrina isn't imagining that she cleans some movie theaters . <eos>
-Sabrina isn't imagining that herself cleans some movie theaters . <eos>
+Patients say that they are n't disturbing this guy . <eos>
+Patients say that themselves are n't disturbing this guy . <eos>
+Jodi is n't imagining that she buys this face . <eos>
+Jodi is n't imagining that herself buys this face . <eos>
+Patrick imagined that he is n't breaking some vase . <eos>
+Patrick imagined that himself is n't breaking some vase . <eos>
+Sabrina is n't imagining that she cleans some movie theaters . <eos>
+Sabrina is n't imagining that herself cleans some movie theaters . <eos>
 Sara could explain that she scared Mary . <eos>
 Sara could explain that herself scared Mary . <eos>
-Barbara isn't thinking that she resembles photographs . <eos>
-Barbara isn't thinking that herself resembles photographs . <eos>
+Barbara is n't thinking that she resembles photographs . <eos>
+Barbara is n't thinking that herself resembles photographs . <eos>
 Nancy hadn't thought that she was appreciating Valerie . <eos>
 Nancy hadn't thought that herself was appreciating Valerie . <eos>
-Sabrina didn't say that she hasn't healed Dan . <eos>
-Sabrina didn't say that herself hasn't healed Dan . <eos>
+Sabrina didn't say that she has n't healed Dan . <eos>
+Sabrina didn't say that herself has n't healed Dan . <eos>
 Christina has thought that she wasn't examining that commentary . <eos>
 Christina has thought that herself wasn't examining that commentary . <eos>
 Kevin imagines that he helped Brenda . <eos>
@@ -1790,12 +1790,12 @@ That actress couldn't explain that she didn't insult Lori . <eos>
 That actress couldn't explain that herself didn't insult Lori . <eos>
 Carl thought that he went to a movie theater . <eos>
 Carl thought that himself went to a movie theater . <eos>
-Paula thought that she hasn't disgusted Laura . <eos>
-Paula thought that herself hasn't disgusted Laura . <eos>
+Paula thought that she has n't disgusted Laura . <eos>
+Paula thought that herself has n't disgusted Laura . <eos>
 Daniel was imagining that he respects Renee . <eos>
 Daniel was imagining that himself respects Renee . <eos>
-Craig isn't imagining that he wasn't boring every dancer . <eos>
-Craig isn't imagining that himself wasn't boring every dancer . <eos>
+Craig is n't imagining that he wasn't boring every dancer . <eos>
+Craig is n't imagining that himself wasn't boring every dancer . <eos>
 Adam explained that he hadn't complained about some person . <eos>
 Adam explained that himself hadn't complained about some person . <eos>
 Every lady has explained that she has loved the students . <eos>
@@ -1806,16 +1806,16 @@ Many doctors imagine that they appreciated Frank . <eos>
 Many doctors imagine that themselves appreciated Frank . <eos>
 A lot of teachers think that they hadn't gone to most restaurants . <eos>
 A lot of teachers think that themselves hadn't gone to most restaurants . <eos>
-Elizabeth hasn't thought that she might hire many men . <eos>
-Elizabeth hasn't thought that herself might hire many men . <eos>
+Elizabeth has n't thought that she might hire many men . <eos>
+Elizabeth has n't thought that herself might hire many men . <eos>
 Timothy explained that he will conceal Walter . <eos>
 Timothy explained that himself will conceal Walter . <eos>
-Thomas hasn't thought that he loves that person . <eos>
-Thomas hasn't thought that himself loves that person . <eos>
+Thomas has n't thought that he loves that person . <eos>
+Thomas has n't thought that himself loves that person . <eos>
 Thomas hadn't imagined that he wouldn't hire Susan . <eos>
 Thomas hadn't imagined that himself wouldn't hire Susan . <eos>
-Daniel could think that he isn't listening to Rodney . <eos>
-Daniel could think that himself isn't listening to Rodney . <eos>
+Daniel could think that he is n't listening to Rodney . <eos>
+Daniel could think that himself is n't listening to Rodney . <eos>
 Cindy said that she has distracted Martha . <eos>
 Cindy said that herself has distracted Martha . <eos>
 Most children imagined that they hadn't shocked most teachers . <eos>
@@ -1824,8 +1824,8 @@ A lot of boys think that they scares Ruth . <eos>
 A lot of boys think that themselves scares Ruth . <eos>
 Anna imagines that she watched Leslie . <eos>
 Anna imagines that herself watched Leslie . <eos>
-Wendy says that she hasn't returned to Carol . <eos>
-Wendy says that herself hasn't returned to Carol . <eos>
+Wendy says that she has n't returned to Carol . <eos>
+Wendy says that herself has n't returned to Carol . <eos>
 Omar thought that he helped Candice . <eos>
 Omar thought that himself helped Candice . <eos>
 Connie thinks that she kisses Anne . <eos>
@@ -1834,8 +1834,8 @@ People could explain that they could remember every mountain . <eos>
 People could explain that themselves could remember every mountain . <eos>
 These senators imagine that they do run around a restaurant . <eos>
 These senators imagine that themselves do run around a restaurant . <eos>
-Michelle hasn't imagined that she hates Veronica . <eos>
-Michelle hasn't imagined that herself hates Veronica . <eos>
+Michelle has n't imagined that she hates Veronica . <eos>
+Michelle has n't imagined that herself hates Veronica . <eos>
 A lot of drivers think that they approach Raymond . <eos>
 A lot of drivers think that themselves approach Raymond . <eos>
 All guys say that they might describe Sheila . <eos>
@@ -1852,30 +1852,30 @@ Melinda thought that she has toured most glaciers . <eos>
 Melinda thought that herself has toured most glaciers . <eos>
 Theresa had imagined that she couldn't drop by every glacier . <eos>
 Theresa had imagined that herself couldn't drop by every glacier . <eos>
-Frank isn't thinking that he exited many schools . <eos>
-Frank isn't thinking that himself exited many schools . <eos>
+Frank is n't thinking that he exited many schools . <eos>
+Frank is n't thinking that himself exited many schools . <eos>
 Elaine explained that she was referencing Judy . <eos>
 Elaine explained that herself was referencing Judy . <eos>
 Catherine hadn't thought that she observed every lady . <eos>
 Catherine hadn't thought that herself observed every lady . <eos>
-Raymond can't imagine that he isn't breaking some bicycle . <eos>
-Raymond can't imagine that himself isn't breaking some bicycle . <eos>
+Raymond can't imagine that he is n't breaking some bicycle . <eos>
+Raymond can't imagine that himself is n't breaking some bicycle . <eos>
 These boys were saying that they shock Patrick . <eos>
 These boys were saying that themselves shock Patrick . <eos>
 Homer was saying that he went to many closets . <eos>
 Homer was saying that himself went to many closets . <eos>
 Wayne can't say that he irritated a boy . <eos>
 Wayne can't say that himself irritated a boy . <eos>
-Tara should explain that she hasn't impressed a lady . <eos>
-Tara should explain that herself hasn't impressed a lady . <eos>
+Tara should explain that she has n't impressed a lady . <eos>
+Tara should explain that herself has n't impressed a lady . <eos>
 Tamara wouldn't think that she looked like these prints . <eos>
 Tamara wouldn't think that herself looked like these prints . <eos>
 Jodi has said that she hurt most pedestrians . <eos>
 Jodi has said that herself hurt most pedestrians . <eos>
-Bruce imagines that he hasn't bothered Theodore . <eos>
-Bruce imagines that himself hasn't bothered Theodore . <eos>
-A lot of guests imagine that they aren't boycotting that public park . <eos>
-A lot of guests imagine that themselves aren't boycotting that public park . <eos>
+Bruce imagines that he has n't bothered Theodore . <eos>
+Bruce imagines that himself has n't bothered Theodore . <eos>
+A lot of guests imagine that they are n't boycotting that public park . <eos>
+A lot of guests imagine that themselves are n't boycotting that public park . <eos>
 That girl is saying that she had resembled that picture . <eos>
 That girl is saying that herself had resembled that picture . <eos>
 Some people explain that they went to all museums . <eos>
@@ -1892,14 +1892,14 @@ Heather will explain that she was biking to most mountains . <eos>
 Heather will explain that herself was biking to most mountains . <eos>
 Allison should think that she couldn't hug Edward . <eos>
 Allison should think that herself couldn't hug Edward . <eos>
-Curtis isn't explaining that he wears most gloves . <eos>
-Curtis isn't explaining that himself wears most gloves . <eos>
+Curtis is n't explaining that he wears most gloves . <eos>
+Curtis is n't explaining that himself wears most gloves . <eos>
 Joseph wasn't thinking that he has hidden Dana . <eos>
 Joseph wasn't thinking that himself has hidden Dana . <eos>
-Denise hasn't thought that she had boycotted some company . <eos>
-Denise hasn't thought that herself had boycotted some company . <eos>
-Becky isn't thinking that she is examining all movies . <eos>
-Becky isn't thinking that herself is examining all movies . <eos>
+Denise has n't thought that she had boycotted some company . <eos>
+Denise has n't thought that herself had boycotted some company . <eos>
+Becky is n't thinking that she is examining all movies . <eos>
+Becky is n't thinking that herself is examining all movies . <eos>
 A lot of dancers imagine that they admire Kristen . <eos>
 A lot of dancers imagine that themselves admire Kristen . <eos>
 Rachel explains that she skates around every movie theater . <eos>
@@ -1916,8 +1916,8 @@ Brett was explaining that he fires Jennifer . <eos>
 Brett was explaining that himself fires Jennifer . <eos>
 Most women think that they break the mirrors . <eos>
 Most women think that themselves break the mirrors . <eos>
-Sandra imagines that she hasn't ascended all hills . <eos>
-Sandra imagines that herself hasn't ascended all hills . <eos>
+Sandra imagines that she has n't ascended all hills . <eos>
+Sandra imagines that herself has n't ascended all hills . <eos>
 Denise shouldn't imagine that she observed this girl . <eos>
 Denise shouldn't imagine that herself observed this girl . <eos>
 Many teenagers explain that they were running around the public parks . <eos>
@@ -1934,8 +1934,8 @@ Many women say that they climb down these mountains . <eos>
 Many women say that themselves climb down these mountains . <eos>
 Tonya did think that she sold stairs . <eos>
 Tonya did think that herself sold stairs . <eos>
-Kristin does imagine that she isn't firing Melanie . <eos>
-Kristin does imagine that herself isn't firing Melanie . <eos>
+Kristin does imagine that she is n't firing Melanie . <eos>
+Kristin does imagine that herself is n't firing Melanie . <eos>
 Kristin explained that she discussed a lot of actors . <eos>
 Kristin explained that herself discussed a lot of actors . <eos>
 Most students think that they descend the mountains . <eos>
@@ -1944,26 +1944,26 @@ Donald imagined that he had explored all glaciers . <eos>
 Donald imagined that himself had explored all glaciers . <eos>
 Alicia thought that she might complain about Danielle . <eos>
 Alicia thought that herself might complain about Danielle . <eos>
-Gary thinks that he hasn't broken some bicycle . <eos>
-Gary thinks that himself hasn't broken some bicycle . <eos>
-Valerie isn't thinking that she kisses Denise . <eos>
-Valerie isn't thinking that herself kisses Denise . <eos>
+Gary thinks that he has n't broken some bicycle . <eos>
+Gary thinks that himself has n't broken some bicycle . <eos>
+Valerie is n't thinking that she kisses Denise . <eos>
+Valerie is n't thinking that herself kisses Denise . <eos>
 Catherine should say that she won't cure Valerie . <eos>
 Catherine should say that herself won't cure Valerie . <eos>
 Craig had thought that he watched these teachers . <eos>
 Craig had thought that himself watched these teachers . <eos>
-Brian hasn't said that he has hurt Jennifer . <eos>
-Brian hasn't said that himself has hurt Jennifer . <eos>
-Jacqueline isn't saying that she does disgust some waiters . <eos>
-Jacqueline isn't saying that herself does disgust some waiters . <eos>
+Brian has n't said that he has hurt Jennifer . <eos>
+Brian has n't said that himself has hurt Jennifer . <eos>
+Jacqueline is n't saying that she does disgust some waiters . <eos>
+Jacqueline is n't saying that herself does disgust some waiters . <eos>
 Most guys said that they fled from Martha . <eos>
 Most guys said that themselves fled from Martha . <eos>
 Janet says that she wouldn't scan that book . <eos>
 Janet says that herself wouldn't scan that book . <eos>
 Alan says that he wasn't hugging Deborah . <eos>
 Alan says that himself wasn't hugging Deborah . <eos>
-Barbara isn't saying that she was running around public parks . <eos>
-Barbara isn't saying that herself was running around public parks . <eos>
+Barbara is n't saying that she was running around public parks . <eos>
+Barbara is n't saying that herself was running around public parks . <eos>
 A lot of guys explain that they should confuse Chad . <eos>
 A lot of guys explain that themselves should confuse Chad . <eos>
 A lot of actresses explain that they criticized these schools . <eos>
@@ -1978,8 +1978,8 @@ That girl was explaining that she is messing up these gloves . <eos>
 That girl was explaining that herself is messing up these gloves . <eos>
 Colleen had explained that she could have the chairs . <eos>
 Colleen had explained that herself could have the chairs . <eos>
-Sabrina can think that she isn't exploring some movie theater . <eos>
-Sabrina can think that herself isn't exploring some movie theater . <eos>
+Sabrina can think that she is n't exploring some movie theater . <eos>
+Sabrina can think that herself is n't exploring some movie theater . <eos>
 Jerry imagines that he explored a lot of schools . <eos>
 Jerry imagines that himself explored a lot of schools . <eos>
 Nicole thinks that she couldn't care for a lot of teachers . <eos>
@@ -1988,10 +1988,10 @@ Amanda explains that she sounds like all essays . <eos>
 Amanda explains that herself sounds like all essays . <eos>
 Marie says that she couldn't insult Jessica . <eos>
 Marie says that herself couldn't insult Jessica . <eos>
-Customers shouldn't imagine that they haven't fired Bill . <eos>
-Customers shouldn't imagine that themselves haven't fired Bill . <eos>
-The actresses haven't thought that they are cleaning a lot of hamsters . <eos>
-The actresses haven't thought that themselves are cleaning a lot of hamsters . <eos>
+Customers shouldn't imagine that they have n't fired Bill . <eos>
+Customers shouldn't imagine that themselves have n't fired Bill . <eos>
+The actresses have n't thought that they are cleaning a lot of hamsters . <eos>
+The actresses have n't thought that themselves are cleaning a lot of hamsters . <eos>
 Susan thought that she shouldn't bore Jane . <eos>
 Susan thought that herself shouldn't bore Jane . <eos>
 Stephen thinks that he wasn't touring the banks . <eos>

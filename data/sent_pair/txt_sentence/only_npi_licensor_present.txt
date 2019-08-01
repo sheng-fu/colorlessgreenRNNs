@@ -28,8 +28,8 @@ Only Lori had ever practiced . <eos>
 Even Lori had ever practiced . <eos>
 Only Jane ever figures out who wasn't going fishing . <eos>
 Even Jane ever figures out who wasn't going fishing . <eos>
-Only some customers ever realize who hasn't performed . <eos>
-Even some customers ever realize who hasn't performed . <eos>
+Only some customers ever realize who has n't performed . <eos>
+Even some customers ever realize who has n't performed . <eos>
 Only Paul ever cures Robert . <eos>
 Even Paul ever cures Robert . <eos>
 Only Barbara will ever remember Beverly . <eos>
@@ -76,8 +76,8 @@ Only Cynthia ever woke up . <eos>
 Even Cynthia ever woke up . <eos>
 Only Russell has ever embarrassed this girl . <eos>
 Even Russell has ever embarrassed this girl . <eos>
-Only some dancers ever think the children haven't dated . <eos>
-Even some dancers ever think the children haven't dated . <eos>
+Only some dancers ever think the children have n't dated . <eos>
+Even some dancers ever think the children have n't dated . <eos>
 Only Jodi will ever learn . <eos>
 Even Jodi will ever learn . <eos>
 Only Stacy ever stunned a lot of senators . <eos>
@@ -124,8 +124,8 @@ Only some dancers ever hunt . <eos>
 Even some dancers ever hunt . <eos>
 Only Wendy did ever hate Travis . <eos>
 Even Wendy did ever hate Travis . <eos>
-Only Stacey ever doubts some teenagers aren't kissing . <eos>
-Even Stacey ever doubts some teenagers aren't kissing . <eos>
+Only Stacey ever doubts some teenagers are n't kissing . <eos>
+Even Stacey ever doubts some teenagers are n't kissing . <eos>
 Only Ronald ever conceals many chairs . <eos>
 Even Ronald ever conceals many chairs . <eos>
 Only Gregory could ever kiss Frank . <eos>
@@ -854,8 +854,8 @@ Only children ever regret Todd lifts some dog . <eos>
 Even children ever regret Todd lifts some dog . <eos>
 Only Tiffany ever hides away . <eos>
 Even Tiffany ever hides away . <eos>
-Only Donald ever realizes what hasn't melted . <eos>
-Even Donald ever realizes what hasn't melted . <eos>
+Only Donald ever realizes what has n't melted . <eos>
+Even Donald ever realizes what has n't melted . <eos>
 Only Florence should ever find out who does climb down most hills . <eos>
 Even Florence should ever find out who does climb down most hills . <eos>
 Only some senators ever sound like Alexander . <eos>
@@ -1048,8 +1048,8 @@ Only these vases ever fall . <eos>
 Even these vases ever fall . <eos>
 Only these teenagers ever spin around . <eos>
 Even these teenagers ever spin around . <eos>
-Only Susan ever realized who hasn't shouted . <eos>
-Even Susan ever realized who hasn't shouted . <eos>
+Only Susan ever realized who has n't shouted . <eos>
+Even Susan ever realized who has n't shouted . <eos>
 Only Gary should ever reveal who could argue . <eos>
 Even Gary should ever reveal who could argue . <eos>
 Only Andrea ever read . <eos>
@@ -1346,8 +1346,8 @@ Only the patient had ever gotten a job . <eos>
 Even the patient had ever gotten a job . <eos>
 Only Brad had ever respected Patricia . <eos>
 Even Brad had ever respected Patricia . <eos>
-Only Joel has ever found out who hasn't left . <eos>
-Even Joel has ever found out who hasn't left . <eos>
+Only Joel has ever found out who has n't left . <eos>
+Even Joel has ever found out who has n't left . <eos>
 Only Kristen ever refused to care for Larry . <eos>
 Even Kristen ever refused to care for Larry . <eos>
 Only Lawrence had ever argued about Rose . <eos>
@@ -1386,8 +1386,8 @@ Only Ann ever stands up . <eos>
 Even Ann ever stands up . <eos>
 Only customers ever replied . <eos>
 Even customers ever replied . <eos>
-Only the dancer has ever remembered what haven't distracted Frank . <eos>
-Even the dancer has ever remembered what haven't distracted Frank . <eos>
+Only the dancer has ever remembered what have n't distracted Frank . <eos>
+Even the dancer has ever remembered what have n't distracted Frank . <eos>
 Only these dancers ever debate . <eos>
 Even these dancers ever debate . <eos>
 Only Martha should ever escape . <eos>
@@ -1686,8 +1686,8 @@ Only Carla ever drank . <eos>
 Even Carla ever drank . <eos>
 Only these women ever replied . <eos>
 Even these women ever replied . <eos>
-Only some guests ever doubt Larry isn't sitting down . <eos>
-Even some guests ever doubt Larry isn't sitting down . <eos>
+Only some guests ever doubt Larry is n't sitting down . <eos>
+Even some guests ever doubt Larry is n't sitting down . <eos>
 Only Victoria ever explored closets . <eos>
 Even Victoria ever explored closets . <eos>
 Only some patients ever complain about Bethany . <eos>

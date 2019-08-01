@@ -1,63 +1,63 @@
-Kristin doesn't walk through the glacier . <eos>
-Kristin don't walk through the glacier . <eos>
-Brenda hasn't climbed up most hills . <eos>
-Brenda haven't climbed up most hills . <eos>
+Kristin does n't walk through the glacier . <eos>
+Kristin do n't walk through the glacier . <eos>
+Brenda has n't climbed up most hills . <eos>
+Brenda have n't climbed up most hills . <eos>
 Mary is donating . <eos>
 Mary were donating . <eos>
-Denise hasn't won . <eos>
-Denise haven't won . <eos>
-Nancy isn't messing up these malls . <eos>
+Denise has n't won . <eos>
+Denise have n't won . <eos>
+Nancy is n't messing up these malls . <eos>
 Nancy weren't messing up these malls . <eos>
 Some schools have met . <eos>
 Some schools has met . <eos>
 Travis wasn't departing . <eos>
 Travis weren't departing . <eos>
-Pamela hasn't worried the drivers . <eos>
-Pamela haven't worried the drivers . <eos>
-Thomas isn't driving to all hills . <eos>
-Thomas aren't driving to all hills . <eos>
+Pamela has n't worried the drivers . <eos>
+Pamela have n't worried the drivers . <eos>
+Thomas is n't driving to all hills . <eos>
+Thomas are n't driving to all hills . <eos>
 Keith does scream . <eos>
 Keith do scream . <eos>
-Senators haven't negotiated . <eos>
-Senators hasn't negotiated . <eos>
-Marie hasn't donated . <eos>
-Marie haven't donated . <eos>
-A driver hasn't talked to Becky . <eos>
-A driver haven't talked to Becky . <eos>
-Some drivers haven't succeeded . <eos>
-Some drivers hasn't succeeded . <eos>
-Tracy doesn't go to a cafe . <eos>
-Tracy don't go to a cafe . <eos>
+Senators have n't negotiated . <eos>
+Senators has n't negotiated . <eos>
+Marie has n't donated . <eos>
+Marie have n't donated . <eos>
+A driver has n't talked to Becky . <eos>
+A driver have n't talked to Becky . <eos>
+Some drivers have n't succeeded . <eos>
+Some drivers has n't succeeded . <eos>
+Tracy does n't go to a cafe . <eos>
+Tracy do n't go to a cafe . <eos>
 That university is communicating . <eos>
 That university are communicating . <eos>
-All dancers haven't competed . <eos>
-All dancers hasn't competed . <eos>
+All dancers have n't competed . <eos>
+All dancers has n't competed . <eos>
 Barbara does compromise . <eos>
 Barbara do compromise . <eos>
 Some universities do fight . <eos>
 Some universities does fight . <eos>
-Guests haven't complained . <eos>
-Guests hasn't complained . <eos>
+Guests have n't complained . <eos>
+Guests has n't complained . <eos>
 Erin does describe Carmen . <eos>
 Erin do describe Carmen . <eos>
 Denise does slump over . <eos>
 Denise do slump over . <eos>
-Many students haven't sold some steps . <eos>
-Many students hasn't sold some steps . <eos>
+Many students have n't sold some steps . <eos>
+Many students has n't sold some steps . <eos>
 Dennis has exercised . <eos>
 Dennis have exercised . <eos>
-Adults haven't laughed . <eos>
-Adults hasn't laughed . <eos>
+Adults have n't laughed . <eos>
+Adults has n't laughed . <eos>
 All shoes do shrink . <eos>
 All shoes does shrink . <eos>
-Timothy hasn't donated . <eos>
-Timothy haven't donated . <eos>
-Jerry hasn't climbed down most hills . <eos>
-Jerry haven't climbed down most hills . <eos>
+Timothy has n't donated . <eos>
+Timothy have n't donated . <eos>
+Jerry has n't climbed down most hills . <eos>
+Jerry have n't climbed down most hills . <eos>
 The museum wasn't confusing Irene . <eos>
 The museum weren't confusing Irene . <eos>
-Samantha hasn't waved . <eos>
-Samantha haven't waved . <eos>
+Samantha has n't waved . <eos>
+Samantha have n't waved . <eos>
 Governments have debated . <eos>
 Governments has debated . <eos>
 Some cashiers do kiss . <eos>
@@ -76,8 +76,8 @@ Linda was waking up . <eos>
 Linda were waking up . <eos>
 Many customers weren't embarrassing James . <eos>
 Many customers wasn't embarrassing James . <eos>
-Julia hasn't left . <eos>
-Julia haven't left . <eos>
+Julia has n't left . <eos>
+Julia have n't left . <eos>
 Every legislature does approve . <eos>
 Every legislature do approve . <eos>
 Derek has ran around that library . <eos>
@@ -85,23 +85,23 @@ Derek have ran around that library . <eos>
 Hospitals have struggled . <eos>
 Hospitals has struggled . <eos>
 Ladies weren't struggling . <eos>
-Ladies isn't struggling . <eos>
-Tracy hasn't escaped . <eos>
-Tracy haven't escaped . <eos>
+Ladies is n't struggling . <eos>
+Tracy has n't escaped . <eos>
+Tracy have n't escaped . <eos>
 Kathleen has exercised . <eos>
 Kathleen have exercised . <eos>
 Brenda has fled from Tracy . <eos>
 Brenda have fled from Tracy . <eos>
-Every senator doesn't wear this skirt . <eos>
-Every senator don't wear this skirt . <eos>
-Eva doesn't learn . <eos>
-Eva don't learn . <eos>
+Every senator does n't wear this skirt . <eos>
+Every senator do n't wear this skirt . <eos>
+Eva does n't learn . <eos>
+Eva do n't learn . <eos>
 That school wasn't reuniting . <eos>
 That school weren't reuniting . <eos>
-Sara isn't crying . <eos>
+Sara is n't crying . <eos>
 Sara weren't crying . <eos>
-Gina doesn't drink . <eos>
-Gina don't drink . <eos>
+Gina does n't drink . <eos>
+Gina do n't drink . <eos>
 That gate does confuse Veronica . <eos>
 That gate do confuse Veronica . <eos>
 Benjamin has approached Joseph . <eos>
@@ -110,116 +110,116 @@ Some association does collaborate . <eos>
 Some association do collaborate . <eos>
 Candice does drive to some museums . <eos>
 Candice do drive to some museums . <eos>
-Tracy doesn't kiss Marcus . <eos>
-Tracy don't kiss Marcus . <eos>
+Tracy does n't kiss Marcus . <eos>
+Tracy do n't kiss Marcus . <eos>
 All customers weren't assembling . <eos>
-All customers isn't assembling . <eos>
+All customers is n't assembling . <eos>
 This ice was freezing . <eos>
 This ice are freezing . <eos>
-Edward hasn't slumped over . <eos>
-Edward haven't slumped over . <eos>
+Edward has n't slumped over . <eos>
+Edward have n't slumped over . <eos>
 Carmen does argue . <eos>
 Carmen do argue . <eos>
-Adam hasn't examined that documentary . <eos>
-Adam haven't examined that documentary . <eos>
-A lot of actresses don't lie . <eos>
-A lot of actresses doesn't lie . <eos>
+Adam has n't examined that documentary . <eos>
+Adam have n't examined that documentary . <eos>
+A lot of actresses do n't lie . <eos>
+A lot of actresses does n't lie . <eos>
 Julie has complained about Lori . <eos>
 Julie have complained about Lori . <eos>
-Sheila hasn't dropped by the glacier . <eos>
-Sheila haven't dropped by the glacier . <eos>
+Sheila has n't dropped by the glacier . <eos>
+Sheila have n't dropped by the glacier . <eos>
 Companies were replying . <eos>
 Companies was replying . <eos>
 Teresa does attack Bethany . <eos>
 Teresa do attack Bethany . <eos>
 Ella was murmuring . <eos>
 Ella were murmuring . <eos>
-Kristen hasn't laughed . <eos>
-Kristen haven't laughed . <eos>
+Kristen has n't laughed . <eos>
+Kristen have n't laughed . <eos>
 Karen does escape . <eos>
 Karen do escape . <eos>
 Paula does mess up a lot of shoes . <eos>
 Paula do mess up a lot of shoes . <eos>
 Barbara does break a fork . <eos>
 Barbara do break a fork . <eos>
-Carrie hasn't changed . <eos>
-Carrie haven't changed . <eos>
+Carrie has n't changed . <eos>
+Carrie have n't changed . <eos>
 Clyde does like that waitress . <eos>
 Clyde do like that waitress . <eos>
 The guys do mess up the rugs . <eos>
 The guys does mess up the rugs . <eos>
 A doctor does drink . <eos>
 A doctor do drink . <eos>
-Stacy doesn't whisper . <eos>
-Stacy don't whisper . <eos>
+Stacy does n't whisper . <eos>
+Stacy do n't whisper . <eos>
 All windows have opened . <eos>
 All windows has opened . <eos>
-Bruce doesn't escape . <eos>
-Bruce don't escape . <eos>
+Bruce does n't escape . <eos>
+Bruce do n't escape . <eos>
 Valerie does study . <eos>
 Valerie do study . <eos>
 Ronald has upset Marcus . <eos>
 Ronald have upset Marcus . <eos>
-Joel doesn't leave . <eos>
-Joel don't leave . <eos>
-These commentaries haven't disagreed . <eos>
-These commentaries hasn't disagreed . <eos>
-Roger hasn't eaten . <eos>
-Roger haven't eaten . <eos>
+Joel does n't leave . <eos>
+Joel do n't leave . <eos>
+These commentaries have n't disagreed . <eos>
+These commentaries has n't disagreed . <eos>
+Roger has n't eaten . <eos>
+Roger have n't eaten . <eos>
 Most senators were conspiring . <eos>
 Most senators was conspiring . <eos>
-Edward doesn't climb down steps . <eos>
-Edward don't climb down steps . <eos>
-Valerie isn't shouting . <eos>
-Valerie aren't shouting . <eos>
-The scarf doesn't shrink . <eos>
-The scarf don't shrink . <eos>
+Edward does n't climb down steps . <eos>
+Edward do n't climb down steps . <eos>
+Valerie is n't shouting . <eos>
+Valerie are n't shouting . <eos>
+The scarf does n't shrink . <eos>
+The scarf do n't shrink . <eos>
 Scott has gotten fired . <eos>
 Scott have gotten fired . <eos>
 The banana has ripened . <eos>
 The banana have ripened . <eos>
-A lot of guests haven't flirted . <eos>
-A lot of guests hasn't flirted . <eos>
-Danielle doesn't climb up some steps . <eos>
-Danielle don't climb up some steps . <eos>
+A lot of guests have n't flirted . <eos>
+A lot of guests has n't flirted . <eos>
+Danielle does n't climb up some steps . <eos>
+Danielle do n't climb up some steps . <eos>
 The adults do stretch . <eos>
 The adults does stretch . <eos>
-A boy doesn't reference Connie . <eos>
-A boy don't reference Connie . <eos>
+A boy does n't reference Connie . <eos>
+A boy do n't reference Connie . <eos>
 Naomi wasn't cleaning turtles . <eos>
-Naomi aren't cleaning turtles . <eos>
-Dawn hasn't hugged Amelia . <eos>
-Dawn haven't hugged Amelia . <eos>
-Naomi hasn't returned to Rachel . <eos>
-Naomi haven't returned to Rachel . <eos>
+Naomi are n't cleaning turtles . <eos>
+Dawn has n't hugged Amelia . <eos>
+Dawn have n't hugged Amelia . <eos>
+Naomi has n't returned to Rachel . <eos>
+Naomi have n't returned to Rachel . <eos>
 Kristin is bringing that skirt . <eos>
 Kristin were bringing that skirt . <eos>
-All actors don't fight . <eos>
-All actors doesn't fight . <eos>
+All actors do n't fight . <eos>
+All actors does n't fight . <eos>
 Russell was complaining about Rose . <eos>
 Russell were complaining about Rose . <eos>
 Keith has examined many newspaper articles . <eos>
 Keith have examined many newspaper articles . <eos>
 A university does work hard . <eos>
 A university do work hard . <eos>
-Emily hasn't littered . <eos>
-Emily haven't littered . <eos>
-Amanda doesn't fall asleep . <eos>
-Amanda don't fall asleep . <eos>
-Kayla doesn't reveal Frank . <eos>
-Kayla don't reveal Frank . <eos>
-This legislature hasn't irritated Linda . <eos>
-This legislature haven't irritated Linda . <eos>
+Emily has n't littered . <eos>
+Emily have n't littered . <eos>
+Amanda does n't fall asleep . <eos>
+Amanda do n't fall asleep . <eos>
+Kayla does n't reveal Frank . <eos>
+Kayla do n't reveal Frank . <eos>
+This legislature has n't irritated Linda . <eos>
+This legislature have n't irritated Linda . <eos>
 Kendra is complaining about Beverly . <eos>
 Kendra were complaining about Beverly . <eos>
-The banana hasn't stunned Maria . <eos>
-The banana haven't stunned Maria . <eos>
+The banana has n't stunned Maria . <eos>
+The banana have n't stunned Maria . <eos>
 Monica does climb up these hills . <eos>
 Monica do climb up these hills . <eos>
 Samuel has escaped from Derek . <eos>
 Samuel have escaped from Derek . <eos>
-Pamela doesn't disturb Cynthia . <eos>
-Pamela don't disturb Cynthia . <eos>
+Pamela does n't disturb Cynthia . <eos>
+Pamela do n't disturb Cynthia . <eos>
 Elizabeth has climbed down stairs . <eos>
 Elizabeth have climbed down stairs . <eos>
 Ella does listen to Valerie . <eos>
@@ -230,7 +230,7 @@ Craig does wash . <eos>
 Craig do wash . <eos>
 This legislature has boasted about Lisa . <eos>
 This legislature have boasted about Lisa . <eos>
-Lissa isn't boycotting these banks . <eos>
+Lissa is n't boycotting these banks . <eos>
 Lissa weren't boycotting these banks . <eos>
 Carl wasn't writing . <eos>
 Carl weren't writing . <eos>
@@ -240,20 +240,20 @@ This tomato was going bad . <eos>
 This tomato were going bad . <eos>
 Some doctors do see Stephanie . <eos>
 Some doctors does see Stephanie . <eos>
-Most adults aren't littering . <eos>
+Most adults are n't littering . <eos>
 Most adults wasn't littering . <eos>
-Charles hasn't died . <eos>
-Charles haven't died . <eos>
+Charles has n't died . <eos>
+Charles have n't died . <eos>
 A lot of guys have practiced . <eos>
 A lot of guys has practiced . <eos>
 Some pedestrian wasn't washing . <eos>
-Some pedestrian aren't washing . <eos>
+Some pedestrian are n't washing . <eos>
 Jodi does scare Benjamin . <eos>
 Jodi do scare Benjamin . <eos>
 This pedestrian wasn't performing . <eos>
-This pedestrian aren't performing . <eos>
-John doesn't stretch . <eos>
-John don't stretch . <eos>
+This pedestrian are n't performing . <eos>
+John does n't stretch . <eos>
+John do n't stretch . <eos>
 Elaine does scare Barbara . <eos>
 Elaine do scare Barbara . <eos>
 Steve has boasted about Charles . <eos>
@@ -263,57 +263,57 @@ Dennis have hired Rebecca . <eos>
 Katherine does find the dish . <eos>
 Katherine do find the dish . <eos>
 Nina wasn't praising Noah . <eos>
-Nina aren't praising Noah . <eos>
-Tamara doesn't talk . <eos>
-Tamara don't talk . <eos>
-Many hospitals aren't communicating . <eos>
+Nina are n't praising Noah . <eos>
+Tamara does n't talk . <eos>
+Tamara do n't talk . <eos>
+Many hospitals are n't communicating . <eos>
 Many hospitals wasn't communicating . <eos>
 A teenager has explained everything . <eos>
 A teenager have explained everything . <eos>
-Most associations don't debate . <eos>
-Most associations doesn't debate . <eos>
-Catherine doesn't concur . <eos>
-Catherine don't concur . <eos>
+Most associations do n't debate . <eos>
+Most associations does n't debate . <eos>
+Catherine does n't concur . <eos>
+Catherine do n't concur . <eos>
 Most stories weren't praising Elaine . <eos>
-Most stories isn't praising Elaine . <eos>
+Most stories is n't praising Elaine . <eos>
 Valerie wasn't saluting . <eos>
 Valerie weren't saluting . <eos>
-Nancy hasn't discussed Frank . <eos>
-Nancy haven't discussed Frank . <eos>
+Nancy has n't discussed Frank . <eos>
+Nancy have n't discussed Frank . <eos>
 Many dancers have flirted . <eos>
 Many dancers has flirted . <eos>
 The pedestrians have alarmed Alicia . <eos>
 The pedestrians has alarmed Alicia . <eos>
 Colleen does forget Lori . <eos>
 Colleen do forget Lori . <eos>
-Colleen hasn't bought many plates . <eos>
-Colleen haven't bought many plates . <eos>
+Colleen has n't bought many plates . <eos>
+Colleen have n't bought many plates . <eos>
 Every brochure wasn't joking around . <eos>
-Every brochure aren't joking around . <eos>
-Most customers aren't waking up . <eos>
-Most customers isn't waking up . <eos>
-Every teenager doesn't play . <eos>
-Every teenager don't play . <eos>
-These ladies don't read . <eos>
-These ladies doesn't read . <eos>
+Every brochure are n't joking around . <eos>
+Most customers are n't waking up . <eos>
+Most customers is n't waking up . <eos>
+Every teenager does n't play . <eos>
+Every teenager do n't play . <eos>
+These ladies do n't read . <eos>
+These ladies does n't read . <eos>
 Some universities were benefiting . <eos>
 Some universities was benefiting . <eos>
-A lot of guys don't conspire . <eos>
-A lot of guys doesn't conspire . <eos>
-The bananas don't ripen . <eos>
-The bananas doesn't ripen . <eos>
+A lot of guys do n't conspire . <eos>
+A lot of guys does n't conspire . <eos>
+The bananas do n't ripen . <eos>
+The bananas does n't ripen . <eos>
 Teresa does scratch . <eos>
 Teresa do scratch . <eos>
 Renee is concealing John . <eos>
 Renee were concealing John . <eos>
 These boys were embracing . <eos>
 These boys was embracing . <eos>
-Most schools haven't approved . <eos>
-Most schools hasn't approved . <eos>
-Claire isn't leaving . <eos>
+Most schools have n't approved . <eos>
+Most schools has n't approved . <eos>
+Claire is n't leaving . <eos>
 Claire weren't leaving . <eos>
-A glass doesn't scare many actresses . <eos>
-A glass don't scare many actresses . <eos>
+A glass does n't scare many actresses . <eos>
+A glass do n't scare many actresses . <eos>
 Some customers are lying . <eos>
 Some customers is lying . <eos>
 This teenager does write hard . <eos>
@@ -336,14 +336,14 @@ Theresa has won . <eos>
 Theresa have won . <eos>
 Mary is explaining everything . <eos>
 Mary are explaining everything . <eos>
-Scott doesn't mutter . <eos>
-Scott don't mutter . <eos>
+Scott does n't mutter . <eos>
+Scott do n't mutter . <eos>
 Some guys have negotiated . <eos>
 Some guys has negotiated . <eos>
 This lake does freeze . <eos>
 This lake do freeze . <eos>
-Gary hasn't stood up . <eos>
-Gary haven't stood up . <eos>
+Gary has n't stood up . <eos>
+Gary have n't stood up . <eos>
 William has impressed this teacher . <eos>
 William have impressed this teacher . <eos>
 Suzanne has drunk . <eos>
@@ -356,26 +356,26 @@ Cynthia is hiding away . <eos>
 Cynthia were hiding away . <eos>
 Kenneth does perform . <eos>
 Kenneth do perform . <eos>
-Samuel hasn't performed . <eos>
-Samuel haven't performed . <eos>
+Samuel has n't performed . <eos>
+Samuel have n't performed . <eos>
 Carlos was painting . <eos>
 Carlos are painting . <eos>
-Martin doesn't fall asleep . <eos>
-Martin don't fall asleep . <eos>
-Carl isn't touring some library . <eos>
+Martin does n't fall asleep . <eos>
+Martin do n't fall asleep . <eos>
+Carl is n't touring some library . <eos>
 Carl weren't touring some library . <eos>
-Rachelle hasn't argued about Randolf . <eos>
-Rachelle haven't argued about Randolf . <eos>
+Rachelle has n't argued about Randolf . <eos>
+Rachelle have n't argued about Randolf . <eos>
 Christopher has suffered . <eos>
 Christopher have suffered . <eos>
-Some dancer isn't concurring . <eos>
-Some dancer aren't concurring . <eos>
+Some dancer is n't concurring . <eos>
+Some dancer are n't concurring . <eos>
 Many governments have chatted . <eos>
 Many governments has chatted . <eos>
 The actor does impress Claire . <eos>
 The actor do impress Claire . <eos>
-Joel hasn't eaten . <eos>
-Joel haven't eaten . <eos>
+Joel has n't eaten . <eos>
+Joel have n't eaten . <eos>
 Noah was wearing all shoes . <eos>
 Noah were wearing all shoes . <eos>
 That mouth is closing . <eos>
@@ -384,26 +384,26 @@ The teenager is escaping from Cynthia . <eos>
 The teenager were escaping from Cynthia . <eos>
 Patricia does bring this mountain . <eos>
 Patricia do bring this mountain . <eos>
-Margaret doesn't argue about Dana . <eos>
-Margaret don't argue about Dana . <eos>
-Becca doesn't joke around . <eos>
-Becca don't joke around . <eos>
+Margaret does n't argue about Dana . <eos>
+Margaret do n't argue about Dana . <eos>
+Becca does n't joke around . <eos>
+Becca do n't joke around . <eos>
 Some pedestrians are kissing . <eos>
 Some pedestrians is kissing . <eos>
-These waitresses haven't scratched . <eos>
-These waitresses hasn't scratched . <eos>
+These waitresses have n't scratched . <eos>
+These waitresses has n't scratched . <eos>
 Ellen is approaching Noah . <eos>
 Ellen are approaching Noah . <eos>
 Some governments have collaborated . <eos>
 Some governments has collaborated . <eos>
-Eric hasn't found Brett . <eos>
-Eric haven't found Brett . <eos>
-Kathleen doesn't win . <eos>
-Kathleen don't win . <eos>
-An report doesn't criticize Beth . <eos>
-An report don't criticize Beth . <eos>
-All legislatures aren't arguing about that boy . <eos>
-All legislatures isn't arguing about that boy . <eos>
+Eric has n't found Brett . <eos>
+Eric have n't found Brett . <eos>
+Kathleen does n't win . <eos>
+Kathleen do n't win . <eos>
+An report does n't criticize Beth . <eos>
+An report do n't criticize Beth . <eos>
+All legislatures are n't arguing about that boy . <eos>
+All legislatures is n't arguing about that boy . <eos>
 Steve does break some fork . <eos>
 Steve do break some fork . <eos>
 Some essay wasn't protesting . <eos>
@@ -434,50 +434,50 @@ The spinach wasn't rotting . <eos>
 The spinach weren't rotting . <eos>
 Lori does joke around . <eos>
 Lori do joke around . <eos>
-The governments haven't negotiated . <eos>
-The governments hasn't negotiated . <eos>
+The governments have n't negotiated . <eos>
+The governments has n't negotiated . <eos>
 Barbara does walk through some rivers . <eos>
 Barbara do walk through some rivers . <eos>
 Julia has broken the bicycles . <eos>
 Julia have broken the bicycles . <eos>
 Sandra was descending most stairs . <eos>
 Sandra are descending most stairs . <eos>
-Martha hasn't slumped over . <eos>
-Martha haven't slumped over . <eos>
+Martha has n't slumped over . <eos>
+Martha have n't slumped over . <eos>
 All actresses weren't breaking every bicycle . <eos>
-All actresses isn't breaking every bicycle . <eos>
+All actresses is n't breaking every bicycle . <eos>
 Sandra was arriving at most libraries . <eos>
 Sandra were arriving at most libraries . <eos>
-Elizabeth doesn't donate . <eos>
-Elizabeth don't donate . <eos>
-William hasn't ran around some high school . <eos>
-William haven't ran around some high school . <eos>
-Some commentaries don't bother most adults . <eos>
-Some commentaries doesn't bother most adults . <eos>
-Irene doesn't climb down most hills . <eos>
-Irene don't climb down most hills . <eos>
-Some windows aren't shutting . <eos>
+Elizabeth does n't donate . <eos>
+Elizabeth do n't donate . <eos>
+William has n't ran around some high school . <eos>
+William have n't ran around some high school . <eos>
+Some commentaries do n't bother most adults . <eos>
+Some commentaries does n't bother most adults . <eos>
+Irene does n't climb down most hills . <eos>
+Irene do n't climb down most hills . <eos>
+Some windows are n't shutting . <eos>
 Some windows wasn't shutting . <eos>
-Gerald doesn't wake up . <eos>
-Gerald don't wake up . <eos>
-Theresa hasn't cried . <eos>
-Theresa haven't cried . <eos>
+Gerald does n't wake up . <eos>
+Gerald do n't wake up . <eos>
+Theresa has n't cried . <eos>
+Theresa have n't cried . <eos>
 Keith does cure Diane . <eos>
 Keith do cure Diane . <eos>
 Candice has grinned . <eos>
 Candice have grinned . <eos>
 Larry wasn't fixing this computer . <eos>
-Larry aren't fixing this computer . <eos>
-Wendy doesn't buy some eyes . <eos>
-Wendy don't buy some eyes . <eos>
+Larry are n't fixing this computer . <eos>
+Wendy does n't buy some eyes . <eos>
+Wendy do n't buy some eyes . <eos>
 These bananas weren't ripening . <eos>
-These bananas isn't ripening . <eos>
-Rhonda hasn't laughed . <eos>
-Rhonda haven't laughed . <eos>
+These bananas is n't ripening . <eos>
+Rhonda has n't laughed . <eos>
+Rhonda have n't laughed . <eos>
 These guys were hugging . <eos>
 These guys was hugging . <eos>
-Sonia hasn't attacked Kristen . <eos>
-Sonia haven't attacked Kristen . <eos>
+Sonia has n't attacked Kristen . <eos>
+Sonia have n't attacked Kristen . <eos>
 Theodore is scaring the company . <eos>
 Theodore were scaring the company . <eos>
 Michelle was touring these mountains . <eos>
@@ -494,12 +494,12 @@ Eric was cleaning mirrors . <eos>
 Eric were cleaning mirrors . <eos>
 Derek is weeping . <eos>
 Derek were weeping . <eos>
-Many closets don't open . <eos>
-Many closets doesn't open . <eos>
+Many closets do n't open . <eos>
+Many closets does n't open . <eos>
 Carmen was boycotting a lot of college campuses . <eos>
 Carmen were boycotting a lot of college campuses . <eos>
-John hasn't sighed . <eos>
-John haven't sighed . <eos>
+John has n't sighed . <eos>
+John have n't sighed . <eos>
 Martin does climb down the ladder . <eos>
 Martin do climb down the ladder . <eos>
 Amelia does see . <eos>
@@ -510,46 +510,46 @@ Robert does shout . <eos>
 Robert do shout . <eos>
 Tonya is investigating Timothy . <eos>
 Tonya were investigating Timothy . <eos>
-Every patient doesn't hide away . <eos>
-Every patient don't hide away . <eos>
+Every patient does n't hide away . <eos>
+Every patient do n't hide away . <eos>
 Committees have replied . <eos>
 Committees has replied . <eos>
 Every library wasn't conspiring . <eos>
-Every library aren't conspiring . <eos>
-All doctors don't telephone . <eos>
-All doctors doesn't telephone . <eos>
+Every library are n't conspiring . <eos>
+All doctors do n't telephone . <eos>
+All doctors does n't telephone . <eos>
 Keith does eat . <eos>
 Keith do eat . <eos>
 Deanna wasn't visiting Connie . <eos>
 Deanna weren't visiting Connie . <eos>
 Steven has smiled . <eos>
 Steven have smiled . <eos>
-These reports haven't resembled many photographs . <eos>
-These reports hasn't resembled many photographs . <eos>
-The ladies aren't assembling . <eos>
+These reports have n't resembled many photographs . <eos>
+These reports has n't resembled many photographs . <eos>
+The ladies are n't assembling . <eos>
 The ladies wasn't assembling . <eos>
-Douglas hasn't telephoned . <eos>
-Douglas haven't telephoned . <eos>
+Douglas has n't telephoned . <eos>
+Douglas have n't telephoned . <eos>
 Kristen does lift these windows . <eos>
 Kristen do lift these windows . <eos>
 Sandra wasn't compromising . <eos>
-Sandra aren't compromising . <eos>
-Alan doesn't argue about all essays . <eos>
-Alan don't argue about all essays . <eos>
+Sandra are n't compromising . <eos>
+Alan does n't argue about all essays . <eos>
+Alan do n't argue about all essays . <eos>
 Anna does escape . <eos>
 Anna do escape . <eos>
 Many customers do conceal a lot of mouths . <eos>
 Many customers does conceal a lot of mouths . <eos>
 Melanie was scanning some books . <eos>
 Melanie were scanning some books . <eos>
-Naomi doesn't find Raymond . <eos>
-Naomi don't find Raymond . <eos>
+Naomi does n't find Raymond . <eos>
+Naomi do n't find Raymond . <eos>
 Alice wasn't buying some rug . <eos>
 Alice weren't buying some rug . <eos>
-Nancy hasn't explored many grocery stores . <eos>
-Nancy haven't explored many grocery stores . <eos>
-Deborah hasn't fixed all couches . <eos>
-Deborah haven't fixed all couches . <eos>
+Nancy has n't explored many grocery stores . <eos>
+Nancy have n't explored many grocery stores . <eos>
+Deborah has n't fixed all couches . <eos>
+Deborah have n't fixed all couches . <eos>
 Elaine was approaching Claire . <eos>
 Elaine were approaching Claire . <eos>
 Russell was forfeiting . <eos>
@@ -560,50 +560,50 @@ Judy does change . <eos>
 Judy do change . <eos>
 Lawrence does depart . <eos>
 Lawrence do depart . <eos>
-Most college campuses haven't irritated Katherine . <eos>
-Most college campuses hasn't irritated Katherine . <eos>
-All bicycles don't shock Theodore . <eos>
-All bicycles doesn't shock Theodore . <eos>
+Most college campuses have n't irritated Katherine . <eos>
+Most college campuses has n't irritated Katherine . <eos>
+All bicycles do n't shock Theodore . <eos>
+All bicycles does n't shock Theodore . <eos>
 Janet does explore these rivers . <eos>
 Janet do explore these rivers . <eos>
 Actresses do shout . <eos>
 Actresses does shout . <eos>
-The icicles haven't frozen . <eos>
-The icicles hasn't frozen . <eos>
-Michael hasn't gone to that museum . <eos>
-Michael haven't gone to that museum . <eos>
+The icicles have n't frozen . <eos>
+The icicles has n't frozen . <eos>
+Michael has n't gone to that museum . <eos>
+Michael have n't gone to that museum . <eos>
 Mark was talking about Karla . <eos>
 Mark are talking about Karla . <eos>
-Emily doesn't work with Katherine . <eos>
-Emily don't work with Katherine . <eos>
+Emily does n't work with Katherine . <eos>
+Emily do n't work with Katherine . <eos>
 Tracy was painting . <eos>
 Tracy were painting . <eos>
-Cindy hasn't spun around . <eos>
-Cindy haven't spun around . <eos>
+Cindy has n't spun around . <eos>
+Cindy have n't spun around . <eos>
 Carlos has broken all vases . <eos>
 Carlos have broken all vases . <eos>
-The lakes don't freeze . <eos>
-The lakes doesn't freeze . <eos>
-Adam hasn't left . <eos>
-Adam haven't left . <eos>
-The hamster hasn't concealed Randolf . <eos>
-The hamster haven't concealed Randolf . <eos>
+The lakes do n't freeze . <eos>
+The lakes does n't freeze . <eos>
+Adam has n't left . <eos>
+Adam have n't left . <eos>
+The hamster has n't concealed Randolf . <eos>
+The hamster have n't concealed Randolf . <eos>
 Tanya does discuss Melanie . <eos>
 Tanya do discuss Melanie . <eos>
-Andrea hasn't approached Colleen . <eos>
-Andrea haven't approached Colleen . <eos>
+Andrea has n't approached Colleen . <eos>
+Andrea have n't approached Colleen . <eos>
 The patient is attacking Larry . <eos>
 The patient were attacking Larry . <eos>
 Thomas wasn't complaining . <eos>
-Thomas aren't complaining . <eos>
+Thomas are n't complaining . <eos>
 Ladies do drop by every cafe . <eos>
 Ladies does drop by every cafe . <eos>
-Jason isn't smiling . <eos>
+Jason is n't smiling . <eos>
 Jason weren't smiling . <eos>
 The legislatures weren't reuniting . <eos>
-The legislatures isn't reuniting . <eos>
-The lake hasn't frozen . <eos>
-The lake haven't frozen . <eos>
+The legislatures is n't reuniting . <eos>
+The lake has n't frozen . <eos>
+The lake have n't frozen . <eos>
 Sara does explain everything . <eos>
 Sara do explain everything . <eos>
 Andrew has referenced Tina . <eos>
@@ -614,52 +614,52 @@ Some schools were collaborating . <eos>
 Some schools is collaborating . <eos>
 Clyde does fire Brenda . <eos>
 Clyde do fire Brenda . <eos>
-Renee hasn't gone to the cafe . <eos>
-Renee haven't gone to the cafe . <eos>
+Renee has n't gone to the cafe . <eos>
+Renee have n't gone to the cafe . <eos>
 This popsicle does melt . <eos>
 This popsicle do melt . <eos>
 All teenagers weren't kissing . <eos>
-All teenagers isn't kissing . <eos>
+All teenagers is n't kissing . <eos>
 Lucille has departed . <eos>
 Lucille have departed . <eos>
 Many guys have reunited . <eos>
 Many guys has reunited . <eos>
-That student doesn't buy some spinach . <eos>
-That student don't buy some spinach . <eos>
-Tracy hasn't found this mountain . <eos>
-Tracy haven't found this mountain . <eos>
-Kristen doesn't irritate Jerry . <eos>
-Kristen don't irritate Jerry . <eos>
+That student does n't buy some spinach . <eos>
+That student do n't buy some spinach . <eos>
+Tracy has n't found this mountain . <eos>
+Tracy have n't found this mountain . <eos>
+Kristen does n't irritate Jerry . <eos>
+Kristen do n't irritate Jerry . <eos>
 Todd wasn't embarrassing Colleen . <eos>
-Todd aren't embarrassing Colleen . <eos>
+Todd are n't embarrassing Colleen . <eos>
 These adults are conspiring . <eos>
 These adults is conspiring . <eos>
-Every sketch doesn't stun waiters . <eos>
-Every sketch don't stun waiters . <eos>
-Nina doesn't paint . <eos>
-Nina don't paint . <eos>
-Julie hasn't bored April . <eos>
-Julie haven't bored April . <eos>
+Every sketch does n't stun waiters . <eos>
+Every sketch do n't stun waiters . <eos>
+Nina does n't paint . <eos>
+Nina do n't paint . <eos>
+Julie has n't bored April . <eos>
+Julie have n't bored April . <eos>
 Many glasses have irritated that actress . <eos>
 Many glasses has irritated that actress . <eos>
 Barbara has sung . <eos>
 Barbara have sung . <eos>
 Victoria was weeping . <eos>
 Victoria are weeping . <eos>
-Tanya hasn't grinned . <eos>
-Tanya haven't grinned . <eos>
+Tanya has n't grinned . <eos>
+Tanya have n't grinned . <eos>
 Tara wasn't exiting the public parks . <eos>
-Tara aren't exiting the public parks . <eos>
-The hat doesn't shrink . <eos>
-The hat don't shrink . <eos>
+Tara are n't exiting the public parks . <eos>
+The hat does n't shrink . <eos>
+The hat do n't shrink . <eos>
 Marie does see . <eos>
 Marie do see . <eos>
 Larry has hired Denise . <eos>
 Larry have hired Denise . <eos>
 Nancy was screaming . <eos>
 Nancy are screaming . <eos>
-Jerry hasn't washed . <eos>
-Jerry haven't washed . <eos>
+Jerry has n't washed . <eos>
+Jerry have n't washed . <eos>
 Patricia has complained about Regina . <eos>
 Patricia have complained about Regina . <eos>
 Donna is chuckling . <eos>
@@ -672,92 +672,92 @@ Most essays weren't disagreeing . <eos>
 Most essays wasn't disagreeing . <eos>
 George is cheering . <eos>
 George are cheering . <eos>
-These rugs don't worry that guest . <eos>
-These rugs doesn't worry that guest . <eos>
-Gina isn't running around most hills . <eos>
-Gina aren't running around most hills . <eos>
-Laura hasn't explored this mountain . <eos>
-Laura haven't explored this mountain . <eos>
+These rugs do n't worry that guest . <eos>
+These rugs does n't worry that guest . <eos>
+Gina is n't running around most hills . <eos>
+Gina are n't running around most hills . <eos>
+Laura has n't explored this mountain . <eos>
+Laura have n't explored this mountain . <eos>
 Erin does conceal Bruce . <eos>
 Erin do conceal Bruce . <eos>
 A lot of guys have responded . <eos>
 A lot of guys has responded . <eos>
-James doesn't write hard . <eos>
-James don't write hard . <eos>
+James does n't write hard . <eos>
+James do n't write hard . <eos>
 Sarah does slump over . <eos>
 Sarah do slump over . <eos>
 Mitchell has swallowed . <eos>
 Mitchell have swallowed . <eos>
 Boys do struggle . <eos>
 Boys does struggle . <eos>
-Angela doesn't shrug . <eos>
-Angela don't shrug . <eos>
-Tracy doesn't see . <eos>
-Tracy don't see . <eos>
-That association isn't responding . <eos>
-That association aren't responding . <eos>
+Angela does n't shrug . <eos>
+Angela do n't shrug . <eos>
+Tracy does n't see . <eos>
+Tracy do n't see . <eos>
+That association is n't responding . <eos>
+That association are n't responding . <eos>
 Paula does explain everything . <eos>
 Paula do explain everything . <eos>
 Joseph has swallowed . <eos>
 Joseph have swallowed . <eos>
-Nina hasn't concealed all dancers . <eos>
-Nina haven't concealed all dancers . <eos>
+Nina has n't concealed all dancers . <eos>
+Nina have n't concealed all dancers . <eos>
 Brett does go to these movie theaters . <eos>
 Brett do go to these movie theaters . <eos>
-Beverly doesn't grin . <eos>
-Beverly don't grin . <eos>
+Beverly does n't grin . <eos>
+Beverly do n't grin . <eos>
 Every banana wasn't rotting . <eos>
 Every banana weren't rotting . <eos>
-That legislature hasn't shocked Sonia . <eos>
-That legislature haven't shocked Sonia . <eos>
+That legislature has n't shocked Sonia . <eos>
+That legislature have n't shocked Sonia . <eos>
 Natalie does break that chair . <eos>
 Natalie do break that chair . <eos>
 Liam has visited all teachers . <eos>
 Liam have visited all teachers . <eos>
-Curtis doesn't leave . <eos>
-Curtis don't leave . <eos>
-Every guy doesn't walk through a high school . <eos>
-Every guy don't walk through a high school . <eos>
+Curtis does n't leave . <eos>
+Curtis do n't leave . <eos>
+Every guy does n't walk through a high school . <eos>
+Every guy do n't walk through a high school . <eos>
 Raymond is upsetting Donna . <eos>
 Raymond are upsetting Donna . <eos>
-Caroline hasn't argued about Rose . <eos>
-Caroline haven't argued about Rose . <eos>
+Caroline has n't argued about Rose . <eos>
+Caroline have n't argued about Rose . <eos>
 Scott wasn't insulting Tamara . <eos>
-Scott aren't insulting Tamara . <eos>
-Mark doesn't ascend mountains . <eos>
-Mark don't ascend mountains . <eos>
-Doctors haven't sounded like Sonia . <eos>
-Doctors hasn't sounded like Sonia . <eos>
+Scott are n't insulting Tamara . <eos>
+Mark does n't ascend mountains . <eos>
+Mark do n't ascend mountains . <eos>
+Doctors have n't sounded like Sonia . <eos>
+Doctors has n't sounded like Sonia . <eos>
 Girls were spinning around . <eos>
 Girls is spinning around . <eos>
 Boys do fight . <eos>
 Boys does fight . <eos>
-David isn't sighing . <eos>
+David is n't sighing . <eos>
 David weren't sighing . <eos>
-Alicia isn't embarrassing Lori . <eos>
+Alicia is n't embarrassing Lori . <eos>
 Alicia weren't embarrassing Lori . <eos>
 Most actors weren't dating . <eos>
 Most actors wasn't dating . <eos>
-Kristen hasn't sighed . <eos>
-Kristen haven't sighed . <eos>
+Kristen has n't sighed . <eos>
+Kristen have n't sighed . <eos>
 The ladies have insulted many teenagers . <eos>
 The ladies has insulted many teenagers . <eos>
 Guy is grinning . <eos>
 Guy are grinning . <eos>
-Natalie doesn't climb down that mountain . <eos>
-Natalie don't climb down that mountain . <eos>
+Natalie does n't climb down that mountain . <eos>
+Natalie do n't climb down that mountain . <eos>
 John has left . <eos>
 John have left . <eos>
 Some company does confer . <eos>
 Some company do confer . <eos>
 Cheryl does break that fork . <eos>
 Cheryl do break that fork . <eos>
-Most libraries haven't conferred . <eos>
-Most libraries hasn't conferred . <eos>
+Most libraries have n't conferred . <eos>
+Most libraries has n't conferred . <eos>
 John is exiting these cafes . <eos>
 John were exiting these cafes . <eos>
-Carolyn hasn't walked through a lot of hills . <eos>
-Carolyn haven't walked through a lot of hills . <eos>
+Carolyn has n't walked through a lot of hills . <eos>
+Carolyn have n't walked through a lot of hills . <eos>
 Kendra does break mirrors . <eos>
 Kendra do break mirrors . <eos>
 All senators have dropped by every college campus . <eos>
@@ -772,76 +772,76 @@ Connie was boring Catherine . <eos>
 Connie are boring Catherine . <eos>
 Some cilantro does hurt Denise . <eos>
 Some cilantro do hurt Denise . <eos>
-Steven hasn't hated Steven . <eos>
-Steven haven't hated Steven . <eos>
-Many slopes don't aggravate Melissa . <eos>
-Many slopes doesn't aggravate Melissa . <eos>
-Angela hasn't saluted . <eos>
-Angela haven't saluted . <eos>
-Colleen hasn't forgotten Tanya . <eos>
-Colleen haven't forgotten Tanya . <eos>
+Steven has n't hated Steven . <eos>
+Steven have n't hated Steven . <eos>
+Many slopes do n't aggravate Melissa . <eos>
+Many slopes does n't aggravate Melissa . <eos>
+Angela has n't saluted . <eos>
+Angela have n't saluted . <eos>
+Colleen has n't forgotten Tanya . <eos>
+Colleen have n't forgotten Tanya . <eos>
 A museum is reacting . <eos>
 A museum are reacting . <eos>
-All doctors don't disagree with Clyde . <eos>
-All doctors doesn't disagree with Clyde . <eos>
+All doctors do n't disagree with Clyde . <eos>
+All doctors does n't disagree with Clyde . <eos>
 Sherry has described Sherry . <eos>
 Sherry have described Sherry . <eos>
 Donna does go to a library . <eos>
 Donna do go to a library . <eos>
-All waiters haven't conspired . <eos>
-All waiters hasn't conspired . <eos>
-Melissa hasn't impressed Kimberley . <eos>
-Melissa haven't impressed Kimberley . <eos>
-Emily hasn't cured Benjamin . <eos>
-Emily haven't cured Benjamin . <eos>
-Carlos doesn't describe Lori . <eos>
-Carlos don't describe Lori . <eos>
-Dawn hasn't boycotted a lot of museums . <eos>
-Dawn haven't boycotted a lot of museums . <eos>
+All waiters have n't conspired . <eos>
+All waiters has n't conspired . <eos>
+Melissa has n't impressed Kimberley . <eos>
+Melissa have n't impressed Kimberley . <eos>
+Emily has n't cured Benjamin . <eos>
+Emily have n't cured Benjamin . <eos>
+Carlos does n't describe Lori . <eos>
+Carlos do n't describe Lori . <eos>
+Dawn has n't boycotted a lot of museums . <eos>
+Dawn have n't boycotted a lot of museums . <eos>
 Donna was visiting James . <eos>
 Donna are visiting James . <eos>
 Steven wasn't attacking Martha . <eos>
 Steven weren't attacking Martha . <eos>
-Most teachers don't approve . <eos>
-Most teachers doesn't approve . <eos>
-Bill isn't performing . <eos>
-Bill aren't performing . <eos>
+Most teachers do n't approve . <eos>
+Most teachers does n't approve . <eos>
+Bill is n't performing . <eos>
+Bill are n't performing . <eos>
 Some vase has bothered Lawrence . <eos>
 Some vase have bothered Lawrence . <eos>
 Some girls have divorced . <eos>
 Some girls has divorced . <eos>
-Actors haven't resembled the prints . <eos>
-Actors hasn't resembled the prints . <eos>
-Children don't clash . <eos>
-Children doesn't clash . <eos>
+Actors have n't resembled the prints . <eos>
+Actors has n't resembled the prints . <eos>
+Children do n't clash . <eos>
+Children does n't clash . <eos>
 William was talking to Wendy . <eos>
 William were talking to Wendy . <eos>
-Marie doesn't return to Larry . <eos>
-Marie don't return to Larry . <eos>
-A lot of guests haven't clashed . <eos>
-A lot of guests hasn't clashed . <eos>
+Marie does n't return to Larry . <eos>
+Marie do n't return to Larry . <eos>
+A lot of guests have n't clashed . <eos>
+A lot of guests has n't clashed . <eos>
 Mary does shock Sherry . <eos>
 Mary do shock Sherry . <eos>
-Bruce doesn't look like every painting . <eos>
-Bruce don't look like every painting . <eos>
+Bruce does n't look like every painting . <eos>
+Bruce do n't look like every painting . <eos>
 Katherine has spoken up . <eos>
 Katherine have spoken up . <eos>
 Most patients weren't responding . <eos>
-Most patients isn't responding . <eos>
+Most patients is n't responding . <eos>
 Ellen was shouting . <eos>
 Ellen are shouting . <eos>
 Leslie is boring Patricia . <eos>
 Leslie were boring Patricia . <eos>
 An organization is talking to every guest . <eos>
 An organization were talking to every guest . <eos>
-Every school hasn't forfeited . <eos>
-Every school haven't forfeited . <eos>
-Maria isn't swallowing . <eos>
-Maria aren't swallowing . <eos>
+Every school has n't forfeited . <eos>
+Every school have n't forfeited . <eos>
+Maria is n't swallowing . <eos>
+Maria are n't swallowing . <eos>
 Brett has slumped over . <eos>
 Brett have slumped over . <eos>
-The actors don't disagree with Patricia . <eos>
-The actors doesn't disagree with Patricia . <eos>
+The actors do n't disagree with Patricia . <eos>
+The actors does n't disagree with Patricia . <eos>
 Barbara has slumped over . <eos>
 Barbara have slumped over . <eos>
 Timothy does study . <eos>
@@ -849,27 +849,27 @@ Timothy do study . <eos>
 Liam was fleeing from Victoria . <eos>
 Liam are fleeing from Victoria . <eos>
 Some painting wasn't embarrassing Elizabeth . <eos>
-Some painting aren't embarrassing Elizabeth . <eos>
+Some painting are n't embarrassing Elizabeth . <eos>
 Lisa has left Tara . <eos>
 Lisa have left Tara . <eos>
 Kayla wasn't going fishing . <eos>
-Kayla aren't going fishing . <eos>
+Kayla are n't going fishing . <eos>
 All waiters have divorced . <eos>
 All waiters has divorced . <eos>
-Anne isn't attacking Ella . <eos>
-Anne aren't attacking Ella . <eos>
-Every waitress doesn't wash . <eos>
-Every waitress don't wash . <eos>
-Angela isn't dropping by the college campuses . <eos>
-Angela aren't dropping by the college campuses . <eos>
-Most glaciers haven't impressed Carlos . <eos>
-Most glaciers hasn't impressed Carlos . <eos>
-Rhonda doesn't buy these rabbits . <eos>
-Rhonda don't buy these rabbits . <eos>
-The committees don't dislike Andrea . <eos>
-The committees doesn't dislike Andrea . <eos>
-Leslie hasn't ascended steps . <eos>
-Leslie haven't ascended steps . <eos>
+Anne is n't attacking Ella . <eos>
+Anne are n't attacking Ella . <eos>
+Every waitress does n't wash . <eos>
+Every waitress do n't wash . <eos>
+Angela is n't dropping by the college campuses . <eos>
+Angela are n't dropping by the college campuses . <eos>
+Most glaciers have n't impressed Carlos . <eos>
+Most glaciers has n't impressed Carlos . <eos>
+Rhonda does n't buy these rabbits . <eos>
+Rhonda do n't buy these rabbits . <eos>
+The committees do n't dislike Andrea . <eos>
+The committees does n't dislike Andrea . <eos>
+Leslie has n't ascended steps . <eos>
+Leslie have n't ascended steps . <eos>
 Rachelle has kissed Jerry . <eos>
 Rachelle have kissed Jerry . <eos>
 Jason wasn't concealing Kenneth . <eos>
@@ -880,12 +880,12 @@ The customer has healed the person . <eos>
 The customer have healed the person . <eos>
 That organization has cooperated . <eos>
 That organization have cooperated . <eos>
-Caroline doesn't cheer . <eos>
-Caroline don't cheer . <eos>
+Caroline does n't cheer . <eos>
+Caroline do n't cheer . <eos>
 Teresa does depart . <eos>
 Teresa do depart . <eos>
-Grace doesn't yell . <eos>
-Grace don't yell . <eos>
+Grace does n't yell . <eos>
+Grace do n't yell . <eos>
 Kirsten was cleaning some rugs . <eos>
 Kirsten are cleaning some rugs . <eos>
 Teenagers have approached Dennis . <eos>
@@ -894,26 +894,26 @@ Some senator has toured most public parks . <eos>
 Some senator have toured most public parks . <eos>
 The drivers do attack Stephanie . <eos>
 The drivers does attack Stephanie . <eos>
-These ladies aren't upsetting Martin . <eos>
-These ladies isn't upsetting Martin . <eos>
+These ladies are n't upsetting Martin . <eos>
+These ladies is n't upsetting Martin . <eos>
 Some newspaper articles are bothering Marcus . <eos>
 Some newspaper articles was bothering Marcus . <eos>
-George doesn't examine the newspaper article . <eos>
-George don't examine the newspaper article . <eos>
+George does n't examine the newspaper article . <eos>
+George do n't examine the newspaper article . <eos>
 Every museum does cooperate . <eos>
 Every museum do cooperate . <eos>
 Nina wasn't murmuring . <eos>
-Nina aren't murmuring . <eos>
-Some tomato isn't ripening . <eos>
-Some tomato aren't ripening . <eos>
-A lot of doctors haven't conferred . <eos>
-A lot of doctors hasn't conferred . <eos>
-Bruce hasn't upset Bruce . <eos>
-Bruce haven't upset Bruce . <eos>
+Nina are n't murmuring . <eos>
+Some tomato is n't ripening . <eos>
+Some tomato are n't ripening . <eos>
+A lot of doctors have n't conferred . <eos>
+A lot of doctors has n't conferred . <eos>
+Bruce has n't upset Bruce . <eos>
+Bruce have n't upset Bruce . <eos>
 Amanda is reading . <eos>
 Amanda are reading . <eos>
-Many drawings haven't looked like these pictures . <eos>
-Many drawings hasn't looked like these pictures . <eos>
+Many drawings have n't looked like these pictures . <eos>
+Many drawings has n't looked like these pictures . <eos>
 Some driver does concur . <eos>
 Some driver do concur . <eos>
 A boy is suffering . <eos>
@@ -930,162 +930,162 @@ Sheila does run around the cafes . <eos>
 Sheila do run around the cafes . <eos>
 Most committees do react . <eos>
 Most committees does react . <eos>
-Alexander hasn't impressed Peter . <eos>
-Alexander haven't impressed Peter . <eos>
-Lawrence doesn't fix cars . <eos>
-Lawrence don't fix cars . <eos>
+Alexander has n't impressed Peter . <eos>
+Alexander have n't impressed Peter . <eos>
+Lawrence does n't fix cars . <eos>
+Lawrence do n't fix cars . <eos>
 Some library wasn't praising all movies . <eos>
 Some library weren't praising all movies . <eos>
 Alice is describing Emily . <eos>
 Alice were describing Emily . <eos>
 A university has struggled . <eos>
 A university have struggled . <eos>
-Carrie doesn't impress Wayne . <eos>
-Carrie don't impress Wayne . <eos>
+Carrie does n't impress Wayne . <eos>
+Carrie do n't impress Wayne . <eos>
 Kristin wasn't exercising . <eos>
-Kristin aren't exercising . <eos>
+Kristin are n't exercising . <eos>
 That school is reacting . <eos>
 That school were reacting . <eos>
-Nina doesn't cry . <eos>
-Nina don't cry . <eos>
+Nina does n't cry . <eos>
+Nina do n't cry . <eos>
 Rhonda does climb up that hill . <eos>
 Rhonda do climb up that hill . <eos>
 Some doctors do interact . <eos>
 Some doctors does interact . <eos>
-Brett isn't telephoning . <eos>
+Brett is n't telephoning . <eos>
 Brett weren't telephoning . <eos>
 Mary has died . <eos>
 Mary have died . <eos>
-Some bananas don't go bad . <eos>
-Some bananas doesn't go bad . <eos>
+Some bananas do n't go bad . <eos>
+Some bananas does n't go bad . <eos>
 That ice cream is freezing . <eos>
 That ice cream were freezing . <eos>
-Donald hasn't scratched . <eos>
-Donald haven't scratched . <eos>
+Donald has n't scratched . <eos>
+Donald have n't scratched . <eos>
 Many senators do surrender . <eos>
 Many senators does surrender . <eos>
 The waiters were debating . <eos>
 The waiters is debating . <eos>
-Nancy hasn't chuckled . <eos>
-Nancy haven't chuckled . <eos>
+Nancy has n't chuckled . <eos>
+Nancy have n't chuckled . <eos>
 Matt has walked through these museums . <eos>
 Matt have walked through these museums . <eos>
-That dancer hasn't referenced Caroline . <eos>
-That dancer haven't referenced Caroline . <eos>
+That dancer has n't referenced Caroline . <eos>
+That dancer have n't referenced Caroline . <eos>
 Elizabeth was visiting Tara . <eos>
 Elizabeth were visiting Tara . <eos>
 Nina wasn't cleaning these mountains . <eos>
-Nina aren't cleaning these mountains . <eos>
+Nina are n't cleaning these mountains . <eos>
 Nancy has concealed Sally . <eos>
 Nancy have concealed Sally . <eos>
 Kristin does hunt . <eos>
 Kristin do hunt . <eos>
-Most pedestrians haven't visited every restaurant . <eos>
-Most pedestrians hasn't visited every restaurant . <eos>
+Most pedestrians have n't visited every restaurant . <eos>
+Most pedestrians has n't visited every restaurant . <eos>
 Mark does see . <eos>
 Mark do see . <eos>
-Most students don't respect Claire . <eos>
-Most students doesn't respect Claire . <eos>
-Danielle doesn't hide away . <eos>
-Danielle don't hide away . <eos>
-Some dress doesn't shrink . <eos>
-Some dress don't shrink . <eos>
-All mouths don't close . <eos>
-All mouths doesn't close . <eos>
+Most students do n't respect Claire . <eos>
+Most students does n't respect Claire . <eos>
+Danielle does n't hide away . <eos>
+Danielle do n't hide away . <eos>
+Some dress does n't shrink . <eos>
+Some dress do n't shrink . <eos>
+All mouths do n't close . <eos>
+All mouths does n't close . <eos>
 A lot of hospitals do interact . <eos>
 A lot of hospitals does interact . <eos>
 Dana was shouting . <eos>
 Dana are shouting . <eos>
 Naomi has praised that book . <eos>
 Naomi have praised that book . <eos>
-Elizabeth hasn't worn a lot of glasses . <eos>
-Elizabeth haven't worn a lot of glasses . <eos>
+Elizabeth has n't worn a lot of glasses . <eos>
+Elizabeth have n't worn a lot of glasses . <eos>
 Gary does annoy Bradley . <eos>
 Gary do annoy Bradley . <eos>
 Amy wasn't blinking . <eos>
 Amy weren't blinking . <eos>
-This university isn't replying . <eos>
-This university aren't replying . <eos>
+This university is n't replying . <eos>
+This university are n't replying . <eos>
 James has forgotten Carolyn . <eos>
 James have forgotten Carolyn . <eos>
-Donna hasn't described Kirsten . <eos>
-Donna haven't described Kirsten . <eos>
+Donna has n't described Kirsten . <eos>
+Donna have n't described Kirsten . <eos>
 Candice has confused Janice . <eos>
 Candice have confused Janice . <eos>
-Lawrence doesn't donate . <eos>
-Lawrence don't donate . <eos>
+Lawrence does n't donate . <eos>
+Lawrence do n't donate . <eos>
 Pamela does help Paul . <eos>
 Pamela do help Paul . <eos>
 These ladders were astounding Anna . <eos>
 These ladders is astounding Anna . <eos>
 Stacy was hugging Ann . <eos>
 Stacy were hugging Ann . <eos>
-Rachelle doesn't hug Christina . <eos>
-Rachelle don't hug Christina . <eos>
+Rachelle does n't hug Christina . <eos>
+Rachelle do n't hug Christina . <eos>
 The committee has profited . <eos>
 The committee have profited . <eos>
 That banana has disgusted Marcus . <eos>
 That banana have disgusted Marcus . <eos>
-Catherine doesn't play . <eos>
-Catherine don't play . <eos>
+Catherine does n't play . <eos>
+Catherine do n't play . <eos>
 Melissa has explored that closet . <eos>
 Melissa have explored that closet . <eos>
 Aaron is muttering . <eos>
 Aaron are muttering . <eos>
-All waitresses aren't singing . <eos>
+All waitresses are n't singing . <eos>
 All waitresses wasn't singing . <eos>
-That doctor doesn't clean all eyes . <eos>
-That doctor don't clean all eyes . <eos>
-Companies aren't collaborating . <eos>
+That doctor does n't clean all eyes . <eos>
+That doctor do n't clean all eyes . <eos>
+Companies are n't collaborating . <eos>
 Companies wasn't collaborating . <eos>
 This photograph was looking like that eye . <eos>
 This photograph are looking like that eye . <eos>
 Elizabeth was buying most vases . <eos>
 Elizabeth are buying most vases . <eos>
-A senator doesn't tour hills . <eos>
-A senator don't tour hills . <eos>
-The actors aren't blinking . <eos>
-The actors isn't blinking . <eos>
-A lot of legislatures haven't assembled . <eos>
-A lot of legislatures hasn't assembled . <eos>
-Cindy hasn't baked . <eos>
-Cindy haven't baked . <eos>
+A senator does n't tour hills . <eos>
+A senator do n't tour hills . <eos>
+The actors are n't blinking . <eos>
+The actors is n't blinking . <eos>
+A lot of legislatures have n't assembled . <eos>
+A lot of legislatures has n't assembled . <eos>
+Cindy has n't baked . <eos>
+Cindy have n't baked . <eos>
 Jerry was cleaning a lot of chairs . <eos>
 Jerry were cleaning a lot of chairs . <eos>
 Paul has changed . <eos>
 Paul have changed . <eos>
 This banana has rotted . <eos>
 This banana have rotted . <eos>
-Barbara doesn't listen to Sandra . <eos>
-Barbara don't listen to Sandra . <eos>
+Barbara does n't listen to Sandra . <eos>
+Barbara do n't listen to Sandra . <eos>
 Jennifer does hunt . <eos>
 Jennifer do hunt . <eos>
-The students don't bore Claire . <eos>
-The students doesn't bore Claire . <eos>
-Steven doesn't cry . <eos>
-Steven don't cry . <eos>
+The students do n't bore Claire . <eos>
+The students does n't bore Claire . <eos>
+Steven does n't cry . <eos>
+Steven do n't cry . <eos>
 Some paintings are looking like Cheryl . <eos>
 Some paintings was looking like Cheryl . <eos>
 All closets have shut . <eos>
 All closets has shut . <eos>
-Kathleen isn't criticizing some newspaper article . <eos>
+Kathleen is n't criticizing some newspaper article . <eos>
 Kathleen weren't criticizing some newspaper article . <eos>
 Dawn does wear all glasses . <eos>
 Dawn do wear all glasses . <eos>
-These legislatures don't confuse Stephen . <eos>
-These legislatures doesn't confuse Stephen . <eos>
-Lori doesn't donate . <eos>
-Lori don't donate . <eos>
-Katherine hasn't died . <eos>
-Katherine haven't died . <eos>
+These legislatures do n't confuse Stephen . <eos>
+These legislatures does n't confuse Stephen . <eos>
+Lori does n't donate . <eos>
+Lori do n't donate . <eos>
+Katherine has n't died . <eos>
+Katherine have n't died . <eos>
 Karla was winning . <eos>
 Karla were winning . <eos>
 Clyde has climbed up these slopes . <eos>
 Clyde have climbed up these slopes . <eos>
-Sandra doesn't stun Nina . <eos>
-Sandra don't stun Nina . <eos>
-Jessica doesn't learn . <eos>
-Jessica don't learn . <eos>
+Sandra does n't stun Nina . <eos>
+Sandra do n't stun Nina . <eos>
+Jessica does n't learn . <eos>
+Jessica do n't learn . <eos>
 Douglas was speaking up . <eos>
 Douglas are speaking up . <eos>
 Bradley does laugh . <eos>
@@ -1094,16 +1094,16 @@ Chad has studied . <eos>
 Chad have studied . <eos>
 Brad does write hard . <eos>
 Brad do write hard . <eos>
-Ruth isn't descending ladders . <eos>
-Ruth aren't descending ladders . <eos>
+Ruth is n't descending ladders . <eos>
+Ruth are n't descending ladders . <eos>
 Brad has criticized Lori . <eos>
 Brad have criticized Lori . <eos>
 A dancer is curing this doctor . <eos>
 A dancer are curing this doctor . <eos>
-All senators don't succeed . <eos>
-All senators doesn't succeed . <eos>
-Some government hasn't admired all mountains . <eos>
-Some government haven't admired all mountains . <eos>
+All senators do n't succeed . <eos>
+All senators does n't succeed . <eos>
+Some government has n't admired all mountains . <eos>
+Some government have n't admired all mountains . <eos>
 Phillip has impressed that government . <eos>
 Phillip have impressed that government . <eos>
 That patient does attack these actresses . <eos>
@@ -1111,9 +1111,9 @@ That patient do attack these actresses . <eos>
 Julia does stand up . <eos>
 Julia do stand up . <eos>
 Veronica wasn't arguing . <eos>
-Veronica aren't arguing . <eos>
-Linda doesn't arrive at many closets . <eos>
-Linda don't arrive at many closets . <eos>
+Veronica are n't arguing . <eos>
+Linda does n't arrive at many closets . <eos>
+Linda do n't arrive at many closets . <eos>
 Caroline was watching Scott . <eos>
 Caroline were watching Scott . <eos>
 This customer is descending the steps . <eos>
@@ -1130,26 +1130,26 @@ Rachelle is saluting . <eos>
 Rachelle were saluting . <eos>
 Many glaciers were freezing . <eos>
 Many glaciers was freezing . <eos>
-All actors don't scare some adults . <eos>
-All actors doesn't scare some adults . <eos>
+All actors do n't scare some adults . <eos>
+All actors does n't scare some adults . <eos>
 Beth has exited some rivers . <eos>
 Beth have exited some rivers . <eos>
-A waiter isn't listening to all boys . <eos>
+A waiter is n't listening to all boys . <eos>
 A waiter weren't listening to all boys . <eos>
-Russell doesn't sigh . <eos>
-Russell don't sigh . <eos>
-Some glacier hasn't frozen . <eos>
-Some glacier haven't frozen . <eos>
+Russell does n't sigh . <eos>
+Russell do n't sigh . <eos>
+Some glacier has n't frozen . <eos>
+Some glacier have n't frozen . <eos>
 A lot of drivers are visiting Beverly . <eos>
 A lot of drivers was visiting Beverly . <eos>
-Aaron hasn't descended slopes . <eos>
-Aaron haven't descended slopes . <eos>
+Aaron has n't descended slopes . <eos>
+Aaron have n't descended slopes . <eos>
 The bank has impressed Randolf . <eos>
 The bank have impressed Randolf . <eos>
 The essays were irritating Kenneth . <eos>
 The essays was irritating Kenneth . <eos>
-A lot of organizations don't fight . <eos>
-A lot of organizations doesn't fight . <eos>
+A lot of organizations do n't fight . <eos>
+A lot of organizations does n't fight . <eos>
 Paul is visiting Joseph . <eos>
 Paul were visiting Joseph . <eos>
 Teresa does wave . <eos>
@@ -1158,32 +1158,32 @@ Omar does argue about Keith . <eos>
 Omar do argue about Keith . <eos>
 A lot of committees do chat . <eos>
 A lot of committees does chat . <eos>
-Some associations don't compete . <eos>
-Some associations doesn't compete . <eos>
-Every legislature doesn't negotiate . <eos>
-Every legislature don't negotiate . <eos>
+Some associations do n't compete . <eos>
+Some associations does n't compete . <eos>
+Every legislature does n't negotiate . <eos>
+Every legislature do n't negotiate . <eos>
 Alice does spin around . <eos>
 Alice do spin around . <eos>
 Mark has grinned . <eos>
 Mark have grinned . <eos>
-Christina doesn't come here . <eos>
-Christina don't come here . <eos>
+Christina does n't come here . <eos>
+Christina do n't come here . <eos>
 The customers have arrived at these hills . <eos>
 The customers has arrived at these hills . <eos>
 Carlos was scanning some story . <eos>
 Carlos are scanning some story . <eos>
 This company is shocking Marla . <eos>
 This company are shocking Marla . <eos>
-Kenneth isn't scratching . <eos>
-Kenneth aren't scratching . <eos>
+Kenneth is n't scratching . <eos>
+Kenneth are n't scratching . <eos>
 Rachelle was cleaning these paintings . <eos>
 Rachelle were cleaning these paintings . <eos>
 Most universities were confusing Gerald . <eos>
 Most universities was confusing Gerald . <eos>
-Amelia isn't hiding away . <eos>
+Amelia is n't hiding away . <eos>
 Amelia weren't hiding away . <eos>
-The banks don't alarm Daniel . <eos>
-The banks doesn't alarm Daniel . <eos>
+The banks do n't alarm Daniel . <eos>
+The banks does n't alarm Daniel . <eos>
 Dawn has resembled a sketch . <eos>
 Dawn have resembled a sketch . <eos>
 Most boys have kissed . <eos>
@@ -1207,31 +1207,31 @@ Sally are praising Bethany . <eos>
 Sara has confused Jason . <eos>
 Sara have confused Jason . <eos>
 A lot of organizations weren't working hard . <eos>
-A lot of organizations isn't working hard . <eos>
+A lot of organizations is n't working hard . <eos>
 All patients weren't scanning most books . <eos>
 All patients wasn't scanning most books . <eos>
-Kristen doesn't perform . <eos>
-Kristen don't perform . <eos>
-William hasn't disturbed Carla . <eos>
-William haven't disturbed Carla . <eos>
+Kristen does n't perform . <eos>
+Kristen do n't perform . <eos>
+William has n't disturbed Carla . <eos>
+William have n't disturbed Carla . <eos>
 Stacey has approached patients . <eos>
 Stacey have approached patients . <eos>
 Denise does irritate Rose . <eos>
 Denise do irritate Rose . <eos>
 Rachel has left Carla . <eos>
 Rachel have left Carla . <eos>
-Theresa isn't telephoning . <eos>
-Theresa aren't telephoning . <eos>
-Kirsten doesn't hate Tanya . <eos>
-Kirsten don't hate Tanya . <eos>
-Patrick hasn't boycotted every art gallery . <eos>
-Patrick haven't boycotted every art gallery . <eos>
+Theresa is n't telephoning . <eos>
+Theresa are n't telephoning . <eos>
+Kirsten does n't hate Tanya . <eos>
+Kirsten do n't hate Tanya . <eos>
+Patrick has n't boycotted every art gallery . <eos>
+Patrick have n't boycotted every art gallery . <eos>
 Alexander was touring the glaciers . <eos>
 Alexander are touring the glaciers . <eos>
 The doctor does suffer . <eos>
 The doctor do suffer . <eos>
-This teacher hasn't grinned . <eos>
-This teacher haven't grinned . <eos>
+This teacher has n't grinned . <eos>
+This teacher have n't grinned . <eos>
 Rachelle has discussed most art galleries . <eos>
 Rachelle have discussed most art galleries . <eos>
 Karla does scan all plays . <eos>
@@ -1240,20 +1240,20 @@ Carmen does help Nicole . <eos>
 Carmen do help Nicole . <eos>
 The guys weren't embracing . <eos>
 The guys wasn't embracing . <eos>
-That university isn't communicating . <eos>
+That university is n't communicating . <eos>
 That university weren't communicating . <eos>
-Every tomato doesn't rot . <eos>
-Every tomato don't rot . <eos>
-Edward hasn't dropped by most lakes . <eos>
-Edward haven't dropped by most lakes . <eos>
-Jennifer hasn't respected every child . <eos>
-Jennifer haven't respected every child . <eos>
-Some actresses don't interact . <eos>
-Some actresses doesn't interact . <eos>
+Every tomato does n't rot . <eos>
+Every tomato do n't rot . <eos>
+Edward has n't dropped by most lakes . <eos>
+Edward have n't dropped by most lakes . <eos>
+Jennifer has n't respected every child . <eos>
+Jennifer have n't respected every child . <eos>
+Some actresses do n't interact . <eos>
+Some actresses does n't interact . <eos>
 Wendy does weep . <eos>
 Wendy do weep . <eos>
-Matt doesn't speak up . <eos>
-Matt don't speak up . <eos>
+Matt does n't speak up . <eos>
+Matt do n't speak up . <eos>
 This ice cream does melt . <eos>
 This ice cream do melt . <eos>
 Tara does talk to Donna . <eos>
@@ -1266,8 +1266,8 @@ Dennis is fleeing from some actor . <eos>
 Dennis were fleeing from some actor . <eos>
 Jason wasn't hugging Walter . <eos>
 Jason weren't hugging Walter . <eos>
-Tammy hasn't observed Marie . <eos>
-Tammy haven't observed Marie . <eos>
+Tammy has n't observed Marie . <eos>
+Tammy have n't observed Marie . <eos>
 Diana has answered . <eos>
 Diana have answered . <eos>
 Some committee has benefited . <eos>
@@ -1280,78 +1280,78 @@ All boxes do alarm Katherine . <eos>
 All boxes does alarm Katherine . <eos>
 These guys are divorcing . <eos>
 These guys was divorcing . <eos>
-Ruth doesn't escape from the mall . <eos>
-Ruth don't escape from the mall . <eos>
+Ruth does n't escape from the mall . <eos>
+Ruth do n't escape from the mall . <eos>
 Some patient does break screens . <eos>
 Some patient do break screens . <eos>
-Carmen hasn't loved Craig . <eos>
-Carmen haven't loved Craig . <eos>
-All patients haven't driven to some cafe . <eos>
-All patients hasn't driven to some cafe . <eos>
-Theodore hasn't returned to Connie . <eos>
-Theodore haven't returned to Connie . <eos>
+Carmen has n't loved Craig . <eos>
+Carmen have n't loved Craig . <eos>
+All patients have n't driven to some cafe . <eos>
+All patients has n't driven to some cafe . <eos>
+Theodore has n't returned to Connie . <eos>
+Theodore have n't returned to Connie . <eos>
 Bruce has disliked every teacher . <eos>
 Bruce have disliked every teacher . <eos>
 Naomi does learn . <eos>
 Naomi do learn . <eos>
-Andrea isn't discussing a lot of guys . <eos>
-Andrea aren't discussing a lot of guys . <eos>
+Andrea is n't discussing a lot of guys . <eos>
+Andrea are n't discussing a lot of guys . <eos>
 Teenagers do disagree . <eos>
 Teenagers does disagree . <eos>
 Rhonda is cooking . <eos>
 Rhonda are cooking . <eos>
 Some government is reacting . <eos>
 Some government are reacting . <eos>
-Rhonda isn't attacking Stacy . <eos>
-Rhonda aren't attacking Stacy . <eos>
-David doesn't cure Susan . <eos>
-David don't cure Susan . <eos>
-Allison hasn't lied . <eos>
-Allison haven't lied . <eos>
-Sonia isn't coming here . <eos>
-Sonia aren't coming here . <eos>
-Rebecca doesn't win . <eos>
-Rebecca don't win . <eos>
+Rhonda is n't attacking Stacy . <eos>
+Rhonda are n't attacking Stacy . <eos>
+David does n't cure Susan . <eos>
+David do n't cure Susan . <eos>
+Allison has n't lied . <eos>
+Allison have n't lied . <eos>
+Sonia is n't coming here . <eos>
+Sonia are n't coming here . <eos>
+Rebecca does n't win . <eos>
+Rebecca do n't win . <eos>
 Karla wasn't driving to all lakes . <eos>
-Karla aren't driving to all lakes . <eos>
-Every book hasn't resembled every picture . <eos>
-Every book haven't resembled every picture . <eos>
-Janet doesn't bring every window . <eos>
-Janet don't bring every window . <eos>
+Karla are n't driving to all lakes . <eos>
+Every book has n't resembled every picture . <eos>
+Every book have n't resembled every picture . <eos>
+Janet does n't bring every window . <eos>
+Janet do n't bring every window . <eos>
 Benjamin does shock Angela . <eos>
 Benjamin do shock Angela . <eos>
 Rachelle was revealing some banana . <eos>
 Rachelle were revealing some banana . <eos>
-Richard hasn't discussed William . <eos>
-Richard haven't discussed William . <eos>
+Richard has n't discussed William . <eos>
+Richard have n't discussed William . <eos>
 Richard wasn't driving to some closet . <eos>
-Richard aren't driving to some closet . <eos>
+Richard are n't driving to some closet . <eos>
 Tamara does escape . <eos>
 Tamara do escape . <eos>
 Sally has astounded Emily . <eos>
 Sally have astounded Emily . <eos>
-Russell doesn't suffer . <eos>
-Russell don't suffer . <eos>
+Russell does n't suffer . <eos>
+Russell do n't suffer . <eos>
 Liam does cure Timothy . <eos>
 Liam do cure Timothy . <eos>
 Many waiters have arrived at many grocery stores . <eos>
 Many waiters has arrived at many grocery stores . <eos>
-This lady isn't arriving at some lake . <eos>
-This lady aren't arriving at some lake . <eos>
+This lady is n't arriving at some lake . <eos>
+This lady are n't arriving at some lake . <eos>
 Omar does remember Amelia . <eos>
 Omar do remember Amelia . <eos>
-The windows aren't opening . <eos>
+The windows are n't opening . <eos>
 The windows wasn't opening . <eos>
 Bethany does bake . <eos>
 Bethany do bake . <eos>
 These doors have opened . <eos>
 These doors has opened . <eos>
-Julie hasn't muttered . <eos>
-Julie haven't muttered . <eos>
+Julie has n't muttered . <eos>
+Julie have n't muttered . <eos>
 Becky does skate around every public park . <eos>
 Becky do skate around every public park . <eos>
-The guest hasn't hidden . <eos>
-The guest haven't hidden . <eos>
+The guest has n't hidden . <eos>
+The guest have n't hidden . <eos>
 All customers have watched men . <eos>
 All customers has watched men . <eos>
 Nina wasn't astounding some child . <eos>
@@ -1360,20 +1360,20 @@ A waitress does argue about the teacher . <eos>
 A waitress do argue about the teacher . <eos>
 The box does disgust Nicole . <eos>
 The box do disgust Nicole . <eos>
-April doesn't hire Cindy . <eos>
-April don't hire Cindy . <eos>
+April does n't hire Cindy . <eos>
+April do n't hire Cindy . <eos>
 Jason wasn't concealing Martha . <eos>
-Jason aren't concealing Martha . <eos>
-Many doctors don't study . <eos>
-Many doctors doesn't study . <eos>
-Becky hasn't skated around that hill . <eos>
-Becky haven't skated around that hill . <eos>
-Martin doesn't blink . <eos>
-Martin don't blink . <eos>
+Jason are n't concealing Martha . <eos>
+Many doctors do n't study . <eos>
+Many doctors does n't study . <eos>
+Becky has n't skated around that hill . <eos>
+Becky have n't skated around that hill . <eos>
+Martin does n't blink . <eos>
+Martin do n't blink . <eos>
 Allison does flee from pedestrians . <eos>
 Allison do flee from pedestrians . <eos>
-Many actors haven't divorced . <eos>
-Many actors hasn't divorced . <eos>
+Many actors have n't divorced . <eos>
+Many actors has n't divorced . <eos>
 Jacqueline has hugged Dennis . <eos>
 Jacqueline have hugged Dennis . <eos>
 All adults do reunite . <eos>
@@ -1386,30 +1386,30 @@ Nicole does sound like Marla . <eos>
 Nicole do sound like Marla . <eos>
 Erin does shock every lady . <eos>
 Erin do shock every lady . <eos>
-Connie hasn't woken up . <eos>
-Connie haven't woken up . <eos>
+Connie has n't woken up . <eos>
+Connie have n't woken up . <eos>
 Dan wasn't referencing Rachel . <eos>
-Dan aren't referencing Rachel . <eos>
-Most schools haven't chatted . <eos>
-Most schools hasn't chatted . <eos>
+Dan are n't referencing Rachel . <eos>
+Most schools have n't chatted . <eos>
+Most schools has n't chatted . <eos>
 The fork does hurt Julia . <eos>
 The fork do hurt Julia . <eos>
 Laura is visiting Omar . <eos>
 Laura were visiting Omar . <eos>
-Brian doesn't climb up the slope . <eos>
-Brian don't climb up the slope . <eos>
+Brian does n't climb up the slope . <eos>
+Brian do n't climb up the slope . <eos>
 Hospitals do respond . <eos>
 Hospitals does respond . <eos>
-Sandra doesn't know David . <eos>
-Sandra don't know David . <eos>
+Sandra does n't know David . <eos>
+Sandra do n't know David . <eos>
 Janice has explored some malls . <eos>
 Janice have explored some malls . <eos>
 Diana wasn't boasting about Colleen . <eos>
-Diana aren't boasting about Colleen . <eos>
-Florence doesn't drive to most art galleries . <eos>
-Florence don't drive to most art galleries . <eos>
-Some companies don't interact . <eos>
-Some companies doesn't interact . <eos>
+Diana are n't boasting about Colleen . <eos>
+Florence does n't drive to most art galleries . <eos>
+Florence do n't drive to most art galleries . <eos>
+Some companies do n't interact . <eos>
+Some companies does n't interact . <eos>
 Deanna is talking to Joel . <eos>
 Deanna were talking to Joel . <eos>
 Tina is running around most glaciers . <eos>
@@ -1418,44 +1418,44 @@ An association does confer . <eos>
 An association do confer . <eos>
 Rose has gone to all art galleries . <eos>
 Rose have gone to all art galleries . <eos>
-Theodore hasn't observed Jacqueline . <eos>
-Theodore haven't observed Jacqueline . <eos>
+Theodore has n't observed Jacqueline . <eos>
+Theodore have n't observed Jacqueline . <eos>
 That bank does clash . <eos>
 That bank do clash . <eos>
 Erin has sounded like Natalie . <eos>
 Erin have sounded like Natalie . <eos>
-Larry doesn't have every sketch . <eos>
-Larry don't have every sketch . <eos>
+Larry does n't have every sketch . <eos>
+Larry do n't have every sketch . <eos>
 Most teenagers weren't explaining everything . <eos>
 Most teenagers wasn't explaining everything . <eos>
 Margaret does find most turtles . <eos>
 Margaret do find most turtles . <eos>
-Christina doesn't hire every waitress . <eos>
-Christina don't hire every waitress . <eos>
-A lot of banks haven't fought . <eos>
-A lot of banks hasn't fought . <eos>
-George doesn't eat . <eos>
-George don't eat . <eos>
+Christina does n't hire every waitress . <eos>
+Christina do n't hire every waitress . <eos>
+A lot of banks have n't fought . <eos>
+A lot of banks has n't fought . <eos>
+George does n't eat . <eos>
+George do n't eat . <eos>
 Debra wasn't chuckling . <eos>
-Debra aren't chuckling . <eos>
+Debra are n't chuckling . <eos>
 Christopher does break every screen . <eos>
 Christopher do break every screen . <eos>
 Judy has played . <eos>
 Judy have played . <eos>
-Joel hasn't found Tamara . <eos>
-Joel haven't found Tamara . <eos>
+Joel has n't found Tamara . <eos>
+Joel have n't found Tamara . <eos>
 Most doctors do assemble . <eos>
 Most doctors does assemble . <eos>
 Phillip wasn't dying . <eos>
-Phillip aren't dying . <eos>
+Phillip are n't dying . <eos>
 This doctor does remember Eric . <eos>
 This doctor do remember Eric . <eos>
 Diana was murmuring . <eos>
 Diana are murmuring . <eos>
 All students were drinking . <eos>
 All students is drinking . <eos>
-Some patients haven't flirted . <eos>
-Some patients hasn't flirted . <eos>
+Some patients have n't flirted . <eos>
+Some patients has n't flirted . <eos>
 The organization has benefited . <eos>
 The organization have benefited . <eos>
 That glacier has frozen . <eos>
@@ -1465,11 +1465,11 @@ All waiters does struggle . <eos>
 Martha does talk . <eos>
 Martha do talk . <eos>
 Samantha wasn't praising Theresa . <eos>
-Samantha aren't praising Theresa . <eos>
+Samantha are n't praising Theresa . <eos>
 Charles is laughing . <eos>
 Charles are laughing . <eos>
 The drivers weren't replying . <eos>
-The drivers isn't replying . <eos>
+The drivers is n't replying . <eos>
 Most hospitals weren't coping . <eos>
 Most hospitals wasn't coping . <eos>
 Jane does stretch . <eos>
@@ -1484,162 +1484,162 @@ David does drink . <eos>
 David do drink . <eos>
 Many customers were reuniting . <eos>
 Many customers is reuniting . <eos>
-This cilantro hasn't resembled these photographs . <eos>
-This cilantro haven't resembled these photographs . <eos>
-Deanna isn't falling . <eos>
-Deanna aren't falling . <eos>
+This cilantro has n't resembled these photographs . <eos>
+This cilantro have n't resembled these photographs . <eos>
+Deanna is n't falling . <eos>
+Deanna are n't falling . <eos>
 Brenda wasn't stunning Tanya . <eos>
 Brenda weren't stunning Tanya . <eos>
-Eric isn't baking . <eos>
+Eric is n't baking . <eos>
 Eric weren't baking . <eos>
-That hospital hasn't reunited . <eos>
-That hospital haven't reunited . <eos>
+That hospital has n't reunited . <eos>
+That hospital have n't reunited . <eos>
 Dennis wasn't appreciating Mitchell . <eos>
-Dennis aren't appreciating Mitchell . <eos>
+Dennis are n't appreciating Mitchell . <eos>
 Tracy is complaining . <eos>
 Tracy were complaining . <eos>
 Michael has approached Jennifer . <eos>
 Michael have approached Jennifer . <eos>
 Every hill has scared Allison . <eos>
 Every hill have scared Allison . <eos>
-This university doesn't conspire . <eos>
-This university don't conspire . <eos>
+This university does n't conspire . <eos>
+This university do n't conspire . <eos>
 Tanya has left Keith . <eos>
 Tanya have left Keith . <eos>
-Daniel doesn't visit Naomi . <eos>
-Daniel don't visit Naomi . <eos>
+Daniel does n't visit Naomi . <eos>
+Daniel do n't visit Naomi . <eos>
 Most dancers do retaliate . <eos>
 Most dancers does retaliate . <eos>
-Homer hasn't escaped . <eos>
-Homer haven't escaped . <eos>
-Alicia isn't climbing down this mountain . <eos>
+Homer has n't escaped . <eos>
+Homer have n't escaped . <eos>
+Alicia is n't climbing down this mountain . <eos>
 Alicia weren't climbing down this mountain . <eos>
-Raymond hasn't climbed up mountains . <eos>
-Raymond haven't climbed up mountains . <eos>
-A patient isn't blinking . <eos>
-A patient aren't blinking . <eos>
+Raymond has n't climbed up mountains . <eos>
+Raymond have n't climbed up mountains . <eos>
+A patient is n't blinking . <eos>
+A patient are n't blinking . <eos>
 Teachers do reunite . <eos>
 Teachers does reunite . <eos>
 Nancy was fixing that car . <eos>
 Nancy are fixing that car . <eos>
 All banks do cope . <eos>
 All banks does cope . <eos>
-These governments don't work hard . <eos>
-These governments doesn't work hard . <eos>
+These governments do n't work hard . <eos>
+These governments does n't work hard . <eos>
 Edward does forfeit . <eos>
 Edward do forfeit . <eos>
 Most universities weren't communicating . <eos>
-Most universities isn't communicating . <eos>
-All schools aren't reacting . <eos>
+Most universities is n't communicating . <eos>
+All schools are n't reacting . <eos>
 All schools wasn't reacting . <eos>
-Derek hasn't seen . <eos>
-Derek haven't seen . <eos>
+Derek has n't seen . <eos>
+Derek have n't seen . <eos>
 Carl does shout . <eos>
 Carl do shout . <eos>
-Ronald hasn't biked to the cafes . <eos>
-Ronald haven't biked to the cafes . <eos>
-Robert hasn't descended many hills . <eos>
-Robert haven't descended many hills . <eos>
+Ronald has n't biked to the cafes . <eos>
+Ronald have n't biked to the cafes . <eos>
+Robert has n't descended many hills . <eos>
+Robert have n't descended many hills . <eos>
 The schools were hurting a lot of customers . <eos>
 The schools was hurting a lot of customers . <eos>
 Denise has eaten . <eos>
 Denise have eaten . <eos>
-Homer isn't disturbing Tina . <eos>
-Homer aren't disturbing Tina . <eos>
+Homer is n't disturbing Tina . <eos>
+Homer are n't disturbing Tina . <eos>
 Gary wasn't observing Holly . <eos>
-Gary aren't observing Holly . <eos>
-Heather isn't examining some movie . <eos>
+Gary are n't observing Holly . <eos>
+Heather is n't examining some movie . <eos>
 Heather weren't examining some movie . <eos>
-All bananas haven't gone bad . <eos>
-All bananas hasn't gone bad . <eos>
+All bananas have n't gone bad . <eos>
+All bananas has n't gone bad . <eos>
 Laura has talked about movies . <eos>
 Laura have talked about movies . <eos>
 The schools do communicate . <eos>
 The schools does communicate . <eos>
 Chad was reading . <eos>
 Chad were reading . <eos>
-Some patient doesn't bother Daniel . <eos>
-Some patient don't bother Daniel . <eos>
+Some patient does n't bother Daniel . <eos>
+Some patient do n't bother Daniel . <eos>
 Allison does win . <eos>
 Allison do win . <eos>
-Roger doesn't break this screen . <eos>
-Roger don't break this screen . <eos>
-These actors haven't married . <eos>
-These actors hasn't married . <eos>
+Roger does n't break this screen . <eos>
+Roger do n't break this screen . <eos>
+These actors have n't married . <eos>
+These actors has n't married . <eos>
 Some libraries do succeed . <eos>
 Some libraries does succeed . <eos>
 Actresses are walking through that mountain . <eos>
 Actresses is walking through that mountain . <eos>
 Vanessa does look like a lot of prints . <eos>
 Vanessa do look like a lot of prints . <eos>
-Every cashier hasn't performed . <eos>
-Every cashier haven't performed . <eos>
+Every cashier has n't performed . <eos>
+Every cashier have n't performed . <eos>
 Beverly does insult Mary . <eos>
 Beverly do insult Mary . <eos>
 Becky does answer . <eos>
 Becky do answer . <eos>
-Heidi hasn't bothered Jason . <eos>
-Heidi haven't bothered Jason . <eos>
-Stacy hasn't found Marcus . <eos>
-Stacy haven't found Marcus . <eos>
+Heidi has n't bothered Jason . <eos>
+Heidi have n't bothered Jason . <eos>
+Stacy has n't found Marcus . <eos>
+Stacy have n't found Marcus . <eos>
 Deborah has astounded Jerry . <eos>
 Deborah have astounded Jerry . <eos>
 Scott is cleaning some newspaper article . <eos>
 Scott are cleaning some newspaper article . <eos>
-Michael doesn't drive to the movie theater . <eos>
-Michael don't drive to the movie theater . <eos>
+Michael does n't drive to the movie theater . <eos>
+Michael do n't drive to the movie theater . <eos>
 Susan has come here . <eos>
 Susan have come here . <eos>
-Becca hasn't passed that school . <eos>
-Becca haven't passed that school . <eos>
+Becca has n't passed that school . <eos>
+Becca have n't passed that school . <eos>
 Omar wasn't breaking some glasses . <eos>
-Omar aren't breaking some glasses . <eos>
-Derek hasn't discussed these art galleries . <eos>
-Derek haven't discussed these art galleries . <eos>
-Mark isn't firing Tara . <eos>
-Mark aren't firing Tara . <eos>
-Janet doesn't shrug . <eos>
-Janet don't shrug . <eos>
+Omar are n't breaking some glasses . <eos>
+Derek has n't discussed these art galleries . <eos>
+Derek have n't discussed these art galleries . <eos>
+Mark is n't firing Tara . <eos>
+Mark are n't firing Tara . <eos>
+Janet does n't shrug . <eos>
+Janet do n't shrug . <eos>
 Laura has brought every book . <eos>
 Laura have brought every book . <eos>
 A teacher was grinning . <eos>
 A teacher were grinning . <eos>
 Many students weren't complaining . <eos>
-Many students isn't complaining . <eos>
+Many students is n't complaining . <eos>
 Julia was baking . <eos>
 Julia were baking . <eos>
-Linda hasn't concealed Lori . <eos>
-Linda haven't concealed Lori . <eos>
+Linda has n't concealed Lori . <eos>
+Linda have n't concealed Lori . <eos>
 Kirsten has screamed . <eos>
 Kirsten have screamed . <eos>
 A lot of actresses do praise Rachel . <eos>
 A lot of actresses does praise Rachel . <eos>
-This nose hasn't shocked Clyde . <eos>
-This nose haven't shocked Clyde . <eos>
-Most dancers don't react . <eos>
-Most dancers doesn't react . <eos>
+This nose has n't shocked Clyde . <eos>
+This nose have n't shocked Clyde . <eos>
+Most dancers do n't react . <eos>
+Most dancers does n't react . <eos>
 Lori has departed . <eos>
 Lori have departed . <eos>
 David does praise Derek . <eos>
 David do praise Derek . <eos>
-Sonia doesn't stretch . <eos>
-Sonia don't stretch . <eos>
-Some lady doesn't upset Danielle . <eos>
-Some lady don't upset Danielle . <eos>
+Sonia does n't stretch . <eos>
+Sonia do n't stretch . <eos>
+Some lady does n't upset Danielle . <eos>
+Some lady do n't upset Danielle . <eos>
 A school does react . <eos>
 A school do react . <eos>
 Amelia has baked . <eos>
 Amelia have baked . <eos>
-Teresa hasn't examined many commentaries . <eos>
-Teresa haven't examined many commentaries . <eos>
+Teresa has n't examined many commentaries . <eos>
+Teresa have n't examined many commentaries . <eos>
 Some ladies do tour every bank . <eos>
 Some ladies does tour every bank . <eos>
 Grace has astounded Carol . <eos>
 Grace have astounded Carol . <eos>
 April is talking about Patricia . <eos>
 April are talking about Patricia . <eos>
-Denise doesn't escape from Karen . <eos>
-Denise don't escape from Karen . <eos>
+Denise does n't escape from Karen . <eos>
+Denise do n't escape from Karen . <eos>
 Mouths do shut . <eos>
 Mouths does shut . <eos>
 Some school has testified . <eos>
@@ -1650,15 +1650,15 @@ Most gates are shutting . <eos>
 Most gates was shutting . <eos>
 Mitchell does observe these waiters . <eos>
 Mitchell do observe these waiters . <eos>
-Libraries aren't surrendering . <eos>
-Libraries isn't surrendering . <eos>
-Jason hasn't woken up . <eos>
-Jason haven't woken up . <eos>
-Christina doesn't see . <eos>
-Christina don't see . <eos>
+Libraries are n't surrendering . <eos>
+Libraries is n't surrendering . <eos>
+Jason has n't woken up . <eos>
+Jason have n't woken up . <eos>
+Christina does n't see . <eos>
+Christina do n't see . <eos>
 A lot of actors were benefiting . <eos>
 A lot of actors was benefiting . <eos>
-Erin isn't fleeing from Bethany . <eos>
+Erin is n't fleeing from Bethany . <eos>
 Erin weren't fleeing from Bethany . <eos>
 Becca has broken many glasses . <eos>
 Becca have broken many glasses . <eos>
@@ -1666,60 +1666,60 @@ That pedestrian was running around every college campus . <eos>
 That pedestrian are running around every college campus . <eos>
 Richard was boasting about Aaron . <eos>
 Richard were boasting about Aaron . <eos>
-Travis doesn't ascend the slope . <eos>
-Travis don't ascend the slope . <eos>
+Travis does n't ascend the slope . <eos>
+Travis do n't ascend the slope . <eos>
 Robert does study . <eos>
 Robert do study . <eos>
 These teachers are embracing . <eos>
 These teachers was embracing . <eos>
-Lawrence hasn't sold many pants . <eos>
-Lawrence haven't sold many pants . <eos>
-Some drivers aren't conferring . <eos>
+Lawrence has n't sold many pants . <eos>
+Lawrence have n't sold many pants . <eos>
+Some drivers are n't conferring . <eos>
 Some drivers wasn't conferring . <eos>
 The guest does break the plates . <eos>
 The guest do break the plates . <eos>
-All pedestrians don't surrender . <eos>
-All pedestrians doesn't surrender . <eos>
+All pedestrians do n't surrender . <eos>
+All pedestrians does n't surrender . <eos>
 That closet does close . <eos>
 That closet do close . <eos>
 Deborah was scanning many documentaries . <eos>
 Deborah are scanning many documentaries . <eos>
-Many guys aren't conspiring . <eos>
-Many guys isn't conspiring . <eos>
-Anne hasn't fled from a school . <eos>
-Anne haven't fled from a school . <eos>
-The girls haven't gone fishing . <eos>
-The girls hasn't gone fishing . <eos>
-Patricia isn't kissing Connie . <eos>
-Patricia aren't kissing Connie . <eos>
+Many guys are n't conspiring . <eos>
+Many guys is n't conspiring . <eos>
+Anne has n't fled from a school . <eos>
+Anne have n't fled from a school . <eos>
+The girls have n't gone fishing . <eos>
+The girls has n't gone fishing . <eos>
+Patricia is n't kissing Connie . <eos>
+Patricia are n't kissing Connie . <eos>
 Travis wasn't appreciating Gerald . <eos>
-Travis aren't appreciating Gerald . <eos>
-Vincent hasn't cooked . <eos>
-Vincent haven't cooked . <eos>
+Travis are n't appreciating Gerald . <eos>
+Vincent has n't cooked . <eos>
+Vincent have n't cooked . <eos>
 Marie is criticizing Carla . <eos>
 Marie were criticizing Carla . <eos>
-Every library hasn't succeeded . <eos>
-Every library haven't succeeded . <eos>
-Valerie hasn't exited the school . <eos>
-Valerie haven't exited the school . <eos>
-Some hospitals don't buy some dish . <eos>
-Some hospitals doesn't buy some dish . <eos>
+Every library has n't succeeded . <eos>
+Every library have n't succeeded . <eos>
+Valerie has n't exited the school . <eos>
+Valerie have n't exited the school . <eos>
+Some hospitals do n't buy some dish . <eos>
+Some hospitals does n't buy some dish . <eos>
 Donna does praise Phillip . <eos>
 Donna do praise Phillip . <eos>
 Alice has brought these books . <eos>
 Alice have brought these books . <eos>
-Waiters aren't competing . <eos>
+Waiters are n't competing . <eos>
 Waiters wasn't competing . <eos>
 Drivers are breaking some cup . <eos>
 Drivers was breaking some cup . <eos>
-These ladies aren't benefiting . <eos>
-These ladies isn't benefiting . <eos>
-Heather hasn't appreciated Pamela . <eos>
-Heather haven't appreciated Pamela . <eos>
+These ladies are n't benefiting . <eos>
+These ladies is n't benefiting . <eos>
+Heather has n't appreciated Pamela . <eos>
+Heather have n't appreciated Pamela . <eos>
 Regina wasn't walking through the schools . <eos>
-Regina aren't walking through the schools . <eos>
-Most dancers haven't surrendered . <eos>
-Most dancers hasn't surrendered . <eos>
+Regina are n't walking through the schools . <eos>
+Most dancers have n't surrendered . <eos>
+Most dancers has n't surrendered . <eos>
 This hospital has assembled . <eos>
 This hospital have assembled . <eos>
 That water was freezing . <eos>
@@ -1734,27 +1734,27 @@ Marla has talked to the children . <eos>
 Marla have talked to the children . <eos>
 Cheryl is seeing . <eos>
 Cheryl were seeing . <eos>
-Gregory doesn't grin . <eos>
-Gregory don't grin . <eos>
+Gregory does n't grin . <eos>
+Gregory do n't grin . <eos>
 Theresa has referenced Ronald . <eos>
 Theresa have referenced Ronald . <eos>
 Adam wasn't talking . <eos>
-Adam aren't talking . <eos>
+Adam are n't talking . <eos>
 Aaron was discussing this hospital . <eos>
 Aaron were discussing this hospital . <eos>
-These governments haven't surrendered . <eos>
-These governments hasn't surrendered . <eos>
+These governments have n't surrendered . <eos>
+These governments has n't surrendered . <eos>
 Nicole was smiling . <eos>
 Nicole are smiling . <eos>
 Gerald is singing . <eos>
 Gerald are singing . <eos>
-Brian isn't exploring movie theaters . <eos>
-Brian aren't exploring movie theaters . <eos>
-Every gate doesn't distract Naomi . <eos>
-Every gate don't distract Naomi . <eos>
+Brian is n't exploring movie theaters . <eos>
+Brian are n't exploring movie theaters . <eos>
+Every gate does n't distract Naomi . <eos>
+Every gate do n't distract Naomi . <eos>
 Patricia was hiring Barbara . <eos>
 Patricia were hiring Barbara . <eos>
-Brenda isn't insulting Todd . <eos>
+Brenda is n't insulting Todd . <eos>
 Brenda weren't insulting Todd . <eos>
 Eyes have bothered a museum . <eos>
 Eyes has bothered a museum . <eos>
@@ -1764,68 +1764,68 @@ Tina was complaining . <eos>
 Tina were complaining . <eos>
 Kendra was walking through the art galleries . <eos>
 Kendra are walking through the art galleries . <eos>
-Stacey doesn't hide away . <eos>
-Stacey don't hide away . <eos>
+Stacey does n't hide away . <eos>
+Stacey do n't hide away . <eos>
 Sheila does irritate Martha . <eos>
 Sheila do irritate Martha . <eos>
 Gerald has returned to some students . <eos>
 Gerald have returned to some students . <eos>
 Jeffrey wasn't chuckling . <eos>
-Jeffrey aren't chuckling . <eos>
-Every driver isn't arriving at this glacier . <eos>
-Every driver aren't arriving at this glacier . <eos>
-That hospital doesn't criticize Melinda . <eos>
-That hospital don't criticize Melinda . <eos>
-Raymond doesn't break a lot of cars . <eos>
-Raymond don't break a lot of cars . <eos>
-Beth hasn't died . <eos>
-Beth haven't died . <eos>
-The mouths don't close . <eos>
-The mouths doesn't close . <eos>
+Jeffrey are n't chuckling . <eos>
+Every driver is n't arriving at this glacier . <eos>
+Every driver are n't arriving at this glacier . <eos>
+That hospital does n't criticize Melinda . <eos>
+That hospital do n't criticize Melinda . <eos>
+Raymond does n't break a lot of cars . <eos>
+Raymond do n't break a lot of cars . <eos>
+Beth has n't died . <eos>
+Beth have n't died . <eos>
+The mouths do n't close . <eos>
+The mouths does n't close . <eos>
 Teenagers do skate around banks . <eos>
 Teenagers does skate around banks . <eos>
-Ronald isn't finding Veronica . <eos>
+Ronald is n't finding Veronica . <eos>
 Ronald weren't finding Veronica . <eos>
 These schools weren't benefiting . <eos>
-These schools isn't benefiting . <eos>
+These schools is n't benefiting . <eos>
 Katherine was fixing a lot of windows . <eos>
 Katherine are fixing a lot of windows . <eos>
-Katherine isn't approaching Amanda . <eos>
-Katherine aren't approaching Amanda . <eos>
-Emily isn't insulting Timothy . <eos>
-Emily aren't insulting Timothy . <eos>
+Katherine is n't approaching Amanda . <eos>
+Katherine are n't approaching Amanda . <eos>
+Emily is n't insulting Timothy . <eos>
+Emily are n't insulting Timothy . <eos>
 A lot of teenagers were approving . <eos>
 A lot of teenagers is approving . <eos>
-These turtles haven't come here . <eos>
-These turtles hasn't come here . <eos>
+These turtles have n't come here . <eos>
+These turtles has n't come here . <eos>
 Allison has loved some actress . <eos>
 Allison have loved some actress . <eos>
 Deborah is compromising . <eos>
 Deborah were compromising . <eos>
-All teenagers don't fight . <eos>
-All teenagers doesn't fight . <eos>
+All teenagers do n't fight . <eos>
+All teenagers does n't fight . <eos>
 Girls have nodded . <eos>
 Girls has nodded . <eos>
-John doesn't help Rhonda . <eos>
-John don't help Rhonda . <eos>
-Most girls aren't hugging . <eos>
-Most girls isn't hugging . <eos>
+John does n't help Rhonda . <eos>
+John do n't help Rhonda . <eos>
+Most girls are n't hugging . <eos>
+Most girls is n't hugging . <eos>
 William was escaping . <eos>
 William are escaping . <eos>
-Becca doesn't break some fork . <eos>
-Becca don't break some fork . <eos>
-Valerie doesn't boast about Keith . <eos>
-Valerie don't boast about Keith . <eos>
-Alan doesn't swallow . <eos>
-Alan don't swallow . <eos>
+Becca does n't break some fork . <eos>
+Becca do n't break some fork . <eos>
+Valerie does n't boast about Keith . <eos>
+Valerie do n't boast about Keith . <eos>
+Alan does n't swallow . <eos>
+Alan do n't swallow . <eos>
 Some girls have climbed up the stairs . <eos>
 Some girls has climbed up the stairs . <eos>
 Guy wasn't attacking Katherine . <eos>
-Guy aren't attacking Katherine . <eos>
+Guy are n't attacking Katherine . <eos>
 All guys have struggled . <eos>
 All guys has struggled . <eos>
-Tammy doesn't hunt . <eos>
-Tammy don't hunt . <eos>
+Tammy does n't hunt . <eos>
+Tammy do n't hunt . <eos>
 Anne is exiting a lot of cafes . <eos>
 Anne were exiting a lot of cafes . <eos>
 Roger does forfeit . <eos>
@@ -1834,152 +1834,152 @@ Amelia was fleeing from Keith . <eos>
 Amelia are fleeing from Keith . <eos>
 Cheryl was donating . <eos>
 Cheryl were donating . <eos>
-Julia isn't washing . <eos>
+Julia is n't washing . <eos>
 Julia weren't washing . <eos>
-All museums don't interact . <eos>
-All museums doesn't interact . <eos>
+All museums do n't interact . <eos>
+All museums does n't interact . <eos>
 Gerald is fixing the couch . <eos>
 Gerald are fixing the couch . <eos>
 Gary has aggravated Dan . <eos>
 Gary have aggravated Dan . <eos>
-Lakes don't embarrass Douglas . <eos>
-Lakes doesn't embarrass Douglas . <eos>
+Lakes do n't embarrass Douglas . <eos>
+Lakes does n't embarrass Douglas . <eos>
 Ruth has wept . <eos>
 Ruth have wept . <eos>
-Eva hasn't studied . <eos>
-Eva haven't studied . <eos>
+Eva has n't studied . <eos>
+Eva have n't studied . <eos>
 John has escaped . <eos>
 John have escaped . <eos>
 Some school was insulting Tracy . <eos>
 Some school were insulting Tracy . <eos>
-Some actresses haven't changed . <eos>
-Some actresses hasn't changed . <eos>
+Some actresses have n't changed . <eos>
+Some actresses has n't changed . <eos>
 Alan does pass all hills . <eos>
 Alan do pass all hills . <eos>
 A skirt is shrinking . <eos>
 A skirt are shrinking . <eos>
 Gary does visit Elizabeth . <eos>
 Gary do visit Elizabeth . <eos>
-Donna hasn't biked to these grocery stores . <eos>
-Donna haven't biked to these grocery stores . <eos>
+Donna has n't biked to these grocery stores . <eos>
+Donna have n't biked to these grocery stores . <eos>
 Most senators have distracted Susan . <eos>
 Most senators has distracted Susan . <eos>
 Donna wasn't distracting a pedestrian . <eos>
-Donna aren't distracting a pedestrian . <eos>
+Donna are n't distracting a pedestrian . <eos>
 Steven does murmur . <eos>
 Steven do murmur . <eos>
 Many girls weren't waving . <eos>
-Many girls isn't waving . <eos>
+Many girls is n't waving . <eos>
 A boy does concur . <eos>
 A boy do concur . <eos>
 Every scarf does aggravate Ella . <eos>
 Every scarf do aggravate Ella . <eos>
 Some guys weren't fighting . <eos>
-Some guys isn't fighting . <eos>
-This guest doesn't go to some cafe . <eos>
-This guest don't go to some cafe . <eos>
-Matt doesn't find that door . <eos>
-Matt don't find that door . <eos>
+Some guys is n't fighting . <eos>
+This guest does n't go to some cafe . <eos>
+This guest do n't go to some cafe . <eos>
+Matt does n't find that door . <eos>
+Matt do n't find that door . <eos>
 Gregory has insulted Anna . <eos>
 Gregory have insulted Anna . <eos>
-Mitchell doesn't investigate Rachel . <eos>
-Mitchell don't investigate Rachel . <eos>
-Matt doesn't depart . <eos>
-Matt don't depart . <eos>
+Mitchell does n't investigate Rachel . <eos>
+Mitchell do n't investigate Rachel . <eos>
+Matt does n't depart . <eos>
+Matt do n't depart . <eos>
 Some government does surrender . <eos>
 Some government do surrender . <eos>
 Melanie does ascend a lot of slopes . <eos>
 Melanie do ascend a lot of slopes . <eos>
 The pedestrians have dated . <eos>
 The pedestrians has dated . <eos>
-Most companies haven't interacted . <eos>
-Most companies hasn't interacted . <eos>
-That book hasn't disagreed with James . <eos>
-That book haven't disagreed with James . <eos>
-Jacqueline doesn't work with this driver . <eos>
-Jacqueline don't work with this driver . <eos>
+Most companies have n't interacted . <eos>
+Most companies has n't interacted . <eos>
+That book has n't disagreed with James . <eos>
+That book have n't disagreed with James . <eos>
+Jacqueline does n't work with this driver . <eos>
+Jacqueline do n't work with this driver . <eos>
 Helen has impressed Brad . <eos>
 Helen have impressed Brad . <eos>
-Kristin isn't weeping . <eos>
-Kristin aren't weeping . <eos>
+Kristin is n't weeping . <eos>
+Kristin are n't weeping . <eos>
 These windows are confusing these governments . <eos>
 These windows is confusing these governments . <eos>
 That cashier does donate . <eos>
 That cashier do donate . <eos>
 Natalie does tour all banks . <eos>
 Natalie do tour all banks . <eos>
-Kayla doesn't salute . <eos>
-Kayla don't salute . <eos>
+Kayla does n't salute . <eos>
+Kayla do n't salute . <eos>
 Some girl was working with some student . <eos>
 Some girl were working with some student . <eos>
 Derek wasn't hiding away . <eos>
 Derek weren't hiding away . <eos>
-Nina hasn't fired these customers . <eos>
-Nina haven't fired these customers . <eos>
+Nina has n't fired these customers . <eos>
+Nina have n't fired these customers . <eos>
 Martin does have some dog . <eos>
 Martin do have some dog . <eos>
 Noah has hired Sarah . <eos>
 Noah have hired Sarah . <eos>
 Most museums weren't bothering customers . <eos>
-Most museums isn't bothering customers . <eos>
-Patricia doesn't like most guests . <eos>
-Patricia don't like most guests . <eos>
+Most museums is n't bothering customers . <eos>
+Patricia does n't like most guests . <eos>
+Patricia do n't like most guests . <eos>
 Carol has lied . <eos>
 Carol have lied . <eos>
 Sandra does find a scarf . <eos>
 Sandra do find a scarf . <eos>
-That government hasn't testified . <eos>
-That government haven't testified . <eos>
-All gates haven't closed . <eos>
-All gates hasn't closed . <eos>
+That government has n't testified . <eos>
+That government have n't testified . <eos>
+All gates have n't closed . <eos>
+All gates has n't closed . <eos>
 Julia was climbing up that slope . <eos>
 Julia are climbing up that slope . <eos>
-Matt isn't visiting Sabrina . <eos>
+Matt is n't visiting Sabrina . <eos>
 Matt weren't visiting Sabrina . <eos>
-Linda doesn't talk about Bill . <eos>
-Linda don't talk about Bill . <eos>
-Children don't struggle . <eos>
-Children doesn't struggle . <eos>
+Linda does n't talk about Bill . <eos>
+Linda do n't talk about Bill . <eos>
+Children do n't struggle . <eos>
+Children does n't struggle . <eos>
 Kevin has known Rachel . <eos>
 Kevin have known Rachel . <eos>
 That cilantro was ripening . <eos>
 That cilantro are ripening . <eos>
-This senator doesn't run around some closets . <eos>
-This senator don't run around some closets . <eos>
-John hasn't astounded that waiter . <eos>
-John haven't astounded that waiter . <eos>
+This senator does n't run around some closets . <eos>
+This senator do n't run around some closets . <eos>
+John has n't astounded that waiter . <eos>
+John have n't astounded that waiter . <eos>
 Sarah has lied . <eos>
 Sarah have lied . <eos>
-Diana doesn't annoy some cashiers . <eos>
-Diana don't annoy some cashiers . <eos>
-The customer isn't fixing the vase . <eos>
-The customer aren't fixing the vase . <eos>
-This university doesn't benefit . <eos>
-This university don't benefit . <eos>
+Diana does n't annoy some cashiers . <eos>
+Diana do n't annoy some cashiers . <eos>
+The customer is n't fixing the vase . <eos>
+The customer are n't fixing the vase . <eos>
+This university does n't benefit . <eos>
+This university do n't benefit . <eos>
 Renee does leave Deanna . <eos>
 Renee do leave Deanna . <eos>
-Heather isn't exploring the schools . <eos>
+Heather is n't exploring the schools . <eos>
 Heather weren't exploring the schools . <eos>
 This waiter has joked around . <eos>
 This waiter have joked around . <eos>
 Judy was shrugging . <eos>
 Judy are shrugging . <eos>
-Dana doesn't heal Diane . <eos>
-Dana don't heal Diane . <eos>
+Dana does n't heal Diane . <eos>
+Dana do n't heal Diane . <eos>
 Veronica is waving . <eos>
 Veronica were waving . <eos>
-Customers don't stun this doctor . <eos>
-Customers doesn't stun this doctor . <eos>
-Susan doesn't respect Kenneth . <eos>
-Susan don't respect Kenneth . <eos>
+Customers do n't stun this doctor . <eos>
+Customers does n't stun this doctor . <eos>
+Susan does n't respect Kenneth . <eos>
+Susan do n't respect Kenneth . <eos>
 This closet was opening . <eos>
 This closet are opening . <eos>
 Christopher has scanned all movies . <eos>
 Christopher have scanned all movies . <eos>
 Allison does climb up all hills . <eos>
 Allison do climb up all hills . <eos>
-Deborah hasn't exercised . <eos>
-Deborah haven't exercised . <eos>
+Deborah has n't exercised . <eos>
+Deborah have n't exercised . <eos>
 Kayla has hugged actresses . <eos>
 Kayla have hugged actresses . <eos>
 Stacey was singing . <eos>
@@ -1994,7 +1994,7 @@ These doors were disturbing Tammy . <eos>
 These doors was disturbing Tammy . <eos>
 Margaret is confusing Janice . <eos>
 Margaret were confusing Janice . <eos>
-Gina doesn't mess up that dish . <eos>
-Gina don't mess up that dish . <eos>
-Many cashiers haven't shrugged . <eos>
-Many cashiers hasn't shrugged . <eos>
+Gina does n't mess up that dish . <eos>
+Gina do n't mess up that dish . <eos>
+Many cashiers have n't shrugged . <eos>
+Many cashiers has n't shrugged . <eos>

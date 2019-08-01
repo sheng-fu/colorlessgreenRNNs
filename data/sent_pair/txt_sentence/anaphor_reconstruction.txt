@@ -68,12 +68,12 @@ It's himself who Christopher cared for . <eos>
 It's himself who cared for Christopher . <eos>
 It's itself that this university disliked . <eos>
 It's itself that disliked this university . <eos>
-It's herself who every doctor doesn't like . <eos>
-It's herself who doesn't like every doctor . <eos>
+It's herself who every doctor does n't like . <eos>
+It's herself who does n't like every doctor . <eos>
 It's himself that Bradley listened to . <eos>
 It's himself that listened to Bradley . <eos>
-It's himself who Steve isn't healing . <eos>
-It's himself who isn't healing Steve . <eos>
+It's himself who Steve is n't healing . <eos>
+It's himself who is n't healing Steve . <eos>
 It's themselves that most windows weren't astounding . <eos>
 It's themselves that weren't astounding most windows . <eos>
 It's itself that this bank couldn't describe . <eos>
@@ -88,8 +88,8 @@ It's himself that Andrew praised . <eos>
 It's himself that praised Andrew . <eos>
 It's himself who the actor shouldn't talk about . <eos>
 It's himself who shouldn't talk about the actor . <eos>
-It's himself that Joseph hasn't confused . <eos>
-It's himself that hasn't confused Joseph . <eos>
+It's himself that Joseph has n't confused . <eos>
+It's himself that has n't confused Joseph . <eos>
 It's herself who Heidi talks to . <eos>
 It's herself who talks to Heidi . <eos>
 It's themselves that the students didn't heal . <eos>
@@ -98,8 +98,8 @@ It's himself that Benjamin wasn't firing . <eos>
 It's himself that wasn't firing Benjamin . <eos>
 It's itself that that hospital criticized . <eos>
 It's itself that criticized that hospital . <eos>
-It's himself that Craig doesn't complain about . <eos>
-It's himself that doesn't complain about Craig . <eos>
+It's himself that Craig does n't complain about . <eos>
+It's himself that does n't complain about Craig . <eos>
 It's himself who Douglas has boasted about . <eos>
 It's himself who has boasted about Douglas . <eos>
 It's himself that Dan hadn't referenced . <eos>
@@ -116,12 +116,12 @@ It's herself that Jodi saw . <eos>
 It's herself that saw Jodi . <eos>
 It's herself who Stacy wasn't listening to . <eos>
 It's herself who wasn't listening to Stacy . <eos>
-It's himself that Clyde isn't hiring . <eos>
-It's himself that isn't hiring Clyde . <eos>
+It's himself that Clyde is n't hiring . <eos>
+It's himself that is n't hiring Clyde . <eos>
 It's himself who Kevin knows . <eos>
 It's himself who knows Kevin . <eos>
-It's herself who Susan isn't hiring . <eos>
-It's herself who isn't hiring Susan . <eos>
+It's herself who Susan is n't hiring . <eos>
+It's herself who is n't hiring Susan . <eos>
 It's himself that the guy was watching . <eos>
 It's himself that was watching the guy . <eos>
 It's herself that Elizabeth can cure . <eos>
@@ -132,8 +132,8 @@ It's herself who Meredith hadn't scared . <eos>
 It's herself who hadn't scared Meredith . <eos>
 It's themselves that the waiters praised . <eos>
 It's themselves that praised the waiters . <eos>
-It's itself that every plate isn't disgusting . <eos>
-It's itself that isn't disgusting every plate . <eos>
+It's itself that every plate is n't disgusting . <eos>
+It's itself that is n't disgusting every plate . <eos>
 It's herself that Caroline would reveal . <eos>
 It's herself that would reveal Caroline . <eos>
 It's herself that Lisa investigated . <eos>
@@ -148,8 +148,8 @@ It's herself who Julie leaves . <eos>
 It's herself who leaves Julie . <eos>
 It's herself who every waiter listens to . <eos>
 It's herself who listens to every waiter . <eos>
-It's himself that Edward hasn't revealed . <eos>
-It's himself that hasn't revealed Edward . <eos>
+It's himself that Edward has n't revealed . <eos>
+It's himself that has n't revealed Edward . <eos>
 It's itself that every mall is shocking . <eos>
 It's itself that is shocking every mall . <eos>
 It's herself that Tracy will reveal . <eos>
@@ -162,8 +162,8 @@ It's himself that Mark might cure . <eos>
 It's himself that might cure Mark . <eos>
 It's himself that Stephen can return to . <eos>
 It's himself that can return to Stephen . <eos>
-It's herself that Denise isn't hiring . <eos>
-It's herself that isn't hiring Denise . <eos>
+It's herself that Denise is n't hiring . <eos>
+It's herself that is n't hiring Denise . <eos>
 It's herself who Karla wasn't disgusting . <eos>
 It's herself who wasn't disgusting Karla . <eos>
 It's herself who Nina is listening to . <eos>
@@ -284,8 +284,8 @@ It's herself that Meredith should escape from . <eos>
 It's herself that should escape from Meredith . <eos>
 It's herself that Suzanne didn't investigate . <eos>
 It's herself that didn't investigate Suzanne . <eos>
-It's himself who Carl hasn't concealed . <eos>
-It's himself who hasn't concealed Carl . <eos>
+It's himself who Carl has n't concealed . <eos>
+It's himself who has n't concealed Carl . <eos>
 It's herself who Sandra conceals . <eos>
 It's herself who conceals Sandra . <eos>
 It's herself that Nina would argue about . <eos>
@@ -300,8 +300,8 @@ It's itself that a newspaper article wasn't disagreeing with . <eos>
 It's itself that wasn't disagreeing with a newspaper article . <eos>
 It's herself that Heather attacks . <eos>
 It's herself that attacks Heather . <eos>
-It's itself that some fish hasn't aggravated . <eos>
-It's itself that hasn't aggravated some fish . <eos>
+It's itself that some fish has n't aggravated . <eos>
+It's itself that has n't aggravated some fish . <eos>
 It's herself who Carol had boasted about . <eos>
 It's herself who had boasted about Carol . <eos>
 It's herself that Jane wasn't concealing . <eos>
@@ -310,8 +310,8 @@ It's herself who Dana dislikes . <eos>
 It's herself who dislikes Dana . <eos>
 It's herself who Julia hadn't criticized . <eos>
 It's herself who hadn't criticized Julia . <eos>
-It's herself that Melanie doesn't reference . <eos>
-It's herself that doesn't reference Melanie . <eos>
+It's herself that Melanie does n't reference . <eos>
+It's herself that does n't reference Melanie . <eos>
 It's herself that Mary might see . <eos>
 It's herself that might see Mary . <eos>
 It's herself that Diana can heal . <eos>
@@ -328,8 +328,8 @@ It's itself that every ladder shocked . <eos>
 It's itself that shocked every ladder . <eos>
 It's herself that this teacher can disgust . <eos>
 It's herself that can disgust this teacher . <eos>
-It's himself who Eric isn't describing . <eos>
-It's himself who isn't describing Eric . <eos>
+It's himself who Eric is n't describing . <eos>
+It's himself who is n't describing Eric . <eos>
 It's himself who Todd hadn't aggravated . <eos>
 It's himself who hadn't aggravated Todd . <eos>
 It's himself that Noah should shock . <eos>
@@ -342,10 +342,10 @@ It's itself that that association shouldn't disgust . <eos>
 It's itself that shouldn't disgust that association . <eos>
 It's herself that Karen insulted . <eos>
 It's herself that insulted Karen . <eos>
-It's herself that Carrie hasn't alarmed . <eos>
-It's herself that hasn't alarmed Carrie . <eos>
-It's herself who every actress isn't approaching . <eos>
-It's herself who isn't approaching every actress . <eos>
+It's herself that Carrie has n't alarmed . <eos>
+It's herself that has n't alarmed Carrie . <eos>
+It's herself who every actress is n't approaching . <eos>
+It's herself who is n't approaching every actress . <eos>
 It's herself who Rhonda confused . <eos>
 It's herself who confused Rhonda . <eos>
 It's herself that Angela was aggravating . <eos>
@@ -370,24 +370,24 @@ It's herself who Julie forgets . <eos>
 It's herself who forgets Julie . <eos>
 It's herself who Jessica hadn't admired . <eos>
 It's herself who hadn't admired Jessica . <eos>
-It's themselves that most waitresses aren't fleeing from . <eos>
-It's themselves that aren't fleeing from most waitresses . <eos>
+It's themselves that most waitresses are n't fleeing from . <eos>
+It's themselves that are n't fleeing from most waitresses . <eos>
 It's themselves that some fish would conceal . <eos>
 It's themselves that would conceal some fish . <eos>
 It's herself who Leslie insults . <eos>
 It's herself who insults Leslie . <eos>
-It's herself who Judy hasn't fled from . <eos>
-It's herself who hasn't fled from Judy . <eos>
-It's himself who this cashier isn't leaving . <eos>
-It's himself who isn't leaving this cashier . <eos>
+It's herself who Judy has n't fled from . <eos>
+It's herself who has n't fled from Judy . <eos>
+It's himself who this cashier is n't leaving . <eos>
+It's himself who is n't leaving this cashier . <eos>
 It's themselves that a lot of libraries shouldn't reference . <eos>
 It's themselves that shouldn't reference a lot of libraries . <eos>
 It's himself who the student admires . <eos>
 It's himself who admires the student . <eos>
 It's themselves that some books disagreed with . <eos>
 It's themselves that disagreed with some books . <eos>
-It's herself who Kristen isn't leaving . <eos>
-It's herself who isn't leaving Kristen . <eos>
+It's herself who Kristen is n't leaving . <eos>
+It's herself who is n't leaving Kristen . <eos>
 It's herself who Jane is attacking . <eos>
 It's herself who is attacking Jane . <eos>
 It's himself who Lawrence helped . <eos>
@@ -426,12 +426,12 @@ It's himself that Marcus was boasting about . <eos>
 It's himself that was boasting about Marcus . <eos>
 It's herself that Lisa has insulted . <eos>
 It's herself that has insulted Lisa . <eos>
-It's herself that Regina isn't criticizing . <eos>
-It's herself that isn't criticizing Regina . <eos>
-It's themselves that some children aren't disagreeing with . <eos>
-It's themselves that aren't disagreeing with some children . <eos>
-It's herself that Angela hasn't worried . <eos>
-It's herself that hasn't worried Angela . <eos>
+It's herself that Regina is n't criticizing . <eos>
+It's herself that is n't criticizing Regina . <eos>
+It's themselves that some children are n't disagreeing with . <eos>
+It's themselves that are n't disagreeing with some children . <eos>
+It's herself that Angela has n't worried . <eos>
+It's herself that has n't worried Angela . <eos>
 It's themselves who the adults disagree with . <eos>
 It's themselves who disagree with the adults . <eos>
 It's themselves that many libraries couldn't conceal . <eos>
@@ -446,12 +446,12 @@ It's herself who this girl did investigate . <eos>
 It's herself who did investigate this girl . <eos>
 It's himself that Benjamin knows . <eos>
 It's himself that knows Benjamin . <eos>
-It's herself who Mary hasn't talked about . <eos>
-It's herself who hasn't talked about Mary . <eos>
+It's herself who Mary has n't talked about . <eos>
+It's herself who has n't talked about Mary . <eos>
 It's herself who Vanessa wouldn't scare . <eos>
 It's herself who wouldn't scare Vanessa . <eos>
-It's herself that Nina hasn't talked about . <eos>
-It's herself that hasn't talked about Nina . <eos>
+It's herself that Nina has n't talked about . <eos>
+It's herself that has n't talked about Nina . <eos>
 It's herself who Connie appreciates . <eos>
 It's herself who appreciates Connie . <eos>
 It's herself that Rebecca has hurt . <eos>
@@ -468,18 +468,18 @@ It's himself who Travis can't remember . <eos>
 It's himself who can't remember Travis . <eos>
 It's itself that some skirt is boring . <eos>
 It's itself that is boring some skirt . <eos>
-It's herself who Naomi isn't talking to . <eos>
-It's herself who isn't talking to Naomi . <eos>
-It's himself that Gregory isn't bothering . <eos>
-It's himself that isn't bothering Gregory . <eos>
+It's herself who Naomi is n't talking to . <eos>
+It's herself who is n't talking to Naomi . <eos>
+It's himself that Gregory is n't bothering . <eos>
+It's himself that is n't bothering Gregory . <eos>
 It's herself that Naomi is hurting . <eos>
 It's herself that is hurting Naomi . <eos>
 It's herself who Linda leaves . <eos>
 It's herself who leaves Linda . <eos>
 It's herself that Connie couldn't praise . <eos>
 It's herself that couldn't praise Connie . <eos>
-It's himself who Omar hasn't complained about . <eos>
-It's himself who hasn't complained about Omar . <eos>
+It's himself who Omar has n't complained about . <eos>
+It's himself who has n't complained about Omar . <eos>
 It's herself that Grace could hurt . <eos>
 It's herself that could hurt Grace . <eos>
 It's himself who Russell hugs . <eos>
@@ -498,22 +498,22 @@ It's herself who Heather worked with . <eos>
 It's herself who worked with Heather . <eos>
 It's herself that Colleen hadn't loved . <eos>
 It's herself that hadn't loved Colleen . <eos>
-It's himself who Stephen doesn't know . <eos>
-It's himself who doesn't know Stephen . <eos>
-It's herself that that cashier doesn't like . <eos>
-It's herself that doesn't like that cashier . <eos>
-It's herself that Cheryl hasn't insulted . <eos>
-It's herself that hasn't insulted Cheryl . <eos>
-It's himself who a boy hasn't kissed . <eos>
-It's himself who hasn't kissed a boy . <eos>
+It's himself who Stephen does n't know . <eos>
+It's himself who does n't know Stephen . <eos>
+It's herself that that cashier does n't like . <eos>
+It's herself that does n't like that cashier . <eos>
+It's herself that Cheryl has n't insulted . <eos>
+It's herself that has n't insulted Cheryl . <eos>
+It's himself who a boy has n't kissed . <eos>
+It's himself who has n't kissed a boy . <eos>
 It's himself who every boy won't work with . <eos>
 It's himself who won't work with every boy . <eos>
 It's himself who Steven hires . <eos>
 It's himself who hires Steven . <eos>
 It's herself that Bethany praised . <eos>
 It's herself that praised Bethany . <eos>
-It's himself that a guy hasn't fled from . <eos>
-It's himself that hasn't fled from a guy . <eos>
+It's himself that a guy has n't fled from . <eos>
+It's himself that has n't fled from a guy . <eos>
 It's themselves that many turtles found . <eos>
 It's themselves that found many turtles . <eos>
 It's himself that Daniel hadn't aggravated . <eos>
@@ -558,8 +558,8 @@ It's herself that Jodi can kiss . <eos>
 It's herself that can kiss Jodi . <eos>
 It's himself who Edward was criticizing . <eos>
 It's himself who was criticizing Edward . <eos>
-It's herself who Paula doesn't upset . <eos>
-It's herself who doesn't upset Paula . <eos>
+It's herself who Paula does n't upset . <eos>
+It's herself who does n't upset Paula . <eos>
 It's himself that Andrew visits . <eos>
 It's himself that visits Andrew . <eos>
 It's himself that Bill praised . <eos>
@@ -572,8 +572,8 @@ It's himself who Keith didn't conceal . <eos>
 It's himself who didn't conceal Keith . <eos>
 It's themselves that most girls describe . <eos>
 It's themselves that describe most girls . <eos>
-It's themselves that the paintings aren't hurting . <eos>
-It's themselves that aren't hurting the paintings . <eos>
+It's themselves that the paintings are n't hurting . <eos>
+It's themselves that are n't hurting the paintings . <eos>
 It's himself who Derek leaves . <eos>
 It's himself who leaves Derek . <eos>
 It's themselves who girls should disturb . <eos>
@@ -618,20 +618,20 @@ It's herself that Elaine might visit . <eos>
 It's herself that might visit Elaine . <eos>
 It's herself who Barbara appreciates . <eos>
 It's herself who appreciates Barbara . <eos>
-It's herself who Linda hasn't irritated . <eos>
-It's herself who hasn't irritated Linda . <eos>
+It's herself who Linda has n't irritated . <eos>
+It's herself who has n't irritated Linda . <eos>
 It's herself that Amanda can hire . <eos>
 It's herself that can hire Amanda . <eos>
 It's herself who Sally could hide . <eos>
 It's herself who could hide Sally . <eos>
 It's himself that Thomas helps . <eos>
 It's himself that helps Thomas . <eos>
-It's herself that Nancy isn't irritating . <eos>
-It's herself that isn't irritating Nancy . <eos>
+It's herself that Nancy is n't irritating . <eos>
+It's herself that is n't irritating Nancy . <eos>
 It's herself that Amelia left . <eos>
 It's herself that left Amelia . <eos>
-It's himself who Homer isn't hiding . <eos>
-It's himself who isn't hiding Homer . <eos>
+It's himself who Homer is n't hiding . <eos>
+It's himself who is n't hiding Homer . <eos>
 It's himself that Derek did praise . <eos>
 It's himself that did praise Derek . <eos>
 It's herself that Angela should irritate . <eos>
@@ -652,8 +652,8 @@ It's himself who Aaron cares for . <eos>
 It's himself who cares for Aaron . <eos>
 It's herself who Elaine had left . <eos>
 It's herself who had left Elaine . <eos>
-It's herself who Rachelle hasn't forgotten . <eos>
-It's herself who hasn't forgotten Rachelle . <eos>
+It's herself who Rachelle has n't forgotten . <eos>
+It's herself who has n't forgotten Rachelle . <eos>
 It's herself who Carla revealed . <eos>
 It's herself who revealed Carla . <eos>
 It's himself who Gregory forgets . <eos>
@@ -662,8 +662,8 @@ It's herself who Deborah talks about . <eos>
 It's herself who talks about Deborah . <eos>
 It's himself that Alan has bored . <eos>
 It's himself that has bored Alan . <eos>
-It's themselves who these pedestrians haven't hidden . <eos>
-It's themselves who haven't hidden these pedestrians . <eos>
+It's themselves who these pedestrians have n't hidden . <eos>
+It's themselves who have n't hidden these pedestrians . <eos>
 It's herself who this waitress kisses . <eos>
 It's herself who kisses this waitress . <eos>
 It's themselves that a lot of ladies had helped . <eos>
@@ -690,8 +690,8 @@ It's herself who Diane shouldn't approach . <eos>
 It's herself who shouldn't approach Diane . <eos>
 It's herself who Tina is listening to . <eos>
 It's herself who is listening to Tina . <eos>
-It's herself that Jane hasn't found . <eos>
-It's herself that hasn't found Jane . <eos>
+It's herself that Jane has n't found . <eos>
+It's herself that has n't found Jane . <eos>
 It's herself that a child cared for . <eos>
 It's herself that cared for a child . <eos>
 It's himself who Richard talks about . <eos>
@@ -740,8 +740,8 @@ It's herself that Lori hadn't astounded . <eos>
 It's herself that hadn't astounded Lori . <eos>
 It's himself that Roger didn't watch . <eos>
 It's himself that didn't watch Roger . <eos>
-It's themselves that a lot of icicles haven't bored . <eos>
-It's themselves that haven't bored a lot of icicles . <eos>
+It's themselves that a lot of icicles have n't bored . <eos>
+It's themselves that have n't bored a lot of icicles . <eos>
 It's herself who Vanessa wasn't distracting . <eos>
 It's herself who wasn't distracting Vanessa . <eos>
 It's himself that Guy argued about . <eos>
@@ -752,10 +752,10 @@ It's themselves that all pedestrians disagree with . <eos>
 It's themselves that disagree with all pedestrians . <eos>
 It's themselves who the boys described . <eos>
 It's themselves who described the boys . <eos>
-It's herself that Becky hasn't disturbed . <eos>
-It's herself that hasn't disturbed Becky . <eos>
-It's himself that Brett isn't visiting . <eos>
-It's himself that isn't visiting Brett . <eos>
+It's herself that Becky has n't disturbed . <eos>
+It's herself that has n't disturbed Becky . <eos>
+It's himself that Brett is n't visiting . <eos>
+It's himself that is n't visiting Brett . <eos>
 It's herself that Tamara is complaining about . <eos>
 It's herself that is complaining about Tamara . <eos>
 It's herself that Suzanne appreciates . <eos>
@@ -764,8 +764,8 @@ It's himself that Frank returns to . <eos>
 It's himself that returns to Frank . <eos>
 It's himself who a man wasn't approaching . <eos>
 It's himself who wasn't approaching a man . <eos>
-It's herself that Carol isn't shocking . <eos>
-It's herself that isn't shocking Carol . <eos>
+It's herself that Carol is n't shocking . <eos>
+It's herself that is n't shocking Carol . <eos>
 It's himself that Marcus is complaining about . <eos>
 It's himself that is complaining about Marcus . <eos>
 It's herself that Teresa cared for . <eos>
@@ -774,14 +774,14 @@ It's itself that some play won't disagree with . <eos>
 It's itself that won't disagree with some play . <eos>
 It's herself who Tamara should fire . <eos>
 It's herself who should fire Tamara . <eos>
-It's himself who Derek isn't returning to . <eos>
-It's himself who isn't returning to Derek . <eos>
+It's himself who Derek is n't returning to . <eos>
+It's himself who is n't returning to Derek . <eos>
 It's himself that Travis disturbed . <eos>
 It's himself that disturbed Travis . <eos>
-It's themselves who all actors aren't investigating . <eos>
-It's themselves who aren't investigating all actors . <eos>
-It's herself that Jill isn't watching . <eos>
-It's herself that isn't watching Jill . <eos>
+It's themselves who all actors are n't investigating . <eos>
+It's themselves who are n't investigating all actors . <eos>
+It's herself that Jill is n't watching . <eos>
+It's herself that is n't watching Jill . <eos>
 It's itself that this popsicle would confuse . <eos>
 It's itself that would confuse this popsicle . <eos>
 It's herself that Tammy admires . <eos>
@@ -790,8 +790,8 @@ It's herself who every patient was praising . <eos>
 It's herself who was praising every patient . <eos>
 It's herself who Stephanie upset . <eos>
 It's herself who upset Stephanie . <eos>
-It's herself who Kendra doesn't distract . <eos>
-It's herself who doesn't distract Kendra . <eos>
+It's herself who Kendra does n't distract . <eos>
+It's herself who does n't distract Kendra . <eos>
 It's herself who Janet hadn't watched . <eos>
 It's herself who hadn't watched Janet . <eos>
 It's herself that Marie is scaring . <eos>
@@ -816,8 +816,8 @@ It's themselves who these ladies praise . <eos>
 It's themselves who praise these ladies . <eos>
 It's herself that Cindy can heal . <eos>
 It's herself that can heal Cindy . <eos>
-It's himself that Jerry isn't watching . <eos>
-It's himself that isn't watching Jerry . <eos>
+It's himself that Jerry is n't watching . <eos>
+It's himself that is n't watching Jerry . <eos>
 It's itself that that dog concealed . <eos>
 It's itself that concealed that dog . <eos>
 It's herself who Martha sounds like . <eos>
@@ -850,8 +850,8 @@ It's themselves that a lot of boys disagree with . <eos>
 It's themselves that disagree with a lot of boys . <eos>
 It's herself who Carol talks to . <eos>
 It's herself who talks to Carol . <eos>
-It's himself who Daniel doesn't sound like . <eos>
-It's himself who doesn't sound like Daniel . <eos>
+It's himself who Daniel does n't sound like . <eos>
+It's himself who does n't sound like Daniel . <eos>
 It's herself that Suzanne helped . <eos>
 It's herself that helped Suzanne . <eos>
 It's himself who Brad wasn't helping . <eos>
@@ -862,8 +862,8 @@ It's herself that Dawn disagrees with . <eos>
 It's herself that disagrees with Dawn . <eos>
 It's herself that that waitress references . <eos>
 It's herself that references that waitress . <eos>
-It's herself that Beth hasn't insulted . <eos>
-It's herself that hasn't insulted Beth . <eos>
+It's herself that Beth has n't insulted . <eos>
+It's herself that has n't insulted Beth . <eos>
 It's himself who Walter observed . <eos>
 It's himself who observed Walter . <eos>
 It's themselves that a lot of vases can disturb . <eos>
@@ -884,8 +884,8 @@ It's himself who Frank appreciated . <eos>
 It's himself who appreciated Frank . <eos>
 It's himself that Lawrence wasn't impressing . <eos>
 It's himself that wasn't impressing Lawrence . <eos>
-It's themselves that the prints haven't stunned . <eos>
-It's themselves that haven't stunned the prints . <eos>
+It's themselves that the prints have n't stunned . <eos>
+It's themselves that have n't stunned the prints . <eos>
 It's itself that every drawing is shocking . <eos>
 It's itself that is shocking every drawing . <eos>
 It's himself that Jeffrey is bothering . <eos>
@@ -910,8 +910,8 @@ It's himself who Michael hid . <eos>
 It's himself who hid Michael . <eos>
 It's himself that Kenneth had bothered . <eos>
 It's himself that had bothered Kenneth . <eos>
-It's herself that Lucille doesn't stun . <eos>
-It's herself that doesn't stun Lucille . <eos>
+It's herself that Lucille does n't stun . <eos>
+It's herself that does n't stun Lucille . <eos>
 It's herself who Jane admired . <eos>
 It's herself who admired Jane . <eos>
 It's herself that Lissa insults . <eos>
@@ -922,32 +922,32 @@ It's himself that Eric watched . <eos>
 It's himself that watched Eric . <eos>
 It's themselves who the ladies conceal . <eos>
 It's themselves who conceal the ladies . <eos>
-It's herself that Diane isn't confusing . <eos>
-It's herself that isn't confusing Diane . <eos>
+It's herself that Diane is n't confusing . <eos>
+It's herself that is n't confusing Diane . <eos>
 It's herself that Kirsten has astounded . <eos>
 It's herself that has astounded Kirsten . <eos>
 It's herself who Suzanne finds . <eos>
 It's herself who finds Suzanne . <eos>
-It's herself that Sherry doesn't upset . <eos>
-It's herself that doesn't upset Sherry . <eos>
+It's herself that Sherry does n't upset . <eos>
+It's herself that does n't upset Sherry . <eos>
 It's herself who Angela didn't see . <eos>
 It's herself who didn't see Angela . <eos>
 It's herself that Kayla hated . <eos>
 It's herself that hated Kayla . <eos>
 It's herself who Tiffany investigated . <eos>
 It's herself who investigated Tiffany . <eos>
-It's himself that Liam hasn't healed . <eos>
-It's himself that hasn't healed Liam . <eos>
+It's himself that Liam has n't healed . <eos>
+It's himself that has n't healed Liam . <eos>
 It's himself that Kenneth concealed . <eos>
 It's himself that concealed Kenneth . <eos>
-It's himself that Steven hasn't boasted about . <eos>
-It's himself that hasn't boasted about Steven . <eos>
+It's himself that Steven has n't boasted about . <eos>
+It's himself that has n't boasted about Steven . <eos>
 It's herself who Victoria heals . <eos>
 It's herself who heals Victoria . <eos>
 It's herself that Tammy has respected . <eos>
 It's herself that has respected Tammy . <eos>
-It's herself that Kristen isn't revealing . <eos>
-It's herself that isn't revealing Kristen . <eos>
+It's herself that Kristen is n't revealing . <eos>
+It's herself that is n't revealing Kristen . <eos>
 It's himself that Kevin didn't remember . <eos>
 It's himself that didn't remember Kevin . <eos>
 It's herself that Brenda observes . <eos>
@@ -962,12 +962,12 @@ It's itself that a university will irritate . <eos>
 It's itself that will irritate a university . <eos>
 It's herself that Karen would hire . <eos>
 It's herself that would hire Karen . <eos>
-It's herself that Patricia isn't impressing . <eos>
-It's herself that isn't impressing Patricia . <eos>
-It's herself who Jill hasn't found . <eos>
-It's herself who hasn't found Jill . <eos>
-It's herself who Anna isn't referencing . <eos>
-It's herself who isn't referencing Anna . <eos>
+It's herself that Patricia is n't impressing . <eos>
+It's herself that is n't impressing Patricia . <eos>
+It's herself who Jill has n't found . <eos>
+It's herself who has n't found Jill . <eos>
+It's herself who Anna is n't referencing . <eos>
+It's herself who is n't referencing Anna . <eos>
 It's itself that every legislature had concealed . <eos>
 It's itself that had concealed every legislature . <eos>
 It's herself who Beverly had returned to . <eos>
@@ -1000,16 +1000,16 @@ It's themselves that hamsters confused . <eos>
 It's themselves that confused hamsters . <eos>
 It's themselves that students talk about . <eos>
 It's themselves that talk about students . <eos>
-It's herself who Melinda hasn't approached . <eos>
-It's herself who hasn't approached Melinda . <eos>
+It's herself who Melinda has n't approached . <eos>
+It's herself who has n't approached Melinda . <eos>
 It's himself that Martin sees . <eos>
 It's himself that sees Martin . <eos>
 It's herself that Bethany should scare . <eos>
 It's herself that should scare Bethany . <eos>
 It's themselves that organizations praised . <eos>
 It's themselves that praised organizations . <eos>
-It's themselves that these libraries aren't praising . <eos>
-It's themselves that aren't praising these libraries . <eos>
+It's themselves that these libraries are n't praising . <eos>
+It's themselves that are n't praising these libraries . <eos>
 It's himself that John works with . <eos>
 It's himself that works with John . <eos>
 It's herself who Leslie alarmed . <eos>
@@ -1022,12 +1022,12 @@ It's themselves who the ladies sound like . <eos>
 It's themselves who sound like the ladies . <eos>
 It's himself that Craig is revealing . <eos>
 It's himself that is revealing Craig . <eos>
-It's herself that Rebecca isn't concealing . <eos>
-It's herself that isn't concealing Rebecca . <eos>
-It's themselves that most malls haven't irritated . <eos>
-It's themselves that haven't irritated most malls . <eos>
-It's herself that every customer hasn't appreciated . <eos>
-It's herself that hasn't appreciated every customer . <eos>
+It's herself that Rebecca is n't concealing . <eos>
+It's herself that is n't concealing Rebecca . <eos>
+It's themselves that most malls have n't irritated . <eos>
+It's themselves that have n't irritated most malls . <eos>
+It's herself that every customer has n't appreciated . <eos>
+It's herself that has n't appreciated every customer . <eos>
 It's herself that Erin has distracted . <eos>
 It's herself that has distracted Erin . <eos>
 It's herself who Carla complained about . <eos>
@@ -1040,16 +1040,16 @@ It's herself who Lisa has alarmed . <eos>
 It's herself who has alarmed Lisa . <eos>
 It's herself that Veronica visits . <eos>
 It's herself that visits Veronica . <eos>
-It's herself that Beverly hasn't fired . <eos>
-It's herself that hasn't fired Beverly . <eos>
+It's herself that Beverly has n't fired . <eos>
+It's herself that has n't fired Beverly . <eos>
 It's themselves who many women had hugged . <eos>
 It's themselves who had hugged many women . <eos>
 It's herself who Emily saw . <eos>
 It's herself who saw Emily . <eos>
-It's herself that Heather hasn't revealed . <eos>
-It's herself that hasn't revealed Heather . <eos>
-It's themselves who some students haven't complained about . <eos>
-It's themselves who haven't complained about some students . <eos>
+It's herself that Heather has n't revealed . <eos>
+It's herself that has n't revealed Heather . <eos>
+It's themselves who some students have n't complained about . <eos>
+It's themselves who have n't complained about some students . <eos>
 It's herself who Stephanie hadn't helped . <eos>
 It's herself who hadn't helped Stephanie . <eos>
 It's himself that a man should reference . <eos>
@@ -1060,8 +1060,8 @@ It's herself who Tracy heals . <eos>
 It's herself who heals Tracy . <eos>
 It's themselves that a lot of commentaries discuss . <eos>
 It's themselves that discuss a lot of commentaries . <eos>
-It's herself that Rebecca hasn't scared . <eos>
-It's herself that hasn't scared Rebecca . <eos>
+It's herself that Rebecca has n't scared . <eos>
+It's herself that has n't scared Rebecca . <eos>
 It's herself who Anna irritated . <eos>
 It's herself who irritated Anna . <eos>
 It's themselves that the stories had confused . <eos>
@@ -1072,8 +1072,8 @@ It's herself who Debra cares for . <eos>
 It's herself who cares for Debra . <eos>
 It's herself who Alicia approached . <eos>
 It's herself who approached Alicia . <eos>
-It's herself that Kirsten hasn't fled from . <eos>
-It's herself that hasn't fled from Kirsten . <eos>
+It's herself that Kirsten has n't fled from . <eos>
+It's herself that has n't fled from Kirsten . <eos>
 It's themselves who guests argued about . <eos>
 It's themselves who argued about guests . <eos>
 It's herself that Carol aggravated . <eos>
@@ -1146,8 +1146,8 @@ It's herself who Kimberley can visit . <eos>
 It's herself who can visit Kimberley . <eos>
 It's himself that that patient liked . <eos>
 It's himself that liked that patient . <eos>
-It's herself who Samantha hasn't left . <eos>
-It's herself who hasn't left Samantha . <eos>
+It's herself who Samantha has n't left . <eos>
+It's herself who has n't left Samantha . <eos>
 It's herself that some customer has observed . <eos>
 It's herself that has observed some customer . <eos>
 It's themselves that these customers liked . <eos>
@@ -1160,8 +1160,8 @@ It's themselves that these slopes stunned . <eos>
 It's themselves that stunned these slopes . <eos>
 It's herself who Naomi was distracting . <eos>
 It's herself who was distracting Naomi . <eos>
-It's herself that Kathleen hasn't praised . <eos>
-It's herself that hasn't praised Kathleen . <eos>
+It's herself that Kathleen has n't praised . <eos>
+It's herself that has n't praised Kathleen . <eos>
 It's themselves that chairs have bothered . <eos>
 It's themselves that have bothered chairs . <eos>
 It's herself who Cynthia had found . <eos>
@@ -1176,14 +1176,14 @@ It's itself that some car stunned . <eos>
 It's itself that stunned some car . <eos>
 It's himself who Bill scared . <eos>
 It's himself who scared Bill . <eos>
-It's itself that a newspaper article isn't insulting . <eos>
-It's itself that isn't insulting a newspaper article . <eos>
+It's itself that a newspaper article is n't insulting . <eos>
+It's itself that is n't insulting a newspaper article . <eos>
 It's herself that Carrie is describing . <eos>
 It's herself that is describing Carrie . <eos>
 It's itself that that high school was stunning . <eos>
 It's itself that was stunning that high school . <eos>
-It's himself that Dan hasn't astounded . <eos>
-It's himself that hasn't astounded Dan . <eos>
+It's himself that Dan has n't astounded . <eos>
+It's himself that has n't astounded Dan . <eos>
 It's himself that Richard saw . <eos>
 It's himself that saw Richard . <eos>
 It's itself that every scarf distracted . <eos>
@@ -1218,8 +1218,8 @@ It's herself who Claire fires . <eos>
 It's herself who fires Claire . <eos>
 It's herself that Alice would watch . <eos>
 It's herself that would watch Alice . <eos>
-It's themselves that many drivers haven't seen . <eos>
-It's themselves that haven't seen many drivers . <eos>
+It's themselves that many drivers have n't seen . <eos>
+It's themselves that have n't seen many drivers . <eos>
 It's himself who Walter had investigated . <eos>
 It's himself who had investigated Walter . <eos>
 It's herself who Anna is investigating . <eos>
@@ -1248,8 +1248,8 @@ It's herself who Grace wouldn't irritate . <eos>
 It's herself who wouldn't irritate Grace . <eos>
 It's themselves that the bicycles had disgusted . <eos>
 It's themselves that had disgusted the bicycles . <eos>
-It's herself that Anne isn't helping . <eos>
-It's herself that isn't helping Anne . <eos>
+It's herself that Anne is n't helping . <eos>
+It's herself that is n't helping Anne . <eos>
 It's himself that Aaron wasn't annoying . <eos>
 It's himself that wasn't annoying Aaron . <eos>
 It's herself who Danielle will worry . <eos>
@@ -1268,12 +1268,12 @@ It's herself who Colleen could attack . <eos>
 It's herself who could attack Colleen . <eos>
 It's herself who Elaine concealed . <eos>
 It's herself who concealed Elaine . <eos>
-It's herself who Martha isn't escaping from . <eos>
-It's herself who isn't escaping from Martha . <eos>
+It's herself who Martha is n't escaping from . <eos>
+It's herself who is n't escaping from Martha . <eos>
 It's itself that some shirt didn't bore . <eos>
 It's itself that didn't bore some shirt . <eos>
-It's itself that this university hasn't aggravated . <eos>
-It's itself that hasn't aggravated this university . <eos>
+It's itself that this university has n't aggravated . <eos>
+It's itself that has n't aggravated this university . <eos>
 It's herself that Cheryl loves . <eos>
 It's herself that loves Cheryl . <eos>
 It's himself that Paul wasn't discussing . <eos>
@@ -1294,10 +1294,10 @@ It's himself that Alan has attacked . <eos>
 It's himself that has attacked Alan . <eos>
 It's herself that Rhonda is curing . <eos>
 It's herself that is curing Rhonda . <eos>
-It's herself who Tara hasn't hired . <eos>
-It's herself who hasn't hired Tara . <eos>
-It's herself who Naomi isn't stunning . <eos>
-It's herself who isn't stunning Naomi . <eos>
+It's herself who Tara has n't hired . <eos>
+It's herself who has n't hired Tara . <eos>
+It's herself who Naomi is n't stunning . <eos>
+It's herself who is n't stunning Naomi . <eos>
 It's herself that Valerie upset . <eos>
 It's herself that upset Valerie . <eos>
 It's herself that Naomi insults . <eos>
@@ -1312,8 +1312,8 @@ It's herself that Melinda is praising . <eos>
 It's herself that is praising Melinda . <eos>
 It's himself that that man approached . <eos>
 It's himself that approached that man . <eos>
-It's herself that Leslie isn't watching . <eos>
-It's herself that isn't watching Leslie . <eos>
+It's herself that Leslie is n't watching . <eos>
+It's herself that is n't watching Leslie . <eos>
 It's herself who Dawn hadn't fired . <eos>
 It's herself who hadn't fired Dawn . <eos>
 It's himself who this driver didn't annoy . <eos>
@@ -1340,8 +1340,8 @@ It's herself that Marla wasn't boasting about . <eos>
 It's herself that wasn't boasting about Marla . <eos>
 It's himself that Paul has hired . <eos>
 It's himself that has hired Paul . <eos>
-It's herself that Dawn isn't hurting . <eos>
-It's herself that isn't hurting Dawn . <eos>
+It's herself that Dawn is n't hurting . <eos>
+It's herself that is n't hurting Dawn . <eos>
 It's herself who this dancer has impressed . <eos>
 It's herself who has impressed this dancer . <eos>
 It's himself that that man found . <eos>
@@ -1350,14 +1350,14 @@ It's themselves that most boys shouldn't worry . <eos>
 It's themselves that shouldn't worry most boys . <eos>
 It's herself who some waiter wouldn't hate . <eos>
 It's herself who wouldn't hate some waiter . <eos>
-It's herself that Jill hasn't loved . <eos>
-It's herself that hasn't loved Jill . <eos>
+It's herself that Jill has n't loved . <eos>
+It's herself that has n't loved Jill . <eos>
 It's herself who Candice wouldn't conceal . <eos>
 It's herself who wouldn't conceal Candice . <eos>
 It's himself who Jeffrey has loved . <eos>
 It's himself who has loved Jeffrey . <eos>
-It's herself that Colleen hasn't kissed . <eos>
-It's herself that hasn't kissed Colleen . <eos>
+It's herself that Colleen has n't kissed . <eos>
+It's herself that has n't kissed Colleen . <eos>
 It's himself who Bruce is helping . <eos>
 It's himself who is helping Bruce . <eos>
 It's herself that Vanessa praises . <eos>
@@ -1370,8 +1370,8 @@ It's themselves that most customers conceal . <eos>
 It's themselves that conceal most customers . <eos>
 It's themselves that all universities talk about . <eos>
 It's themselves that talk about all universities . <eos>
-It's himself who Samuel isn't discussing . <eos>
-It's himself who isn't discussing Samuel . <eos>
+It's himself who Samuel is n't discussing . <eos>
+It's himself who is n't discussing Samuel . <eos>
 It's himself that Larry had complained about . <eos>
 It's himself that had complained about Larry . <eos>
 It's itself that that popsicle would impress . <eos>
@@ -1432,8 +1432,8 @@ It's himself who Michael hadn't attacked . <eos>
 It's himself who hadn't attacked Michael . <eos>
 It's themselves who students boast about . <eos>
 It's themselves who boast about students . <eos>
-It's themselves who a lot of guys haven't stunned . <eos>
-It's themselves who haven't stunned a lot of guys . <eos>
+It's themselves who a lot of guys have n't stunned . <eos>
+It's themselves who have n't stunned a lot of guys . <eos>
 It's themselves that these legislatures had annoyed . <eos>
 It's themselves that had annoyed these legislatures . <eos>
 It's himself who James wouldn't hurt . <eos>
@@ -1446,16 +1446,16 @@ It's himself who every adult argued about . <eos>
 It's himself who argued about every adult . <eos>
 It's himself who Douglas kissed . <eos>
 It's himself who kissed Douglas . <eos>
-It's themselves that these glasses aren't distracting . <eos>
-It's themselves that aren't distracting these glasses . <eos>
+It's themselves that these glasses are n't distracting . <eos>
+It's themselves that are n't distracting these glasses . <eos>
 It's themselves that most guys have disagreed with . <eos>
 It's themselves that have disagreed with most guys . <eos>
 It's herself that the senator hadn't left . <eos>
 It's herself that hadn't left the senator . <eos>
 It's himself that Daniel wasn't healing . <eos>
 It's himself that wasn't healing Daniel . <eos>
-It's himself who Richard hasn't criticized . <eos>
-It's himself who hasn't criticized Richard . <eos>
+It's himself who Richard has n't criticized . <eos>
+It's himself who has n't criticized Richard . <eos>
 It's himself that Joseph should investigate . <eos>
 It's himself that should investigate Joseph . <eos>
 It's himself who Wayne flees from . <eos>
@@ -1482,8 +1482,8 @@ It's herself who Judy knows . <eos>
 It's herself who knows Judy . <eos>
 It's himself that Phillip cures . <eos>
 It's himself that cures Phillip . <eos>
-It's itself that every bank isn't boasting about . <eos>
-It's itself that isn't boasting about every bank . <eos>
+It's itself that every bank is n't boasting about . <eos>
+It's itself that is n't boasting about every bank . <eos>
 It's himself that Bruce should describe . <eos>
 It's himself that should describe Bruce . <eos>
 It's himself who a teacher sounds like . <eos>
@@ -1492,8 +1492,8 @@ It's herself who Carrie investigated . <eos>
 It's herself who investigated Carrie . <eos>
 It's herself that a doctor astounded . <eos>
 It's herself that astounded a doctor . <eos>
-It's herself that Allison isn't upsetting . <eos>
-It's herself that isn't upsetting Allison . <eos>
+It's herself that Allison is n't upsetting . <eos>
+It's herself that is n't upsetting Allison . <eos>
 It's itself that this fork hadn't astounded . <eos>
 It's itself that hadn't astounded this fork . <eos>
 It's itself that that documentary worried . <eos>
@@ -1502,8 +1502,8 @@ It's himself who Joel approached . <eos>
 It's himself who approached Joel . <eos>
 It's itself that that play hadn't astounded . <eos>
 It's itself that hadn't astounded that play . <eos>
-It's himself that Matt isn't escaping from . <eos>
-It's himself that isn't escaping from Matt . <eos>
+It's himself that Matt is n't escaping from . <eos>
+It's himself that is n't escaping from Matt . <eos>
 It's herself that Kristen flees from . <eos>
 It's herself that flees from Kristen . <eos>
 It's herself who Rebecca should investigate . <eos>
@@ -1514,10 +1514,10 @@ It's herself that Cindy is stunning . <eos>
 It's herself that is stunning Cindy . <eos>
 It's itself that this association had embarrassed . <eos>
 It's itself that had embarrassed this association . <eos>
-It's itself that the ladder doesn't embarrass . <eos>
-It's itself that doesn't embarrass the ladder . <eos>
-It's herself that Kristen hasn't disliked . <eos>
-It's herself that hasn't disliked Kristen . <eos>
+It's itself that the ladder does n't embarrass . <eos>
+It's itself that does n't embarrass the ladder . <eos>
+It's herself that Kristen has n't disliked . <eos>
+It's herself that has n't disliked Kristen . <eos>
 It's himself that a man did visit . <eos>
 It's himself that did visit a man . <eos>
 It's himself that Edward saw . <eos>
@@ -1546,8 +1546,8 @@ It's himself who every pedestrian wasn't concealing . <eos>
 It's himself who wasn't concealing every pedestrian . <eos>
 It's himself who Travis has embarrassed . <eos>
 It's himself who has embarrassed Travis . <eos>
-It's herself who Lucille isn't talking to . <eos>
-It's herself who isn't talking to Lucille . <eos>
+It's herself who Lucille is n't talking to . <eos>
+It's herself who is n't talking to Lucille . <eos>
 It's himself that every teenager couldn't heal . <eos>
 It's himself that couldn't heal every teenager . <eos>
 It's himself that Samuel returns to . <eos>
@@ -1560,16 +1560,16 @@ It's herself that Carla couldn't admire . <eos>
 It's herself that couldn't admire Carla . <eos>
 It's herself who Martha couldn't visit . <eos>
 It's herself who couldn't visit Martha . <eos>
-It's herself who Julia hasn't hugged . <eos>
-It's herself who hasn't hugged Julia . <eos>
+It's herself who Julia has n't hugged . <eos>
+It's herself who has n't hugged Julia . <eos>
 It's herself that Carmen returned to . <eos>
 It's herself that returned to Carmen . <eos>
 It's herself who Monica embarrassed . <eos>
 It's herself who embarrassed Monica . <eos>
 It's herself that some driver described . <eos>
 It's herself that described some driver . <eos>
-It's himself who Jerry hasn't found . <eos>
-It's himself who hasn't found Jerry . <eos>
+It's himself who Jerry has n't found . <eos>
+It's himself who has n't found Jerry . <eos>
 It's themselves that books have embarrassed . <eos>
 It's themselves that have embarrassed books . <eos>
 It's herself that Tanya hadn't stunned . <eos>
@@ -1580,8 +1580,8 @@ It's herself that a dancer had discussed . <eos>
 It's herself that had discussed a dancer . <eos>
 It's themselves that many movies reference . <eos>
 It's themselves that reference many movies . <eos>
-It's herself who Erin hasn't left . <eos>
-It's herself who hasn't left Erin . <eos>
+It's herself who Erin has n't left . <eos>
+It's herself who has n't left Erin . <eos>
 It's herself that Stacy didn't describe . <eos>
 It's herself that didn't describe Stacy . <eos>
 It's herself who some lady scared . <eos>
@@ -1608,8 +1608,8 @@ It's himself that Todd wasn't observing . <eos>
 It's himself that wasn't observing Todd . <eos>
 It's herself who Meredith had confused . <eos>
 It's herself who had confused Meredith . <eos>
-It's herself who Suzanne isn't disturbing . <eos>
-It's herself who isn't disturbing Suzanne . <eos>
+It's herself who Suzanne is n't disturbing . <eos>
+It's herself who is n't disturbing Suzanne . <eos>
 It's himself who Theodore wasn't investigating . <eos>
 It's himself who wasn't investigating Theodore . <eos>
 It's herself that Theresa sees . <eos>
@@ -1630,16 +1630,16 @@ It's himself that Raymond can work with . <eos>
 It's himself that can work with Raymond . <eos>
 It's themselves that many women are aggravating . <eos>
 It's themselves that are aggravating many women . <eos>
-It's themselves that most waitresses haven't shocked . <eos>
-It's themselves that haven't shocked most waitresses . <eos>
+It's themselves that most waitresses have n't shocked . <eos>
+It's themselves that have n't shocked most waitresses . <eos>
 It's himself who Liam helped . <eos>
 It's himself who helped Liam . <eos>
 It's herself that Carrie is concealing . <eos>
 It's herself that is concealing Carrie . <eos>
 It's himself that Mitchell insults . <eos>
 It's himself that insults Mitchell . <eos>
-It's itself that that organization isn't appreciating . <eos>
-It's itself that isn't appreciating that organization . <eos>
+It's itself that that organization is n't appreciating . <eos>
+It's itself that is n't appreciating that organization . <eos>
 It's herself who Amanda hadn't watched . <eos>
 It's herself who hadn't watched Amanda . <eos>
 It's himself that Gregory will approach . <eos>
@@ -1662,8 +1662,8 @@ It's herself who Rebecca hadn't hired . <eos>
 It's herself who hadn't hired Rebecca . <eos>
 It's himself who Bradley hadn't boasted about . <eos>
 It's himself who hadn't boasted about Bradley . <eos>
-It's herself who Sabrina isn't concealing . <eos>
-It's herself who isn't concealing Sabrina . <eos>
+It's herself who Sabrina is n't concealing . <eos>
+It's herself who is n't concealing Sabrina . <eos>
 It's himself that Daniel disliked . <eos>
 It's himself that disliked Daniel . <eos>
 It's himself who Dan would cure . <eos>
@@ -1680,8 +1680,8 @@ It's himself who that cashier hadn't hidden . <eos>
 It's himself who hadn't hidden that cashier . <eos>
 It's herself who a senator returned to . <eos>
 It's herself who returned to a senator . <eos>
-It's herself who Florence doesn't praise . <eos>
-It's herself who doesn't praise Florence . <eos>
+It's herself who Florence does n't praise . <eos>
+It's herself who does n't praise Florence . <eos>
 It's themselves that most banks forgot . <eos>
 It's themselves that forgot most banks . <eos>
 It's himself who Gary hadn't found . <eos>
@@ -1712,10 +1712,10 @@ It's herself that Angela astounded . <eos>
 It's herself that astounded Angela . <eos>
 It's herself who Lucille wouldn't reveal . <eos>
 It's herself who wouldn't reveal Lucille . <eos>
-It's themselves that all icicles don't scare . <eos>
-It's themselves that don't scare all icicles . <eos>
-It's himself who Liam hasn't embarrassed . <eos>
-It's himself who hasn't embarrassed Liam . <eos>
+It's themselves that all icicles do n't scare . <eos>
+It's themselves that do n't scare all icicles . <eos>
+It's himself who Liam has n't embarrassed . <eos>
+It's himself who has n't embarrassed Liam . <eos>
 It's itself that that rabbit has upset . <eos>
 It's itself that has upset that rabbit . <eos>
 It's herself who the student will shock . <eos>
@@ -1746,8 +1746,8 @@ It's himself that Gerald wasn't curing . <eos>
 It's himself that wasn't curing Gerald . <eos>
 It's herself that a girl fires . <eos>
 It's herself that fires a girl . <eos>
-It's herself that Sheila isn't bothering . <eos>
-It's herself that isn't bothering Sheila . <eos>
+It's herself that Sheila is n't bothering . <eos>
+It's herself that is n't bothering Sheila . <eos>
 It's themselves who many cashiers are boasting about . <eos>
 It's themselves who are boasting about many cashiers . <eos>
 It's herself who Carrie appreciated . <eos>
@@ -1756,8 +1756,8 @@ It's himself that Chad finds . <eos>
 It's himself that finds Chad . <eos>
 It's herself who Renee disliked . <eos>
 It's herself who disliked Renee . <eos>
-It's himself that Gary hasn't discussed . <eos>
-It's himself that hasn't discussed Gary . <eos>
+It's himself that Gary has n't discussed . <eos>
+It's himself that has n't discussed Gary . <eos>
 It's himself that this guest finds . <eos>
 It's himself that finds this guest . <eos>
 It's herself that Colleen sees . <eos>
@@ -1778,8 +1778,8 @@ It's herself who Margaret complained about . <eos>
 It's herself who complained about Margaret . <eos>
 It's herself who Christine approaches . <eos>
 It's herself who approaches Christine . <eos>
-It's herself that Jessica hasn't forgotten . <eos>
-It's herself that hasn't forgotten Jessica . <eos>
+It's herself that Jessica has n't forgotten . <eos>
+It's herself that has n't forgotten Jessica . <eos>
 It's itself that every face irritated . <eos>
 It's itself that irritated every face . <eos>
 It's himself who Chad might dislike . <eos>
@@ -1788,16 +1788,16 @@ It's herself who Melissa might respect . <eos>
 It's herself who might respect Melissa . <eos>
 It's herself who Mary has helped . <eos>
 It's herself who has helped Mary . <eos>
-It's themselves that people haven't boasted about . <eos>
-It's themselves that haven't boasted about people . <eos>
+It's themselves that people have n't boasted about . <eos>
+It's themselves that have n't boasted about people . <eos>
 It's herself that Laurie visited . <eos>
 It's herself that visited Laurie . <eos>
 It's itself that every play had distracted . <eos>
 It's itself that had distracted every play . <eos>
 It's herself who Julie hadn't revealed . <eos>
 It's herself who hadn't revealed Julie . <eos>
-It's himself who Steven isn't kissing . <eos>
-It's himself who isn't kissing Steven . <eos>
+It's himself who Steven is n't kissing . <eos>
+It's himself who is n't kissing Steven . <eos>
 It's herself that a dancer had returned to . <eos>
 It's herself that had returned to a dancer . <eos>
 It's himself who Travis insults . <eos>
@@ -1810,8 +1810,8 @@ It's herself that Teresa is finding . <eos>
 It's herself that is finding Teresa . <eos>
 It's themselves that some libraries insult . <eos>
 It's themselves that insult some libraries . <eos>
-It's herself who Judy isn't firing . <eos>
-It's herself who isn't firing Judy . <eos>
+It's herself who Judy is n't firing . <eos>
+It's herself who is n't firing Judy . <eos>
 It's himself who Dan won't describe . <eos>
 It's himself who won't describe Dan . <eos>
 It's himself who Paul is boring . <eos>
@@ -1830,8 +1830,8 @@ It's themselves that all organizations can't talk to . <eos>
 It's themselves that can't talk to all organizations . <eos>
 It's himself that Dan wasn't complaining about . <eos>
 It's himself that wasn't complaining about Dan . <eos>
-It's herself who Irene hasn't confused . <eos>
-It's herself who hasn't confused Irene . <eos>
+It's herself who Irene has n't confused . <eos>
+It's herself who has n't confused Irene . <eos>
 It's themselves who many guys had helped . <eos>
 It's themselves who had helped many guys . <eos>
 It's themselves who all students insult . <eos>
@@ -1842,10 +1842,10 @@ It's himself that the boy can't hate . <eos>
 It's himself that can't hate the boy . <eos>
 It's herself that Sally fires . <eos>
 It's herself that fires Sally . <eos>
-It's herself who Jane doesn't leave . <eos>
-It's herself who doesn't leave Jane . <eos>
-It's herself who Janice isn't impressing . <eos>
-It's herself who isn't impressing Janice . <eos>
+It's herself who Jane does n't leave . <eos>
+It's herself who does n't leave Jane . <eos>
+It's herself who Janice is n't impressing . <eos>
+It's herself who is n't impressing Janice . <eos>
 It's herself who every doctor observes . <eos>
 It's herself who observes every doctor . <eos>
 It's himself who Bruce hadn't remembered . <eos>
@@ -1870,10 +1870,10 @@ It's himself that Carlos has argued about . <eos>
 It's himself that has argued about Carlos . <eos>
 It's herself who Melissa attacks . <eos>
 It's herself who attacks Melissa . <eos>
-It's herself that Natalie hasn't approached . <eos>
-It's herself that hasn't approached Natalie . <eos>
-It's himself that this pedestrian hasn't astounded . <eos>
-It's himself that hasn't astounded this pedestrian . <eos>
+It's herself that Natalie has n't approached . <eos>
+It's herself that has n't approached Natalie . <eos>
+It's himself that this pedestrian has n't astounded . <eos>
+It's himself that has n't astounded this pedestrian . <eos>
 It's himself that Vincent hadn't healed . <eos>
 It's himself that hadn't healed Vincent . <eos>
 It's herself who Karla bothered . <eos>
@@ -1894,14 +1894,14 @@ It's herself that Tamara can't conceal . <eos>
 It's herself that can't conceal Tamara . <eos>
 It's herself that Kristin likes . <eos>
 It's herself that likes Kristin . <eos>
-It's herself who Denise isn't astounding . <eos>
-It's herself who isn't astounding Denise . <eos>
-It's themselves who some waiters don't work with . <eos>
-It's themselves who don't work with some waiters . <eos>
+It's herself who Denise is n't astounding . <eos>
+It's herself who is n't astounding Denise . <eos>
+It's themselves who some waiters do n't work with . <eos>
+It's themselves who do n't work with some waiters . <eos>
 It's themselves that some turtles have hidden . <eos>
 It's themselves that have hidden some turtles . <eos>
-It's herself who Kirsten hasn't insulted . <eos>
-It's herself who hasn't insulted Kirsten . <eos>
+It's herself who Kirsten has n't insulted . <eos>
+It's herself who has n't insulted Kirsten . <eos>
 It's herself that Heather has worried . <eos>
 It's herself that has worried Heather . <eos>
 It's himself that Kevin distracted . <eos>
@@ -1924,12 +1924,12 @@ It's himself that every person wasn't hurting . <eos>
 It's himself that wasn't hurting every person . <eos>
 It's herself that Helen has talked about . <eos>
 It's herself that has talked about Helen . <eos>
-It's itself that that story hasn't boasted about . <eos>
-It's itself that hasn't boasted about that story . <eos>
+It's itself that that story has n't boasted about . <eos>
+It's itself that has n't boasted about that story . <eos>
 It's himself that a boy could cure . <eos>
 It's himself that could cure a boy . <eos>
-It's itself that some book doesn't talk about . <eos>
-It's itself that doesn't talk about some book . <eos>
+It's itself that some book does n't talk about . <eos>
+It's itself that does n't talk about some book . <eos>
 It's herself who Judy didn't love . <eos>
 It's herself who didn't love Judy . <eos>
 It's itself that the commentary is boring . <eos>
@@ -1968,8 +1968,8 @@ It's himself that Russell is alarming . <eos>
 It's himself that is alarming Russell . <eos>
 It's itself that the nose was disgusting . <eos>
 It's itself that was disgusting the nose . <eos>
-It's themselves who the guests aren't revealing . <eos>
-It's themselves who aren't revealing the guests . <eos>
+It's themselves who the guests are n't revealing . <eos>
+It's themselves who are n't revealing the guests . <eos>
 It's herself that Veronica sees . <eos>
 It's herself that sees Veronica . <eos>
 It's themselves that these pedestrians were disagreeing with . <eos>
@@ -1994,7 +1994,7 @@ It's herself who Becky returned to . <eos>
 It's herself who returned to Becky . <eos>
 It's herself who Monica has upset . <eos>
 It's herself who has upset Monica . <eos>
-It's itself that some committee doesn't shock . <eos>
-It's itself that doesn't shock some committee . <eos>
+It's itself that some committee does n't shock . <eos>
+It's itself that does n't shock some committee . <eos>
 It's herself that Rachelle hadn't appreciated . <eos>
 It's herself that hadn't appreciated Rachelle . <eos>
