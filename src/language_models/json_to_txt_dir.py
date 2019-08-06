@@ -43,6 +43,18 @@ for jsonl in jsonls:
                 outfile.write('\n')
                 outfile.write(bad_form)
                 outfile.write('\n')
+
+    if infile_json[0]['two_prefix_method'] == True:
+        print('check')
+        outfile = open(path+'/txt_two_prefix/'+jsonl[:-6]+'.txt', 'w')
+        for i in infile_json:
+             if 'two_prefix_prefix_good' in i.keys() and 'two_prefix_prefix_good' in i.keys():
+                good_form = re.sub('(are|is|have|has|do|does)n\'t', '\\1 n\'t', i['two_prefix_prefix_good'])
+                bad_form = re.sub('(are|is|have|has|do|does)n\'t', '\\1 n\'t', i['two_prefix_prefix_bad'])
+                outfile.write(good_form)
+                outfile.write('\n')
+                outfile.write(bad_form)
+                outfile.write('\n')       
    
 
 

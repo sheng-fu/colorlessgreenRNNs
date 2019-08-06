@@ -54,6 +54,8 @@ python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English
 
 python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_sentence/sentential_subject --outfile ../data/sent_pair/txt_sentence/sentential_subject_output.tab
 
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_sentence/simple_anaphor_gender_agreement --outfile ../data/sent_pair/txt_sentence/simple_anaphor_gender_agreement_output.tab
+
 python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_sentence/simple_anaphor_number_agreement --outfile ../data/sent_pair/txt_sentence/simple_anaphor_number_agreement_output.tab
 
 python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_sentence/subject_island --outfile ../data/sent_pair/txt_sentence/subject_island_output.tab
@@ -86,5 +88,35 @@ python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English
 
 python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_prefix/regular_plural_subj_v_agreement_1 --outfile ../data/sent_pair/txt_prefix/regular_plural_subj_v_agreement_1_output.tab
 
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_prefix/simple_anaphor_gender_agreement --outfile ../data/sent_pair/txt_prefix/simple_anaphor_gender_agreement_output.tab
+
 python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_prefix/simple_anaphor_number_agreement --outfile ../data/sent_pair/txt_prefix/simple_anaphor_number_agreement_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_two_prefix/complex_left_branch_echoQ --outfile ../data/sent_pair/txt_two_prefix/complex_left_branch_echoQ_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_two_prefix/determiner_noun_agreement_2 --outfile ../data/sent_pair/txt_two_prefix/determiner_noun_agreement_2_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_two_prefix/determiner_noun_agreement_with_adj_2 --outfile ../data/sent_pair/txt_two_prefix/determiner_noun_agreement_with_adj_2_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_two_prefix/irregular_plural_subj_v_agreement_2 --outfile ../data/sent_pair/txt_two_prefix/irregular_plural_subj_v_agreement_2_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_two_prefix/matrix_question_npi_licensor_present --outfile ../data/sent_pair/txt_two_prefix/matrix_question_npi_licensor_present_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_two_prefix/only_npi_licensor_present --outfile ../data/sent_pair/txt_two_prefix/only_npi_licensor_present_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_two_prefix/only_npi_scope --outfile ../data/sent_pair/txt_two_prefix/only_npi_scope_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_two_prefix/principle_A_domain3 --outfile ../data/sent_pair/txt_two_prefix/principle_A_domain3_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_two_prefix/regular_plural_subj_v_agreement_2 --outfile ../data/sent_pair/txt_two_prefix/regular_plural_subj_v_agreement_2_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_two_prefix/sentential_negation_npi_licensor_present --outfile ../data/sent_pair/txt_two_prefix/sentential_negation_npi_licensor_present_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_two_prefix/sentential_negation_npi_scope --outfile ../data/sent_pair/txt_two_prefix/sentential_negation_npi_scope_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_two_prefix/superlative_quantifiers_2 --outfile ../data/sent_pair/txt_two_prefix/superlative_quantifiers_2_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_two_prefix/that_trace_embedded --outfile ../data/sent_pair/txt_two_prefix/that_trace_embedded_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/sent_pair/txt_two_prefix/that_trace_matrix --outfile ../data/sent_pair/txt_two_prefix/that_trace_matrix_output.tab
 

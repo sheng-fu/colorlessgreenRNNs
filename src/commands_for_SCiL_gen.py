@@ -1,6 +1,6 @@
 import os
 
-paths = ['../data/sent_pair/txt_sentence/', '../data/sent_pair/txt_prefix/']
+paths = ['../data/sent_pair/txt_sentence/', '../data/sent_pair/txt_prefix/', '../data/sent_pair/txt_two_prefix/']
 
 outfile = open('commands_SciL.txt', 'w')
 
