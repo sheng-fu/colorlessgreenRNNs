@@ -7,11 +7,11 @@ Mary were
 Denise has n't
 Denise have n't
 Nancy is n't
-Nancy weren't
+Nancy were n't
 Some schools have
 Some schools has
-Travis wasn't
-Travis weren't
+Travis was n't
+Travis were n't
 Pamela has n't
 Pamela have n't
 Thomas is n't
@@ -54,8 +54,8 @@ Timothy has n't
 Timothy have n't
 Jerry has n't
 Jerry have n't
-The museum wasn't
-The museum weren't
+The museum was n't
+The museum were n't
 Samantha has n't
 Samantha have n't
 Governments have
@@ -74,8 +74,8 @@ Carl has
 Carl have
 Linda was
 Linda were
-Many customers weren't
-Many customers wasn't
+Many customers were n't
+Many customers was n't
 Julia has n't
 Julia have n't
 Every legislature does
@@ -84,7 +84,7 @@ Derek has
 Derek have
 Hospitals have
 Hospitals has
-Ladies weren't
+Ladies were n't
 Ladies is n't
 Tracy has n't
 Tracy have n't
@@ -96,10 +96,10 @@ Every senator does n't
 Every senator do n't
 Eva does n't
 Eva do n't
-That school wasn't
-That school weren't
+That school was n't
+That school were n't
 Sara is n't
-Sara weren't
+Sara were n't
 Gina does n't
 Gina do n't
 That gate does
@@ -112,7 +112,7 @@ Candice does
 Candice do
 Tracy does n't
 Tracy do n't
-All customers weren't
+All customers were n't
 All customers is n't
 This ice was
 This ice are
@@ -186,7 +186,7 @@ The adults do
 The adults does
 A boy does n't
 A boy do n't
-Naomi wasn't
+Naomi was n't
 Naomi are n't
 Dawn has n't
 Dawn have n't
@@ -231,9 +231,9 @@ Craig do
 This legislature has
 This legislature have
 Lissa is n't
-Lissa weren't
-Carl wasn't
-Carl weren't
+Lissa were n't
+Carl was n't
+Carl were n't
 Dancers do
 Dancers does
 This tomato was
@@ -241,16 +241,16 @@ This tomato were
 Some doctors do
 Some doctors does
 Most adults are n't
-Most adults wasn't
+Most adults was n't
 Charles has n't
 Charles have n't
 A lot of guys have
 A lot of guys has
-Some pedestrian wasn't
+Some pedestrian was n't
 Some pedestrian are n't
 Jodi does
 Jodi do
-This pedestrian wasn't
+This pedestrian was n't
 This pedestrian are n't
 John does n't
 John do n't
@@ -262,22 +262,22 @@ Dennis has
 Dennis have
 Katherine does
 Katherine do
-Nina wasn't
+Nina was n't
 Nina are n't
 Tamara does n't
 Tamara do n't
 Many hospitals are n't
-Many hospitals wasn't
+Many hospitals was n't
 A teenager has
 A teenager have
 Most associations do n't
 Most associations does n't
 Catherine does n't
 Catherine do n't
-Most stories weren't
+Most stories were n't
 Most stories is n't
-Valerie wasn't
-Valerie weren't
+Valerie was n't
+Valerie were n't
 Nancy has n't
 Nancy have n't
 Many dancers have
@@ -288,7 +288,7 @@ Colleen does
 Colleen do
 Colleen has n't
 Colleen have n't
-Every brochure wasn't
+Every brochure was n't
 Every brochure are n't
 Most customers are n't
 Most customers is n't
@@ -311,7 +311,7 @@ These boys was
 Most schools have n't
 Most schools has n't
 Claire is n't
-Claire weren't
+Claire were n't
 A glass does n't
 A glass do n't
 Some customers are
@@ -348,8 +348,8 @@ William has
 William have
 Suzanne has
 Suzanne have
-The schools weren't
-The schools wasn't
+The schools were n't
+The schools was n't
 Janice was
 Janice are
 Cynthia is
@@ -363,7 +363,7 @@ Carlos are
 Martin does n't
 Martin do n't
 Carl is n't
-Carl weren't
+Carl were n't
 Rachelle has n't
 Rachelle have n't
 Christopher has
@@ -406,8 +406,8 @@ All legislatures are n't
 All legislatures is n't
 Steve does
 Steve do
-Some essay wasn't
-Some essay weren't
+Some essay was n't
+Some essay were n't
 Walter was
 Walter were
 Some hamsters are
@@ -430,8 +430,8 @@ The window is
 The window were
 Meredith does
 Meredith do
-The spinach wasn't
-The spinach weren't
+The spinach was n't
+The spinach were n't
 Lori does
 Lori do
 The governments have n't
@@ -444,7 +444,7 @@ Sandra was
 Sandra are
 Martha has n't
 Martha have n't
-All actresses weren't
+All actresses were n't
 All actresses is n't
 Sandra was
 Sandra were
@@ -457,7 +457,7 @@ Some commentaries does n't
 Irene does n't
 Irene do n't
 Some windows are n't
-Some windows wasn't
+Some windows was n't
 Gerald does n't
 Gerald do n't
 Theresa has n't
@@ -466,11 +466,11 @@ Keith does
 Keith do
 Candice has
 Candice have
-Larry wasn't
+Larry was n't
 Larry are n't
 Wendy does n't
 Wendy do n't
-These bananas weren't
+These bananas were n't
 These bananas is n't
 Rhonda has n't
 Rhonda have n't
@@ -514,25 +514,25 @@ Every patient does n't
 Every patient do n't
 Committees have
 Committees has
-Every library wasn't
+Every library was n't
 Every library are n't
 All doctors do n't
 All doctors does n't
 Keith does
 Keith do
-Deanna wasn't
-Deanna weren't
+Deanna was n't
+Deanna were n't
 Steven has
 Steven have
 These reports have n't
 These reports has n't
 The ladies are n't
-The ladies wasn't
+The ladies was n't
 Douglas has n't
 Douglas have n't
 Kristen does
 Kristen do
-Sandra wasn't
+Sandra was n't
 Sandra are n't
 Alan does n't
 Alan do n't
@@ -544,8 +544,8 @@ Melanie was
 Melanie were
 Naomi does n't
 Naomi do n't
-Alice wasn't
-Alice weren't
+Alice was n't
+Alice were n't
 Nancy has n't
 Nancy have n't
 Deborah has n't
@@ -594,13 +594,13 @@ Andrea has n't
 Andrea have n't
 The patient is
 The patient were
-Thomas wasn't
+Thomas was n't
 Thomas are n't
 Ladies do
 Ladies does
 Jason is n't
-Jason weren't
-The legislatures weren't
+Jason were n't
+The legislatures were n't
 The legislatures is n't
 The lake has n't
 The lake have n't
@@ -618,7 +618,7 @@ Renee has n't
 Renee have n't
 This popsicle does
 This popsicle do
-All teenagers weren't
+All teenagers were n't
 All teenagers is n't
 Lucille has
 Lucille have
@@ -630,7 +630,7 @@ Tracy has n't
 Tracy have n't
 Kristen does n't
 Kristen do n't
-Todd wasn't
+Todd was n't
 Todd are n't
 These adults are
 These adults is
@@ -648,7 +648,7 @@ Victoria was
 Victoria are
 Tanya has n't
 Tanya have n't
-Tara wasn't
+Tara was n't
 Tara are n't
 The hat does n't
 The hat do n't
@@ -668,8 +668,8 @@ Ronald is
 Ronald are
 Natalie does
 Natalie do
-Most essays weren't
-Most essays wasn't
+Most essays were n't
+Most essays was n't
 George is
 George are
 These rugs do n't
@@ -706,8 +706,8 @@ Brett does
 Brett do
 Beverly does n't
 Beverly do n't
-Every banana wasn't
-Every banana weren't
+Every banana was n't
+Every banana were n't
 That legislature has n't
 That legislature have n't
 Natalie does
@@ -722,7 +722,7 @@ Raymond is
 Raymond are
 Caroline has n't
 Caroline have n't
-Scott wasn't
+Scott was n't
 Scott are n't
 Mark does n't
 Mark do n't
@@ -733,11 +733,11 @@ Girls is
 Boys do
 Boys does
 David is n't
-David weren't
+David were n't
 Alicia is n't
-Alicia weren't
-Most actors weren't
-Most actors wasn't
+Alicia were n't
+Most actors were n't
+Most actors was n't
 Kristen has n't
 Kristen have n't
 The ladies have
@@ -800,8 +800,8 @@ Dawn has n't
 Dawn have n't
 Donna was
 Donna are
-Steven wasn't
-Steven weren't
+Steven was n't
+Steven were n't
 Most teachers do n't
 Most teachers does n't
 Bill is n't
@@ -826,7 +826,7 @@ Bruce does n't
 Bruce do n't
 Katherine has
 Katherine have
-Most patients weren't
+Most patients were n't
 Most patients is n't
 Ellen was
 Ellen are
@@ -848,11 +848,11 @@ Timothy does
 Timothy do
 Liam was
 Liam are
-Some painting wasn't
+Some painting was n't
 Some painting are n't
 Lisa has
 Lisa have
-Kayla wasn't
+Kayla was n't
 Kayla are n't
 All waiters have
 All waiters has
@@ -872,8 +872,8 @@ Leslie has n't
 Leslie have n't
 Rachelle has
 Rachelle have
-Jason wasn't
-Jason weren't
+Jason was n't
+Jason were n't
 This museum has
 This museum have
 The customer has
@@ -902,7 +902,7 @@ George does n't
 George do n't
 Every museum does
 Every museum do
-Nina wasn't
+Nina was n't
 Nina are n't
 Some tomato is n't
 Some tomato are n't
@@ -920,8 +920,8 @@ A boy is
 A boy are
 Most senators do
 Most senators does
-Patricia wasn't
-Patricia weren't
+Patricia was n't
+Patricia were n't
 Mary does
 Mary do
 Allison has
@@ -934,15 +934,15 @@ Alexander has n't
 Alexander have n't
 Lawrence does n't
 Lawrence do n't
-Some library wasn't
-Some library weren't
+Some library was n't
+Some library were n't
 Alice is
 Alice were
 A university has
 A university have
 Carrie does n't
 Carrie do n't
-Kristin wasn't
+Kristin was n't
 Kristin are n't
 That school is
 That school were
@@ -953,7 +953,7 @@ Rhonda do
 Some doctors do
 Some doctors does
 Brett is n't
-Brett weren't
+Brett were n't
 Mary has
 Mary have
 Some bananas do n't
@@ -974,7 +974,7 @@ That dancer has n't
 That dancer have n't
 Elizabeth was
 Elizabeth were
-Nina wasn't
+Nina was n't
 Nina are n't
 Nancy has
 Nancy have
@@ -1002,8 +1002,8 @@ Elizabeth has n't
 Elizabeth have n't
 Gary does
 Gary do
-Amy wasn't
-Amy weren't
+Amy was n't
+Amy were n't
 This university is n't
 This university are n't
 James has
@@ -1033,11 +1033,11 @@ Melissa have
 Aaron is
 Aaron are
 All waitresses are n't
-All waitresses wasn't
+All waitresses was n't
 That doctor does n't
 That doctor do n't
 Companies are n't
-Companies wasn't
+Companies was n't
 This photograph was
 This photograph are
 Elizabeth was
@@ -1069,7 +1069,7 @@ Some paintings was
 All closets have
 All closets has
 Kathleen is n't
-Kathleen weren't
+Kathleen were n't
 Dawn does
 Dawn do
 These legislatures do n't
@@ -1110,7 +1110,7 @@ That patient does
 That patient do
 Julia does
 Julia do
-Veronica wasn't
+Veronica was n't
 Veronica are n't
 Linda does n't
 Linda do n't
@@ -1135,7 +1135,7 @@ All actors does n't
 Beth has
 Beth have
 A waiter is n't
-A waiter weren't
+A waiter were n't
 Russell does n't
 Russell do n't
 Some glacier has n't
@@ -1181,7 +1181,7 @@ Rachelle were
 Most universities were
 Most universities was
 Amelia is n't
-Amelia weren't
+Amelia were n't
 The banks do n't
 The banks does n't
 Dawn has
@@ -1206,10 +1206,10 @@ Sally is
 Sally are
 Sara has
 Sara have
-A lot of organizations weren't
+A lot of organizations were n't
 A lot of organizations is n't
-All patients weren't
-All patients wasn't
+All patients were n't
+All patients was n't
 Kristen does n't
 Kristen do n't
 William has n't
@@ -1238,10 +1238,10 @@ Karla does
 Karla do
 Carmen does
 Carmen do
-The guys weren't
-The guys wasn't
+The guys were n't
+The guys was n't
 That university is n't
-That university weren't
+That university were n't
 Every tomato does n't
 Every tomato do n't
 Edward has n't
@@ -1260,12 +1260,12 @@ Tara does
 Tara do
 Many pedestrians have
 Many pedestrians has
-A lot of legislatures weren't
-A lot of legislatures wasn't
+A lot of legislatures were n't
+A lot of legislatures was n't
 Dennis is
 Dennis were
-Jason wasn't
-Jason weren't
+Jason was n't
+Jason were n't
 Tammy has n't
 Tammy have n't
 Diana has
@@ -1312,7 +1312,7 @@ Sonia is n't
 Sonia are n't
 Rebecca does n't
 Rebecca do n't
-Karla wasn't
+Karla was n't
 Karla are n't
 Every book has n't
 Every book have n't
@@ -1324,7 +1324,7 @@ Rachelle was
 Rachelle were
 Richard has n't
 Richard have n't
-Richard wasn't
+Richard was n't
 Richard are n't
 Tamara does
 Tamara do
@@ -1341,7 +1341,7 @@ This lady are n't
 Omar does
 Omar do
 The windows are n't
-The windows wasn't
+The windows was n't
 Bethany does
 Bethany do
 These doors have
@@ -1354,15 +1354,15 @@ The guest has n't
 The guest have n't
 All customers have
 All customers has
-Nina wasn't
-Nina weren't
+Nina was n't
+Nina were n't
 A waitress does
 A waitress do
 The box does
 The box do
 April does n't
 April do n't
-Jason wasn't
+Jason was n't
 Jason are n't
 Many doctors do n't
 Many doctors does n't
@@ -1388,7 +1388,7 @@ Erin does
 Erin do
 Connie has n't
 Connie have n't
-Dan wasn't
+Dan was n't
 Dan are n't
 Most schools have n't
 Most schools has n't
@@ -1404,7 +1404,7 @@ Sandra does n't
 Sandra do n't
 Janice has
 Janice have
-Diana wasn't
+Diana was n't
 Diana are n't
 Florence does n't
 Florence do n't
@@ -1426,8 +1426,8 @@ Erin has
 Erin have
 Larry does n't
 Larry do n't
-Most teenagers weren't
-Most teenagers wasn't
+Most teenagers were n't
+Most teenagers was n't
 Margaret does
 Margaret do
 Christina does n't
@@ -1436,7 +1436,7 @@ A lot of banks have n't
 A lot of banks has n't
 George does n't
 George do n't
-Debra wasn't
+Debra was n't
 Debra are n't
 Christopher does
 Christopher do
@@ -1446,7 +1446,7 @@ Joel has n't
 Joel have n't
 Most doctors do
 Most doctors does
-Phillip wasn't
+Phillip was n't
 Phillip are n't
 This doctor does
 This doctor do
@@ -1464,14 +1464,14 @@ All waiters do
 All waiters does
 Martha does
 Martha do
-Samantha wasn't
+Samantha was n't
 Samantha are n't
 Charles is
 Charles are
-The drivers weren't
+The drivers were n't
 The drivers is n't
-Most hospitals weren't
-Most hospitals wasn't
+Most hospitals were n't
+Most hospitals was n't
 Jane does
 Jane do
 Some doctors are
@@ -1488,13 +1488,13 @@ This cilantro has n't
 This cilantro have n't
 Deanna is n't
 Deanna are n't
-Brenda wasn't
-Brenda weren't
+Brenda was n't
+Brenda were n't
 Eric is n't
-Eric weren't
+Eric were n't
 That hospital has n't
 That hospital have n't
-Dennis wasn't
+Dennis was n't
 Dennis are n't
 Tracy is
 Tracy were
@@ -1513,7 +1513,7 @@ Most dancers does
 Homer has n't
 Homer have n't
 Alicia is n't
-Alicia weren't
+Alicia were n't
 Raymond has n't
 Raymond have n't
 A patient is n't
@@ -1528,10 +1528,10 @@ These governments do n't
 These governments does n't
 Edward does
 Edward do
-Most universities weren't
+Most universities were n't
 Most universities is n't
 All schools are n't
-All schools wasn't
+All schools was n't
 Derek has n't
 Derek have n't
 Carl does
@@ -1546,10 +1546,10 @@ Denise has
 Denise have
 Homer is n't
 Homer are n't
-Gary wasn't
+Gary was n't
 Gary are n't
 Heather is n't
-Heather weren't
+Heather were n't
 All bananas have n't
 All bananas has n't
 Laura has
@@ -1592,7 +1592,7 @@ Susan has
 Susan have
 Becca has n't
 Becca have n't
-Omar wasn't
+Omar was n't
 Omar are n't
 Derek has n't
 Derek have n't
@@ -1604,7 +1604,7 @@ Laura has
 Laura have
 A teacher was
 A teacher were
-Many students weren't
+Many students were n't
 Many students is n't
 Julia was
 Julia were
@@ -1659,7 +1659,7 @@ Christina do n't
 A lot of actors were
 A lot of actors was
 Erin is n't
-Erin weren't
+Erin were n't
 Becca has
 Becca have
 That pedestrian was
@@ -1675,7 +1675,7 @@ These teachers was
 Lawrence has n't
 Lawrence have n't
 Some drivers are n't
-Some drivers wasn't
+Some drivers was n't
 The guest does
 The guest do
 All pedestrians do n't
@@ -1692,7 +1692,7 @@ The girls have n't
 The girls has n't
 Patricia is n't
 Patricia are n't
-Travis wasn't
+Travis was n't
 Travis are n't
 Vincent has n't
 Vincent have n't
@@ -1709,14 +1709,14 @@ Donna do
 Alice has
 Alice have
 Waiters are n't
-Waiters wasn't
+Waiters was n't
 Drivers are
 Drivers was
 These ladies are n't
 These ladies is n't
 Heather has n't
 Heather have n't
-Regina wasn't
+Regina was n't
 Regina are n't
 Most dancers have n't
 Most dancers has n't
@@ -1728,8 +1728,8 @@ Curtis is
 Curtis were
 Some water has
 Some water have
-The brochure wasn't
-The brochure weren't
+The brochure was n't
+The brochure were n't
 Marla has
 Marla have
 Cheryl is
@@ -1738,7 +1738,7 @@ Gregory does n't
 Gregory do n't
 Theresa has
 Theresa have
-Adam wasn't
+Adam was n't
 Adam are n't
 Aaron was
 Aaron were
@@ -1755,7 +1755,7 @@ Every gate do n't
 Patricia was
 Patricia were
 Brenda is n't
-Brenda weren't
+Brenda were n't
 Eyes have
 Eyes has
 Every company has
@@ -1770,7 +1770,7 @@ Sheila does
 Sheila do
 Gerald has
 Gerald have
-Jeffrey wasn't
+Jeffrey was n't
 Jeffrey are n't
 Every driver is n't
 Every driver are n't
@@ -1785,8 +1785,8 @@ The mouths does n't
 Teenagers do
 Teenagers does
 Ronald is n't
-Ronald weren't
-These schools weren't
+Ronald were n't
+These schools were n't
 These schools is n't
 Katherine was
 Katherine are
@@ -1820,7 +1820,7 @@ Alan does n't
 Alan do n't
 Some girls have
 Some girls has
-Guy wasn't
+Guy was n't
 Guy are n't
 All guys have
 All guys has
@@ -1835,7 +1835,7 @@ Amelia are
 Cheryl was
 Cheryl were
 Julia is n't
-Julia weren't
+Julia were n't
 All museums do n't
 All museums does n't
 Gerald is
@@ -1864,17 +1864,17 @@ Donna has n't
 Donna have n't
 Most senators have
 Most senators has
-Donna wasn't
+Donna was n't
 Donna are n't
 Steven does
 Steven do
-Many girls weren't
+Many girls were n't
 Many girls is n't
 A boy does
 A boy do
 Every scarf does
 Every scarf do
-Some guys weren't
+Some guys were n't
 Some guys is n't
 This guest does n't
 This guest do n't
@@ -1912,15 +1912,15 @@ Kayla does n't
 Kayla do n't
 Some girl was
 Some girl were
-Derek wasn't
-Derek weren't
+Derek was n't
+Derek were n't
 Nina has n't
 Nina have n't
 Martin does
 Martin do
 Noah has
 Noah have
-Most museums weren't
+Most museums were n't
 Most museums is n't
 Patricia does n't
 Patricia do n't
@@ -1935,7 +1935,7 @@ All gates has n't
 Julia was
 Julia are
 Matt is n't
-Matt weren't
+Matt were n't
 Linda does n't
 Linda do n't
 Children do n't
@@ -1959,7 +1959,7 @@ This university do n't
 Renee does
 Renee do
 Heather is n't
-Heather weren't
+Heather were n't
 This waiter has
 This waiter have
 Judy was
