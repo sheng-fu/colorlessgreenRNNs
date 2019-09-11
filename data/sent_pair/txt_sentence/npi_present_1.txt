@@ -266,8 +266,8 @@ Even that dog has certainly disturbed Marcus . <eos>
 Even that dog has ever disturbed Marcus . <eos>
 Even Vincent also cried . <eos>
 Even Vincent ever cried . <eos>
-Even some pedestrians certainly imagine all ladies weren't embracing . <eos>
-Even some pedestrians ever imagine all ladies weren't embracing . <eos>
+Even some pedestrians certainly imagine all ladies were n't embracing . <eos>
+Even some pedestrians ever imagine all ladies were n't embracing . <eos>
 Even Richard certainly took many hamsters . <eos>
 Even Richard ever took many hamsters . <eos>
 Even Todd often breaks that computer . <eos>
@@ -772,8 +772,8 @@ Even all men did really reveal who had discussed Liam . <eos>
 Even all men did ever reveal who had discussed Liam . <eos>
 Even these steps really shocked Gina . <eos>
 Even these steps ever shocked Gina . <eos>
-Even Karen did also realize what weren't shrinking . <eos>
-Even Karen did ever realize what weren't shrinking . <eos>
+Even Karen did also realize what were n't shrinking . <eos>
+Even Karen did ever realize what were n't shrinking . <eos>
 Even Becky has clearly complained . <eos>
 Even Becky has ever complained . <eos>
 Even Russell certainly donated . <eos>
@@ -1170,8 +1170,8 @@ Even Julie really nods . <eos>
 Even Julie ever nods . <eos>
 Even Clyde could certainly imagine Regina has drunk . <eos>
 Even Clyde could ever imagine Regina has drunk . <eos>
-Even Tonya clearly conceals who wasn't speaking up . <eos>
-Even Tonya ever conceals who wasn't speaking up . <eos>
+Even Tonya clearly conceals who was n't speaking up . <eos>
+Even Tonya ever conceals who was n't speaking up . <eos>
 Even Becky also wore shoes . <eos>
 Even Becky ever wore shoes . <eos>
 Even Theresa certainly answers . <eos>
@@ -1320,8 +1320,8 @@ Even Richard certainly explains everything . <eos>
 Even Richard ever explains everything . <eos>
 Even a lot of adults did also react . <eos>
 Even a lot of adults did ever react . <eos>
-Even Joel has often found out who has remembered who can't clash . <eos>
-Even Joel has ever found out who has remembered who can't clash . <eos>
+Even Joel has often found out who has remembered who ca n't clash . <eos>
+Even Joel has ever found out who has remembered who ca n't clash . <eos>
 Even Clyde certainly remembered Rose . <eos>
 Even Clyde ever remembered Rose . <eos>
 Even Craig often goes to these hills . <eos>
@@ -1616,8 +1616,8 @@ Even a lot of dancers clearly arrive at a restaurant . <eos>
 Even a lot of dancers ever arrive at a restaurant . <eos>
 Even Debra really sounds like a waitress . <eos>
 Even Debra ever sounds like a waitress . <eos>
-Even Robert has often learned who wasn't predicting some icicle to melt . <eos>
-Even Robert has ever learned who wasn't predicting some icicle to melt . <eos>
+Even Robert has often learned who was n't predicting some icicle to melt . <eos>
+Even Robert has ever learned who was n't predicting some icicle to melt . <eos>
 Even Dennis has certainly criticized Monica . <eos>
 Even Dennis has ever criticized Monica . <eos>
 Even most newspaper articles often disgusted Michael . <eos>
@@ -1836,8 +1836,8 @@ Even Sherry certainly heals Rebecca . <eos>
 Even Sherry ever heals Rebecca . <eos>
 Even every closet had certainly disgusted Michelle . <eos>
 Even every closet had ever disgusted Michelle . <eos>
-Even Beth can clearly discover who wasn't complaining . <eos>
-Even Beth can ever discover who wasn't complaining . <eos>
+Even Beth can clearly discover who was n't complaining . <eos>
+Even Beth can ever discover who was n't complaining . <eos>
 Even Rachel often boasted . <eos>
 Even Rachel ever boasted . <eos>
 Even Diane can also have a lot of reports . <eos>

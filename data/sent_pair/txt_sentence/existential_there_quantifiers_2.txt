@@ -1,11 +1,11 @@
 Each pedestrian is n't there bothering Melissa . <eos>
 There is n't each pedestrian bothering Melissa . <eos>
-Most sketches of some adults' contractors weren't there embarrassing Tara . <eos>
-There weren't most sketches of some adults' contractors embarrassing Tara . <eos>
+Most sketches of some adults' contractors were n't there embarrassing Tara . <eos>
+There were n't most sketches of some adults' contractors embarrassing Tara . <eos>
 Every commentary is n't there referencing Curtis . <eos>
 There is n't every commentary referencing Curtis . <eos>
-All turtles weren't there scaring Renee . <eos>
-There weren't all turtles scaring Renee . <eos>
+All turtles were n't there scaring Renee . <eos>
+There were n't all turtles scaring Renee . <eos>
 All birds are n't there impressing Bethany . <eos>
 There are n't all birds impressing Bethany . <eos>
 Each ladder is n't there annoying Nancy . <eos>
@@ -22,18 +22,18 @@ Most schools are n't there struggling . <eos>
 There are n't most schools struggling . <eos>
 All hills are n't there looking like that painting . <eos>
 There are n't all hills looking like that painting . <eos>
-Every essay about what wasn't there boasting . <eos>
-There wasn't every essay about what boasting . <eos>
+Every essay about what was n't there boasting . <eos>
+There was n't every essay about what boasting . <eos>
 All slopes are n't there boring Sheila . <eos>
 There are n't all slopes boring Sheila . <eos>
-All mirrors weren't there scaring this actor . <eos>
-There weren't all mirrors scaring this actor . <eos>
+All mirrors were n't there scaring this actor . <eos>
+There were n't all mirrors scaring this actor . <eos>
 All mountains were there alarming Curtis . <eos>
 There were all mountains alarming Curtis . <eos>
-Most restaurants weren't there bothering the man . <eos>
-There weren't most restaurants bothering the man . <eos>
-Each bank wasn't there irritating Paula . <eos>
-There wasn't each bank irritating Paula . <eos>
+Most restaurants were n't there bothering the man . <eos>
+There were n't most restaurants bothering the man . <eos>
+Each bank was n't there irritating Paula . <eos>
+There was n't each bank irritating Paula . <eos>
 Every art gallery is n't there bothering Lawrence . <eos>
 There is n't every art gallery bothering Lawrence . <eos>
 Each story about travel is there joking around . <eos>
@@ -42,8 +42,8 @@ Every eye is n't there shutting . <eos>
 There is n't every eye shutting . <eos>
 Every print was there looking like Maria . <eos>
 There was every print looking like Maria . <eos>
-All boys weren't there talking about Susan . <eos>
-There weren't all boys talking about Susan . <eos>
+All boys were n't there talking about Susan . <eos>
+There were n't all boys talking about Susan . <eos>
 Every bank was there competing . <eos>
 There was every bank competing . <eos>
 Each cup is n't there annoying Eric . <eos>
@@ -54,14 +54,14 @@ Every museum is there talking about Samantha . <eos>
 There is every museum talking about Samantha . <eos>
 Each couch is there irritating Edward . <eos>
 There is each couch irritating Edward . <eos>
-Each closet wasn't there disgusting Allison . <eos>
-There wasn't each closet disgusting Allison . <eos>
+Each closet was n't there disgusting Allison . <eos>
+There was n't each closet disgusting Allison . <eos>
 Every college campus is n't there astounding these guests . <eos>
 There is n't every college campus astounding these guests . <eos>
 Most sketches are n't there looking like Carol . <eos>
 There are n't most sketches looking like Carol . <eos>
-Each senator wasn't there compromising . <eos>
-There wasn't each senator compromising . <eos>
+Each senator was n't there compromising . <eos>
+There was n't each senator compromising . <eos>
 Each print is n't there irritating Rose . <eos>
 There is n't each print irritating Rose . <eos>
 Each teenager was there escaping . <eos>
@@ -78,8 +78,8 @@ Most sketches of Gary are n't there confusing Nicole . <eos>
 There are n't most sketches of Gary confusing Nicole . <eos>
 Each plate is n't there aggravating Bethany . <eos>
 There is n't each plate aggravating Bethany . <eos>
-Most ladders weren't there worrying Grace . <eos>
-There weren't most ladders worrying Grace . <eos>
+Most ladders were n't there worrying Grace . <eos>
+There were n't most ladders worrying Grace . <eos>
 All drawings were there alarming senators . <eos>
 There were all drawings alarming senators . <eos>
 Most daughters of Melissa are there describing Christopher . <eos>
@@ -94,22 +94,22 @@ Every print is n't there distracting every association . <eos>
 There is n't every print distracting every association . <eos>
 All granddaughters of Marla are there explaining everything . <eos>
 There are all granddaughters of Marla explaining everything . <eos>
-All senators weren't there shrugging . <eos>
-There weren't all senators shrugging . <eos>
-All museums weren't there listening to Bruce . <eos>
-There weren't all museums listening to Bruce . <eos>
+All senators were n't there shrugging . <eos>
+There were n't all senators shrugging . <eos>
+All museums were n't there listening to Bruce . <eos>
+There were n't all museums listening to Bruce . <eos>
 Every hospital was there reacting . <eos>
 There was every hospital reacting . <eos>
 Each story about current events is there disgusting Edward . <eos>
 There is each story about current events disgusting Edward . <eos>
-All doors weren't there shutting . <eos>
-There weren't all doors shutting . <eos>
+All doors were n't there shutting . <eos>
+There were n't all doors shutting . <eos>
 Every driver was there helping Jane . <eos>
 There was every driver helping Jane . <eos>
-Most cashiers weren't there donating . <eos>
-There weren't most cashiers donating . <eos>
-Most cousins of Sabrina weren't there selling a bird . <eos>
-There weren't most cousins of Sabrina selling a bird . <eos>
+Most cashiers were n't there donating . <eos>
+There were n't most cashiers donating . <eos>
+Most cousins of Sabrina were n't there selling a bird . <eos>
+There were n't most cousins of Sabrina selling a bird . <eos>
 Each museum was there coping . <eos>
 There was each museum coping . <eos>
 Every committee is there chatting . <eos>
@@ -118,32 +118,32 @@ Most patients are there climbing down every mountain . <eos>
 There are most patients climbing down every mountain . <eos>
 Each teacher is there boasting . <eos>
 There is each teacher boasting . <eos>
-All pictures of Alexander weren't there disturbing many universities . <eos>
-There weren't all pictures of Alexander disturbing many universities . <eos>
-Every friend of Heidi's associates wasn't there investigating who didn't tour many art galleries . <eos>
-There wasn't every friend of Heidi's associates investigating who didn't tour many art galleries . <eos>
+All pictures of Alexander were n't there disturbing many universities . <eos>
+There were n't all pictures of Alexander disturbing many universities . <eos>
+Every friend of Heidi's associates was n't there investigating who didn't tour many art galleries . <eos>
+There was n't every friend of Heidi's associates investigating who didn't tour many art galleries . <eos>
 Most libraries were there remembering who hadn't escaped . <eos>
 There were most libraries remembering who hadn't escaped . <eos>
-Each turtle wasn't there climbing down these hills . <eos>
-There wasn't each turtle climbing down these hills . <eos>
+Each turtle was n't there climbing down these hills . <eos>
+There was n't each turtle climbing down these hills . <eos>
 Every actor was there driving to some cafes . <eos>
 There was every actor driving to some cafes . <eos>
-Each river wasn't there disturbing this legislature . <eos>
-There wasn't each river disturbing this legislature . <eos>
+Each river was n't there disturbing this legislature . <eos>
+There was n't each river disturbing this legislature . <eos>
 Each patient is there sitting down . <eos>
 There is each patient sitting down . <eos>
 Each hamster is there worrying Jeffrey . <eos>
 There is each hamster worrying Jeffrey . <eos>
-Each movie theater wasn't there impressing Kenneth . <eos>
-There wasn't each movie theater impressing Kenneth . <eos>
-Most men weren't there chuckling . <eos>
-There weren't most men chuckling . <eos>
+Each movie theater was n't there impressing Kenneth . <eos>
+There was n't each movie theater impressing Kenneth . <eos>
+Most men were n't there chuckling . <eos>
+There were n't most men chuckling . <eos>
 All bananas were there astounding Martha . <eos>
 There were all bananas astounding Martha . <eos>
 Every driver was there complaining . <eos>
 There was every driver complaining . <eos>
-All documentaries about travel weren't there praising Denise . <eos>
-There weren't all documentaries about travel praising Denise . <eos>
+All documentaries about travel were n't there praising Denise . <eos>
+There were n't all documentaries about travel praising Denise . <eos>
 All high schools are n't there worrying Kimberley . <eos>
 There are n't all high schools worrying Kimberley . <eos>
 Each screen was there bothering Sally . <eos>
@@ -172,8 +172,8 @@ Each friend of Marie's doctors is n't there finding that teenager to reveal this
 There is n't each friend of Marie's doctors finding that teenager to reveal this hair . <eos>
 All museums are there discussing that lady . <eos>
 There are all museums discussing that lady . <eos>
-Each committee wasn't there selling some computer . <eos>
-There wasn't each committee selling some computer . <eos>
+Each committee was n't there selling some computer . <eos>
+There was n't each committee selling some computer . <eos>
 Every college campus was there upsetting Susan . <eos>
 There was every college campus upsetting Susan . <eos>
 Each teenager is there visiting Ruth . <eos>
@@ -182,10 +182,10 @@ Every grandmother of Danielle is there admiring Edward . <eos>
 There is every grandmother of Danielle admiring Edward . <eos>
 Most pictures of Joel's partner's son's plumbers are n't there bothering Wendy . <eos>
 There are n't most pictures of Joel's partner's son's plumbers bothering Wendy . <eos>
-Most slopes weren't there upsetting actresses . <eos>
-There weren't most slopes upsetting actresses . <eos>
-Every legislature wasn't there coping . <eos>
-There wasn't every legislature coping . <eos>
+Most slopes were n't there upsetting actresses . <eos>
+There were n't most slopes upsetting actresses . <eos>
+Every legislature was n't there coping . <eos>
+There was n't every legislature coping . <eos>
 Each actress is n't there hugging Keith . <eos>
 There is n't each actress hugging Keith . <eos>
 All paintings are n't there shocking Cheryl . <eos>
@@ -216,22 +216,22 @@ All plays are n't there disgusting Alice . <eos>
 There are n't all plays disgusting Alice . <eos>
 Each report is n't there stunning Melanie . <eos>
 There is n't each report stunning Melanie . <eos>
-Each commentary about politics wasn't there disagreeing with Alexander . <eos>
-There wasn't each commentary about politics disagreeing with Alexander . <eos>
+Each commentary about politics was n't there disagreeing with Alexander . <eos>
+There was n't each commentary about politics disagreeing with Alexander . <eos>
 Most museums were there thinking about who cleaned the doors . <eos>
 There were most museums thinking about who cleaned the doors . <eos>
-Every organization wasn't there working hard . <eos>
-There wasn't every organization working hard . <eos>
-Most movie theaters weren't there stunning Raymond . <eos>
-There weren't most movie theaters stunning Raymond . <eos>
-Most eyes weren't there irritating Mitchell . <eos>
-There weren't most eyes irritating Mitchell . <eos>
+Every organization was n't there working hard . <eos>
+There was n't every organization working hard . <eos>
+Most movie theaters were n't there stunning Raymond . <eos>
+There were n't most movie theaters stunning Raymond . <eos>
+Most eyes were n't there irritating Mitchell . <eos>
+There were n't most eyes irritating Mitchell . <eos>
 Every pedestrian was there scanning every documentary . <eos>
 There was every pedestrian scanning every documentary . <eos>
-Most actors weren't there washing . <eos>
-There weren't most actors washing . <eos>
-Most cars weren't there looking like the photograph . <eos>
-There weren't most cars looking like the photograph . <eos>
+Most actors were n't there washing . <eos>
+There were n't most actors washing . <eos>
+Most cars were n't there looking like the photograph . <eos>
+There were n't most cars looking like the photograph . <eos>
 Every public park was there impressing Kristin . <eos>
 There was every public park impressing Kristin . <eos>
 Every turtle is n't there annoying some library . <eos>
@@ -244,14 +244,14 @@ All drawings of Stacy are there disgusting Sara . <eos>
 There are all drawings of Stacy disgusting Sara . <eos>
 All drawings of Homer are n't there shocking most committees . <eos>
 There are n't all drawings of Homer shocking most committees . <eos>
-Every sketch of Joel wasn't there looking like that picture . <eos>
-There wasn't every sketch of Joel looking like that picture . <eos>
-Most cashiers weren't there confusing Donald . <eos>
-There weren't most cashiers confusing Donald . <eos>
+Every sketch of Joel was n't there looking like that picture . <eos>
+There was n't every sketch of Joel looking like that picture . <eos>
+Most cashiers were n't there confusing Donald . <eos>
+There were n't most cashiers confusing Donald . <eos>
 All hospitals are n't there negotiating . <eos>
 There are n't all hospitals negotiating . <eos>
-Most windows weren't there stunning some guys . <eos>
-There weren't most windows stunning some guys . <eos>
+Most windows were n't there stunning some guys . <eos>
+There were n't most windows stunning some guys . <eos>
 Each nose was there confusing every person . <eos>
 There was each nose confusing every person . <eos>
 Most universities are there talking about Stephanie . <eos>
@@ -260,40 +260,40 @@ Each river is there annoying David . <eos>
 There is each river annoying David . <eos>
 Every son of Benjamin is there descending all steps . <eos>
 There is every son of Benjamin descending all steps . <eos>
-All fish weren't there waking up . <eos>
-There weren't all fish waking up . <eos>
+All fish were n't there waking up . <eos>
+There were n't all fish waking up . <eos>
 Every actor was there crying . <eos>
 There was every actor crying . <eos>
 Each couch is there embarrassing these drivers . <eos>
 There is each couch embarrassing these drivers . <eos>
-All mirrors weren't there aggravating Lori . <eos>
-There weren't all mirrors aggravating Lori . <eos>
+All mirrors were n't there aggravating Lori . <eos>
+There were n't all mirrors aggravating Lori . <eos>
 All cars are n't there alarming Samuel . <eos>
 There are n't all cars alarming Samuel . <eos>
-Every granddaughter of actors wasn't there bringing a print . <eos>
-There wasn't every granddaughter of actors bringing a print . <eos>
-Each turtle wasn't there boring Wayne . <eos>
-There wasn't each turtle boring Wayne . <eos>
+Every granddaughter of actors was n't there bringing a print . <eos>
+There was n't every granddaughter of actors bringing a print . <eos>
+Each turtle was n't there boring Wayne . <eos>
+There was n't each turtle boring Wayne . <eos>
 Most tomatoes are there alarming Kirsten . <eos>
 There are most tomatoes alarming Kirsten . <eos>
-Each high school wasn't there disturbing John . <eos>
-There wasn't each high school disturbing John . <eos>
-Each senator wasn't there complaining . <eos>
-There wasn't each senator complaining . <eos>
+Each high school was n't there disturbing John . <eos>
+There was n't each high school disturbing John . <eos>
+Each senator was n't there complaining . <eos>
+There was n't each senator complaining . <eos>
 Each photograph was there falling . <eos>
 There was each photograph falling . <eos>
 All women were there examining all plays . <eos>
 There were all women examining all plays . <eos>
 Most drawings are n't there alarming Travis . <eos>
 There are n't most drawings alarming Travis . <eos>
-Most photographs weren't there disturbing this pedestrian . <eos>
-There weren't most photographs disturbing this pedestrian . <eos>
-Most mountains weren't there annoying Elaine . <eos>
-There weren't most mountains annoying Elaine . <eos>
+Most photographs were n't there disturbing this pedestrian . <eos>
+There were n't most photographs disturbing this pedestrian . <eos>
+Most mountains were n't there annoying Elaine . <eos>
+There were n't most mountains annoying Elaine . <eos>
 Every ladder was there upsetting the guests . <eos>
 There was every ladder upsetting the guests . <eos>
-Each school wasn't there listening to William . <eos>
-There wasn't each school listening to William . <eos>
+Each school was n't there listening to William . <eos>
+There was n't each school listening to William . <eos>
 All photographs are n't there disturbing Paul . <eos>
 There are n't all photographs disturbing Paul . <eos>
 Each photograph of many windows was there confusing Rose . <eos>
@@ -302,14 +302,14 @@ All bananas were there annoying Lissa . <eos>
 There were all bananas annoying Lissa . <eos>
 Most pictures are n't there upsetting Rachel . <eos>
 There are n't most pictures upsetting Rachel . <eos>
-Each computer wasn't there falling . <eos>
-There wasn't each computer falling . <eos>
+Each computer was n't there falling . <eos>
+There was n't each computer falling . <eos>
 Most documentaries about art were there alarming Kayla . <eos>
 There were most documentaries about art alarming Kayla . <eos>
 All glaciers were there impressing Irene . <eos>
 There were all glaciers impressing Irene . <eos>
-Each car wasn't there distracting associations . <eos>
-There wasn't each car distracting associations . <eos>
+Each car was n't there distracting associations . <eos>
+There was n't each car distracting associations . <eos>
 Most universities were there lying . <eos>
 There were most universities lying . <eos>
 Most art galleries are n't there embarrassing Kevin . <eos>
@@ -318,8 +318,8 @@ Each guest was there trying to predict Florence to sound like Michelle . <eos>
 There was each guest trying to predict Florence to sound like Michelle . <eos>
 Each grandmother of that cashier is n't there arguing . <eos>
 There is n't each grandmother of that cashier arguing . <eos>
-All teenagers weren't there explaining Wendy has n't concurred . <eos>
-There weren't all teenagers explaining Wendy has n't concurred . <eos>
+All teenagers were n't there explaining Wendy has n't concurred . <eos>
+There were n't all teenagers explaining Wendy has n't concurred . <eos>
 Each hamster was there finding some vase . <eos>
 There was each hamster finding some vase . <eos>
 All glasses are there falling . <eos>
@@ -330,8 +330,8 @@ All eyes are n't there annoying Dana . <eos>
 There are n't all eyes annoying Dana . <eos>
 Every committee is n't there stunning Judy . <eos>
 There is n't every committee stunning Judy . <eos>
-Each glass wasn't there disgusting Frank . <eos>
-There wasn't each glass disgusting Frank . <eos>
+Each glass was n't there disgusting Frank . <eos>
+There was n't each glass disgusting Frank . <eos>
 Most chairs are there annoying Alexander . <eos>
 There are most chairs annoying Alexander . <eos>
 Every son of John is n't there shouting . <eos>
@@ -340,10 +340,10 @@ Most cars are there alarming Stephen . <eos>
 There are most cars alarming Stephen . <eos>
 Each picture is there irritating Julia . <eos>
 There is each picture irritating Julia . <eos>
-Each mountain wasn't there disgusting some banks . <eos>
-There wasn't each mountain disgusting some banks . <eos>
-All teachers weren't there describing Adam . <eos>
-There weren't all teachers describing Adam . <eos>
+Each mountain was n't there disgusting some banks . <eos>
+There was n't each mountain disgusting some banks . <eos>
+All teachers were n't there describing Adam . <eos>
+There were n't all teachers describing Adam . <eos>
 Every rug is there embarrassing many people . <eos>
 There is every rug embarrassing many people . <eos>
 Most stories were there wanting the committee to forget who stretches . <eos>
@@ -356,8 +356,8 @@ Every lake is n't there astounding Marie . <eos>
 There is n't every lake astounding Marie . <eos>
 All plays are n't there considering Amelia to argue . <eos>
 There are n't all plays considering Amelia to argue . <eos>
-All drivers weren't there messing up these museums . <eos>
-There weren't all drivers messing up these museums . <eos>
+All drivers were n't there messing up these museums . <eos>
+There were n't all drivers messing up these museums . <eos>
 All associations were there corresponding . <eos>
 There were all associations corresponding . <eos>
 All dogs are n't there shocking some teacher . <eos>
@@ -382,22 +382,22 @@ Every government was there competing . <eos>
 There was every government competing . <eos>
 Each waitress was there lifting this dog . <eos>
 There was each waitress lifting this dog . <eos>
-Each plate wasn't there looking like all sketches . <eos>
-There wasn't each plate looking like all sketches . <eos>
+Each plate was n't there looking like all sketches . <eos>
+There was n't each plate looking like all sketches . <eos>
 Each glass was there astounding Tanya . <eos>
 There was each glass astounding Tanya . <eos>
 Every photograph was there astounding Ella . <eos>
 There was every photograph astounding Ella . <eos>
 Most documentaries about art are there talking about Renee . <eos>
 There are most documentaries about art talking about Renee . <eos>
-Every picture wasn't there irritating Victoria . <eos>
-There wasn't every picture irritating Victoria . <eos>
+Every picture was n't there irritating Victoria . <eos>
+There was n't every picture irritating Victoria . <eos>
 All pictures are n't there shocking Theresa . <eos>
 There are n't all pictures shocking Theresa . <eos>
-All dogs weren't there coming here . <eos>
-There weren't all dogs coming here . <eos>
-Every print of Patrick wasn't there disgusting some woman . <eos>
-There wasn't every print of Patrick disgusting some woman . <eos>
+All dogs were n't there coming here . <eos>
+There were n't all dogs coming here . <eos>
+Every print of Patrick was n't there disgusting some woman . <eos>
+There was n't every print of Patrick disgusting some woman . <eos>
 Most steps are n't there embarrassing Benjamin . <eos>
 There are n't most steps embarrassing Benjamin . <eos>
 Each mother of Helen's father is n't there believing Gina to hate Tonya . <eos>
@@ -418,16 +418,16 @@ Each committee is there surrendering . <eos>
 There is each committee surrendering . <eos>
 All rabbits are n't there hurting Danielle . <eos>
 There are n't all rabbits hurting Danielle . <eos>
-Each essay wasn't there trying to hurt Valerie . <eos>
-There wasn't each essay trying to hurt Valerie . <eos>
+Each essay was n't there trying to hurt Valerie . <eos>
+There was n't each essay trying to hurt Valerie . <eos>
 All senators are there getting fired . <eos>
 There are all senators getting fired . <eos>
 All public parks are there boring Kayla . <eos>
 There are all public parks boring Kayla . <eos>
 Every book is n't there disagreeing . <eos>
 There is n't every book disagreeing . <eos>
-All shoes weren't there embarrassing Elaine . <eos>
-There weren't all shoes embarrassing Elaine . <eos>
+All shoes were n't there embarrassing Elaine . <eos>
+There were n't all shoes embarrassing Elaine . <eos>
 Most cats are there upsetting Heidi . <eos>
 There are most cats upsetting Heidi . <eos>
 Most glasses were there shocking George . <eos>
@@ -464,12 +464,12 @@ Each library is n't there irritating Carmen . <eos>
 There is n't each library irritating Carmen . <eos>
 Every museum is n't there reacting . <eos>
 There is n't every museum reacting . <eos>
-Every play about music wasn't there distracting Tamara . <eos>
-There wasn't every play about music distracting Tamara . <eos>
+Every play about music was n't there distracting Tamara . <eos>
+There was n't every play about music distracting Tamara . <eos>
 Every lake is there hurting Elizabeth . <eos>
 There is every lake hurting Elizabeth . <eos>
-Most cats weren't there breaking some mirror . <eos>
-There weren't most cats breaking some mirror . <eos>
+Most cats were n't there breaking some mirror . <eos>
+There were n't most cats breaking some mirror . <eos>
 Each fish is n't there escaping . <eos>
 There is n't each fish escaping . <eos>
 Most mothers of most girls are there arguing . <eos>
@@ -492,24 +492,24 @@ Most eyes are there confusing a doctor . <eos>
 There are most eyes confusing a doctor . <eos>
 Each river was there impressing Nina . <eos>
 There was each river impressing Nina . <eos>
-All grandmothers of Martin weren't there falling . <eos>
-There weren't all grandmothers of Martin falling . <eos>
+All grandmothers of Martin were n't there falling . <eos>
+There were n't all grandmothers of Martin falling . <eos>
 Most dancers are n't there disturbing this pedestrian . <eos>
 There are n't most dancers disturbing this pedestrian . <eos>
 All reports were there praising Samantha . <eos>
 There were all reports praising Samantha . <eos>
-Most ladies weren't there dropping by all college campuses . <eos>
-There weren't most ladies dropping by all college campuses . <eos>
-Each drawing of Natalie wasn't there stunning Christina . <eos>
-There wasn't each drawing of Natalie stunning Christina . <eos>
+Most ladies were n't there dropping by all college campuses . <eos>
+There were n't most ladies dropping by all college campuses . <eos>
+Each drawing of Natalie was n't there stunning Christina . <eos>
+There was n't each drawing of Natalie stunning Christina . <eos>
 All hamsters are there bothering some boys . <eos>
 There are all hamsters bothering some boys . <eos>
 Every turtle is n't there stunning Tina . <eos>
 There is n't every turtle stunning Tina . <eos>
 Each cousin of Grace was there criticizing Robert . <eos>
 There was each cousin of Grace criticizing Robert . <eos>
-Every cousin of Meredith wasn't there scratching . <eos>
-There wasn't every cousin of Meredith scratching . <eos>
+Every cousin of Meredith was n't there scratching . <eos>
+There was n't every cousin of Meredith scratching . <eos>
 Most rugs are there confusing Rhonda . <eos>
 There are most rugs confusing Rhonda . <eos>
 Every photograph of Marla is there bothering Holly . <eos>
@@ -518,12 +518,12 @@ Every grandfather of Travis was there predicting Judy to come here . <eos>
 There was every grandfather of Travis predicting Judy to come here . <eos>
 Each waiter is n't there concealing who is confusing Paul . <eos>
 There is n't each waiter concealing who is confusing Paul . <eos>
-Most fish weren't there climbing up the slopes . <eos>
-There weren't most fish climbing up the slopes . <eos>
-Every snake wasn't there breaking most forks . <eos>
-There wasn't every snake breaking most forks . <eos>
-Most chairs weren't there bothering these women . <eos>
-There weren't most chairs bothering these women . <eos>
+Most fish were n't there climbing up the slopes . <eos>
+There were n't most fish climbing up the slopes . <eos>
+Every snake was n't there breaking most forks . <eos>
+There was n't every snake breaking most forks . <eos>
+Most chairs were n't there bothering these women . <eos>
+There were n't most chairs bothering these women . <eos>
 Every icicle is there disturbing Ella . <eos>
 There is every icicle disturbing Ella . <eos>
 All doors were there disgusting Brad . <eos>
@@ -532,8 +532,8 @@ All hospitals are there protesting . <eos>
 There are all hospitals protesting . <eos>
 Every hat is n't there falling . <eos>
 There is n't every hat falling . <eos>
-Every customer wasn't there hugging this waiter . <eos>
-There wasn't every customer hugging this waiter . <eos>
+Every customer was n't there hugging this waiter . <eos>
+There was n't every customer hugging this waiter . <eos>
 All mirrors were there confusing Tamara . <eos>
 There were all mirrors confusing Tamara . <eos>
 Most rivers were there alarming Meredith . <eos>
@@ -548,8 +548,8 @@ All drawings of that father of Cindy's mentees were there worrying this guest . 
 There were all drawings of that father of Cindy's mentees worrying this guest . <eos>
 All hospitals are there joking around . <eos>
 There are all hospitals joking around . <eos>
-Each mirror wasn't there alarming Carrie . <eos>
-There wasn't each mirror alarming Carrie . <eos>
+Each mirror was n't there alarming Carrie . <eos>
+There was n't each mirror alarming Carrie . <eos>
 All universities are n't there praising Cynthia . <eos>
 There are n't all universities praising Cynthia . <eos>
 Every report about art is n't there irritating Lori . <eos>
@@ -560,64 +560,64 @@ Every slope was there astounding Mitchell . <eos>
 There was every slope astounding Mitchell . <eos>
 Most associations are n't there talking about Thomas . <eos>
 There are n't most associations talking about Thomas . <eos>
-All stories weren't there considering Danielle to go fishing . <eos>
-There weren't all stories considering Danielle to go fishing . <eos>
-Each student wasn't there exploring all college campuses . <eos>
-There wasn't each student exploring all college campuses . <eos>
-Every nose wasn't there embarrassing Carol . <eos>
-There wasn't every nose embarrassing Carol . <eos>
+All stories were n't there considering Danielle to go fishing . <eos>
+There were n't all stories considering Danielle to go fishing . <eos>
+Each student was n't there exploring all college campuses . <eos>
+There was n't each student exploring all college campuses . <eos>
+Every nose was n't there embarrassing Carol . <eos>
+There was n't every nose embarrassing Carol . <eos>
 All windows are n't there disgusting David . <eos>
 There are n't all windows disgusting David . <eos>
-Every high school wasn't there shocking Benjamin . <eos>
-There wasn't every high school shocking Benjamin . <eos>
+Every high school was n't there shocking Benjamin . <eos>
+There was n't every high school shocking Benjamin . <eos>
 Most books were there confusing Alan . <eos>
 There were most books confusing Alan . <eos>
 All women are there forfeiting . <eos>
 There are all women forfeiting . <eos>
 Every closet is n't there irritating Judy . <eos>
 There is n't every closet irritating Judy . <eos>
-Each horse wasn't there alarming Aaron . <eos>
-There wasn't each horse alarming Aaron . <eos>
-Every door wasn't there upsetting Elizabeth . <eos>
-There wasn't every door upsetting Elizabeth . <eos>
+Each horse was n't there alarming Aaron . <eos>
+There was n't each horse alarming Aaron . <eos>
+Every door was n't there upsetting Elizabeth . <eos>
+There was n't every door upsetting Elizabeth . <eos>
 All books about literature are n't there embarrassing Claire . <eos>
 There are n't all books about literature embarrassing Claire . <eos>
 Most brothers of some children are there waving . <eos>
 There are most brothers of some children waving . <eos>
 Each mirror was there falling . <eos>
 There was each mirror falling . <eos>
-Every commentary about literature wasn't there stunning Kenneth . <eos>
-There wasn't every commentary about literature stunning Kenneth . <eos>
-All books about travel weren't there disagreeing with Guy . <eos>
-There weren't all books about travel disagreeing with Guy . <eos>
+Every commentary about literature was n't there stunning Kenneth . <eos>
+There was n't every commentary about literature stunning Kenneth . <eos>
+All books about travel were n't there disagreeing with Guy . <eos>
+There were n't all books about travel disagreeing with Guy . <eos>
 Every window was there stunning Raymond . <eos>
 There was every window stunning Raymond . <eos>
 Every hospital is n't there working with that senator . <eos>
 There is n't every hospital working with that senator . <eos>
 All commentaries about politics are n't there worrying Marie . <eos>
 There are n't all commentaries about politics worrying Marie . <eos>
-Most drawings weren't there bothering Theresa . <eos>
-There weren't most drawings bothering Theresa . <eos>
+Most drawings were n't there bothering Theresa . <eos>
+There were n't most drawings bothering Theresa . <eos>
 All people are there arriving at most movie theaters . <eos>
 There are all people arriving at most movie theaters . <eos>
 Most plates are n't there scaring a teenager . <eos>
 There are n't most plates scaring a teenager . <eos>
-Each senator wasn't there messing up some glasses . <eos>
-There wasn't each senator messing up some glasses . <eos>
+Each senator was n't there messing up some glasses . <eos>
+There was n't each senator messing up some glasses . <eos>
 All grandfathers of Brad's associate are there boycotting a committee . <eos>
 There are all grandfathers of Brad's associate boycotting a committee . <eos>
 Most friends of Martin are n't there ascending some mountain . <eos>
 There are n't most friends of Martin ascending some mountain . <eos>
-All bananas weren't there annoying Diane . <eos>
-There weren't all bananas annoying Diane . <eos>
+All bananas were n't there annoying Diane . <eos>
+There were n't all bananas annoying Diane . <eos>
 Most cashiers were there impressing Suzanne . <eos>
 There were most cashiers impressing Suzanne . <eos>
 Every movie theater was there disgusting Kenneth . <eos>
 There was every movie theater disgusting Kenneth . <eos>
 All stories about politics are there bothering Wendy . <eos>
 There are all stories about politics bothering Wendy . <eos>
-Every bird wasn't there hurting some man . <eos>
-There wasn't every bird hurting some man . <eos>
+Every bird was n't there hurting some man . <eos>
+There was n't every bird hurting some man . <eos>
 Each hill was there disgusting Raymond . <eos>
 There was each hill disgusting Raymond . <eos>
 Every art gallery is there hurting Patricia . <eos>
@@ -630,52 +630,52 @@ Most stories about literature are n't there astounding Tina . <eos>
 There are n't most stories about literature astounding Tina . <eos>
 Each drawing is there impressing Matt . <eos>
 There is each drawing impressing Matt . <eos>
-Most newspaper articles weren't there explaining everything . <eos>
-There weren't most newspaper articles explaining everything . <eos>
+Most newspaper articles were n't there explaining everything . <eos>
+There were n't most newspaper articles explaining everything . <eos>
 All stories about literature are there irritating Anne . <eos>
 There are all stories about literature irritating Anne . <eos>
-Every door wasn't there embarrassing Jerry . <eos>
-There wasn't every door embarrassing Jerry . <eos>
+Every door was n't there embarrassing Jerry . <eos>
+There was n't every door embarrassing Jerry . <eos>
 Every teenager was there murmuring . <eos>
 There was every teenager murmuring . <eos>
-Most ladies weren't there answering . <eos>
-There weren't most ladies answering . <eos>
+Most ladies were n't there answering . <eos>
+There were n't most ladies answering . <eos>
 All books are there impressing Catherine . <eos>
 There are all books impressing Catherine . <eos>
 Most women were there hugging customers . <eos>
 There were most women hugging customers . <eos>
-Each vase wasn't there stunning many libraries . <eos>
-There wasn't each vase stunning many libraries . <eos>
+Each vase was n't there stunning many libraries . <eos>
+There was n't each vase stunning many libraries . <eos>
 Every play about art is there disagreeing . <eos>
 There is every play about art disagreeing . <eos>
 Most hospitals are n't there talking about Theresa . <eos>
 There are n't most hospitals talking about Theresa . <eos>
-Most cups weren't there falling . <eos>
-There weren't most cups falling . <eos>
+Most cups were n't there falling . <eos>
+There were n't most cups falling . <eos>
 Most pictures of Carmen are n't there stunning Grace . <eos>
 There are n't most pictures of Carmen stunning Grace . <eos>
-Every customer wasn't there scaring Paul . <eos>
-There wasn't every customer scaring Paul . <eos>
+Every customer was n't there scaring Paul . <eos>
+There was n't every customer scaring Paul . <eos>
 Each movie theater is there scaring Christopher . <eos>
 There is each movie theater scaring Christopher . <eos>
-Each gate wasn't there shutting . <eos>
-There wasn't each gate shutting . <eos>
+Each gate was n't there shutting . <eos>
+There was n't each gate shutting . <eos>
 Every newspaper article about art was there impressing Kirsten . <eos>
 There was every newspaper article about art impressing Kirsten . <eos>
-Each bicycle wasn't there hurting Sally . <eos>
-There wasn't each bicycle hurting Sally . <eos>
-Every grandson of Tonya wasn't there healing Larry . <eos>
-There wasn't every grandson of Tonya healing Larry . <eos>
+Each bicycle was n't there hurting Sally . <eos>
+There was n't each bicycle hurting Sally . <eos>
+Every grandson of Tonya was n't there healing Larry . <eos>
+There was n't every grandson of Tonya healing Larry . <eos>
 Every university was there learning who practiced . <eos>
 There was every university learning who practiced . <eos>
 Each skirt was there stunning Dana . <eos>
 There was each skirt stunning Dana . <eos>
-All doors weren't there closing . <eos>
-There weren't all doors closing . <eos>
-Most pictures weren't there boring Chad . <eos>
-There weren't most pictures boring Chad . <eos>
-All people weren't there cheering . <eos>
-There weren't all people cheering . <eos>
+All doors were n't there closing . <eos>
+There were n't all doors closing . <eos>
+Most pictures were n't there boring Chad . <eos>
+There were n't most pictures boring Chad . <eos>
+All people were n't there cheering . <eos>
+There were n't all people cheering . <eos>
 Every glacier is n't there shocking Adam . <eos>
 There is n't every glacier shocking Adam . <eos>
 Every hospital was there criticizing some commentaries . <eos>
@@ -686,10 +686,10 @@ Most boys were there approving . <eos>
 There were most boys approving . <eos>
 Every turtle is n't there disgusting Donna . <eos>
 There is n't every turtle disgusting Donna . <eos>
-Most hamsters weren't there boring Russell . <eos>
-There weren't most hamsters boring Russell . <eos>
-Most fathers of Wayne's ex-husbands weren't there crying . <eos>
-There weren't most fathers of Wayne's ex-husbands crying . <eos>
+Most hamsters were n't there boring Russell . <eos>
+There were n't most hamsters boring Russell . <eos>
+Most fathers of Wayne's ex-husbands were n't there crying . <eos>
+There were n't most fathers of Wayne's ex-husbands crying . <eos>
 Each sketch of Donald is n't there falling . <eos>
 There is n't each sketch of Donald falling . <eos>
 Most doors are there disturbing Heidi . <eos>
@@ -700,14 +700,14 @@ Each plate was there hurting these governments . <eos>
 There was each plate hurting these governments . <eos>
 Most grandfathers of Erin are there smiling . <eos>
 There are most grandfathers of Erin smiling . <eos>
-Every library wasn't there clashing . <eos>
-There wasn't every library clashing . <eos>
+Every library was n't there clashing . <eos>
+There was n't every library clashing . <eos>
 Most universities are n't there forfeiting . <eos>
 There are n't most universities forfeiting . <eos>
 Each painting of Teresa's ex-boyfriends is there looking like most mouths . <eos>
 There is each painting of Teresa's ex-boyfriends looking like most mouths . <eos>
-Each pedestrian wasn't there grinning . <eos>
-There wasn't each pedestrian grinning . <eos>
+Each pedestrian was n't there grinning . <eos>
+There was n't each pedestrian grinning . <eos>
 Most gloves are there aggravating a girl . <eos>
 There are most gloves aggravating a girl . <eos>
 Every lady is there coming here . <eos>
@@ -718,24 +718,24 @@ All movie theaters are there alarming Connie . <eos>
 There are all movie theaters alarming Connie . <eos>
 Each rabbit was there falling asleep . <eos>
 There was each rabbit falling asleep . <eos>
-Each association wasn't there realizing who has explored some libraries . <eos>
-There wasn't each association realizing who has explored some libraries . <eos>
-Every actress wasn't there selling a lot of doors . <eos>
-There wasn't every actress selling a lot of doors . <eos>
+Each association was n't there realizing who has explored some libraries . <eos>
+There was n't each association realizing who has explored some libraries . <eos>
+Every actress was n't there selling a lot of doors . <eos>
+There was n't every actress selling a lot of doors . <eos>
 All doors were there upsetting most drivers . <eos>
 There were all doors upsetting most drivers . <eos>
 Every patient is there helping Craig . <eos>
 There is every patient helping Craig . <eos>
-All eyes weren't there opening . <eos>
-There weren't all eyes opening . <eos>
+All eyes were n't there opening . <eos>
+There were n't all eyes opening . <eos>
 Most cars were there shocking Karen . <eos>
 There were most cars shocking Karen . <eos>
-Every story wasn't there aggravating Grace . <eos>
-There wasn't every story aggravating Grace . <eos>
+Every story was n't there aggravating Grace . <eos>
+There was n't every story aggravating Grace . <eos>
 Each snake is n't there falling asleep . <eos>
 There is n't each snake falling asleep . <eos>
-Most grocery stores weren't there stunning Diana . <eos>
-There weren't most grocery stores stunning Diana . <eos>
+Most grocery stores were n't there stunning Diana . <eos>
+There were n't most grocery stores stunning Diana . <eos>
 All guys were there playing . <eos>
 There were all guys playing . <eos>
 Each hospital was there debating . <eos>
@@ -752,18 +752,18 @@ All daughters of Donald are n't there driving to this lake . <eos>
 There are n't all daughters of Donald driving to this lake . <eos>
 Each sketch was there confusing a lot of actors . <eos>
 There was each sketch confusing a lot of actors . <eos>
-All tomatoes weren't there confusing Melissa . <eos>
-There weren't all tomatoes confusing Melissa . <eos>
+All tomatoes were n't there confusing Melissa . <eos>
+There were n't all tomatoes confusing Melissa . <eos>
 Each newspaper article about travel was there disagreeing . <eos>
 There was each newspaper article about travel disagreeing . <eos>
-Each commentary wasn't there explaining everything . <eos>
-There wasn't each commentary explaining everything . <eos>
+Each commentary was n't there explaining everything . <eos>
+There was n't each commentary explaining everything . <eos>
 Each ladder was there hurting a lot of men . <eos>
 There was each ladder hurting a lot of men . <eos>
-Each newspaper article about travel wasn't there changing . <eos>
-There wasn't each newspaper article about travel changing . <eos>
-All doors weren't there looking like every picture . <eos>
-There weren't all doors looking like every picture . <eos>
+Each newspaper article about travel was n't there changing . <eos>
+There was n't each newspaper article about travel changing . <eos>
+All doors were n't there looking like every picture . <eos>
+There were n't all doors looking like every picture . <eos>
 All steps are n't there worrying Karen . <eos>
 There are n't all steps worrying Karen . <eos>
 Most books about literature are there praising Stacy . <eos>
@@ -774,12 +774,12 @@ Every ladder is there looking like sketches . <eos>
 There is every ladder looking like sketches . <eos>
 Each niece of Brett is n't there baking . <eos>
 There is n't each niece of Brett baking . <eos>
-Most cousins of Steven weren't there laughing . <eos>
-There weren't most cousins of Steven laughing . <eos>
+Most cousins of Steven were n't there laughing . <eos>
+There were n't most cousins of Steven laughing . <eos>
 Each dancer is there seeing . <eos>
 There is each dancer seeing . <eos>
-Most shows about science weren't there describing the bank . <eos>
-There weren't most shows about science describing the bank . <eos>
+Most shows about science were n't there describing the bank . <eos>
+There were n't most shows about science describing the bank . <eos>
 All glasses are n't there boring many waiters . <eos>
 There are n't all glasses boring many waiters . <eos>
 Each public park is there embarrassing Margaret . <eos>
@@ -788,26 +788,26 @@ Most restaurants are there disturbing Gerald . <eos>
 There are most restaurants disturbing Gerald . <eos>
 Most documentaries about literature are there disgusting a lot of actors . <eos>
 There are most documentaries about literature disgusting a lot of actors . <eos>
-Each sketch wasn't there annoying Kristin . <eos>
-There wasn't each sketch annoying Kristin . <eos>
+Each sketch was n't there annoying Kristin . <eos>
+There was n't each sketch annoying Kristin . <eos>
 All vases are there falling . <eos>
 There are all vases falling . <eos>
-Most turtles weren't there distracting Tanya . <eos>
-There weren't most turtles distracting Tanya . <eos>
+Most turtles were n't there distracting Tanya . <eos>
+There were n't most turtles distracting Tanya . <eos>
 Most photographs are there upsetting Lissa . <eos>
 There are most photographs upsetting Lissa . <eos>
 Most steps are n't there falling . <eos>
 There are n't most steps falling . <eos>
-Every car wasn't there falling . <eos>
-There wasn't every car falling . <eos>
+Every car was n't there falling . <eos>
+There was n't every car falling . <eos>
 Most cars are n't there embarrassing the waiter . <eos>
 There are n't most cars embarrassing the waiter . <eos>
 Every son of a boy is n't there saluting . <eos>
 There is n't every son of a boy saluting . <eos>
 All pants were there annoying Christina . <eos>
 There were all pants annoying Christina . <eos>
-Every essay wasn't there predicting most gloves to distract Diane . <eos>
-There wasn't every essay predicting most gloves to distract Diane . <eos>
+Every essay was n't there predicting most gloves to distract Diane . <eos>
+There was n't every essay predicting most gloves to distract Diane . <eos>
 Each woman is n't there driving to cafes . <eos>
 There is n't each woman driving to cafes . <eos>
 All pictures of Sharon are n't there falling . <eos>
@@ -826,8 +826,8 @@ Each art gallery is there impressing Benjamin . <eos>
 There is each art gallery impressing Benjamin . <eos>
 Every committee is n't there benefiting . <eos>
 There is n't every committee benefiting . <eos>
-Most cats weren't there leaving . <eos>
-There weren't most cats leaving . <eos>
+Most cats were n't there leaving . <eos>
+There were n't most cats leaving . <eos>
 Most books are there aggravating a girl . <eos>
 There are most books aggravating a girl . <eos>
 Most stories are n't there concealing Karen . <eos>
@@ -844,8 +844,8 @@ Each play is there predicting every teenager to remember Michael . <eos>
 There is each play predicting every teenager to remember Michael . <eos>
 All patients are there singing . <eos>
 There are all patients singing . <eos>
-All stories weren't there annoying Caroline . <eos>
-There weren't all stories annoying Caroline . <eos>
+All stories were n't there annoying Caroline . <eos>
+There were n't all stories annoying Caroline . <eos>
 Most hamsters are there impressing the doctor . <eos>
 There are most hamsters impressing the doctor . <eos>
 All reports are there irritating Rebecca . <eos>
@@ -878,26 +878,26 @@ Most ladders are n't there disgusting Eva . <eos>
 There are n't most ladders disgusting Eva . <eos>
 Most malls are there worrying Maria . <eos>
 There are most malls worrying Maria . <eos>
-Every snake wasn't there climbing up that hill . <eos>
-There wasn't every snake climbing up that hill . <eos>
+Every snake was n't there climbing up that hill . <eos>
+There was n't every snake climbing up that hill . <eos>
 Every lady is there escaping . <eos>
 There is every lady escaping . <eos>
-Every gate wasn't there shutting . <eos>
-There wasn't every gate shutting . <eos>
+Every gate was n't there shutting . <eos>
+There was n't every gate shutting . <eos>
 Most sons of Frank's grandsons' best friend are there trying to say some association insulted Monica . <eos>
 There are most sons of Frank's grandsons' best friend trying to say some association insulted Monica . <eos>
 Every waiter is n't there yelling . <eos>
 There is n't every waiter yelling . <eos>
 Every report about politics is n't there worrying Travis . <eos>
 There is n't every report about politics worrying Travis . <eos>
-Every mall wasn't there upsetting Tonya . <eos>
-There wasn't every mall upsetting Tonya . <eos>
-Every grandfather of Linda wasn't there fixing that vase . <eos>
-There wasn't every grandfather of Linda fixing that vase . <eos>
-Each essay about politics wasn't there distracting Lori . <eos>
-There wasn't each essay about politics distracting Lori . <eos>
-Most eyes weren't there impressing Meredith . <eos>
-There weren't most eyes impressing Meredith . <eos>
+Every mall was n't there upsetting Tonya . <eos>
+There was n't every mall upsetting Tonya . <eos>
+Every grandfather of Linda was n't there fixing that vase . <eos>
+There was n't every grandfather of Linda fixing that vase . <eos>
+Each essay about politics was n't there distracting Lori . <eos>
+There was n't each essay about politics distracting Lori . <eos>
+Most eyes were n't there impressing Meredith . <eos>
+There were n't most eyes impressing Meredith . <eos>
 Every essay is there astounding Derek . <eos>
 There is every essay astounding Derek . <eos>
 Each documentary is n't there boasting about Jill . <eos>
@@ -908,10 +908,10 @@ Most dogs were there falling asleep . <eos>
 There were most dogs falling asleep . <eos>
 Each rabbit was there climbing up hills . <eos>
 There was each rabbit climbing up hills . <eos>
-Each face wasn't there falling . <eos>
-There wasn't each face falling . <eos>
-Most actors weren't there drinking . <eos>
-There weren't most actors drinking . <eos>
+Each face was n't there falling . <eos>
+There was n't each face falling . <eos>
+Most actors were n't there drinking . <eos>
+There were n't most actors drinking . <eos>
 Every cat is there breaking some computer . <eos>
 There is every cat breaking some computer . <eos>
 Every banana is n't there hurting this dancer . <eos>
@@ -922,26 +922,26 @@ Most stories about science are there protesting . <eos>
 There are most stories about science protesting . <eos>
 Each book is there disgusting Scott . <eos>
 There is each book disgusting Scott . <eos>
-Each museum wasn't there concealing what can struggle . <eos>
-There wasn't each museum concealing what can struggle . <eos>
+Each museum was n't there concealing what can struggle . <eos>
+There was n't each museum concealing what can struggle . <eos>
 Each father of Sara is there refusing to wash . <eos>
 There is each father of Sara refusing to wash . <eos>
 Most grandsons of Elizabeth's wife are n't there lying . <eos>
 There are n't most grandsons of Elizabeth's wife lying . <eos>
-Every waitress wasn't there arguing . <eos>
-There wasn't every waitress arguing . <eos>
+Every waitress was n't there arguing . <eos>
+There was n't every waitress arguing . <eos>
 All essays about travel are there joking around . <eos>
 There are all essays about travel joking around . <eos>
 Most documentaries about current events are n't there shocking Raymond . <eos>
 There are n't most documentaries about current events shocking Raymond . <eos>
 All cats were there leaving . <eos>
 There were all cats leaving . <eos>
-Most actors weren't there climbing down many ladders . <eos>
-There weren't most actors climbing down many ladders . <eos>
-All sisters of the actors weren't there finding Kimberley to reveal Regina . <eos>
-There weren't all sisters of the actors finding Kimberley to reveal Regina . <eos>
-Most companies weren't there approving . <eos>
-There weren't most companies approving . <eos>
+Most actors were n't there climbing down many ladders . <eos>
+There were n't most actors climbing down many ladders . <eos>
+All sisters of the actors were n't there finding Kimberley to reveal Regina . <eos>
+There were n't all sisters of the actors finding Kimberley to reveal Regina . <eos>
+Most companies were n't there approving . <eos>
+There were n't most companies approving . <eos>
 Every photograph is there hurting Emily . <eos>
 There is every photograph hurting Emily . <eos>
 All couches were there bothering Samantha . <eos>
@@ -954,8 +954,8 @@ All reports about music were there falling . <eos>
 There were all reports about music falling . <eos>
 Each guest was there driving to most art galleries . <eos>
 There was each guest driving to most art galleries . <eos>
-Each waitress wasn't there attacking Jacqueline . <eos>
-There wasn't each waitress attacking Jacqueline . <eos>
+Each waitress was n't there attacking Jacqueline . <eos>
+There was n't each waitress attacking Jacqueline . <eos>
 All doctors are n't there boasting . <eos>
 There are n't all doctors boasting . <eos>
 Every river is there scaring Stephen . <eos>
@@ -964,8 +964,8 @@ Each customer was there hiding away . <eos>
 There was each customer hiding away . <eos>
 Every hospital is n't there boasting about many waiters . <eos>
 There is n't every hospital boasting about many waiters . <eos>
-Each bicycle wasn't there impressing Derek . <eos>
-There wasn't each bicycle impressing Derek . <eos>
+Each bicycle was n't there impressing Derek . <eos>
+There was n't each bicycle impressing Derek . <eos>
 Each mountain was there bothering Adam . <eos>
 There was each mountain bothering Adam . <eos>
 Most doctors were there clashing . <eos>
@@ -988,28 +988,28 @@ All drawings of the gate are n't there stunning Colleen . <eos>
 There are n't all drawings of the gate stunning Colleen . <eos>
 Every legislature was there worrying Amy . <eos>
 There was every legislature worrying Amy . <eos>
-Each cashier wasn't there complaining about Kevin . <eos>
-There wasn't each cashier complaining about Kevin . <eos>
-Most pictures of Diane weren't there impressing Dennis . <eos>
-There weren't most pictures of Diane impressing Dennis . <eos>
+Each cashier was n't there complaining about Kevin . <eos>
+There was n't each cashier complaining about Kevin . <eos>
+Most pictures of Diane were n't there impressing Dennis . <eos>
+There were n't most pictures of Diane impressing Dennis . <eos>
 Every actress was there discovering who did upset Robert . <eos>
 There was every actress discovering who did upset Robert . <eos>
 Each mouth is there distracting some university . <eos>
 There is each mouth distracting some university . <eos>
-Each restaurant wasn't there embarrassing Mary . <eos>
-There wasn't each restaurant embarrassing Mary . <eos>
+Each restaurant was n't there embarrassing Mary . <eos>
+There was n't each restaurant embarrassing Mary . <eos>
 All documentaries are n't there wanting a lot of boys to cooperate . <eos>
 There are n't all documentaries wanting a lot of boys to cooperate . <eos>
-Most icicles weren't there shocking the pedestrian . <eos>
-There weren't most icicles shocking the pedestrian . <eos>
-Each bicycle wasn't there disgusting Dan . <eos>
-There wasn't each bicycle disgusting Dan . <eos>
+Most icicles were n't there shocking the pedestrian . <eos>
+There were n't most icicles shocking the pedestrian . <eos>
+Each bicycle was n't there disgusting Dan . <eos>
+There was n't each bicycle disgusting Dan . <eos>
 Each story is there concealing Brenda . <eos>
 There is each story concealing Brenda . <eos>
 Each cousin of Sara was there concurring . <eos>
 There was each cousin of Sara concurring . <eos>
-Each daughter of the student wasn't there cleaning many cups . <eos>
-There wasn't each daughter of the student cleaning many cups . <eos>
+Each daughter of the student was n't there cleaning many cups . <eos>
+There was n't each daughter of the student cleaning many cups . <eos>
 All art galleries are n't there distracting Erin . <eos>
 There are n't all art galleries distracting Erin . <eos>
 All pictures are n't there falling . <eos>
@@ -1026,14 +1026,14 @@ Every pedestrian was there changing . <eos>
 There was every pedestrian changing . <eos>
 Each daughter of Grace is n't there changing . <eos>
 There is n't each daughter of Grace changing . <eos>
-Most sketches of many drawings of Amanda weren't there worrying Thomas . <eos>
-There weren't most sketches of many drawings of Amanda worrying Thomas . <eos>
-All computers weren't there scaring every driver . <eos>
-There weren't all computers scaring every driver . <eos>
-Every guest wasn't there saying gloves have worried Edward . <eos>
-There wasn't every guest saying gloves have worried Edward . <eos>
-Each screen wasn't there boring Cindy . <eos>
-There wasn't each screen boring Cindy . <eos>
+Most sketches of many drawings of Amanda were n't there worrying Thomas . <eos>
+There were n't most sketches of many drawings of Amanda worrying Thomas . <eos>
+All computers were n't there scaring every driver . <eos>
+There were n't all computers scaring every driver . <eos>
+Every guest was n't there saying gloves have worried Edward . <eos>
+There was n't every guest saying gloves have worried Edward . <eos>
+Each screen was n't there boring Cindy . <eos>
+There was n't each screen boring Cindy . <eos>
 Most guests were there worrying Bethany . <eos>
 There were most guests worrying Bethany . <eos>
 Most eyes are there upsetting this museum . <eos>
@@ -1052,28 +1052,28 @@ All granddaughters of a sister of Laura are there touring lakes . <eos>
 There are all granddaughters of a sister of Laura touring lakes . <eos>
 Most paintings of some pedestrian are n't there bothering Carla . <eos>
 There are n't most paintings of some pedestrian bothering Carla . <eos>
-Each computer wasn't there shocking Eric . <eos>
-There wasn't each computer shocking Eric . <eos>
-Most plays weren't there joking around . <eos>
-There weren't most plays joking around . <eos>
-Most gates weren't there stunning this teenager . <eos>
-There weren't most gates stunning this teenager . <eos>
+Each computer was n't there shocking Eric . <eos>
+There was n't each computer shocking Eric . <eos>
+Most plays were n't there joking around . <eos>
+There were n't most plays joking around . <eos>
+Most gates were n't there stunning this teenager . <eos>
+There were n't most gates stunning this teenager . <eos>
 All closets are n't there closing . <eos>
 There are n't all closets closing . <eos>
-Every boy wasn't there laughing . <eos>
-There wasn't every boy laughing . <eos>
+Every boy was n't there laughing . <eos>
+There was n't every boy laughing . <eos>
 Most pants are there distracting Amanda . <eos>
 There are most pants distracting Amanda . <eos>
 Most children are n't there finding Paula . <eos>
 There are n't most children finding Paula . <eos>
-All granddaughters of Deborah weren't there hunting . <eos>
-There weren't all granddaughters of Deborah hunting . <eos>
+All granddaughters of Deborah were n't there hunting . <eos>
+There were n't all granddaughters of Deborah hunting . <eos>
 Each glacier was there aggravating a waiter . <eos>
 There was each glacier aggravating a waiter . <eos>
 Most girls are n't there laughing . <eos>
 There are n't most girls laughing . <eos>
-Each horse wasn't there embarrassing Tiffany . <eos>
-There wasn't each horse embarrassing Tiffany . <eos>
+Each horse was n't there embarrassing Tiffany . <eos>
+There was n't each horse embarrassing Tiffany . <eos>
 Every cousin of Connie was there baking . <eos>
 There was every cousin of Connie baking . <eos>
 Every mirror was there boring Nicole . <eos>
@@ -1092,16 +1092,16 @@ Every window is n't there scaring Irene . <eos>
 There is n't every window scaring Irene . <eos>
 Most icicles are n't there shocking that boy . <eos>
 There are n't most icicles shocking that boy . <eos>
-Every commentary wasn't there wanting Keith to mutter . <eos>
-There wasn't every commentary wanting Keith to mutter . <eos>
+Every commentary was n't there wanting Keith to mutter . <eos>
+There was n't every commentary wanting Keith to mutter . <eos>
 Most glaciers are there alarming these guys . <eos>
 There are most glaciers alarming these guys . <eos>
 Every book is there boring the driver . <eos>
 There is every book boring the driver . <eos>
 All pictures were there shocking Robert . <eos>
 There were all pictures shocking Robert . <eos>
-All cars weren't there falling . <eos>
-There weren't all cars falling . <eos>
+All cars were n't there falling . <eos>
+There were n't all cars falling . <eos>
 Most teachers are there washing . <eos>
 There are most teachers washing . <eos>
 Most essays were there scaring Robert . <eos>
@@ -1114,12 +1114,12 @@ Each patient is there standing up . <eos>
 There is each patient standing up . <eos>
 Most windows were there distracting Chad . <eos>
 There were most windows distracting Chad . <eos>
-Each sister of Anna wasn't there praising that newspaper article . <eos>
-There wasn't each sister of Anna praising that newspaper article . <eos>
+Each sister of Anna was n't there praising that newspaper article . <eos>
+There was n't each sister of Anna praising that newspaper article . <eos>
 All museums are there chatting . <eos>
 There are all museums chatting . <eos>
-Each patient is n't there learning who wasn't getting fired . <eos>
-There is n't each patient learning who wasn't getting fired . <eos>
+Each patient is n't there learning who was n't getting fired . <eos>
+There is n't each patient learning who was n't getting fired . <eos>
 Most photographs of a lot of reports were there disturbing Mark . <eos>
 There were most photographs of a lot of reports disturbing Mark . <eos>
 All drawings are there hurting Martha . <eos>
@@ -1148,20 +1148,20 @@ All high schools are n't there aggravating John . <eos>
 There are n't all high schools aggravating John . <eos>
 Each sister of all ladies is n't there criticizing Curtis . <eos>
 There is n't each sister of all ladies criticizing Curtis . <eos>
-All steps weren't there upsetting a lot of students . <eos>
-There weren't all steps upsetting a lot of students . <eos>
+All steps were n't there upsetting a lot of students . <eos>
+There were n't all steps upsetting a lot of students . <eos>
 Every painting of a senator's associates is there irritating many men . <eos>
 There is every painting of a senator's associates irritating many men . <eos>
 Each cousin of Marcus is n't there performing . <eos>
 There is n't each cousin of Marcus performing . <eos>
-Each report about what wasn't there protesting . <eos>
-There wasn't each report about what protesting . <eos>
-Each teacher wasn't there upsetting all banks . <eos>
-There wasn't each teacher upsetting all banks . <eos>
+Each report about what was n't there protesting . <eos>
+There was n't each report about what protesting . <eos>
+Each teacher was n't there upsetting all banks . <eos>
+There was n't each teacher upsetting all banks . <eos>
 Most students are n't there concealing Rachelle . <eos>
 There are n't most students concealing Rachelle . <eos>
-Every niece of Dawn wasn't there descending these stairs . <eos>
-There wasn't every niece of Dawn descending these stairs . <eos>
+Every niece of Dawn was n't there descending these stairs . <eos>
+There was n't every niece of Dawn descending these stairs . <eos>
 All plates are n't there hurting Debra . <eos>
 There are n't all plates hurting Debra . <eos>
 All rabbits are there disgusting Lisa . <eos>
@@ -1172,8 +1172,8 @@ All birds are there breaking every cup . <eos>
 There are all birds breaking every cup . <eos>
 Each movie theater is there alarming Alicia . <eos>
 There is each movie theater alarming Alicia . <eos>
-Every guy wasn't there wondering what astound all guests . <eos>
-There wasn't every guy wondering what astound all guests . <eos>
+Every guy was n't there wondering what astound all guests . <eos>
+There was n't every guy wondering what astound all guests . <eos>
 Each commentary was there bothering Lisa . <eos>
 There was each commentary bothering Lisa . <eos>
 Each grocery store is there confusing Donna . <eos>
@@ -1192,22 +1192,22 @@ Most paintings are there aggravating Tiffany . <eos>
 There are most paintings aggravating Tiffany . <eos>
 Most sketches of that book were there distracting Wayne . <eos>
 There were most sketches of that book distracting Wayne . <eos>
-Most movies weren't there annoying Alexander . <eos>
-There weren't most movies annoying Alexander . <eos>
-Most pictures of Carla weren't there stunning many libraries . <eos>
-There weren't most pictures of Carla stunning many libraries . <eos>
-All windows weren't there annoying Tracy . <eos>
-There weren't all windows annoying Tracy . <eos>
-Most boys weren't there disagreeing . <eos>
-There weren't most boys disagreeing . <eos>
-Each mother of Victoria's cousins' French teacher wasn't there discovering who insults Ann . <eos>
-There wasn't each mother of Victoria's cousins' French teacher discovering who insults Ann . <eos>
+Most movies were n't there annoying Alexander . <eos>
+There were n't most movies annoying Alexander . <eos>
+Most pictures of Carla were n't there stunning many libraries . <eos>
+There were n't most pictures of Carla stunning many libraries . <eos>
+All windows were n't there annoying Tracy . <eos>
+There were n't all windows annoying Tracy . <eos>
+Most boys were n't there disagreeing . <eos>
+There were n't most boys disagreeing . <eos>
+Each mother of Victoria's cousins' French teacher was n't there discovering who insults Ann . <eos>
+There was n't each mother of Victoria's cousins' French teacher discovering who insults Ann . <eos>
 Every lake is n't there hurting Dawn . <eos>
 There is n't every lake hurting Dawn . <eos>
 Each story was there disagreeing with Mitchell . <eos>
 There was each story disagreeing with Mitchell . <eos>
-Most pedestrians weren't there littering . <eos>
-There weren't most pedestrians littering . <eos>
+Most pedestrians were n't there littering . <eos>
+There were n't most pedestrians littering . <eos>
 Each granddaughter of every son of that actor is there scanning every newspaper article . <eos>
 There is each granddaughter of every son of that actor scanning every newspaper article . <eos>
 Each print was there boring Amanda . <eos>
@@ -1220,8 +1220,8 @@ Each car is there aggravating Sandra . <eos>
 There is each car aggravating Sandra . <eos>
 Most ladies were there swallowing . <eos>
 There were most ladies swallowing . <eos>
-All bicycles weren't there distracting Martha . <eos>
-There weren't all bicycles distracting Martha . <eos>
+All bicycles were n't there distracting Martha . <eos>
+There were n't all bicycles distracting Martha . <eos>
 Every cafe is n't there upsetting Michelle . <eos>
 There is n't every cafe upsetting Michelle . <eos>
 Each story was there worrying libraries . <eos>
@@ -1236,60 +1236,60 @@ Every rug is there upsetting George . <eos>
 There is every rug upsetting George . <eos>
 Most horses are n't there embarrassing Nina . <eos>
 There are n't most horses embarrassing Nina . <eos>
-Every university wasn't there donating . <eos>
-There wasn't every university donating . <eos>
+Every university was n't there donating . <eos>
+There was n't every university donating . <eos>
 Each hamster is n't there breaking glasses . <eos>
 There is n't each hamster breaking glasses . <eos>
 Most books are there bothering Janet . <eos>
 There are most books bothering Janet . <eos>
-Every man is there investigating what wasn't succeeding . <eos>
-There is every man investigating what wasn't succeeding . <eos>
-Most girls weren't there describing Diane . <eos>
-There weren't most girls describing Diane . <eos>
+Every man is there investigating what was n't succeeding . <eos>
+There is every man investigating what was n't succeeding . <eos>
+Most girls were n't there describing Diane . <eos>
+There were n't most girls describing Diane . <eos>
 All doors are there upsetting every man . <eos>
 There are all doors upsetting every man . <eos>
 Each government was there forgetting who messes up every plate . <eos>
 There was each government forgetting who messes up every plate . <eos>
-Every lady wasn't there dropping by schools . <eos>
-There wasn't every lady dropping by schools . <eos>
+Every lady was n't there dropping by schools . <eos>
+There was n't every lady dropping by schools . <eos>
 All banks are there buying this car . <eos>
 There are all banks buying this car . <eos>
-Every niece of most boys' electricians wasn't there drinking . <eos>
-There wasn't every niece of most boys' electricians drinking . <eos>
+Every niece of most boys' electricians was n't there drinking . <eos>
+There was n't every niece of most boys' electricians drinking . <eos>
 All students were there biking to the closet . <eos>
 There were all students biking to the closet . <eos>
 Every couch is n't there disturbing Kirsten . <eos>
 There is n't every couch disturbing Kirsten . <eos>
 All teachers are n't there messing up these dishes . <eos>
 There are n't all teachers messing up these dishes . <eos>
-Most snakes weren't there embarrassing Denise . <eos>
-There weren't most snakes embarrassing Denise . <eos>
+Most snakes were n't there embarrassing Denise . <eos>
+There were n't most snakes embarrassing Denise . <eos>
 All prints are there embarrassing Donald . <eos>
 There are all prints embarrassing Donald . <eos>
-All ladders weren't there looking like a lot of photographs . <eos>
-There weren't all ladders looking like a lot of photographs . <eos>
+All ladders were n't there looking like a lot of photographs . <eos>
+There were n't all ladders looking like a lot of photographs . <eos>
 Most gloves are there disgusting Ronald . <eos>
 There are most gloves disgusting Ronald . <eos>
 Most teachers are n't there reading . <eos>
 There are n't most teachers reading . <eos>
 Each movie is n't there confusing Tiffany . <eos>
 There is n't each movie confusing Tiffany . <eos>
-All rabbits weren't there upsetting Melinda . <eos>
-There weren't all rabbits upsetting Melinda . <eos>
+All rabbits were n't there upsetting Melinda . <eos>
+There were n't all rabbits upsetting Melinda . <eos>
 Most college campuses were there distracting Ann . <eos>
 There were most college campuses distracting Ann . <eos>
 Each organization is n't there figuring out what shuts . <eos>
 There is n't each organization figuring out what shuts . <eos>
-Each dancer wasn't there descending most ladders . <eos>
-There wasn't each dancer descending most ladders . <eos>
+Each dancer was n't there descending most ladders . <eos>
+There was n't each dancer descending most ladders . <eos>
 Most vases are n't there looking like most paintings . <eos>
 There are n't most vases looking like most paintings . <eos>
 Each book is there distracting the girl . <eos>
 There is each book distracting the girl . <eos>
 Every restaurant is n't there disturbing a lot of customers . <eos>
 There is n't every restaurant disturbing a lot of customers . <eos>
-Most photographs weren't there scaring a cashier . <eos>
-There weren't most photographs scaring a cashier . <eos>
+Most photographs were n't there scaring a cashier . <eos>
+There were n't most photographs scaring a cashier . <eos>
 Every waitress is n't there yelling . <eos>
 There is n't every waitress yelling . <eos>
 Each photograph of the scarf was there boring Ann . <eos>
@@ -1300,8 +1300,8 @@ Each closet is n't there falling . <eos>
 There is n't each closet falling . <eos>
 Each book is n't there disagreeing . <eos>
 There is n't each book disagreeing . <eos>
-Each mother of Carolyn wasn't there passing the cafes . <eos>
-There wasn't each mother of Carolyn passing the cafes . <eos>
+Each mother of Carolyn was n't there passing the cafes . <eos>
+There was n't each mother of Carolyn passing the cafes . <eos>
 Each fish is there hiding . <eos>
 There is each fish hiding . <eos>
 Most people were there referencing this cashier . <eos>
@@ -1314,46 +1314,46 @@ Each woman is n't there bringing a lot of mouths . <eos>
 There is n't each woman bringing a lot of mouths . <eos>
 Each art gallery was there irritating Heather . <eos>
 There was each art gallery irritating Heather . <eos>
-Each rug wasn't there alarming Caroline . <eos>
-There wasn't each rug alarming Caroline . <eos>
+Each rug was n't there alarming Caroline . <eos>
+There was n't each rug alarming Caroline . <eos>
 All eyes were there disturbing Christopher . <eos>
 There were all eyes disturbing Christopher . <eos>
 Each niece of Ann is n't there performing . <eos>
 There is n't each niece of Ann performing . <eos>
-Most forks weren't there impressing Heidi . <eos>
-There weren't most forks impressing Heidi . <eos>
+Most forks were n't there impressing Heidi . <eos>
+There were n't most forks impressing Heidi . <eos>
 All children were there walking through a public park . <eos>
 There were all children walking through a public park . <eos>
 Each cafe is there bothering Linda . <eos>
 There is each cafe bothering Linda . <eos>
-Most committees weren't there changing . <eos>
-There weren't most committees changing . <eos>
-Each plate wasn't there aggravating Phillip . <eos>
-There wasn't each plate aggravating Phillip . <eos>
+Most committees were n't there changing . <eos>
+There were n't most committees changing . <eos>
+Each plate was n't there aggravating Phillip . <eos>
+There was n't each plate aggravating Phillip . <eos>
 Every school was there forfeiting . <eos>
 There was every school forfeiting . <eos>
-Every skirt wasn't there worrying Barbara . <eos>
-There wasn't every skirt worrying Barbara . <eos>
+Every skirt was n't there worrying Barbara . <eos>
+There was n't every skirt worrying Barbara . <eos>
 Every doctor was there baking . <eos>
 There was every doctor baking . <eos>
 All reports about science are n't there aggravating Adam . <eos>
 There are n't all reports about science aggravating Adam . <eos>
-Every movie wasn't there describing that high school . <eos>
-There wasn't every movie describing that high school . <eos>
+Every movie was n't there describing that high school . <eos>
+There was n't every movie describing that high school . <eos>
 Each fish was there bothering boys . <eos>
 There was each fish bothering boys . <eos>
 Each screen is n't there disgusting many children . <eos>
 There is n't each screen disgusting many children . <eos>
 All plates were there irritating William . <eos>
 There were all plates irritating William . <eos>
-Most mouths weren't there bothering Julie . <eos>
-There weren't most mouths bothering Julie . <eos>
+Most mouths were n't there bothering Julie . <eos>
+There were n't most mouths bothering Julie . <eos>
 Each window is there shocking Carrie . <eos>
 There is each window shocking Carrie . <eos>
 Each guest is there passing the museum . <eos>
 There is each guest passing the museum . <eos>
-Every painting wasn't there embarrassing Elaine . <eos>
-There wasn't every painting embarrassing Elaine . <eos>
+Every painting was n't there embarrassing Elaine . <eos>
+There was n't every painting embarrassing Elaine . <eos>
 Every plate is there alarming Becky . <eos>
 There is every plate alarming Becky . <eos>
 Each cup is n't there boring Craig . <eos>
@@ -1362,20 +1362,20 @@ Every glass is n't there alarming Joseph . <eos>
 There is n't every glass alarming Joseph . <eos>
 All gloves are n't there annoying Allison . <eos>
 There are n't all gloves annoying Allison . <eos>
-All boxes weren't there boring Becca . <eos>
-There weren't all boxes boring Becca . <eos>
+All boxes were n't there boring Becca . <eos>
+There were n't all boxes boring Becca . <eos>
 Every cat is n't there alarming Jeffrey . <eos>
 There is n't every cat alarming Jeffrey . <eos>
-Each print wasn't there impressing that waitress . <eos>
-There wasn't each print impressing that waitress . <eos>
+Each print was n't there impressing that waitress . <eos>
+There was n't each print impressing that waitress . <eos>
 Every show about politics is n't there concealing Stephen . <eos>
 There is n't every show about politics concealing Stephen . <eos>
-Every adult wasn't there suffering . <eos>
-There wasn't every adult suffering . <eos>
+Every adult was n't there suffering . <eos>
+There was n't every adult suffering . <eos>
 Each pedestrian is n't there talking to Omar . <eos>
 There is n't each pedestrian talking to Omar . <eos>
-All guys weren't there grinning . <eos>
-There weren't all guys grinning . <eos>
+All guys were n't there grinning . <eos>
+There were n't all guys grinning . <eos>
 Each show about travel is there impressing some ladies . <eos>
 There is each show about travel impressing some ladies . <eos>
 All doctors are n't there concealing Candice . <eos>
@@ -1392,22 +1392,22 @@ Every newspaper article about what is n't there confusing Cynthia . <eos>
 There is n't every newspaper article about what confusing Cynthia . <eos>
 All prints are there stunning Tracy . <eos>
 There are all prints stunning Tracy . <eos>
-Each customer wasn't there revealing Ella . <eos>
-There wasn't each customer revealing Ella . <eos>
+Each customer was n't there revealing Ella . <eos>
+There was n't each customer revealing Ella . <eos>
 Most eyes are there irritating Tina . <eos>
 There are most eyes irritating Tina . <eos>
-Every mountain wasn't there looking like some sketches . <eos>
-There wasn't every mountain looking like some sketches . <eos>
+Every mountain was n't there looking like some sketches . <eos>
+There was n't every mountain looking like some sketches . <eos>
 Each mother of most men was there coming here . <eos>
 There was each mother of most men coming here . <eos>
-Most college campuses weren't there bothering Martha . <eos>
-There weren't most college campuses bothering Martha . <eos>
+Most college campuses were n't there bothering Martha . <eos>
+There were n't most college campuses bothering Martha . <eos>
 Each cat was there climbing up ladders . <eos>
 There was each cat climbing up ladders . <eos>
 Most mirrors are n't there annoying Caroline . <eos>
 There are n't most mirrors annoying Caroline . <eos>
-Most committees weren't there confusing Phillip . <eos>
-There weren't most committees confusing Phillip . <eos>
+Most committees were n't there confusing Phillip . <eos>
+There were n't most committees confusing Phillip . <eos>
 Each photograph is there hurting Carol . <eos>
 There is each photograph hurting Carol . <eos>
 Most newspaper articles are n't there bothering most waiters . <eos>
@@ -1442,22 +1442,22 @@ All slopes are there embarrassing Benjamin . <eos>
 There are all slopes embarrassing Benjamin . <eos>
 Each scarf was there falling . <eos>
 There was each scarf falling . <eos>
-Each cashier wasn't there shrugging . <eos>
-There wasn't each cashier shrugging . <eos>
-Each shirt wasn't there astounding Rhonda . <eos>
-There wasn't each shirt astounding Rhonda . <eos>
+Each cashier was n't there shrugging . <eos>
+There was n't each cashier shrugging . <eos>
+Each shirt was n't there astounding Rhonda . <eos>
+There was n't each shirt astounding Rhonda . <eos>
 Each doctor is there upsetting Pamela . <eos>
 There is each doctor upsetting Pamela . <eos>
 All committees are n't there collaborating . <eos>
 There are n't all committees collaborating . <eos>
-Most college campuses weren't there embarrassing Deborah . <eos>
-There weren't most college campuses embarrassing Deborah . <eos>
+Most college campuses were n't there embarrassing Deborah . <eos>
+There were n't most college campuses embarrassing Deborah . <eos>
 Most restaurants are there bothering some ladies . <eos>
 There are most restaurants bothering some ladies . <eos>
 Each turtle was there looking like photographs . <eos>
 There was each turtle looking like photographs . <eos>
-Every window wasn't there astounding Gerald . <eos>
-There wasn't every window astounding Gerald . <eos>
+Every window was n't there astounding Gerald . <eos>
+There was n't every window astounding Gerald . <eos>
 Every cousin of these grandmothers of Wendy's students' mothers' best friend was there learning who forget who shrugs . <eos>
 There was every cousin of these grandmothers of Wendy's students' mothers' best friend learning who forget who shrugs . <eos>
 Each computer is there boring Amelia . <eos>
@@ -1466,24 +1466,24 @@ Each art gallery is n't there hurting a lot of guests . <eos>
 There is n't each art gallery hurting a lot of guests . <eos>
 Most grandsons of this lady are n't there praising these teachers . <eos>
 There are n't most grandsons of this lady praising these teachers . <eos>
-All cousins of Kevin weren't there disturbing Margaret . <eos>
-There weren't all cousins of Kevin disturbing Margaret . <eos>
+All cousins of Kevin were n't there disturbing Margaret . <eos>
+There were n't all cousins of Kevin disturbing Margaret . <eos>
 Each picture is there looking like Florence . <eos>
 There is each picture looking like Florence . <eos>
 Most daughters of many cousins of these customers are n't there working with Florence . <eos>
 There are n't most daughters of many cousins of these customers working with Florence . <eos>
 Most actresses were there talking to Aaron . <eos>
 There were most actresses talking to Aaron . <eos>
-Each vase wasn't there upsetting Dennis . <eos>
-There wasn't each vase upsetting Dennis . <eos>
+Each vase was n't there upsetting Dennis . <eos>
+There was n't each vase upsetting Dennis . <eos>
 Every college campus is n't there scaring Clyde . <eos>
 There is n't every college campus scaring Clyde . <eos>
-Every lady wasn't there concealing John . <eos>
-There wasn't every lady concealing John . <eos>
-Each hat wasn't there aggravating Bill . <eos>
-There wasn't each hat aggravating Bill . <eos>
-Most friends of Steven weren't there reading . <eos>
-There weren't most friends of Steven reading . <eos>
+Every lady was n't there concealing John . <eos>
+There was n't every lady concealing John . <eos>
+Each hat was n't there aggravating Bill . <eos>
+There was n't each hat aggravating Bill . <eos>
+Most friends of Steven were n't there reading . <eos>
+There were n't most friends of Steven reading . <eos>
 Each restaurant is n't there boring Dana . <eos>
 There is n't each restaurant boring Dana . <eos>
 Each rabbit is there falling asleep . <eos>
@@ -1500,8 +1500,8 @@ All students are n't there corresponding . <eos>
 There are n't all students corresponding . <eos>
 Each rabbit is there hiding . <eos>
 There is each rabbit hiding . <eos>
-Every snake wasn't there distracting these universities . <eos>
-There wasn't every snake distracting these universities . <eos>
+Every snake was n't there distracting these universities . <eos>
+There was n't every snake distracting these universities . <eos>
 Most teachers are there selling a lot of forks . <eos>
 There are most teachers selling a lot of forks . <eos>
 All cars are n't there alarming Donna . <eos>
@@ -1516,8 +1516,8 @@ Each painting is n't there annoying Scott . <eos>
 There is n't each painting annoying Scott . <eos>
 All newspaper articles about what were there stunning many girls . <eos>
 There were all newspaper articles about what stunning many girls . <eos>
-Most fish weren't there leaving . <eos>
-There weren't most fish leaving . <eos>
+Most fish were n't there leaving . <eos>
+There were n't most fish leaving . <eos>
 Most mountains are there annoying Candice . <eos>
 There are most mountains annoying Candice . <eos>
 Each car was there falling . <eos>
@@ -1532,12 +1532,12 @@ All cousins of men were there protesting . <eos>
 There were all cousins of men protesting . <eos>
 Each adult is n't there concealing all waitresses . <eos>
 There is n't each adult concealing all waitresses . <eos>
-Most actresses weren't there yelling . <eos>
-There weren't most actresses yelling . <eos>
+Most actresses were n't there yelling . <eos>
+There were n't most actresses yelling . <eos>
 All malls were there bothering David . <eos>
 There were all malls bothering David . <eos>
-All computers weren't there boring most patients . <eos>
-There weren't all computers boring most patients . <eos>
+All computers were n't there boring most patients . <eos>
+There were n't all computers boring most patients . <eos>
 Every fork is n't there looking like most photographs . <eos>
 There is n't every fork looking like most photographs . <eos>
 Every cafe is there impressing Carla . <eos>
@@ -1548,28 +1548,28 @@ All girls are there grinning . <eos>
 There are all girls grinning . <eos>
 Most cars are there impressing Stephanie . <eos>
 There are most cars impressing Stephanie . <eos>
-Most dogs weren't there aggravating Cynthia . <eos>
-There weren't most dogs aggravating Cynthia . <eos>
+Most dogs were n't there aggravating Cynthia . <eos>
+There were n't most dogs aggravating Cynthia . <eos>
 Most mountains were there alarming Raymond . <eos>
 There were most mountains alarming Raymond . <eos>
-All organizations weren't there worrying Donald . <eos>
-There weren't all organizations worrying Donald . <eos>
-Most books about what weren't there discussing Roger . <eos>
-There weren't most books about what discussing Roger . <eos>
+All organizations were n't there worrying Donald . <eos>
+There were n't all organizations worrying Donald . <eos>
+Most books about what were n't there discussing Roger . <eos>
+There were n't most books about what discussing Roger . <eos>
 Each print of Diana was there stunning Rachel . <eos>
 There was each print of Diana stunning Rachel . <eos>
 All essays about music are n't there lying . <eos>
 There are n't all essays about music lying . <eos>
 All prints of Alice were there embarrassing Vanessa . <eos>
 There were all prints of Alice embarrassing Vanessa . <eos>
-Each vase wasn't there annoying Ellen . <eos>
-There wasn't each vase annoying Ellen . <eos>
-All libraries weren't there realizing who has n't doubted a lot of libraries could meet . <eos>
-There weren't all libraries realizing who has n't doubted a lot of libraries could meet . <eos>
+Each vase was n't there annoying Ellen . <eos>
+There was n't each vase annoying Ellen . <eos>
+All libraries were n't there realizing who has n't doubted a lot of libraries could meet . <eos>
+There were n't all libraries realizing who has n't doubted a lot of libraries could meet . <eos>
 Every face was there scaring Ella . <eos>
 There was every face scaring Ella . <eos>
-Most dogs weren't there worrying Renee . <eos>
-There weren't most dogs worrying Renee . <eos>
+Most dogs were n't there worrying Renee . <eos>
+There were n't most dogs worrying Renee . <eos>
 Most rugs are n't there irritating Dawn . <eos>
 There are n't most rugs irritating Dawn . <eos>
 All cafes were there boring some guests . <eos>
@@ -1602,42 +1602,42 @@ Every friend of Caroline was there going to some closet . <eos>
 There was every friend of Caroline going to some closet . <eos>
 Each glacier was there disgusting some cashier . <eos>
 There was each glacier disgusting some cashier . <eos>
-Each cousin of Sally wasn't there hiding . <eos>
-There wasn't each cousin of Sally hiding . <eos>
+Each cousin of Sally was n't there hiding . <eos>
+There was n't each cousin of Sally hiding . <eos>
 Each cat is there irritating Lisa . <eos>
 There is each cat irritating Lisa . <eos>
-Every government wasn't there aggravating Naomi . <eos>
-There wasn't every government aggravating Naomi . <eos>
-All rugs weren't there upsetting Roger . <eos>
-There weren't all rugs upsetting Roger . <eos>
+Every government was n't there aggravating Naomi . <eos>
+There was n't every government aggravating Naomi . <eos>
+All rugs were n't there upsetting Roger . <eos>
+There were n't all rugs upsetting Roger . <eos>
 Most photographs are n't there upsetting James . <eos>
 There are n't most photographs upsetting James . <eos>
 Each fork is n't there upsetting Janice . <eos>
 There is n't each fork upsetting Janice . <eos>
-Every dish wasn't there disturbing Kristin . <eos>
-There wasn't every dish disturbing Kristin . <eos>
-All commentaries weren't there wanting Katherine to cure Bethany . <eos>
-There weren't all commentaries wanting Katherine to cure Bethany . <eos>
+Every dish was n't there disturbing Kristin . <eos>
+There was n't every dish disturbing Kristin . <eos>
+All commentaries were n't there wanting Katherine to cure Bethany . <eos>
+There were n't all commentaries wanting Katherine to cure Bethany . <eos>
 Most horses were there disgusting Elaine . <eos>
 There were most horses disgusting Elaine . <eos>
 All drawings of Laura's brothers are n't there aggravating Meredith . <eos>
 There are n't all drawings of Laura's brothers aggravating Meredith . <eos>
-All cats weren't there descending this mountain . <eos>
-There weren't all cats descending this mountain . <eos>
+All cats were n't there descending this mountain . <eos>
+There were n't all cats descending this mountain . <eos>
 Each museum is n't there reuniting . <eos>
 There is n't each museum reuniting . <eos>
 Every mirror was there aggravating Nina . <eos>
 There was every mirror aggravating Nina . <eos>
-Each essay about music wasn't there lying . <eos>
-There wasn't each essay about music lying . <eos>
-Each closet wasn't there embarrassing William . <eos>
-There wasn't each closet embarrassing William . <eos>
+Each essay about music was n't there lying . <eos>
+There was n't each essay about music lying . <eos>
+Each closet was n't there embarrassing William . <eos>
+There was n't each closet embarrassing William . <eos>
 Most mothers of Christopher are n't there boring Ruth . <eos>
 There are n't most mothers of Christopher boring Ruth . <eos>
 All rabbits are n't there shocking James . <eos>
 There are n't all rabbits shocking James . <eos>
-All plays about science weren't there scaring Jeffrey . <eos>
-There weren't all plays about science scaring Jeffrey . <eos>
+All plays about science were n't there scaring Jeffrey . <eos>
+There were n't all plays about science scaring Jeffrey . <eos>
 All movies about science are n't there confusing the hospital . <eos>
 There are n't all movies about science confusing the hospital . <eos>
 All guys are n't there hunting . <eos>
@@ -1648,16 +1648,16 @@ Most pictures are there falling . <eos>
 There are most pictures falling . <eos>
 Most movies about art are there trying to predict Lisa to whisper . <eos>
 There are most movies about art trying to predict Lisa to whisper . <eos>
-Most pedestrians weren't there biking to this restaurant . <eos>
-There weren't most pedestrians biking to this restaurant . <eos>
+Most pedestrians were n't there biking to this restaurant . <eos>
+There were n't most pedestrians biking to this restaurant . <eos>
 All bicycles are there impressing Steve . <eos>
 There are all bicycles impressing Steve . <eos>
 Most pictures were there looking like that painting . <eos>
 There were most pictures looking like that painting . <eos>
-Most friends of a lot of nephews of Raymond weren't there wanting Deborah to nod . <eos>
-There weren't most friends of a lot of nephews of Raymond wanting Deborah to nod . <eos>
-All forks weren't there upsetting Sonia . <eos>
-There weren't all forks upsetting Sonia . <eos>
+Most friends of a lot of nephews of Raymond were n't there wanting Deborah to nod . <eos>
+There were n't most friends of a lot of nephews of Raymond wanting Deborah to nod . <eos>
+All forks were n't there upsetting Sonia . <eos>
+There were n't all forks upsetting Sonia . <eos>
 Every guy is there describing the museum . <eos>
 There is every guy describing the museum . <eos>
 Every story about current events is n't there criticizing Patricia . <eos>
@@ -1666,16 +1666,16 @@ Each government is n't there talking to Anna . <eos>
 There is n't each government talking to Anna . <eos>
 Each dog was there confusing this government . <eos>
 There was each dog confusing this government . <eos>
-Each high school wasn't there irritating Edward . <eos>
-There wasn't each high school irritating Edward . <eos>
+Each high school was n't there irritating Edward . <eos>
+There was n't each high school irritating Edward . <eos>
 Every waitress was there complaining about Pamela . <eos>
 There was every waitress complaining about Pamela . <eos>
 Every print of Julie was there astounding Stephen . <eos>
 There was every print of Julie astounding Stephen . <eos>
 All pictures are n't there looking like this painting . <eos>
 There are n't all pictures looking like this painting . <eos>
-Most teenagers weren't there departing . <eos>
-There weren't most teenagers departing . <eos>
+Most teenagers were n't there departing . <eos>
+There were n't most teenagers departing . <eos>
 Every student is there upsetting actors . <eos>
 There is every student upsetting actors . <eos>
 All stories about politics were there aggravating Judy . <eos>
@@ -1684,10 +1684,10 @@ Every lake is there melting . <eos>
 There is every lake melting . <eos>
 Every brother of Elaine is n't there shocking Cheryl . <eos>
 There is n't every brother of Elaine shocking Cheryl . <eos>
-Every vase wasn't there looking like all drawings . <eos>
-There wasn't every vase looking like all drawings . <eos>
-Most committees weren't there disgusting Frank . <eos>
-There weren't most committees disgusting Frank . <eos>
+Every vase was n't there looking like all drawings . <eos>
+There was n't every vase looking like all drawings . <eos>
+Most committees were n't there disgusting Frank . <eos>
+There were n't most committees disgusting Frank . <eos>
 Each museum is there chatting . <eos>
 There is each museum chatting . <eos>
 Most documentaries were there distracting Marla . <eos>
@@ -1706,30 +1706,30 @@ Each commentary about politics is there upsetting Cindy . <eos>
 There is each commentary about politics upsetting Cindy . <eos>
 Every teacher is there seeing . <eos>
 There is every teacher seeing . <eos>
-Most photographs weren't there embarrassing Jeffrey . <eos>
-There weren't most photographs embarrassing Jeffrey . <eos>
-Most committees weren't there talking about Clyde . <eos>
-There weren't most committees talking about Clyde . <eos>
-All pedestrians weren't there revealing who can't fix some computer . <eos>
-There weren't all pedestrians revealing who can't fix some computer . <eos>
-All hamsters weren't there escaping . <eos>
-There weren't all hamsters escaping . <eos>
-All students weren't there hiring Anna . <eos>
-There weren't all students hiring Anna . <eos>
+Most photographs were n't there embarrassing Jeffrey . <eos>
+There were n't most photographs embarrassing Jeffrey . <eos>
+Most committees were n't there talking about Clyde . <eos>
+There were n't most committees talking about Clyde . <eos>
+All pedestrians were n't there revealing who ca n't fix some computer . <eos>
+There were n't all pedestrians revealing who ca n't fix some computer . <eos>
+All hamsters were n't there escaping . <eos>
+There were n't all hamsters escaping . <eos>
+All students were n't there hiring Anna . <eos>
+There were n't all students hiring Anna . <eos>
 Most tomatoes were there confusing this person . <eos>
 There were most tomatoes confusing this person . <eos>
-Every vase wasn't there looking like a print . <eos>
-There wasn't every vase looking like a print . <eos>
-Every school wasn't there struggling . <eos>
-There wasn't every school struggling . <eos>
+Every vase was n't there looking like a print . <eos>
+There was n't every vase looking like a print . <eos>
+Every school was n't there struggling . <eos>
+There was n't every school struggling . <eos>
 All men are n't there conferring . <eos>
 There are n't all men conferring . <eos>
 Most cars are n't there embarrassing Helen . <eos>
 There are n't most cars embarrassing Helen . <eos>
-Each computer wasn't there impressing Suzanne . <eos>
-There wasn't each computer impressing Suzanne . <eos>
-Most nieces of Lawrence weren't there ascending a lot of steps . <eos>
-There weren't most nieces of Lawrence ascending a lot of steps . <eos>
+Each computer was n't there impressing Suzanne . <eos>
+There was n't each computer impressing Suzanne . <eos>
+Most nieces of Lawrence were n't there ascending a lot of steps . <eos>
+There were n't most nieces of Lawrence ascending a lot of steps . <eos>
 Each cup is n't there astounding the guest . <eos>
 There is n't each cup astounding the guest . <eos>
 Every movie about art is there worrying Scott . <eos>
@@ -1740,8 +1740,8 @@ All eyes are there worrying Eva . <eos>
 There are all eyes worrying Eva . <eos>
 All vases are there impressing the committee . <eos>
 There are all vases impressing the committee . <eos>
-Most senators weren't there revealing some women . <eos>
-There weren't most senators revealing some women . <eos>
+Most senators were n't there revealing some women . <eos>
+There were n't most senators revealing some women . <eos>
 Every legislature is n't there collaborating . <eos>
 There is n't every legislature collaborating . <eos>
 All women are n't there healing Janice . <eos>
@@ -1790,20 +1790,20 @@ Every print is n't there embarrassing Vincent . <eos>
 There is n't every print embarrassing Vincent . <eos>
 All chairs are there boring Regina . <eos>
 There are all chairs boring Regina . <eos>
-Most mothers of Cheryl weren't there finding Scott . <eos>
-There weren't most mothers of Cheryl finding Scott . <eos>
+Most mothers of Cheryl were n't there finding Scott . <eos>
+There were n't most mothers of Cheryl finding Scott . <eos>
 Each mother of Sarah is n't there concealing Joseph . <eos>
 There is n't each mother of Sarah concealing Joseph . <eos>
 Most lakes are there hurting Sabrina . <eos>
 There are most lakes hurting Sabrina . <eos>
 Every girl is there listening to Suzanne . <eos>
 There is every girl listening to Suzanne . <eos>
-Every nose wasn't there distracting the universities . <eos>
-There wasn't every nose distracting the universities . <eos>
+Every nose was n't there distracting the universities . <eos>
+There was n't every nose distracting the universities . <eos>
 Every bicycle is there scaring the cashier . <eos>
 There is every bicycle scaring the cashier . <eos>
-Every nose wasn't there annoying Naomi . <eos>
-There wasn't every nose annoying Naomi . <eos>
+Every nose was n't there annoying Naomi . <eos>
+There was n't every nose annoying Naomi . <eos>
 Every friend of Tina's supervisor's guest is there bringing this computer . <eos>
 There is every friend of Tina's supervisor's guest bringing this computer . <eos>
 Every screen is there hurting a lot of dancers . <eos>
@@ -1812,8 +1812,8 @@ Every essay about travel was there protesting . <eos>
 There was every essay about travel protesting . <eos>
 Every friend of Deanna's supervisor is there eating . <eos>
 There is every friend of Deanna's supervisor eating . <eos>
-All guys weren't there embarrassing a cashier . <eos>
-There weren't all guys embarrassing a cashier . <eos>
+All guys were n't there embarrassing a cashier . <eos>
+There were n't all guys embarrassing a cashier . <eos>
 Every painting is there hurting Charles . <eos>
 There is every painting hurting Charles . <eos>
 Every car is n't there disturbing Roger . <eos>
@@ -1828,18 +1828,18 @@ Every icicle is there hurting Gary . <eos>
 There is every icicle hurting Gary . <eos>
 Each waiter is n't there finding out who was climbing down this hill . <eos>
 There is n't each waiter finding out who was climbing down this hill . <eos>
-Each government wasn't there cooperating . <eos>
-There wasn't each government cooperating . <eos>
+Each government was n't there cooperating . <eos>
+There was n't each government cooperating . <eos>
 Most cousins of pedestrians are n't there appreciating Kevin . <eos>
 There are n't most cousins of pedestrians appreciating Kevin . <eos>
 All ladies are n't there confusing Rodney . <eos>
 There are n't all ladies confusing Rodney . <eos>
-Every chair wasn't there aggravating that waiter . <eos>
-There wasn't every chair aggravating that waiter . <eos>
+Every chair was n't there aggravating that waiter . <eos>
+There was n't every chair aggravating that waiter . <eos>
 All universities are there distracting Chad . <eos>
 There are all universities distracting Chad . <eos>
-Most libraries weren't there hurting a committee . <eos>
-There weren't most libraries hurting a committee . <eos>
+Most libraries were n't there hurting a committee . <eos>
+There were n't most libraries hurting a committee . <eos>
 Every brother of Carrie was there escaping . <eos>
 There was every brother of Carrie escaping . <eos>
 All rugs are there disturbing Denise . <eos>
@@ -1866,8 +1866,8 @@ Each hospital is there forgetting who plays . <eos>
 There is each hospital forgetting who plays . <eos>
 Most screens are there astounding Alice . <eos>
 There are most screens astounding Alice . <eos>
-Most high schools weren't there irritating that cashier . <eos>
-There weren't most high schools irritating that cashier . <eos>
+Most high schools were n't there irritating that cashier . <eos>
+There were n't most high schools irritating that cashier . <eos>
 All dogs are there scaring Stacy . <eos>
 There are all dogs scaring Stacy . <eos>
 All shoes were there alarming Christopher . <eos>
@@ -1884,28 +1884,28 @@ Each sketch was there impressing Donald . <eos>
 There was each sketch impressing Donald . <eos>
 Most movie theaters are there confusing Mark . <eos>
 There are most movie theaters confusing Mark . <eos>
-Most companies weren't there forfeiting . <eos>
-There weren't most companies forfeiting . <eos>
-Each show about science wasn't there hurting Craig . <eos>
-There wasn't each show about science hurting Craig . <eos>
-Most grandfathers of every woman weren't there cooperating . <eos>
-There weren't most grandfathers of every woman cooperating . <eos>
-Each screen wasn't there looking like most paintings . <eos>
-There wasn't each screen looking like most paintings . <eos>
+Most companies were n't there forfeiting . <eos>
+There were n't most companies forfeiting . <eos>
+Each show about science was n't there hurting Craig . <eos>
+There was n't each show about science hurting Craig . <eos>
+Most grandfathers of every woman were n't there cooperating . <eos>
+There were n't most grandfathers of every woman cooperating . <eos>
+Each screen was n't there looking like most paintings . <eos>
+There was n't each screen looking like most paintings . <eos>
 Each sketch is n't there annoying Rodney . <eos>
 There is n't each sketch annoying Rodney . <eos>
-Most pictures weren't there annoying Nancy . <eos>
-There weren't most pictures annoying Nancy . <eos>
+Most pictures were n't there annoying Nancy . <eos>
+There were n't most pictures annoying Nancy . <eos>
 All malls are there embarrassing Pamela . <eos>
 There are all malls embarrassing Pamela . <eos>
-All birds weren't there leaving . <eos>
-There weren't all birds leaving . <eos>
-Each mother of Deanna's tutor's daughters' husband wasn't there shocking Diane . <eos>
-There wasn't each mother of Deanna's tutor's daughters' husband shocking Diane . <eos>
+All birds were n't there leaving . <eos>
+There were n't all birds leaving . <eos>
+Each mother of Deanna's tutor's daughters' husband was n't there shocking Diane . <eos>
+There was n't each mother of Deanna's tutor's daughters' husband shocking Diane . <eos>
 Most libraries were there taking every window . <eos>
 There were most libraries taking every window . <eos>
-All glasses weren't there irritating Linda . <eos>
-There weren't all glasses irritating Linda . <eos>
+All glasses were n't there irritating Linda . <eos>
+There were n't all glasses irritating Linda . <eos>
 Most governments are there revealing who has n't astounded Jessica . <eos>
 There are most governments revealing who has n't astounded Jessica . <eos>
 Each hill is there disturbing Anna . <eos>
@@ -1920,8 +1920,8 @@ All drivers are n't there curing that child . <eos>
 There are n't all drivers curing that child . <eos>
 Each picture was there annoying Vincent . <eos>
 There was each picture annoying Vincent . <eos>
-Each rug wasn't there distracting Debra . <eos>
-There wasn't each rug distracting Debra . <eos>
+Each rug was n't there distracting Debra . <eos>
+There was n't each rug distracting Debra . <eos>
 Most cashiers are n't there complaining about Sandra . <eos>
 There are n't most cashiers complaining about Sandra . <eos>
 Every gate is there disturbing Carla . <eos>
@@ -1940,38 +1940,38 @@ Each granddaughter of dancers is n't there hiding away . <eos>
 There is n't each granddaughter of dancers hiding away . <eos>
 Every mouth was there disturbing some men . <eos>
 There was every mouth disturbing some men . <eos>
-Each banana wasn't there embarrassing Tara . <eos>
-There wasn't each banana embarrassing Tara . <eos>
+Each banana was n't there embarrassing Tara . <eos>
+There was n't each banana embarrassing Tara . <eos>
 Most guys are n't there assembling . <eos>
 There are n't most guys assembling . <eos>
-Each skirt wasn't there aggravating Liam . <eos>
-There wasn't each skirt aggravating Liam . <eos>
-Each drawing of a lot of customers wasn't there shocking Tonya . <eos>
-There wasn't each drawing of a lot of customers shocking Tonya . <eos>
+Each skirt was n't there aggravating Liam . <eos>
+There was n't each skirt aggravating Liam . <eos>
+Each drawing of a lot of customers was n't there shocking Tonya . <eos>
+There was n't each drawing of a lot of customers shocking Tonya . <eos>
 All universities are there cooperating . <eos>
 There are all universities cooperating . <eos>
 Each woman is there learning who had healed Dan . <eos>
 There is each woman learning who had healed Dan . <eos>
 Each book was there alarming Christine . <eos>
 There was each book alarming Christine . <eos>
-All commentaries about music weren't there distracting Kayla . <eos>
-There weren't all commentaries about music distracting Kayla . <eos>
+All commentaries about music were n't there distracting Kayla . <eos>
+There were n't all commentaries about music distracting Kayla . <eos>
 Most boys were there getting fired . <eos>
 There were most boys getting fired . <eos>
 Each brother of a lot of waiters is n't there exercising . <eos>
 There is n't each brother of a lot of waiters exercising . <eos>
 Every actor is n't there descending mountains . <eos>
 There is n't every actor descending mountains . <eos>
-Most eyes weren't there confusing some guy . <eos>
-There weren't most eyes confusing some guy . <eos>
+Most eyes were n't there confusing some guy . <eos>
+There were n't most eyes confusing some guy . <eos>
 Each granddaughter of this friend of Edward is n't there thinking about who examines a commentary . <eos>
 There is n't each granddaughter of this friend of Edward thinking about who examines a commentary . <eos>
 Every adult is n't there shocking a senator . <eos>
 There is n't every adult shocking a senator . <eos>
 Most grandsons of Dawn are there falling asleep . <eos>
 There are most grandsons of Dawn falling asleep . <eos>
-All birds weren't there hiding many bananas . <eos>
-There weren't all birds hiding many bananas . <eos>
+All birds were n't there hiding many bananas . <eos>
+There were n't all birds hiding many bananas . <eos>
 Most tomatoes are n't there astounding people . <eos>
 There are n't most tomatoes astounding people . <eos>
 Most grandfathers of teachers were there saluting . <eos>
@@ -1986,15 +1986,15 @@ Each cup is there irritating many organizations . <eos>
 There is each cup irritating many organizations . <eos>
 Most fathers of that grandfather of Elizabeth were there working hard . <eos>
 There were most fathers of that grandfather of Elizabeth working hard . <eos>
-All schools weren't there coping . <eos>
-There weren't all schools coping . <eos>
+All schools were n't there coping . <eos>
+There were n't all schools coping . <eos>
 Every nephew of most teachers was there wondering what do n't bother Lucille . <eos>
 There was every nephew of most teachers wondering what do n't bother Lucille . <eos>
-Most mountains weren't there bothering Todd . <eos>
-There weren't most mountains bothering Todd . <eos>
+Most mountains were n't there bothering Todd . <eos>
+There were n't most mountains bothering Todd . <eos>
 Each grocery store is n't there scaring Kendra . <eos>
 There is n't each grocery store scaring Kendra . <eos>
-All windows weren't there shocking Carol . <eos>
-There weren't all windows shocking Carol . <eos>
-Each book about travel wasn't there insulting that documentary . <eos>
-There wasn't each book about travel insulting that documentary . <eos>
+All windows were n't there shocking Carol . <eos>
+There were n't all windows shocking Carol . <eos>
+Each book about travel was n't there insulting that documentary . <eos>
+There was n't each book about travel insulting that documentary . <eos>

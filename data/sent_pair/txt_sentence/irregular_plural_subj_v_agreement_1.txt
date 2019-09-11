@@ -15,18 +15,18 @@ A lot of men does n't bring the computer . <eos>
 Some child has visited Craig . <eos>
 Some child have visited Craig . <eos>
 The crisis is n't irritating Angela . <eos>
-The crisis weren't irritating Angela . <eos>
+The crisis were n't irritating Angela . <eos>
 Every offspring was waking up . <eos>
 Every offspring were waking up . <eos>
-A man wasn't concurring . <eos>
-A man weren't concurring . <eos>
+A man was n't concurring . <eos>
+A man were n't concurring . <eos>
 The man has won . <eos>
 The man have won . <eos>
 That man does n't ascend that slope . <eos>
 That man do n't ascend that slope . <eos>
-Many men weren't surrendering . <eos>
+Many men were n't surrendering . <eos>
 Many men is n't surrendering . <eos>
-Many people weren't buying some window . <eos>
+Many people were n't buying some window . <eos>
 Many people is n't buying some window . <eos>
 Most men do n't bake . <eos>
 Most men does n't bake . <eos>
@@ -35,7 +35,7 @@ Every alumnus have n't attacked Jennifer . <eos>
 A person does look like a picture . <eos>
 A person do look like a picture . <eos>
 The men are n't struggling . <eos>
-The men wasn't struggling . <eos>
+The men was n't struggling . <eos>
 The axis does n't confuse Barbara . <eos>
 The axis do n't confuse Barbara . <eos>
 Every person has n't complained about Janice . <eos>
@@ -43,7 +43,7 @@ Every person have n't complained about Janice . <eos>
 This alumnus does n't scream . <eos>
 This alumnus do n't scream . <eos>
 The thesis is n't praising Debra . <eos>
-The thesis weren't praising Debra . <eos>
+The thesis were n't praising Debra . <eos>
 Some man does n't lift that tomato . <eos>
 Some man do n't lift that tomato . <eos>
 The people do n't worry . <eos>
@@ -75,8 +75,8 @@ Men does succeed . <eos>
 Many women do hurt some bank . <eos>
 Many women does hurt some bank . <eos>
 This woman is n't seeing . <eos>
-This woman weren't seeing . <eos>
-Many women weren't approving . <eos>
+This woman were n't seeing . <eos>
+Many women were n't approving . <eos>
 Many women is n't approving . <eos>
 That offspring has come here . <eos>
 That offspring have come here . <eos>
@@ -90,8 +90,8 @@ Every child does complain about Brian . <eos>
 Every child do complain about Brian . <eos>
 That person was praising Nina . <eos>
 That person were praising Nina . <eos>
-Every person wasn't hiring that dancer . <eos>
-Every person weren't hiring that dancer . <eos>
+Every person was n't hiring that dancer . <eos>
+Every person were n't hiring that dancer . <eos>
 This deer does n't disturb Dana . <eos>
 This deer do n't disturb Dana . <eos>
 That analysis was referencing Valerie . <eos>
@@ -106,8 +106,8 @@ A lot of women do n't visit Katherine . <eos>
 A lot of women does n't visit Katherine . <eos>
 Many men do n't protest . <eos>
 Many men does n't protest . <eos>
-This man wasn't breaking the glass . <eos>
-This man weren't breaking the glass . <eos>
+This man was n't breaking the glass . <eos>
+This man were n't breaking the glass . <eos>
 A person has n't studied . <eos>
 A person have n't studied . <eos>
 Every child has n't approached April . <eos>
@@ -142,18 +142,18 @@ The men do n't react . <eos>
 The men does n't react . <eos>
 Every child is scaring Cynthia . <eos>
 Every child were scaring Cynthia . <eos>
-All people weren't working hard . <eos>
-All people wasn't working hard . <eos>
+All people were n't working hard . <eos>
+All people was n't working hard . <eos>
 This person is n't descending all hills . <eos>
-This person weren't descending all hills . <eos>
+This person were n't descending all hills . <eos>
 That sheep does n't worry these governments . <eos>
 That sheep do n't worry these governments . <eos>
 A lot of people have loved Dana . <eos>
 A lot of people has loved Dana . <eos>
 This woman is talking to Karla . <eos>
 This woman are talking to Karla . <eos>
-A person wasn't going to many glaciers . <eos>
-A person weren't going to many glaciers . <eos>
+A person was n't going to many glaciers . <eos>
+A person were n't going to many glaciers . <eos>
 That man does run around this museum . <eos>
 That man do run around this museum . <eos>
 Many women have n't coped . <eos>
@@ -168,7 +168,7 @@ Every person does fall . <eos>
 Every person do fall . <eos>
 This child does embarrass Tiffany . <eos>
 This child do embarrass Tiffany . <eos>
-That radius wasn't bothering Erin . <eos>
+That radius was n't bothering Erin . <eos>
 That radius are n't bothering Erin . <eos>
 People have written . <eos>
 People has written . <eos>
@@ -220,8 +220,8 @@ Some child is healing Melanie . <eos>
 Some child were healing Melanie . <eos>
 The parenthesis has aggravated Jill . <eos>
 The parenthesis have aggravated Jill . <eos>
-Most people weren't conspiring . <eos>
-Most people wasn't conspiring . <eos>
+Most people were n't conspiring . <eos>
+Most people was n't conspiring . <eos>
 Every man does n't donate . <eos>
 Every man do n't donate . <eos>
 Men do n't kiss . <eos>
@@ -250,7 +250,7 @@ Every man was chuckling . <eos>
 Every man are chuckling . <eos>
 A lot of people do n't react . <eos>
 A lot of people does n't react . <eos>
-That offspring wasn't going to every library . <eos>
+That offspring was n't going to every library . <eos>
 That offspring are n't going to every library . <eos>
 Many people do n't shout . <eos>
 Many people does n't shout . <eos>
@@ -284,8 +284,8 @@ The men do n't swallow . <eos>
 The men does n't swallow . <eos>
 That synopsis has n't praised Tanya . <eos>
 That synopsis have n't praised Tanya . <eos>
-Some child wasn't revealing most prints . <eos>
-Some child weren't revealing most prints . <eos>
+Some child was n't revealing most prints . <eos>
+Some child were n't revealing most prints . <eos>
 All people do fire Brenda . <eos>
 All people does fire Brenda . <eos>
 The alumnus does n't drink . <eos>
@@ -301,7 +301,7 @@ Some women has n't died . <eos>
 A person is messing up most malls . <eos>
 A person were messing up most malls . <eos>
 A lot of men are n't sighing . <eos>
-A lot of men wasn't sighing . <eos>
+A lot of men was n't sighing . <eos>
 This fish has disgusted this adult . <eos>
 This fish have disgusted this adult . <eos>
 All men have n't approved . <eos>
@@ -310,7 +310,7 @@ The men have gone fishing . <eos>
 The men has gone fishing . <eos>
 These men are surrendering . <eos>
 These men is surrendering . <eos>
-The man wasn't speaking up . <eos>
+The man was n't speaking up . <eos>
 The man are n't speaking up . <eos>
 Most women are reacting . <eos>
 Most women is reacting . <eos>
@@ -337,15 +337,15 @@ Every person do sing . <eos>
 The women are n't helping Lori . <eos>
 The women is n't helping Lori . <eos>
 A lot of men are n't admiring an report . <eos>
-A lot of men wasn't admiring an report . <eos>
+A lot of men was n't admiring an report . <eos>
 That man was writing . <eos>
 That man are writing . <eos>
 Every foot is n't confusing the dancers . <eos>
 Every foot are n't confusing the dancers . <eos>
 That woman was arguing about Steven . <eos>
 That woman are arguing about Steven . <eos>
-Many people weren't collaborating . <eos>
-Many people wasn't collaborating . <eos>
+Many people were n't collaborating . <eos>
+Many people was n't collaborating . <eos>
 The woman has wept . <eos>
 The woman have wept . <eos>
 Every woman is complaining about Rodney . <eos>
@@ -354,7 +354,7 @@ This person does cook . <eos>
 This person do cook . <eos>
 Some man is saluting . <eos>
 Some man are saluting . <eos>
-Every alumnus wasn't skated around this high school . <eos>
+Every alumnus was n't skated around this high school . <eos>
 Every alumnus are n't skated around this high school . <eos>
 A lot of women have debated . <eos>
 A lot of women has debated . <eos>
@@ -385,7 +385,7 @@ Some men is breaking all bicycles . <eos>
 This offspring has descended the mountain . <eos>
 This offspring have descended the mountain . <eos>
 All people are n't touring these rivers . <eos>
-All people wasn't touring these rivers . <eos>
+All people was n't touring these rivers . <eos>
 Most women are meeting . <eos>
 Most women is meeting . <eos>
 Many women are reacting . <eos>
@@ -395,14 +395,14 @@ Every woman have forfeited . <eos>
 This alumnus has hated the doctor . <eos>
 This alumnus have hated the doctor . <eos>
 Men are n't meeting . <eos>
-Men wasn't meeting . <eos>
+Men was n't meeting . <eos>
 That fish is n't alarming Marla . <eos>
-That fish weren't alarming Marla . <eos>
+That fish were n't alarming Marla . <eos>
 That woman does n't arrive at a bank . <eos>
 That woman do n't arrive at a bank . <eos>
 Many people have n't responded . <eos>
 Many people has n't responded . <eos>
-Some child wasn't boycotting that company . <eos>
+Some child was n't boycotting that company . <eos>
 Some child are n't boycotting that company . <eos>
 The man does n't arrive at the hills . <eos>
 The man do n't arrive at the hills . <eos>
@@ -410,7 +410,7 @@ Men do complain about Kristen . <eos>
 Men does complain about Kristen . <eos>
 A lot of men do n't cope . <eos>
 A lot of men does n't cope . <eos>
-People weren't communicating . <eos>
+People were n't communicating . <eos>
 People is n't communicating . <eos>
 This man has n't learned . <eos>
 This man have n't learned . <eos>
@@ -422,13 +422,13 @@ An offspring does n't pass some mountain . <eos>
 An offspring do n't pass some mountain . <eos>
 Most people do answer . <eos>
 Most people does answer . <eos>
-This man wasn't touring these art galleries . <eos>
+This man was n't touring these art galleries . <eos>
 This man are n't touring these art galleries . <eos>
 The woman was laughing . <eos>
 The woman were laughing . <eos>
 Every woman has n't dropped by these cafes . <eos>
 Every woman have n't dropped by these cafes . <eos>
-Some fish wasn't stunning waiters . <eos>
+Some fish was n't stunning waiters . <eos>
 Some fish are n't stunning waiters . <eos>
 This child has hidden Roger . <eos>
 This child have hidden Roger . <eos>
@@ -445,7 +445,7 @@ That axis have irritated Elizabeth . <eos>
 Some men do hug . <eos>
 Some men does hug . <eos>
 All women are n't reuniting . <eos>
-All women wasn't reuniting . <eos>
+All women was n't reuniting . <eos>
 Some offspring does nod . <eos>
 Some offspring do nod . <eos>
 Every man has n't attacked Dana . <eos>
@@ -456,7 +456,7 @@ Every man was falling asleep . <eos>
 Every man are falling asleep . <eos>
 Some child does grin . <eos>
 Some child do grin . <eos>
-Some child wasn't passing all lakes . <eos>
+Some child was n't passing all lakes . <eos>
 Some child are n't passing all lakes . <eos>
 That child has swallowed . <eos>
 That child have swallowed . <eos>
@@ -525,8 +525,8 @@ A child were exercising . <eos>
 That woman was weeping . <eos>
 That woman were weeping . <eos>
 Some women are n't chatting . <eos>
-Some women wasn't chatting . <eos>
-The men weren't joking around . <eos>
+Some women was n't chatting . <eos>
+The men were n't joking around . <eos>
 The men is n't joking around . <eos>
 Every man has brought this computer . <eos>
 Every man have brought this computer . <eos>
@@ -553,7 +553,7 @@ Some women is performing . <eos>
 A person has played . <eos>
 A person have played . <eos>
 Some man is n't healing Monica . <eos>
-Some man weren't healing Monica . <eos>
+Some man were n't healing Monica . <eos>
 This man does n't mutter . <eos>
 This man do n't mutter . <eos>
 Many people were interacting . <eos>
@@ -564,8 +564,8 @@ All men have n't won . <eos>
 All men has n't won . <eos>
 Every person is describing Eric . <eos>
 Every person are describing Eric . <eos>
-Every man wasn't scaring Catherine . <eos>
-Every man weren't scaring Catherine . <eos>
+Every man was n't scaring Catherine . <eos>
+Every man were n't scaring Catherine . <eos>
 That goose is breaking every vase . <eos>
 That goose were breaking every vase . <eos>
 This man is studying . <eos>
@@ -582,22 +582,22 @@ Women do n't fall asleep . <eos>
 Women does n't fall asleep . <eos>
 This man does n't stretch . <eos>
 This man do n't stretch . <eos>
-Some men weren't struggling . <eos>
-Some men wasn't struggling . <eos>
+Some men were n't struggling . <eos>
+Some men was n't struggling . <eos>
 The man has arrived at every art gallery . <eos>
 The man have arrived at every art gallery . <eos>
-This child wasn't running around these restaurants . <eos>
-This child weren't running around these restaurants . <eos>
+This child was n't running around these restaurants . <eos>
+This child were n't running around these restaurants . <eos>
 This woman has scratched . <eos>
 This woman have scratched . <eos>
 An alumnus has messed up every skirt . <eos>
 An alumnus have messed up every skirt . <eos>
-This offspring wasn't working with the dancer . <eos>
+This offspring was n't working with the dancer . <eos>
 This offspring are n't working with the dancer . <eos>
 These people have n't fired Gregory . <eos>
 These people has n't fired Gregory . <eos>
-Some child wasn't aggravating Chad . <eos>
-Some child weren't aggravating Chad . <eos>
+Some child was n't aggravating Chad . <eos>
+Some child were n't aggravating Chad . <eos>
 All men are n't meeting . <eos>
 All men is n't meeting . <eos>
 The man does n't clean most restaurants . <eos>
@@ -607,7 +607,7 @@ The women does n't assemble . <eos>
 Every woman has n't resembled every print . <eos>
 Every woman have n't resembled every print . <eos>
 Many women are n't clashing . <eos>
-Many women wasn't clashing . <eos>
+Many women was n't clashing . <eos>
 The woman has shrugged . <eos>
 The woman have shrugged . <eos>
 The diagnosis does n't bother Martha . <eos>
@@ -621,9 +621,9 @@ This alumnus have complained about Kirsten . <eos>
 Every child has respected Angela . <eos>
 Every child have respected Angela . <eos>
 The people are n't spinning around . <eos>
-The people wasn't spinning around . <eos>
-The woman wasn't donating . <eos>
-The woman weren't donating . <eos>
+The people was n't spinning around . <eos>
+The woman was n't donating . <eos>
+The woman were n't donating . <eos>
 Some men do n't cooperate . <eos>
 Some men does n't cooperate . <eos>
 Every woman has scratched . <eos>
@@ -644,14 +644,14 @@ The fish was breaking the mirror . <eos>
 The fish are breaking the mirror . <eos>
 A child has woken up . <eos>
 A child have woken up . <eos>
-Many men weren't winning . <eos>
+Many men were n't winning . <eos>
 Many men is n't winning . <eos>
 Many men are interacting . <eos>
 Many men is interacting . <eos>
 A man has blinked . <eos>
 A man have blinked . <eos>
 Most men are n't kissing . <eos>
-Most men wasn't kissing . <eos>
+Most men was n't kissing . <eos>
 Many women do n't fight . <eos>
 Many women does n't fight . <eos>
 Men have n't competed . <eos>
@@ -669,7 +669,7 @@ A lot of men has scratched . <eos>
 All people are visiting every student . <eos>
 All people was visiting every student . <eos>
 The man is n't arguing . <eos>
-The man weren't arguing . <eos>
+The man were n't arguing . <eos>
 The people have performed . <eos>
 The people has performed . <eos>
 Every analysis does n't bother Joseph . <eos>
@@ -680,7 +680,7 @@ That person is buying most ladders . <eos>
 That person are buying most ladders . <eos>
 These women do love the story . <eos>
 These women does love the story . <eos>
-Most people weren't interacting . <eos>
+Most people were n't interacting . <eos>
 Most people is n't interacting . <eos>
 Every stimulus does n't stun Mitchell . <eos>
 Every stimulus do n't stun Mitchell . <eos>
@@ -695,7 +695,7 @@ The offspring do n't scream . <eos>
 The women do clean every public park . <eos>
 The women does clean every public park . <eos>
 Most women are n't healing a lot of drivers . <eos>
-Most women wasn't healing a lot of drivers . <eos>
+Most women was n't healing a lot of drivers . <eos>
 Most women do reference Vincent . <eos>
 Most women does reference Vincent . <eos>
 This man was hurting Stacey . <eos>
@@ -709,7 +709,7 @@ This child have fallen asleep . <eos>
 A man does nod . <eos>
 A man do nod . <eos>
 Every person is n't fixing all bicycles . <eos>
-Every person weren't fixing all bicycles . <eos>
+Every person were n't fixing all bicycles . <eos>
 That child does n't win . <eos>
 That child do n't win . <eos>
 Every woman has n't answered . <eos>
@@ -718,13 +718,13 @@ That offspring is n't approaching Kathleen . <eos>
 That offspring are n't approaching Kathleen . <eos>
 Some people are playing . <eos>
 Some people was playing . <eos>
-That person wasn't firing the boy . <eos>
-That person weren't firing the boy . <eos>
+That person was n't firing the boy . <eos>
+That person were n't firing the boy . <eos>
 That child has n't bought a couch . <eos>
 That child have n't bought a couch . <eos>
-A woman wasn't taking some hill . <eos>
-A woman weren't taking some hill . <eos>
-Some woman wasn't helping Cindy . <eos>
+A woman was n't taking some hill . <eos>
+A woman were n't taking some hill . <eos>
+Some woman was n't helping Cindy . <eos>
 Some woman are n't helping Cindy . <eos>
 That child does n't buy the hamsters . <eos>
 That child do n't buy the hamsters . <eos>
@@ -764,7 +764,7 @@ A man has waved . <eos>
 A man have waved . <eos>
 Some child has n't admired a lot of dogs . <eos>
 Some child have n't admired a lot of dogs . <eos>
-These men weren't appreciating Debra . <eos>
+These men were n't appreciating Debra . <eos>
 These men is n't appreciating Debra . <eos>
 Some hypothesis has disturbed Margaret . <eos>
 Some hypothesis have disturbed Margaret . <eos>
@@ -776,7 +776,7 @@ A lot of women have n't corresponded . <eos>
 A lot of women has n't corresponded . <eos>
 That analysis does n't boast . <eos>
 That analysis do n't boast . <eos>
-That alumnus wasn't weeping . <eos>
+That alumnus was n't weeping . <eos>
 That alumnus are n't weeping . <eos>
 Some child has n't lifted all reports . <eos>
 Some child have n't lifted all reports . <eos>
@@ -784,20 +784,20 @@ That child was yelling . <eos>
 That child are yelling . <eos>
 Every thesis was disgusting Tonya . <eos>
 Every thesis are disgusting Tonya . <eos>
-Most men weren't dropping by some grocery store . <eos>
-Most men wasn't dropping by some grocery store . <eos>
+Most men were n't dropping by some grocery store . <eos>
+Most men was n't dropping by some grocery store . <eos>
 Every person is n't getting a job . <eos>
 Every person are n't getting a job . <eos>
-That alumnus wasn't nodding . <eos>
-That alumnus weren't nodding . <eos>
+That alumnus was n't nodding . <eos>
+That alumnus were n't nodding . <eos>
 These women do n't annoy Jason . <eos>
 These women does n't annoy Jason . <eos>
 The ox does n't conceal a shirt . <eos>
 The ox do n't conceal a shirt . <eos>
 Most people have sounded like documentaries . <eos>
 Most people has sounded like documentaries . <eos>
-The man wasn't washing . <eos>
-The man weren't washing . <eos>
+The man was n't washing . <eos>
+The man were n't washing . <eos>
 That offspring does n't fire some drivers . <eos>
 That offspring do n't fire some drivers . <eos>
 Some woman does have the ladder . <eos>
@@ -810,10 +810,10 @@ The alumnus is finding Craig . <eos>
 The alumnus were finding Craig . <eos>
 This woman has left Homer . <eos>
 This woman have left Homer . <eos>
-Some women weren't worrying . <eos>
-Some women wasn't worrying . <eos>
-The men weren't dropping by these museums . <eos>
-The men wasn't dropping by these museums . <eos>
+Some women were n't worrying . <eos>
+Some women was n't worrying . <eos>
+The men were n't dropping by these museums . <eos>
+The men was n't dropping by these museums . <eos>
 This man is escaping from Wayne . <eos>
 This man were escaping from Wayne . <eos>
 All men were hugging . <eos>
@@ -846,7 +846,7 @@ This man does n't buy all snakes . <eos>
 This man do n't buy all snakes . <eos>
 This man does shout . <eos>
 This man do shout . <eos>
-This man wasn't joking around . <eos>
+This man was n't joking around . <eos>
 This man are n't joking around . <eos>
 That child does care for Walter . <eos>
 That child do care for Walter . <eos>
@@ -854,7 +854,7 @@ The man has cried . <eos>
 The man have cried . <eos>
 A woman has taken some plates . <eos>
 A woman have taken some plates . <eos>
-This person wasn't baking . <eos>
+This person was n't baking . <eos>
 This person are n't baking . <eos>
 A person has n't explored some school . <eos>
 A person have n't explored some school . <eos>
@@ -872,7 +872,7 @@ This man is n't exploring every library . <eos>
 This man are n't exploring every library . <eos>
 These men have cooperated . <eos>
 These men has cooperated . <eos>
-A lot of people weren't replying . <eos>
+A lot of people were n't replying . <eos>
 A lot of people is n't replying . <eos>
 Every man has referenced George . <eos>
 Every man have referenced George . <eos>
@@ -892,8 +892,8 @@ That series has distracted a lady . <eos>
 That series have distracted a lady . <eos>
 That foot has hurt Samuel . <eos>
 That foot have hurt Samuel . <eos>
-This offspring wasn't firing Adam . <eos>
-This offspring weren't firing Adam . <eos>
+This offspring was n't firing Adam . <eos>
+This offspring were n't firing Adam . <eos>
 That man was healing Andrea . <eos>
 That man are healing Andrea . <eos>
 A woman is looking like some drawings . <eos>
@@ -907,7 +907,7 @@ This woman do n't go fishing . <eos>
 A person has n't worried Elizabeth . <eos>
 A person have n't worried Elizabeth . <eos>
 The man is n't baking . <eos>
-The man weren't baking . <eos>
+The man were n't baking . <eos>
 This offspring does conceal a lot of slopes . <eos>
 This offspring do conceal a lot of slopes . <eos>
 Every child does leave cafes . <eos>
@@ -922,25 +922,25 @@ Every man does take these ladders . <eos>
 Every man do take these ladders . <eos>
 An offspring does n't observe most guys . <eos>
 An offspring do n't observe most guys . <eos>
-Some man wasn't drinking . <eos>
+Some man was n't drinking . <eos>
 Some man are n't drinking . <eos>
 That woman is n't breaking that screen . <eos>
-That woman weren't breaking that screen . <eos>
+That woman were n't breaking that screen . <eos>
 Some person does n't nod . <eos>
 Some person do n't nod . <eos>
 These men do n't cooperate . <eos>
 These men does n't cooperate . <eos>
 Many men have impressed Sonia . <eos>
 Many men has impressed Sonia . <eos>
-These people weren't firing that child . <eos>
+These people were n't firing that child . <eos>
 These people is n't firing that child . <eos>
 The sheep is n't scaring some man . <eos>
-The sheep weren't scaring some man . <eos>
+The sheep were n't scaring some man . <eos>
 Every woman does n't visit a lot of children . <eos>
 Every woman do n't visit a lot of children . <eos>
 The child has n't played . <eos>
 The child have n't played . <eos>
-Every woman wasn't approaching Beth . <eos>
+Every woman was n't approaching Beth . <eos>
 Every woman are n't approaching Beth . <eos>
 Some people do n't compromise . <eos>
 Some people does n't compromise . <eos>
@@ -951,14 +951,14 @@ Most men does n't laugh . <eos>
 Men do work hard . <eos>
 Men does work hard . <eos>
 Most women are n't messing up shoes . <eos>
-Most women wasn't messing up shoes . <eos>
+Most women was n't messing up shoes . <eos>
 That woman is scratching . <eos>
 That woman are scratching . <eos>
 This thesis has n't boasted . <eos>
 This thesis have n't boasted . <eos>
 That man has gotten a job . <eos>
 That man have gotten a job . <eos>
-An offspring wasn't telephoning . <eos>
+An offspring was n't telephoning . <eos>
 An offspring are n't telephoning . <eos>
 Every woman has visited Kenneth . <eos>
 Every woman have visited Kenneth . <eos>
@@ -980,7 +980,7 @@ Many men have reunited . <eos>
 Many men has reunited . <eos>
 The people have corresponded . <eos>
 The people has corresponded . <eos>
-That woman wasn't going to most malls . <eos>
+That woman was n't going to most malls . <eos>
 That woman are n't going to most malls . <eos>
 Some man is n't watching Paul . <eos>
 Some man are n't watching Paul . <eos>
@@ -991,7 +991,7 @@ Women has n't talked about Kristen . <eos>
 The man has joked around . <eos>
 The man have joked around . <eos>
 The person is n't explaining everything . <eos>
-The person weren't explaining everything . <eos>
+The person were n't explaining everything . <eos>
 Some man does n't grin . <eos>
 Some man do n't grin . <eos>
 That woman was learning . <eos>
@@ -1003,7 +1003,7 @@ An offspring do practice . <eos>
 Some man has whispered . <eos>
 Some man have whispered . <eos>
 This alumnus is n't messing up college campuses . <eos>
-This alumnus weren't messing up college campuses . <eos>
+This alumnus were n't messing up college campuses . <eos>
 A woman has seen . <eos>
 A woman have seen . <eos>
 Every goose has n't bored Chad . <eos>
@@ -1018,9 +1018,9 @@ This child is scanning every movie . <eos>
 This child are scanning every movie . <eos>
 All men are struggling . <eos>
 All men is struggling . <eos>
-Every louse wasn't hiding all newspaper articles . <eos>
+Every louse was n't hiding all newspaper articles . <eos>
 Every louse are n't hiding all newspaper articles . <eos>
-The people weren't retaliating . <eos>
+The people were n't retaliating . <eos>
 The people is n't retaliating . <eos>
 The alumnus has hidden away . <eos>
 The alumnus have hidden away . <eos>
@@ -1042,7 +1042,7 @@ That child does n't salute . <eos>
 That child do n't salute . <eos>
 All men were marrying . <eos>
 All men was marrying . <eos>
-Most women weren't talking about Cynthia . <eos>
+Most women were n't talking about Cynthia . <eos>
 Most women is n't talking about Cynthia . <eos>
 Some people have disagreed . <eos>
 Some people has disagreed . <eos>
@@ -1068,7 +1068,7 @@ Every offspring does n't appreciate Michelle . <eos>
 Every offspring do n't appreciate Michelle . <eos>
 That alumnus has n't argued about Grace . <eos>
 That alumnus have n't argued about Grace . <eos>
-This man wasn't nodding . <eos>
+This man was n't nodding . <eos>
 This man are n't nodding . <eos>
 Some woman does describe some rivers . <eos>
 Some woman do describe some rivers . <eos>
@@ -1083,10 +1083,10 @@ The men does scream . <eos>
 Every woman does n't buy a lot of pants . <eos>
 Every woman do n't buy a lot of pants . <eos>
 Every man is n't waving . <eos>
-Every man weren't waving . <eos>
+Every man were n't waving . <eos>
 That alumnus has n't respected many grocery stores . <eos>
 That alumnus have n't respected many grocery stores . <eos>
-This person wasn't scanning all essays . <eos>
+This person was n't scanning all essays . <eos>
 This person are n't scanning all essays . <eos>
 Every child does n't whisper . <eos>
 Every child do n't whisper . <eos>
@@ -1099,7 +1099,7 @@ Some child have n't investigated these committees . <eos>
 Many women have n't sung . <eos>
 Many women has n't sung . <eos>
 Many people are n't kissing . <eos>
-Many people wasn't kissing . <eos>
+Many people was n't kissing . <eos>
 These men have n't dated . <eos>
 These men has n't dated . <eos>
 Every person has boasted . <eos>
@@ -1108,8 +1108,8 @@ An offspring was watching Helen . <eos>
 An offspring were watching Helen . <eos>
 The woman does kiss Kristin . <eos>
 The woman do kiss Kristin . <eos>
-The offspring wasn't examining these newspaper articles . <eos>
-The offspring weren't examining these newspaper articles . <eos>
+The offspring was n't examining these newspaper articles . <eos>
+The offspring were n't examining these newspaper articles . <eos>
 This offspring is n't practicing . <eos>
 This offspring are n't practicing . <eos>
 Some offspring has arrived at this lake . <eos>
@@ -1130,14 +1130,14 @@ That analysis does n't reference some teenagers . <eos>
 That analysis do n't reference some teenagers . <eos>
 These people do n't succeed . <eos>
 These people does n't succeed . <eos>
-Some foot wasn't astounding Joseph . <eos>
+Some foot was n't astounding Joseph . <eos>
 Some foot are n't astounding Joseph . <eos>
 Every ox was ascending many steps . <eos>
 Every ox were ascending many steps . <eos>
 Some people have interacted . <eos>
 Some people has interacted . <eos>
-A lot of women weren't competing . <eos>
-A lot of women wasn't competing . <eos>
+A lot of women were n't competing . <eos>
+A lot of women was n't competing . <eos>
 The child does n't remember the actress . <eos>
 The child do n't remember the actress . <eos>
 All men do n't visit the hill . <eos>
@@ -1158,7 +1158,7 @@ A lot of women do complain . <eos>
 A lot of women does complain . <eos>
 Most women do n't exit every school . <eos>
 Most women does n't exit every school . <eos>
-That woman wasn't singing . <eos>
+That woman was n't singing . <eos>
 That woman are n't singing . <eos>
 The woman is bothering many boys . <eos>
 The woman were bothering many boys . <eos>
@@ -1167,7 +1167,7 @@ Every man are swallowing . <eos>
 This man does complain . <eos>
 This man do complain . <eos>
 Some people are n't passing some lakes . <eos>
-Some people wasn't passing some lakes . <eos>
+Some people was n't passing some lakes . <eos>
 The men do look like many photographs . <eos>
 The men does look like many photographs . <eos>
 The radius is impressing these schools . <eos>
@@ -1180,7 +1180,7 @@ This ox does wake up . <eos>
 This ox do wake up . <eos>
 That woman has n't examined these movies . <eos>
 That woman have n't examined these movies . <eos>
-This person wasn't arriving at a bank . <eos>
+This person was n't arriving at a bank . <eos>
 This person are n't arriving at a bank . <eos>
 A woman does n't have reports . <eos>
 A woman do n't have reports . <eos>
@@ -1200,30 +1200,30 @@ Every man has exercised . <eos>
 Every man have exercised . <eos>
 This man has biked to that mountain . <eos>
 This man have biked to that mountain . <eos>
-A man wasn't cleaning many shoes . <eos>
-A man weren't cleaning many shoes . <eos>
-A person wasn't buying the mountain . <eos>
+A man was n't cleaning many shoes . <eos>
+A man were n't cleaning many shoes . <eos>
+A person was n't buying the mountain . <eos>
 A person are n't buying the mountain . <eos>
 That goose does n't fall asleep . <eos>
 That goose do n't fall asleep . <eos>
-Many people weren't interacting . <eos>
+Many people were n't interacting . <eos>
 Many people is n't interacting . <eos>
 These people have n't corresponded . <eos>
 These people has n't corresponded . <eos>
 A lot of people are n't working hard . <eos>
-A lot of people wasn't working hard . <eos>
-All women weren't struggling . <eos>
-All women wasn't struggling . <eos>
+A lot of people was n't working hard . <eos>
+All women were n't struggling . <eos>
+All women was n't struggling . <eos>
 The man does work with Kevin . <eos>
 The man do work with Kevin . <eos>
 These women were boycotting that bank . <eos>
 These women is boycotting that bank . <eos>
-People weren't collaborating . <eos>
+People were n't collaborating . <eos>
 People is n't collaborating . <eos>
 Most women do shout . <eos>
 Most women does shout . <eos>
-The women weren't struggling . <eos>
-The women wasn't struggling . <eos>
+The women were n't struggling . <eos>
+The women was n't struggling . <eos>
 Some people are n't fighting . <eos>
 Some people is n't fighting . <eos>
 This child does n't kiss Kristin . <eos>
@@ -1249,7 +1249,7 @@ Every woman do n't whisper . <eos>
 The men have approved . <eos>
 The men has approved . <eos>
 People are n't boring Vincent . <eos>
-People wasn't boring Vincent . <eos>
+People was n't boring Vincent . <eos>
 Every man does escape . <eos>
 Every man do escape . <eos>
 That means does distract Rachelle . <eos>
@@ -1261,11 +1261,11 @@ Some woman were discussing Amelia . <eos>
 Some person is playing . <eos>
 Some person were playing . <eos>
 This woman is n't concealing the patient . <eos>
-This woman weren't concealing the patient . <eos>
+This woman were n't concealing the patient . <eos>
 Some synopsis does disturb Margaret . <eos>
 Some synopsis do disturb Margaret . <eos>
 Every deer is n't hiding the computers . <eos>
-Every deer weren't hiding the computers . <eos>
+Every deer were n't hiding the computers . <eos>
 That child has n't painted . <eos>
 That child have n't painted . <eos>
 Some men have cooperated . <eos>
@@ -1276,7 +1276,7 @@ This child does care for Martha . <eos>
 This child do care for Martha . <eos>
 This synopsis has embarrassed most doctors . <eos>
 This synopsis have embarrassed most doctors . <eos>
-That ellipsis wasn't impressing Naomi . <eos>
+That ellipsis was n't impressing Naomi . <eos>
 That ellipsis are n't impressing Naomi . <eos>
 The woman does respect the hill . <eos>
 The woman do respect the hill . <eos>
@@ -1295,27 +1295,27 @@ Some woman do read . <eos>
 These men do love Florence . <eos>
 These men does love Florence . <eos>
 Every man is n't buying most slopes . <eos>
-Every man weren't buying most slopes . <eos>
+Every man were n't buying most slopes . <eos>
 That man is n't answering . <eos>
-That man weren't answering . <eos>
+That man were n't answering . <eos>
 This alumnus has cleaned the picture . <eos>
 This alumnus have cleaned the picture . <eos>
 Every woman is n't studying . <eos>
-Every woman weren't studying . <eos>
-A lot of men weren't worrying . <eos>
+Every woman were n't studying . <eos>
+A lot of men were n't worrying . <eos>
 A lot of men is n't worrying . <eos>
 These people do n't disagree . <eos>
 These people does n't disagree . <eos>
 That child does yell . <eos>
 That child do yell . <eos>
-The offspring wasn't boycotting these mountains . <eos>
-The offspring weren't boycotting these mountains . <eos>
+The offspring was n't boycotting these mountains . <eos>
+The offspring were n't boycotting these mountains . <eos>
 This offspring was ascending the mountain . <eos>
 This offspring are ascending the mountain . <eos>
 Some person has hidden Marcus . <eos>
 Some person have hidden Marcus . <eos>
 This sheep is n't embarrassing Leslie . <eos>
-This sheep weren't embarrassing Leslie . <eos>
+This sheep were n't embarrassing Leslie . <eos>
 Some offspring has distracted Jane . <eos>
 Some offspring have distracted Jane . <eos>
 Some woman does bake . <eos>
@@ -1369,7 +1369,7 @@ Most women is n't hugging Eva . <eos>
 The offspring is escaping from Emily . <eos>
 The offspring are escaping from Emily . <eos>
 Every alumnus is n't buying a lot of eyes . <eos>
-Every alumnus weren't buying a lot of eyes . <eos>
+Every alumnus were n't buying a lot of eyes . <eos>
 That thesis has boasted . <eos>
 That thesis have boasted . <eos>
 A person has watched Larry . <eos>
@@ -1387,20 +1387,20 @@ The offspring have aggravated Omar . <eos>
 Every woman does get fired . <eos>
 Every woman do get fired . <eos>
 These women are n't reacting . <eos>
-These women wasn't reacting . <eos>
+These women was n't reacting . <eos>
 The alumnus does n't shrug . <eos>
 The alumnus do n't shrug . <eos>
 Men do answer . <eos>
 Men does answer . <eos>
 Most women are n't chatting . <eos>
-Most women wasn't chatting . <eos>
+Most women was n't chatting . <eos>
 Most women have profited . <eos>
 Most women has profited . <eos>
 The women have woken up . <eos>
 The women has woken up . <eos>
 The women do n't hug . <eos>
 The women does n't hug . <eos>
-A lot of people weren't exercising . <eos>
+A lot of people were n't exercising . <eos>
 A lot of people is n't exercising . <eos>
 Most men do collaborate . <eos>
 Most men does collaborate . <eos>
@@ -1446,10 +1446,10 @@ This man does n't yell . <eos>
 This man do n't yell . <eos>
 That child does n't talk about Bruce . <eos>
 That child do n't talk about Bruce . <eos>
-Some child wasn't suffering . <eos>
+Some child was n't suffering . <eos>
 Some child are n't suffering . <eos>
 The man is n't walking through a lot of museums . <eos>
-The man weren't walking through a lot of museums . <eos>
+The man were n't walking through a lot of museums . <eos>
 A lot of people were breaking most mirrors . <eos>
 A lot of people is breaking most mirrors . <eos>
 This child does observe Debra . <eos>
@@ -1469,11 +1469,11 @@ That woman do appreciate that museum . <eos>
 This woman has investigated these pedestrians . <eos>
 This woman have investigated these pedestrians . <eos>
 That child is n't investigating many cashiers . <eos>
-That child weren't investigating many cashiers . <eos>
+That child were n't investigating many cashiers . <eos>
 This person does n't leave Kenneth . <eos>
 This person do n't leave Kenneth . <eos>
 The person is n't littering . <eos>
-The person weren't littering . <eos>
+The person were n't littering . <eos>
 The woman is running around every art gallery . <eos>
 The woman are running around every art gallery . <eos>
 Some woman does n't scratch . <eos>
@@ -1484,8 +1484,8 @@ A lot of women do n't mess up many grocery stores . <eos>
 A lot of women does n't mess up many grocery stores . <eos>
 An ox was finding Bill . <eos>
 An ox are finding Bill . <eos>
-Some people weren't conferring . <eos>
-Some people wasn't conferring . <eos>
+Some people were n't conferring . <eos>
+Some people was n't conferring . <eos>
 That thesis has disagreed with Alan . <eos>
 That thesis have disagreed with Alan . <eos>
 Some people are getting a job . <eos>
@@ -1507,7 +1507,7 @@ Some men was disagreeing with Donna . <eos>
 An alumnus is n't compromising . <eos>
 An alumnus are n't compromising . <eos>
 All men are n't exploring many museums . <eos>
-All men wasn't exploring many museums . <eos>
+All men was n't exploring many museums . <eos>
 The woman has driven to libraries . <eos>
 The woman have driven to libraries . <eos>
 Most women have worked hard . <eos>
@@ -1566,14 +1566,14 @@ The man has protested . <eos>
 The man have protested . <eos>
 The woman has n't biked to rivers . <eos>
 The woman have n't biked to rivers . <eos>
-All women weren't coping . <eos>
-All women wasn't coping . <eos>
+All women were n't coping . <eos>
+All women was n't coping . <eos>
 Some men do n't see Martha . <eos>
 Some men does n't see Martha . <eos>
 Some men were approving . <eos>
 Some men was approving . <eos>
 That woman is n't falling asleep . <eos>
-That woman weren't falling asleep . <eos>
+That woman were n't falling asleep . <eos>
 Most people do n't examine that essay . <eos>
 Most people does n't examine that essay . <eos>
 The women have found the gate . <eos>
@@ -1594,11 +1594,11 @@ Every child does cheer . <eos>
 Every child do cheer . <eos>
 The men have n't appreciated some waitresses . <eos>
 The men has n't appreciated some waitresses . <eos>
-A lot of women weren't negotiating . <eos>
-A lot of women wasn't negotiating . <eos>
+A lot of women were n't negotiating . <eos>
+A lot of women was n't negotiating . <eos>
 A lot of women do work hard . <eos>
 A lot of women does work hard . <eos>
-Men weren't watching Sally . <eos>
+Men were n't watching Sally . <eos>
 Men is n't watching Sally . <eos>
 That child does n't skate around these malls . <eos>
 That child do n't skate around these malls . <eos>
@@ -1614,10 +1614,10 @@ Some child does n't escape . <eos>
 Some child do n't escape . <eos>
 Some people have n't reacted . <eos>
 Some people has n't reacted . <eos>
-This child wasn't passing most cafes . <eos>
+This child was n't passing most cafes . <eos>
 This child are n't passing most cafes . <eos>
-Every person wasn't nodding . <eos>
-Every person weren't nodding . <eos>
+Every person was n't nodding . <eos>
+Every person were n't nodding . <eos>
 These men have bought all mirrors . <eos>
 These men has bought all mirrors . <eos>
 The people have walked through all schools . <eos>
@@ -1634,7 +1634,7 @@ This woman does n't clean every grocery store . <eos>
 This woman do n't clean every grocery store . <eos>
 Every person has hated the cashier . <eos>
 Every person have hated the cashier . <eos>
-This person wasn't leaving . <eos>
+This person was n't leaving . <eos>
 This person are n't leaving . <eos>
 The child does skate around many closets . <eos>
 The child do skate around many closets . <eos>
@@ -1642,7 +1642,7 @@ Every alumnus does visit that bank . <eos>
 Every alumnus do visit that bank . <eos>
 A lot of men were profiting . <eos>
 A lot of men was profiting . <eos>
-All people weren't responding . <eos>
+All people were n't responding . <eos>
 All people is n't responding . <eos>
 All men do compete . <eos>
 All men does compete . <eos>
@@ -1655,7 +1655,7 @@ A lot of men was cooperating . <eos>
 Some man was impressing George . <eos>
 Some man were impressing George . <eos>
 Most men are n't benefiting . <eos>
-Most men wasn't benefiting . <eos>
+Most men was n't benefiting . <eos>
 Some offspring does n't complain about some book . <eos>
 Some offspring do n't complain about some book . <eos>
 The people do interact . <eos>
@@ -1668,8 +1668,8 @@ An alumnus does n't shock these museums . <eos>
 An alumnus do n't shock these museums . <eos>
 This child has complained . <eos>
 This child have complained . <eos>
-All people weren't escaping from some adult . <eos>
-All people wasn't escaping from some adult . <eos>
+All people were n't escaping from some adult . <eos>
+All people was n't escaping from some adult . <eos>
 Some women were dating . <eos>
 Some women was dating . <eos>
 That child does n't take some bicycle . <eos>
@@ -1679,7 +1679,7 @@ Some women was impressing Katherine . <eos>
 The people have n't testified . <eos>
 The people has n't testified . <eos>
 Every woman is n't leaving Regina . <eos>
-Every woman weren't leaving Regina . <eos>
+Every woman were n't leaving Regina . <eos>
 That child does take a cat . <eos>
 That child do take a cat . <eos>
 A lot of men do paint . <eos>
@@ -1698,8 +1698,8 @@ A lot of men have disagreed . <eos>
 A lot of men has disagreed . <eos>
 The alumnus has suffered . <eos>
 The alumnus have suffered . <eos>
-Most men weren't dropping by that hospital . <eos>
-Most men wasn't dropping by that hospital . <eos>
+Most men were n't dropping by that hospital . <eos>
+Most men was n't dropping by that hospital . <eos>
 Men do n't work hard . <eos>
 Men does n't work hard . <eos>
 Some child was returning to Marcus . <eos>
@@ -1708,7 +1708,7 @@ Many women have n't climbed down some mountains . <eos>
 Many women has n't climbed down some mountains . <eos>
 Some woman is screaming . <eos>
 Some woman were screaming . <eos>
-This child wasn't disturbing Alexander . <eos>
+This child was n't disturbing Alexander . <eos>
 This child are n't disturbing Alexander . <eos>
 That man is n't walking through every restaurant . <eos>
 That man are n't walking through every restaurant . <eos>
@@ -1748,8 +1748,8 @@ The men have n't blinked . <eos>
 The men has n't blinked . <eos>
 This woman has n't baked . <eos>
 This woman have n't baked . <eos>
-The women weren't competing . <eos>
-The women wasn't competing . <eos>
+The women were n't competing . <eos>
+The women was n't competing . <eos>
 Men do n't fight . <eos>
 Men does n't fight . <eos>
 This mouse is hurting a university . <eos>
@@ -1770,10 +1770,10 @@ All people are cleaning the cup . <eos>
 All people was cleaning the cup . <eos>
 The child has left Michelle . <eos>
 The child have left Michelle . <eos>
-These men weren't assembling . <eos>
-These men wasn't assembling . <eos>
+These men were n't assembling . <eos>
+These men was n't assembling . <eos>
 Some woman is n't driving to every glacier . <eos>
-Some woman weren't driving to every glacier . <eos>
+Some woman were n't driving to every glacier . <eos>
 An offspring has cared for Rachelle . <eos>
 An offspring have cared for Rachelle . <eos>
 The woman does n't hide away . <eos>
@@ -1805,7 +1805,7 @@ Some woman have n't disturbed Craig . <eos>
 That child does n't leave Tracy . <eos>
 That child do n't leave Tracy . <eos>
 Every woman is n't exercising . <eos>
-Every woman weren't exercising . <eos>
+Every woman were n't exercising . <eos>
 Every child has n't explored this cafe . <eos>
 Every child have n't explored this cafe . <eos>
 Every woman has n't forfeited . <eos>
@@ -1856,8 +1856,8 @@ Some men have arrived at some library . <eos>
 Some men has arrived at some library . <eos>
 That tooth has annoyed Linda . <eos>
 That tooth have annoyed Linda . <eos>
-Most people weren't skated around some high school . <eos>
-Most people wasn't skated around some high school . <eos>
+Most people were n't skated around some high school . <eos>
+Most people was n't skated around some high school . <eos>
 Every child has n't shocked Roger . <eos>
 Every child have n't shocked Roger . <eos>
 The child does admire an actress . <eos>
@@ -1867,7 +1867,7 @@ This child do n't walk through the hospitals . <eos>
 The people do smile . <eos>
 The people does smile . <eos>
 The man is n't cheering . <eos>
-The man weren't cheering . <eos>
+The man were n't cheering . <eos>
 Every woman is screaming . <eos>
 Every woman were screaming . <eos>
 Many men do compete . <eos>
@@ -1890,8 +1890,8 @@ Every child has n't messed up this couch . <eos>
 Every child have n't messed up this couch . <eos>
 Some man has murmured . <eos>
 Some man have murmured . <eos>
-Some alumnus wasn't washing . <eos>
-Some alumnus weren't washing . <eos>
+Some alumnus was n't washing . <eos>
+Some alumnus were n't washing . <eos>
 People have nodded . <eos>
 People has nodded . <eos>
 A man has n't brought these hamsters . <eos>
@@ -1904,13 +1904,13 @@ The person does n't hire Rachel . <eos>
 The person do n't hire Rachel . <eos>
 This offspring has n't talked to Michael . <eos>
 This offspring have n't talked to Michael . <eos>
-Every man wasn't skated around some glaciers . <eos>
-Every man weren't skated around some glaciers . <eos>
+Every man was n't skated around some glaciers . <eos>
+Every man were n't skated around some glaciers . <eos>
 Some men have communicated . <eos>
 Some men has communicated . <eos>
 Women have succeeded . <eos>
 Women has succeeded . <eos>
-Every man wasn't sitting down . <eos>
+Every man was n't sitting down . <eos>
 Every man are n't sitting down . <eos>
 All men were biking to a restaurant . <eos>
 All men is biking to a restaurant . <eos>
@@ -1935,7 +1935,7 @@ Every offspring do n't protest . <eos>
 People do confer . <eos>
 People does confer . <eos>
 This person is n't examining every movie . <eos>
-This person weren't examining every movie . <eos>
+This person were n't examining every movie . <eos>
 A lot of women have boasted . <eos>
 A lot of women has boasted . <eos>
 That child does n't boast about Julie . <eos>
@@ -1952,7 +1952,7 @@ These women have gone fishing . <eos>
 These women has gone fishing . <eos>
 An offspring does n't dislike Christina . <eos>
 An offspring do n't dislike Christina . <eos>
-Some man wasn't whispering . <eos>
+Some man was n't whispering . <eos>
 Some man are n't whispering . <eos>
 This synopsis does sound like Gerald . <eos>
 This synopsis do sound like Gerald . <eos>
@@ -1972,8 +1972,8 @@ The person is touring every high school . <eos>
 The person are touring every high school . <eos>
 That person does investigate Melissa . <eos>
 That person do investigate Melissa . <eos>
-That child wasn't skated around many mountains . <eos>
-That child weren't skated around many mountains . <eos>
+That child was n't skated around many mountains . <eos>
+That child were n't skated around many mountains . <eos>
 Most women do meet . <eos>
 Most women does meet . <eos>
 Every sheep does descend the hill . <eos>
@@ -1994,7 +1994,7 @@ A child has n't resembled this sketch . <eos>
 A child have n't resembled this sketch . <eos>
 Most people do litter . <eos>
 Most people does litter . <eos>
-A man wasn't cooking . <eos>
+A man was n't cooking . <eos>
 A man are n't cooking . <eos>
 Every woman was suffering . <eos>
 Every woman are suffering . <eos>

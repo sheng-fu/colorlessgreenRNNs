@@ -24,11 +24,11 @@ for jsonl in jsonls:
 
     for i in infile_json:
         temp = re.sub('(.$)', ' \\1 <eos>', i['sentence_good'])
-        temp = re.sub('(are|is|have|has|do|does)n\'t', '\\1 n\'t', temp)
+        temp = re.sub('(are|is|have|has|do|does|was|were|ca)n\'t', '\\1 n\'t', temp)
         outfile.write(temp)
         outfile.write('\n')
         temp = re.sub('(.$)', ' \\1 <eos>', i['sentence_bad'])
-        temp = re.sub('(are|is|have|has|do|does)n\'t', '\\1 n\'t', temp)
+        temp = re.sub('(are|is|have|has|do|does|was|were|ca)n\'t', '\\1 n\'t', temp)
         outfile.write(temp)     
         outfile.write('\n')
 

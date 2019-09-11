@@ -4,8 +4,8 @@ What has vincent talked about some commentary about ? <eos>
 What has some commentary about talked about vincent ? <eos>
 What are these books next to the photographs of ? <eos>
 What are the photographs of next to these books ? <eos>
-Who wasn't benjamin near a print of ? <eos>
-Who wasn't a print of near benjamin ? <eos>
+Who was n't benjamin near a print of ? <eos>
+Who was n't a print of near benjamin ? <eos>
 What had many cashiers praised pamphlets about ? <eos>
 What had pamphlets about praised many cashiers ? <eos>
 What is jennifer praising this essay about ? <eos>

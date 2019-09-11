@@ -22,22 +22,22 @@ Alicia can hate herself . <eos>
 Alicia can hate itself . <eos>
 This movie criticized itself . <eos>
 This movie criticized herself . <eos>
-Benjamin can't upset himself . <eos>
-Benjamin can't upset herself . <eos>
+Benjamin ca n't upset himself . <eos>
+Benjamin ca n't upset herself . <eos>
 Karla bored herself . <eos>
 Karla bored itself . <eos>
 Christine was boasting about herself . <eos>
 Christine was boasting about himself . <eos>
 Angela healed herself . <eos>
 Angela healed itself . <eos>
-The dancer wasn't shocking herself . <eos>
-The dancer wasn't shocking itself . <eos>
+The dancer was n't shocking herself . <eos>
+The dancer was n't shocking itself . <eos>
 Regina has n't worked with herself . <eos>
 Regina has n't worked with himself . <eos>
 Rachel watched herself . <eos>
 Rachel watched itself . <eos>
-Tammy wasn't alarming herself . <eos>
-Tammy wasn't alarming itself . <eos>
+Tammy was n't alarming herself . <eos>
+Tammy was n't alarming itself . <eos>
 Amelia is n't talking to herself . <eos>
 Amelia is n't talking to itself . <eos>
 Julia was observing herself . <eos>
@@ -96,10 +96,10 @@ Jessica has n't seen herself . <eos>
 Jessica has n't seen himself . <eos>
 Sherry had confused herself . <eos>
 Sherry had confused itself . <eos>
-Carl wasn't observing himself . <eos>
-Carl wasn't observing herself . <eos>
-Emily can't talk to herself . <eos>
-Emily can't talk to itself . <eos>
+Carl was n't observing himself . <eos>
+Carl was n't observing herself . <eos>
+Emily ca n't talk to herself . <eos>
+Emily ca n't talk to itself . <eos>
 Sally is investigating herself . <eos>
 Sally is investigating himself . <eos>
 Holly is embarrassing herself . <eos>
@@ -160,8 +160,8 @@ Cheryl could talk to herself . <eos>
 Cheryl could talk to itself . <eos>
 Carol boasted about herself . <eos>
 Carol boasted about himself . <eos>
-Ronald wasn't hiding himself . <eos>
-Ronald wasn't hiding herself . <eos>
+Ronald was n't hiding himself . <eos>
+Ronald was n't hiding herself . <eos>
 Brett can approach himself . <eos>
 Brett can approach herself . <eos>
 Barbara hired herself . <eos>
@@ -252,8 +252,8 @@ Alicia is firing herself . <eos>
 Alicia is firing itself . <eos>
 Kendra did talk about herself . <eos>
 Kendra did talk about himself . <eos>
-Renee wasn't scaring herself . <eos>
-Renee wasn't scaring himself . <eos>
+Renee was n't scaring herself . <eos>
+Renee was n't scaring himself . <eos>
 Vincent boasted about himself . <eos>
 Vincent boasted about itself . <eos>
 Some commentary hadn't disagreed with itself . <eos>
@@ -288,24 +288,24 @@ This company worries itself . <eos>
 This company worries himself . <eos>
 A guy was impressing himself . <eos>
 A guy was impressing itself . <eos>
-Patricia wasn't talking to herself . <eos>
-Patricia wasn't talking to himself . <eos>
+Patricia was n't talking to herself . <eos>
+Patricia was n't talking to himself . <eos>
 James won't heal himself . <eos>
 James won't heal herself . <eos>
 Diane is n't revealing herself . <eos>
 Diane is n't revealing itself . <eos>
-Phillip can't conceal himself . <eos>
-Phillip can't conceal herself . <eos>
+Phillip ca n't conceal himself . <eos>
+Phillip ca n't conceal herself . <eos>
 Steven forgot himself . <eos>
 Steven forgot itself . <eos>
-Nancy wasn't bothering herself . <eos>
-Nancy wasn't bothering himself . <eos>
+Nancy was n't bothering herself . <eos>
+Nancy was n't bothering himself . <eos>
 Every boy worried himself . <eos>
 Every boy worried herself . <eos>
 Marcus talked to himself . <eos>
 Marcus talked to itself . <eos>
-Kenneth wasn't disgusting himself . <eos>
-Kenneth wasn't disgusting herself . <eos>
+Kenneth was n't disgusting himself . <eos>
+Kenneth was n't disgusting herself . <eos>
 Connie worried herself . <eos>
 Connie worried himself . <eos>
 Gerald could cure himself . <eos>
@@ -364,14 +364,14 @@ Susan is n't attacking herself . <eos>
 Susan is n't attacking himself . <eos>
 Ruth scared herself . <eos>
 Ruth scared himself . <eos>
-Marie can't argue about herself . <eos>
-Marie can't argue about itself . <eos>
+Marie ca n't argue about herself . <eos>
+Marie ca n't argue about itself . <eos>
 Phillip is n't firing himself . <eos>
 Phillip is n't firing herself . <eos>
 Heather does n't see herself . <eos>
 Heather does n't see itself . <eos>
-Joel wasn't astounding himself . <eos>
-Joel wasn't astounding herself . <eos>
+Joel was n't astounding himself . <eos>
+Joel was n't astounding herself . <eos>
 Sabrina might help herself . <eos>
 Sabrina might help himself . <eos>
 Helen wouldn't impress herself . <eos>
@@ -442,16 +442,16 @@ Carrie will hire herself . <eos>
 Carrie will hire itself . <eos>
 Martin hadn't fired himself . <eos>
 Martin hadn't fired itself . <eos>
-Mark can't reference himself . <eos>
-Mark can't reference herself . <eos>
+Mark ca n't reference himself . <eos>
+Mark ca n't reference herself . <eos>
 Robert discussed himself . <eos>
 Robert discussed itself . <eos>
 Donald has criticized himself . <eos>
 Donald has criticized itself . <eos>
-Rachelle wasn't irritating herself . <eos>
-Rachelle wasn't irritating himself . <eos>
-Veronica wasn't firing herself . <eos>
-Veronica wasn't firing itself . <eos>
+Rachelle was n't irritating herself . <eos>
+Rachelle was n't irritating himself . <eos>
+Veronica was n't firing herself . <eos>
+Veronica was n't firing itself . <eos>
 Regina hadn't investigated herself . <eos>
 Regina hadn't investigated himself . <eos>
 Margaret knew herself . <eos>
@@ -464,8 +464,8 @@ Keith returned to himself . <eos>
 Keith returned to herself . <eos>
 Tammy alarmed herself . <eos>
 Tammy alarmed himself . <eos>
-Linda wasn't healing herself . <eos>
-Linda wasn't healing itself . <eos>
+Linda was n't healing herself . <eos>
+Linda was n't healing itself . <eos>
 Brett has n't referenced himself . <eos>
 Brett has n't referenced itself . <eos>
 Margaret is n't hiding herself . <eos>
@@ -504,18 +504,18 @@ Veronica could criticize herself . <eos>
 Veronica could criticize himself . <eos>
 Marla has scared herself . <eos>
 Marla has scared himself . <eos>
-Gregory can't aggravate himself . <eos>
-Gregory can't aggravate herself . <eos>
-Tonya wasn't appreciating herself . <eos>
-Tonya wasn't appreciating itself . <eos>
+Gregory ca n't aggravate himself . <eos>
+Gregory ca n't aggravate herself . <eos>
+Tonya was n't appreciating herself . <eos>
+Tonya was n't appreciating itself . <eos>
 Laurie can stun herself . <eos>
 Laurie can stun himself . <eos>
 Richard has n't fired himself . <eos>
 Richard has n't fired herself . <eos>
 Tonya worked with herself . <eos>
 Tonya worked with himself . <eos>
-Debra wasn't talking to herself . <eos>
-Debra wasn't talking to itself . <eos>
+Debra was n't talking to herself . <eos>
+Debra was n't talking to itself . <eos>
 Mary referenced herself . <eos>
 Mary referenced himself . <eos>
 Travis did dislike himself . <eos>
@@ -546,10 +546,10 @@ Eric can argue about himself . <eos>
 Eric can argue about herself . <eos>
 Natalie can scare herself . <eos>
 Natalie can scare himself . <eos>
-Jill wasn't revealing herself . <eos>
-Jill wasn't revealing itself . <eos>
-Patrick wasn't bothering himself . <eos>
-Patrick wasn't bothering itself . <eos>
+Jill was n't revealing herself . <eos>
+Jill was n't revealing itself . <eos>
+Patrick was n't bothering himself . <eos>
+Patrick was n't bothering itself . <eos>
 Nancy shocked herself . <eos>
 Nancy shocked himself . <eos>
 Every bank aggravates itself . <eos>
@@ -600,8 +600,8 @@ Gregory hadn't alarmed himself . <eos>
 Gregory hadn't alarmed itself . <eos>
 Timothy has n't argued about himself . <eos>
 Timothy has n't argued about herself . <eos>
-Samantha can't hide herself . <eos>
-Samantha can't hide himself . <eos>
+Samantha ca n't hide herself . <eos>
+Samantha ca n't hide himself . <eos>
 Martin had bothered himself . <eos>
 Martin had bothered itself . <eos>
 Tara has n't criticized herself . <eos>
@@ -656,8 +656,8 @@ Cheryl will praise herself . <eos>
 Cheryl will praise himself . <eos>
 Diana was hiring herself . <eos>
 Diana was hiring itself . <eos>
-Sara wasn't observing herself . <eos>
-Sara wasn't observing himself . <eos>
+Sara was n't observing herself . <eos>
+Sara was n't observing himself . <eos>
 An association scares itself . <eos>
 An association scares herself . <eos>
 Robert was criticizing himself . <eos>
@@ -674,8 +674,8 @@ Tanya hadn't described herself . <eos>
 Tanya hadn't described itself . <eos>
 Rhonda had disgusted herself . <eos>
 Rhonda had disgusted itself . <eos>
-Larry wasn't talking to himself . <eos>
-Larry wasn't talking to itself . <eos>
+Larry was n't talking to himself . <eos>
+Larry was n't talking to itself . <eos>
 Samuel does n't complain about himself . <eos>
 Samuel does n't complain about itself . <eos>
 Judy wouldn't hide herself . <eos>
@@ -704,8 +704,8 @@ Travis might discuss himself . <eos>
 Travis might discuss itself . <eos>
 Vanessa hadn't insulted herself . <eos>
 Vanessa hadn't insulted himself . <eos>
-Irene wasn't investigating herself . <eos>
-Irene wasn't investigating himself . <eos>
+Irene was n't investigating herself . <eos>
+Irene was n't investigating himself . <eos>
 Scott has n't approached himself . <eos>
 Scott has n't approached herself . <eos>
 A university will bother itself . <eos>
@@ -734,8 +734,8 @@ Patrick irritated himself . <eos>
 Patrick irritated itself . <eos>
 Some legislature shouldn't irritate itself . <eos>
 Some legislature shouldn't irritate herself . <eos>
-Colleen wasn't returning to herself . <eos>
-Colleen wasn't returning to himself . <eos>
+Colleen was n't returning to herself . <eos>
+Colleen was n't returning to himself . <eos>
 Brett was firing himself . <eos>
 Brett was firing itself . <eos>
 Some play couldn't disagree with itself . <eos>
@@ -762,10 +762,10 @@ Christopher approached himself . <eos>
 Christopher approached herself . <eos>
 Sheila has n't cared for herself . <eos>
 Sheila has n't cared for himself . <eos>
-Helen wasn't talking about herself . <eos>
-Helen wasn't talking about himself . <eos>
-Denise wasn't talking to herself . <eos>
-Denise wasn't talking to itself . <eos>
+Helen was n't talking about herself . <eos>
+Helen was n't talking about himself . <eos>
+Denise was n't talking to herself . <eos>
+Denise was n't talking to itself . <eos>
 Marcus is n't fleeing from himself . <eos>
 Marcus is n't fleeing from herself . <eos>
 Mitchell hadn't kissed himself . <eos>
@@ -778,14 +778,14 @@ Douglas hugged himself . <eos>
 Douglas hugged itself . <eos>
 Kirsten forgot herself . <eos>
 Kirsten forgot himself . <eos>
-Russell wasn't praising himself . <eos>
-Russell wasn't praising herself . <eos>
+Russell was n't praising himself . <eos>
+Russell was n't praising herself . <eos>
 Heather alarmed herself . <eos>
 Heather alarmed himself . <eos>
 Kenneth was observing himself . <eos>
 Kenneth was observing herself . <eos>
-Jacqueline wasn't distracting herself . <eos>
-Jacqueline wasn't distracting itself . <eos>
+Jacqueline was n't distracting herself . <eos>
+Jacqueline was n't distracting itself . <eos>
 Susan is n't irritating herself . <eos>
 Susan is n't irritating itself . <eos>
 This university disturbs itself . <eos>
@@ -806,8 +806,8 @@ Janet was hugging herself . <eos>
 Janet was hugging himself . <eos>
 Some organization aggravates itself . <eos>
 Some organization aggravates himself . <eos>
-Beth wasn't embarrassing herself . <eos>
-Beth wasn't embarrassing itself . <eos>
+Beth was n't embarrassing herself . <eos>
+Beth was n't embarrassing itself . <eos>
 Jodi does scare herself . <eos>
 Jodi does scare itself . <eos>
 Claire distracted herself . <eos>
@@ -914,10 +914,10 @@ Lisa has cared for herself . <eos>
 Lisa has cared for himself . <eos>
 Carol might like herself . <eos>
 Carol might like itself . <eos>
-Chad wasn't disgusting himself . <eos>
-Chad wasn't disgusting itself . <eos>
-That book can't disagree with itself . <eos>
-That book can't disagree with himself . <eos>
+Chad was n't disgusting himself . <eos>
+Chad was n't disgusting itself . <eos>
+That book ca n't disagree with itself . <eos>
+That book ca n't disagree with himself . <eos>
 Kendra can hurt herself . <eos>
 Kendra can hurt itself . <eos>
 Randolf investigated himself . <eos>
@@ -946,16 +946,16 @@ Karla knew herself . <eos>
 Karla knew itself . <eos>
 Claire admired herself . <eos>
 Claire admired himself . <eos>
-Roger wasn't praising himself . <eos>
-Roger wasn't praising itself . <eos>
+Roger was n't praising himself . <eos>
+Roger was n't praising itself . <eos>
 Diana would see herself . <eos>
 Diana would see itself . <eos>
 Bruce talked about himself . <eos>
 Bruce talked about itself . <eos>
 Wayne wouldn't visit himself . <eos>
 Wayne wouldn't visit herself . <eos>
-Peter wasn't concealing himself . <eos>
-Peter wasn't concealing herself . <eos>
+Peter was n't concealing himself . <eos>
+Peter was n't concealing herself . <eos>
 Frank will heal himself . <eos>
 Frank will heal itself . <eos>
 Elaine can astound herself . <eos>
@@ -970,8 +970,8 @@ This school astounds itself . <eos>
 This school astounds herself . <eos>
 Amanda returned to herself . <eos>
 Amanda returned to itself . <eos>
-Candice can't hate herself . <eos>
-Candice can't hate himself . <eos>
+Candice ca n't hate herself . <eos>
+Candice ca n't hate himself . <eos>
 Samuel was astounding himself . <eos>
 Samuel was astounding itself . <eos>
 William couldn't flee from himself . <eos>
@@ -1022,16 +1022,16 @@ Tracy has observed herself . <eos>
 Tracy has observed himself . <eos>
 Valerie saw herself . <eos>
 Valerie saw himself . <eos>
-Denise wasn't distracting herself . <eos>
-Denise wasn't distracting itself . <eos>
+Denise was n't distracting herself . <eos>
+Denise was n't distracting itself . <eos>
 Cindy has n't impressed herself . <eos>
 Cindy has n't impressed itself . <eos>
 Alicia can scare herself . <eos>
 Alicia can scare himself . <eos>
 Peter didn't visit himself . <eos>
 Peter didn't visit itself . <eos>
-Sara wasn't escaping from herself . <eos>
-Sara wasn't escaping from himself . <eos>
+Sara was n't escaping from herself . <eos>
+Sara was n't escaping from himself . <eos>
 Tina shouldn't respect herself . <eos>
 Tina shouldn't respect himself . <eos>
 Joseph forgot himself . <eos>
@@ -1040,8 +1040,8 @@ This dancer can forget herself . <eos>
 This dancer can forget itself . <eos>
 That girl cured herself . <eos>
 That girl cured himself . <eos>
-Jacqueline wasn't talking about herself . <eos>
-Jacqueline wasn't talking about itself . <eos>
+Jacqueline was n't talking about herself . <eos>
+Jacqueline was n't talking about itself . <eos>
 Gregory scared himself . <eos>
 Gregory scared herself . <eos>
 Steve couldn't hug himself . <eos>
@@ -1078,8 +1078,8 @@ Rebecca was upsetting herself . <eos>
 Rebecca was upsetting itself . <eos>
 Raymond has n't healed himself . <eos>
 Raymond has n't healed herself . <eos>
-Irene wasn't curing herself . <eos>
-Irene wasn't curing himself . <eos>
+Irene was n't curing herself . <eos>
+Irene was n't curing himself . <eos>
 Every government worries itself . <eos>
 Every government worries himself . <eos>
 Allison will upset herself . <eos>
@@ -1174,20 +1174,20 @@ Jason distracted himself . <eos>
 Jason distracted itself . <eos>
 Gregory bored himself . <eos>
 Gregory bored herself . <eos>
-Amanda wasn't aggravating herself . <eos>
-Amanda wasn't aggravating himself . <eos>
+Amanda was n't aggravating herself . <eos>
+Amanda was n't aggravating himself . <eos>
 Tiffany has disgusted herself . <eos>
 Tiffany has disgusted itself . <eos>
-A girl wasn't upsetting herself . <eos>
-A girl wasn't upsetting itself . <eos>
+A girl was n't upsetting herself . <eos>
+A girl was n't upsetting itself . <eos>
 Sarah had revealed herself . <eos>
 Sarah had revealed himself . <eos>
 Jessica has talked about herself . <eos>
 Jessica has talked about himself . <eos>
 This association impresses itself . <eos>
 This association impresses himself . <eos>
-Carol wasn't revealing herself . <eos>
-Carol wasn't revealing itself . <eos>
+Carol was n't revealing herself . <eos>
+Carol was n't revealing itself . <eos>
 Lori is n't finding herself . <eos>
 Lori is n't finding itself . <eos>
 Gina has n't referenced herself . <eos>
@@ -1208,8 +1208,8 @@ Barbara hadn't embarrassed herself . <eos>
 Barbara hadn't embarrassed itself . <eos>
 Jacqueline hugged herself . <eos>
 Jacqueline hugged itself . <eos>
-Paul wasn't listening to himself . <eos>
-Paul wasn't listening to herself . <eos>
+Paul was n't listening to himself . <eos>
+Paul was n't listening to herself . <eos>
 Ronald might appreciate himself . <eos>
 Ronald might appreciate itself . <eos>
 Edward has n't concealed himself . <eos>
@@ -1236,8 +1236,8 @@ Jerry had irritated himself . <eos>
 Jerry had irritated itself . <eos>
 Tanya found herself . <eos>
 Tanya found itself . <eos>
-Gerald can't discuss himself . <eos>
-Gerald can't discuss herself . <eos>
+Gerald ca n't discuss himself . <eos>
+Gerald ca n't discuss herself . <eos>
 Diane did visit herself . <eos>
 Diane did visit itself . <eos>
 Martha had admired herself . <eos>
@@ -1258,8 +1258,8 @@ Jane will know herself . <eos>
 Jane will know itself . <eos>
 That library embarrasses itself . <eos>
 That library embarrasses himself . <eos>
-Robert can't watch himself . <eos>
-Robert can't watch itself . <eos>
+Robert ca n't watch himself . <eos>
+Robert ca n't watch itself . <eos>
 Melissa would forget herself . <eos>
 Melissa would forget itself . <eos>
 Veronica will care for herself . <eos>
@@ -1290,8 +1290,8 @@ Every guy didn't praise himself . <eos>
 Every guy didn't praise itself . <eos>
 Cheryl had discussed herself . <eos>
 Cheryl had discussed himself . <eos>
-Lucille wasn't working with herself . <eos>
-Lucille wasn't working with itself . <eos>
+Lucille was n't working with herself . <eos>
+Lucille was n't working with itself . <eos>
 Charles remembered himself . <eos>
 Charles remembered itself . <eos>
 Theodore investigated himself . <eos>
@@ -1306,8 +1306,8 @@ Stephen does n't know himself . <eos>
 Stephen does n't know herself . <eos>
 Stephen had embarrassed himself . <eos>
 Stephen had embarrassed itself . <eos>
-Janet wasn't aggravating herself . <eos>
-Janet wasn't aggravating itself . <eos>
+Janet was n't aggravating herself . <eos>
+Janet was n't aggravating itself . <eos>
 Homer praised himself . <eos>
 Homer praised itself . <eos>
 Carmen hadn't escaped from herself . <eos>
@@ -1330,8 +1330,8 @@ Benjamin hugged himself . <eos>
 Benjamin hugged herself . <eos>
 Roger hadn't scared himself . <eos>
 Roger hadn't scared herself . <eos>
-Nina wasn't embarrassing herself . <eos>
-Nina wasn't embarrassing himself . <eos>
+Nina was n't embarrassing herself . <eos>
+Nina was n't embarrassing himself . <eos>
 Carlos does n't hate himself . <eos>
 Carlos does n't hate herself . <eos>
 Janice confused herself . <eos>
@@ -1424,18 +1424,18 @@ Denise should attack herself . <eos>
 Denise should attack himself . <eos>
 Irene had hidden herself . <eos>
 Irene had hidden himself . <eos>
-Lissa wasn't referencing herself . <eos>
-Lissa wasn't referencing itself . <eos>
+Lissa was n't referencing herself . <eos>
+Lissa was n't referencing itself . <eos>
 Craig would argue about himself . <eos>
 Craig would argue about herself . <eos>
 Russell has argued about himself . <eos>
 Russell has argued about itself . <eos>
 Amelia has hugged herself . <eos>
 Amelia has hugged himself . <eos>
-Judy can't complain about herself . <eos>
-Judy can't complain about himself . <eos>
-Tamara wasn't concealing herself . <eos>
-Tamara wasn't concealing himself . <eos>
+Judy ca n't complain about herself . <eos>
+Judy ca n't complain about himself . <eos>
+Tamara was n't concealing herself . <eos>
+Tamara was n't concealing himself . <eos>
 Sally has n't kissed herself . <eos>
 Sally has n't kissed itself . <eos>
 Becky watched herself . <eos>
@@ -1466,8 +1466,8 @@ Kristen is criticizing herself . <eos>
 Kristen is criticizing itself . <eos>
 Christopher aggravated himself . <eos>
 Christopher aggravated itself . <eos>
-Catherine wasn't watching herself . <eos>
-Catherine wasn't watching itself . <eos>
+Catherine was n't watching herself . <eos>
+Catherine was n't watching itself . <eos>
 Candice is n't attacking herself . <eos>
 Candice is n't attacking himself . <eos>
 Kimberley hired herself . <eos>
@@ -1488,8 +1488,8 @@ Rachel stunned herself . <eos>
 Rachel stunned itself . <eos>
 Grace hadn't argued about herself . <eos>
 Grace hadn't argued about himself . <eos>
-Noah wasn't upsetting himself . <eos>
-Noah wasn't upsetting herself . <eos>
+Noah was n't upsetting himself . <eos>
+Noah was n't upsetting herself . <eos>
 Bethany didn't care for herself . <eos>
 Bethany didn't care for itself . <eos>
 Martha will see herself . <eos>
@@ -1508,8 +1508,8 @@ Marla criticized herself . <eos>
 Marla criticized himself . <eos>
 Paul has bothered himself . <eos>
 Paul has bothered itself . <eos>
-Diane wasn't helping herself . <eos>
-Diane wasn't helping itself . <eos>
+Diane was n't helping herself . <eos>
+Diane was n't helping itself . <eos>
 Christina described herself . <eos>
 Christina described himself . <eos>
 Brett hadn't disliked himself . <eos>
@@ -1528,8 +1528,8 @@ Steven is disgusting himself . <eos>
 Steven is disgusting herself . <eos>
 Emily had healed herself . <eos>
 Emily had healed itself . <eos>
-Derek wasn't observing himself . <eos>
-Derek wasn't observing itself . <eos>
+Derek was n't observing himself . <eos>
+Derek was n't observing itself . <eos>
 Melissa hadn't described herself . <eos>
 Melissa hadn't described himself . <eos>
 Every committee distracts itself . <eos>
@@ -1548,8 +1548,8 @@ Marie did discuss herself . <eos>
 Marie did discuss itself . <eos>
 Wendy was healing herself . <eos>
 Wendy was healing itself . <eos>
-Kristin wasn't referencing herself . <eos>
-Kristin wasn't referencing himself . <eos>
+Kristin was n't referencing herself . <eos>
+Kristin was n't referencing himself . <eos>
 Diane upset herself . <eos>
 Diane upset himself . <eos>
 Deborah argued about herself . <eos>
@@ -1608,8 +1608,8 @@ Pamela irritated herself . <eos>
 Pamela irritated himself . <eos>
 Ronald aggravated himself . <eos>
 Ronald aggravated itself . <eos>
-George wasn't watching himself . <eos>
-George wasn't watching herself . <eos>
+George was n't watching himself . <eos>
+George was n't watching herself . <eos>
 Tamara had insulted herself . <eos>
 Tamara had insulted itself . <eos>
 Florence has n't forgotten herself . <eos>
@@ -1664,8 +1664,8 @@ Charles had embarrassed himself . <eos>
 Charles had embarrassed herself . <eos>
 Renee is n't healing herself . <eos>
 Renee is n't healing itself . <eos>
-Kenneth can't fire himself . <eos>
-Kenneth can't fire itself . <eos>
+Kenneth ca n't fire himself . <eos>
+Kenneth ca n't fire itself . <eos>
 A museum bores itself . <eos>
 A museum bores himself . <eos>
 Douglas has forgotten himself . <eos>
@@ -1694,8 +1694,8 @@ Dennis had helped himself . <eos>
 Dennis had helped itself . <eos>
 Jodi is boring herself . <eos>
 Jodi is boring itself . <eos>
-Naomi wasn't concealing herself . <eos>
-Naomi wasn't concealing itself . <eos>
+Naomi was n't concealing herself . <eos>
+Naomi was n't concealing itself . <eos>
 Anne confused herself . <eos>
 Anne confused himself . <eos>
 Jason hadn't worked with himself . <eos>
@@ -1746,8 +1746,8 @@ Alicia hadn't aggravated herself . <eos>
 Alicia hadn't aggravated itself . <eos>
 Deanna had hurt herself . <eos>
 Deanna had hurt himself . <eos>
-Kristen wasn't arguing about herself . <eos>
-Kristen wasn't arguing about itself . <eos>
+Kristen was n't arguing about herself . <eos>
+Kristen was n't arguing about itself . <eos>
 Kristin observed herself . <eos>
 Kristin observed himself . <eos>
 Carolyn disgusted herself . <eos>
@@ -1788,14 +1788,14 @@ Allison has bored herself . <eos>
 Allison has bored himself . <eos>
 Carol should insult herself . <eos>
 Carol should insult itself . <eos>
-Some waitress wasn't aggravating herself . <eos>
-Some waitress wasn't aggravating itself . <eos>
+Some waitress was n't aggravating herself . <eos>
+Some waitress was n't aggravating itself . <eos>
 This university is irritating itself . <eos>
 This university is irritating himself . <eos>
 Samantha confused herself . <eos>
 Samantha confused himself . <eos>
-Carrie wasn't visiting herself . <eos>
-Carrie wasn't visiting himself . <eos>
+Carrie was n't visiting herself . <eos>
+Carrie was n't visiting himself . <eos>
 Teresa wouldn't attack herself . <eos>
 Teresa wouldn't attack himself . <eos>
 Sara could hate herself . <eos>
@@ -1810,8 +1810,8 @@ Angela is n't boring herself . <eos>
 Angela is n't boring himself . <eos>
 Jennifer will disgust herself . <eos>
 Jennifer will disgust himself . <eos>
-Ellen wasn't scaring herself . <eos>
-Ellen wasn't scaring himself . <eos>
+Ellen was n't scaring herself . <eos>
+Ellen was n't scaring himself . <eos>
 Janet praised herself . <eos>
 Janet praised itself . <eos>
 Diana would conceal herself . <eos>
@@ -1882,8 +1882,8 @@ Vanessa is n't returning to herself . <eos>
 Vanessa is n't returning to himself . <eos>
 Samuel has n't upset himself . <eos>
 Samuel has n't upset herself . <eos>
-Vanessa wasn't concealing herself . <eos>
-Vanessa wasn't concealing itself . <eos>
+Vanessa was n't concealing herself . <eos>
+Vanessa was n't concealing itself . <eos>
 Tonya didn't approach herself . <eos>
 Tonya didn't approach himself . <eos>
 Edward was escaping from himself . <eos>
@@ -1894,8 +1894,8 @@ Valerie had upset herself . <eos>
 Valerie had upset himself . <eos>
 Travis will shock himself . <eos>
 Travis will shock itself . <eos>
-Ella wasn't arguing about herself . <eos>
-Ella wasn't arguing about itself . <eos>
+Ella was n't arguing about herself . <eos>
+Ella was n't arguing about itself . <eos>
 Carmen can observe herself . <eos>
 Carmen can observe himself . <eos>
 Joel has n't praised himself . <eos>
@@ -1934,8 +1934,8 @@ Amy had fired herself . <eos>
 Amy had fired itself . <eos>
 Maria will find herself . <eos>
 Maria will find itself . <eos>
-Cindy can't appreciate herself . <eos>
-Cindy can't appreciate itself . <eos>
+Cindy ca n't appreciate herself . <eos>
+Cindy ca n't appreciate itself . <eos>
 Elizabeth does irritate herself . <eos>
 Elizabeth does irritate itself . <eos>
 Ann does n't hate herself . <eos>
@@ -1956,8 +1956,8 @@ Kendra hadn't left herself . <eos>
 Kendra hadn't left himself . <eos>
 Russell concealed himself . <eos>
 Russell concealed herself . <eos>
-Maria can't alarm herself . <eos>
-Maria can't alarm itself . <eos>
+Maria ca n't alarm herself . <eos>
+Maria ca n't alarm itself . <eos>
 Florence hadn't escaped from herself . <eos>
 Florence hadn't escaped from itself . <eos>
 An organization alarms itself . <eos>
@@ -1970,10 +1970,10 @@ Cynthia hadn't distracted herself . <eos>
 Cynthia hadn't distracted itself . <eos>
 A government shocks itself . <eos>
 A government shocks himself . <eos>
-Homer wasn't alarming himself . <eos>
-Homer wasn't alarming itself . <eos>
-Samuel wasn't visiting himself . <eos>
-Samuel wasn't visiting itself . <eos>
+Homer was n't alarming himself . <eos>
+Homer was n't alarming itself . <eos>
+Samuel was n't visiting himself . <eos>
+Samuel was n't visiting itself . <eos>
 Joel hadn't remembered himself . <eos>
 Joel hadn't remembered herself . <eos>
 Andrew did worry himself . <eos>
@@ -1994,7 +1994,7 @@ Carl does embarrass himself . <eos>
 Carl does embarrass herself . <eos>
 Dawn is n't concealing herself . <eos>
 Dawn is n't concealing itself . <eos>
-Frank wasn't fleeing from himself . <eos>
-Frank wasn't fleeing from herself . <eos>
+Frank was n't fleeing from himself . <eos>
+Frank was n't fleeing from herself . <eos>
 Every library alarms itself . <eos>
 Every library alarms herself . <eos>

@@ -408,8 +408,8 @@ Some friends of Rachel that had passed the art gallery have not ever hated Melan
 Some friends of Rachel that had not passed the art gallery have ever hated Melanie . <eos>
 The friend of Amelia who might attack Rhonda can not ever praise Laura . <eos>
 The friend of Amelia who might not attack Rhonda can ever praise Laura . <eos>
-Jane's father's daughters who will leave Rachel had not ever imagined some doctor wasn't taking cars . <eos>
-Jane's father's daughters who will not leave Rachel had ever imagined some doctor wasn't taking cars . <eos>
+Jane's father's daughters who will leave Rachel had not ever imagined some doctor was n't taking cars . <eos>
+Jane's father's daughters who will not leave Rachel had ever imagined some doctor was n't taking cars . <eos>
 Derek's ex-boyfriend who is concealing Andrew has not ever talked about Laurie . <eos>
 Derek's ex-boyfriend who is not concealing Andrew has ever talked about Laurie . <eos>
 Tamara's sons who had climbed down a lot of slopes had not ever tried to forget these documentaries . <eos>
@@ -1058,8 +1058,8 @@ All children who had messed up a lot of pants have not ever concealed Tonya . <e
 All children who had not messed up a lot of pants have ever concealed Tonya . <eos>
 Brenda's friend that would hug Melinda did not ever explore a lot of restaurants . <eos>
 Brenda's friend that would not hug Melinda did ever explore a lot of restaurants . <eos>
-These waiters that are visiting Bruce had not ever wondered who wasn't smiling . <eos>
-These waiters that are not visiting Bruce had ever wondered who wasn't smiling . <eos>
+These waiters that are visiting Bruce had not ever wondered who was n't smiling . <eos>
+These waiters that are not visiting Bruce had ever wondered who was n't smiling . <eos>
 Deborah's piano teacher's associates that have concealed Alice should not ever break most cars . <eos>
 Deborah's piano teacher's associates that have not concealed Alice should ever break most cars . <eos>
 These daughters of Anna who can escape from Sharon have not ever washed . <eos>
@@ -1272,8 +1272,8 @@ Victoria's mothers' French teachers who did listen to a lot of drivers can not e
 Victoria's mothers' French teachers who did not listen to a lot of drivers can ever lift that rabbit . <eos>
 Sabrina's dermatologists who did heal all men would not ever depart . <eos>
 Sabrina's dermatologists who did not heal all men would ever depart . <eos>
-Mothers of Roger that were fleeing from a lot of people have not ever thought about who weren't finding Renee to prevent Teresa from running around every lake . <eos>
-Mothers of Roger that were not fleeing from a lot of people have ever thought about who weren't finding Renee to prevent Teresa from running around every lake . <eos>
+Mothers of Roger that were fleeing from a lot of people have not ever thought about who were n't finding Renee to prevent Teresa from running around every lake . <eos>
+Mothers of Roger that were not fleeing from a lot of people have ever thought about who were n't finding Renee to prevent Teresa from running around every lake . <eos>
 Grandsons of the dancer who had kissed Nicole do not ever argue . <eos>
 Grandsons of the dancer who had not kissed Nicole do ever argue . <eos>
 Deanna's podiatrist that had respected every actress had not ever doubted many drivers explain the picture scares Linda . <eos>
@@ -1846,8 +1846,8 @@ The niece of Nicole's doctor who has hired Kimberley had not ever listened to Sa
 The niece of Nicole's doctor who has not hired Kimberley had ever listened to Sabrina . <eos>
 Who that could reveal a scarf could not ever bring the mountains . <eos>
 Who that could not reveal a scarf could ever bring the mountains . <eos>
-Marcus's lawyers that should talk to Bill had not ever learned who wasn't standing up . <eos>
-Marcus's lawyers that should not talk to Bill had ever learned who wasn't standing up . <eos>
+Marcus's lawyers that should talk to Bill had not ever learned who was n't standing up . <eos>
+Marcus's lawyers that should not talk to Bill had ever learned who was n't standing up . <eos>
 Rhonda's mother's plumbers' students that can bike to the museum have not ever prevented Beverly from imagining Bradley had figured out who has n't forfeited . <eos>
 Rhonda's mother's plumbers' students that can not bike to the museum have ever prevented Beverly from imagining Bradley had figured out who has n't forfeited . <eos>
 All drivers' granddaughter's partner that will talk about Dana has not ever stunned Ellen . <eos>

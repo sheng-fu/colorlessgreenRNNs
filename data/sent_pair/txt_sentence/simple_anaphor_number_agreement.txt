@@ -38,8 +38,8 @@ Most fish do n't conceal themselves . <eos>
 Most fish do n't conceal itself . <eos>
 Paul kissed himself . <eos>
 Paul kissed themselves . <eos>
-A lot of men weren't appreciating themselves . <eos>
-A lot of men weren't appreciating himself . <eos>
+A lot of men were n't appreciating themselves . <eos>
+A lot of men were n't appreciating himself . <eos>
 These people attacked themselves . <eos>
 These people attacked herself . <eos>
 Julia criticized herself . <eos>
@@ -60,8 +60,8 @@ Dawn loved herself . <eos>
 Dawn loved themselves . <eos>
 Carolyn did disgust herself . <eos>
 Carolyn did disgust themselves . <eos>
-Janet wasn't boring herself . <eos>
-Janet wasn't boring themselves . <eos>
+Janet was n't boring herself . <eos>
+Janet was n't boring themselves . <eos>
 All boys have n't alarmed themselves . <eos>
 All boys have n't alarmed herself . <eos>
 All teenagers disagree with themselves . <eos>
@@ -118,8 +118,8 @@ Most dancers hadn't approached themselves . <eos>
 Most dancers hadn't approached himself . <eos>
 Melanie impressed herself . <eos>
 Melanie impressed themselves . <eos>
-Many senators weren't referencing themselves . <eos>
-Many senators weren't referencing itself . <eos>
+Many senators were n't referencing themselves . <eos>
+Many senators were n't referencing itself . <eos>
 Many books discussed themselves . <eos>
 Many books discussed itself . <eos>
 Steven was firing himself . <eos>
@@ -128,8 +128,8 @@ Allison likes herself . <eos>
 Allison likes themselves . <eos>
 The customers have n't referenced themselves . <eos>
 The customers have n't referenced herself . <eos>
-Actresses weren't working with themselves . <eos>
-Actresses weren't working with itself . <eos>
+Actresses were n't working with themselves . <eos>
+Actresses were n't working with itself . <eos>
 Laurie did help herself . <eos>
 Laurie did help themselves . <eos>
 Some ladies will appreciate themselves . <eos>
@@ -162,8 +162,8 @@ Most guys wouldn't talk about themselves . <eos>
 Most guys wouldn't talk about himself . <eos>
 People hadn't distracted themselves . <eos>
 People hadn't distracted himself . <eos>
-The governments weren't upsetting themselves . <eos>
-The governments weren't upsetting itself . <eos>
+The governments were n't upsetting themselves . <eos>
+The governments were n't upsetting itself . <eos>
 Tanya has n't watched herself . <eos>
 Tanya has n't watched themselves . <eos>
 Melinda was shocking herself . <eos>
@@ -194,8 +194,8 @@ Laurie hates herself . <eos>
 Laurie hates themselves . <eos>
 These actresses hired themselves . <eos>
 These actresses hired himself . <eos>
-Some actresses weren't discussing themselves . <eos>
-Some actresses weren't discussing herself . <eos>
+Some actresses were n't discussing themselves . <eos>
+Some actresses were n't discussing herself . <eos>
 Regina heals herself . <eos>
 Regina heals themselves . <eos>
 Turtles won't find themselves . <eos>
@@ -218,8 +218,8 @@ Melinda is n't working with herself . <eos>
 Melinda is n't working with themselves . <eos>
 Drivers disliked themselves . <eos>
 Drivers disliked itself . <eos>
-Carmen can't complain about herself . <eos>
-Carmen can't complain about themselves . <eos>
+Carmen ca n't complain about herself . <eos>
+Carmen ca n't complain about themselves . <eos>
 Teresa will care for herself . <eos>
 Teresa will care for themselves . <eos>
 Michael could discuss himself . <eos>
@@ -272,8 +272,8 @@ Some association has n't confused itself . <eos>
 Some association has n't confused themselves . <eos>
 Many waitresses can stun themselves . <eos>
 Many waitresses can stun himself . <eos>
-Waiters weren't insulting themselves . <eos>
-Waiters weren't insulting itself . <eos>
+Waiters were n't insulting themselves . <eos>
+Waiters were n't insulting itself . <eos>
 Alexander has attacked himself . <eos>
 Alexander has attacked themselves . <eos>
 A lot of museums astounded themselves . <eos>
@@ -292,10 +292,10 @@ Suzanne observed herself . <eos>
 Suzanne observed themselves . <eos>
 Bill is n't disgusting himself . <eos>
 Bill is n't disgusting themselves . <eos>
-Some movie wasn't disagreeing with itself . <eos>
-Some movie wasn't disagreeing with themselves . <eos>
-Some men can't praise themselves . <eos>
-Some men can't praise himself . <eos>
+Some movie was n't disagreeing with itself . <eos>
+Some movie was n't disagreeing with themselves . <eos>
+Some men ca n't praise themselves . <eos>
+Some men ca n't praise himself . <eos>
 Michelle will sound like herself . <eos>
 Michelle will sound like themselves . <eos>
 Wendy had aggravated herself . <eos>
@@ -406,16 +406,16 @@ Meredith has talked to herself . <eos>
 Meredith has talked to themselves . <eos>
 Many senators did appreciate themselves . <eos>
 Many senators did appreciate herself . <eos>
-Most patients weren't praising themselves . <eos>
-Most patients weren't praising himself . <eos>
+Most patients were n't praising themselves . <eos>
+Most patients were n't praising himself . <eos>
 Karen has n't embarrassed herself . <eos>
 Karen has n't embarrassed themselves . <eos>
 Most drivers have returned to themselves . <eos>
 Most drivers have returned to himself . <eos>
 These drivers were escaping from themselves . <eos>
 These drivers were escaping from herself . <eos>
-Some ladies weren't talking to themselves . <eos>
-Some ladies weren't talking to himself . <eos>
+Some ladies were n't talking to themselves . <eos>
+Some ladies were n't talking to himself . <eos>
 Heather admired herself . <eos>
 Heather admired themselves . <eos>
 Tracy hugged herself . <eos>
@@ -552,10 +552,10 @@ Waiters had concealed themselves . <eos>
 Waiters had concealed himself . <eos>
 Many dancers have kissed themselves . <eos>
 Many dancers have kissed himself . <eos>
-A lot of students weren't appreciating themselves . <eos>
-A lot of students weren't appreciating herself . <eos>
-Many pedestrians weren't watching themselves . <eos>
-Many pedestrians weren't watching itself . <eos>
+A lot of students were n't appreciating themselves . <eos>
+A lot of students were n't appreciating herself . <eos>
+Many pedestrians were n't watching themselves . <eos>
+Many pedestrians were n't watching itself . <eos>
 Michelle forgot herself . <eos>
 Michelle forgot themselves . <eos>
 Dennis was discussing himself . <eos>
@@ -570,8 +570,8 @@ Many guys should like themselves . <eos>
 Many guys should like himself . <eos>
 Many patients couldn't respect themselves . <eos>
 Many patients couldn't respect himself . <eos>
-Grace wasn't discussing herself . <eos>
-Grace wasn't discussing themselves . <eos>
+Grace was n't discussing herself . <eos>
+Grace was n't discussing themselves . <eos>
 Some men hid themselves . <eos>
 Some men hid herself . <eos>
 Margaret is attacking herself . <eos>
@@ -586,14 +586,14 @@ Alice reveals herself . <eos>
 Alice reveals themselves . <eos>
 Kristen cured herself . <eos>
 Kristen cured themselves . <eos>
-The patients weren't returning to themselves . <eos>
-The patients weren't returning to himself . <eos>
+The patients were n't returning to themselves . <eos>
+The patients were n't returning to himself . <eos>
 Many commentaries criticized themselves . <eos>
 Many commentaries criticized herself . <eos>
 Danielle leaves herself . <eos>
 Danielle leaves themselves . <eos>
-A lot of actors weren't annoying themselves . <eos>
-A lot of actors weren't annoying itself . <eos>
+A lot of actors were n't annoying themselves . <eos>
+A lot of actors were n't annoying itself . <eos>
 Senators have n't astounded themselves . <eos>
 Senators have n't astounded himself . <eos>
 All guests remembered themselves . <eos>
@@ -640,10 +640,10 @@ Travis hated himself . <eos>
 Travis hated themselves . <eos>
 All waiters have loved themselves . <eos>
 All waiters have loved himself . <eos>
-David wasn't annoying himself . <eos>
-David wasn't annoying themselves . <eos>
-Stacey can't aggravate herself . <eos>
-Stacey can't aggravate themselves . <eos>
+David was n't annoying himself . <eos>
+David was n't annoying themselves . <eos>
+Stacey ca n't aggravate herself . <eos>
+Stacey ca n't aggravate themselves . <eos>
 All patients had hurt themselves . <eos>
 All patients had hurt herself . <eos>
 April would argue about herself . <eos>
@@ -708,8 +708,8 @@ Raymond is n't firing himself . <eos>
 Raymond is n't firing themselves . <eos>
 Some drivers are talking about themselves . <eos>
 Some drivers are talking about itself . <eos>
-Waiters weren't working with themselves . <eos>
-Waiters weren't working with itself . <eos>
+Waiters were n't working with themselves . <eos>
+Waiters were n't working with itself . <eos>
 Wayne visited himself . <eos>
 Wayne visited themselves . <eos>
 That association confused itself . <eos>
@@ -766,8 +766,8 @@ Some pedestrians liked themselves . <eos>
 Some pedestrians liked herself . <eos>
 Julia kissed herself . <eos>
 Julia kissed themselves . <eos>
-Pedestrians weren't kissing themselves . <eos>
-Pedestrians weren't kissing itself . <eos>
+Pedestrians were n't kissing themselves . <eos>
+Pedestrians were n't kissing itself . <eos>
 Sara does n't reference herself . <eos>
 Sara does n't reference themselves . <eos>
 A book had talked about itself . <eos>
@@ -808,8 +808,8 @@ Most committees bothered themselves . <eos>
 Most committees bothered herself . <eos>
 These adults are n't appreciating themselves . <eos>
 These adults are n't appreciating himself . <eos>
-Many organizations weren't worrying themselves . <eos>
-Many organizations weren't worrying herself . <eos>
+Many organizations were n't worrying themselves . <eos>
+Many organizations were n't worrying herself . <eos>
 Naomi hires herself . <eos>
 Naomi hires themselves . <eos>
 Martin appreciates himself . <eos>
@@ -848,8 +848,8 @@ Customers have n't complained about themselves . <eos>
 Customers have n't complained about herself . <eos>
 Meredith was referencing herself . <eos>
 Meredith was referencing themselves . <eos>
-Julia wasn't finding herself . <eos>
-Julia wasn't finding themselves . <eos>
+Julia was n't finding herself . <eos>
+Julia was n't finding themselves . <eos>
 Alicia had scared herself . <eos>
 Alicia had scared themselves . <eos>
 Candice is irritating herself . <eos>
@@ -906,8 +906,8 @@ A lot of drivers would watch themselves . <eos>
 A lot of drivers would watch itself . <eos>
 Brett didn't know himself . <eos>
 Brett didn't know themselves . <eos>
-Guys weren't leaving themselves . <eos>
-Guys weren't leaving herself . <eos>
+Guys were n't leaving themselves . <eos>
+Guys were n't leaving herself . <eos>
 The drivers insult themselves . <eos>
 The drivers insult herself . <eos>
 Noah was approaching himself . <eos>
@@ -942,8 +942,8 @@ Most actresses bored themselves . <eos>
 Most actresses bored himself . <eos>
 Melanie flees from herself . <eos>
 Melanie flees from themselves . <eos>
-Some drivers weren't escaping from themselves . <eos>
-Some drivers weren't escaping from herself . <eos>
+Some drivers were n't escaping from themselves . <eos>
+Some drivers were n't escaping from herself . <eos>
 Lissa disgusted herself . <eos>
 Lissa disgusted themselves . <eos>
 Raymond has n't disgusted himself . <eos>
@@ -952,8 +952,8 @@ Sheila listened to herself . <eos>
 Sheila listened to themselves . <eos>
 Allison attacked herself . <eos>
 Allison attacked themselves . <eos>
-Books weren't talking about themselves . <eos>
-Books weren't talking about herself . <eos>
+Books were n't talking about themselves . <eos>
+Books were n't talking about herself . <eos>
 Ruth can praise herself . <eos>
 Ruth can praise themselves . <eos>
 Some patients had argued about themselves . <eos>
@@ -998,8 +998,8 @@ Janice is praising herself . <eos>
 Janice is praising themselves . <eos>
 The people have n't approached themselves . <eos>
 The people have n't approached herself . <eos>
-Liam wasn't criticizing himself . <eos>
-Liam wasn't criticizing themselves . <eos>
+Liam was n't criticizing himself . <eos>
+Liam was n't criticizing themselves . <eos>
 All people admired themselves . <eos>
 All people admired itself . <eos>
 James loves himself . <eos>
@@ -1034,8 +1034,8 @@ Tonya hadn't alarmed herself . <eos>
 Tonya hadn't alarmed themselves . <eos>
 The banks are insulting themselves . <eos>
 The banks are insulting itself . <eos>
-A lot of dancers can't sound like themselves . <eos>
-A lot of dancers can't sound like herself . <eos>
+A lot of dancers ca n't sound like themselves . <eos>
+A lot of dancers ca n't sound like herself . <eos>
 Karen did irritate herself . <eos>
 Karen did irritate themselves . <eos>
 The libraries have irritated themselves . <eos>
@@ -1052,8 +1052,8 @@ Some customers might know themselves . <eos>
 Some customers might know herself . <eos>
 A lady forgot herself . <eos>
 A lady forgot themselves . <eos>
-Brian wasn't disturbing himself . <eos>
-Brian wasn't disturbing themselves . <eos>
+Brian was n't disturbing himself . <eos>
+Brian was n't disturbing themselves . <eos>
 That waitress has aggravated herself . <eos>
 That waitress has aggravated themselves . <eos>
 Catherine can reveal herself . <eos>
@@ -1088,8 +1088,8 @@ Mark had cared for himself . <eos>
 Mark had cared for themselves . <eos>
 Pedestrians knew themselves . <eos>
 Pedestrians knew himself . <eos>
-These patients weren't describing themselves . <eos>
-These patients weren't describing herself . <eos>
+These patients were n't describing themselves . <eos>
+These patients were n't describing herself . <eos>
 Ellen kissed herself . <eos>
 Ellen kissed themselves . <eos>
 People wouldn't visit themselves . <eos>
@@ -1180,8 +1180,8 @@ Patricia discussed herself . <eos>
 Patricia discussed themselves . <eos>
 Some adults have shocked themselves . <eos>
 Some adults have shocked himself . <eos>
-Most guests can't care for themselves . <eos>
-Most guests can't care for herself . <eos>
+Most guests ca n't care for themselves . <eos>
+Most guests ca n't care for herself . <eos>
 Stacey observes herself . <eos>
 Stacey observes themselves . <eos>
 Many stories disagreed with themselves . <eos>
@@ -1190,12 +1190,12 @@ Eva loves herself . <eos>
 Eva loves themselves . <eos>
 These plays had disagreed with themselves . <eos>
 These plays had disagreed with herself . <eos>
-Associations weren't bothering themselves . <eos>
-Associations weren't bothering itself . <eos>
-The lady wasn't upsetting herself . <eos>
-The lady wasn't upsetting themselves . <eos>
-Raymond wasn't hugging himself . <eos>
-Raymond wasn't hugging themselves . <eos>
+Associations were n't bothering themselves . <eos>
+Associations were n't bothering itself . <eos>
+The lady was n't upsetting herself . <eos>
+The lady was n't upsetting themselves . <eos>
+Raymond was n't hugging himself . <eos>
+Raymond was n't hugging themselves . <eos>
 Danielle hadn't fled from herself . <eos>
 Danielle hadn't fled from themselves . <eos>
 Omar watches himself . <eos>
@@ -1208,8 +1208,8 @@ Craig hadn't admired himself . <eos>
 Craig hadn't admired themselves . <eos>
 The woman hurt herself . <eos>
 The woman hurt themselves . <eos>
-Omar wasn't upsetting himself . <eos>
-Omar wasn't upsetting themselves . <eos>
+Omar was n't upsetting himself . <eos>
+Omar was n't upsetting themselves . <eos>
 Bethany shocked herself . <eos>
 Bethany shocked themselves . <eos>
 Ladies shouldn't reference themselves . <eos>
@@ -1220,8 +1220,8 @@ Richard is hurting himself . <eos>
 Richard is hurting themselves . <eos>
 The waitresses do escape from themselves . <eos>
 The waitresses do escape from itself . <eos>
-These boys weren't impressing themselves . <eos>
-These boys weren't impressing itself . <eos>
+These boys were n't impressing themselves . <eos>
+These boys were n't impressing itself . <eos>
 Most ladies have n't visited themselves . <eos>
 Most ladies have n't visited herself . <eos>
 Many reports had insulted themselves . <eos>
@@ -1230,8 +1230,8 @@ Naomi references herself . <eos>
 Naomi references themselves . <eos>
 Some guests have visited themselves . <eos>
 Some guests have visited itself . <eos>
-A lot of teenagers weren't concealing themselves . <eos>
-A lot of teenagers weren't concealing herself . <eos>
+A lot of teenagers were n't concealing themselves . <eos>
+A lot of teenagers were n't concealing herself . <eos>
 Most children were shocking themselves . <eos>
 Most children were shocking herself . <eos>
 Jodi references herself . <eos>
@@ -1332,8 +1332,8 @@ Dan hadn't fired himself . <eos>
 Dan hadn't fired themselves . <eos>
 Anne helped herself . <eos>
 Anne helped themselves . <eos>
-Dancers weren't talking to themselves . <eos>
-Dancers weren't talking to itself . <eos>
+Dancers were n't talking to themselves . <eos>
+Dancers were n't talking to itself . <eos>
 These pedestrians concealed themselves . <eos>
 These pedestrians concealed himself . <eos>
 Students have annoyed themselves . <eos>
@@ -1430,8 +1430,8 @@ April attacked herself . <eos>
 April attacked themselves . <eos>
 The students healed themselves . <eos>
 The students healed herself . <eos>
-These pedestrians weren't visiting themselves . <eos>
-These pedestrians weren't visiting itself . <eos>
+These pedestrians were n't visiting themselves . <eos>
+These pedestrians were n't visiting itself . <eos>
 The documentary has n't disagreed with itself . <eos>
 The documentary has n't disagreed with themselves . <eos>
 Janice finds herself . <eos>
@@ -1468,18 +1468,18 @@ A lot of teachers hadn't boasted about themselves . <eos>
 A lot of teachers hadn't boasted about itself . <eos>
 All girls hadn't upset themselves . <eos>
 All girls hadn't upset itself . <eos>
-Most governments weren't distracting themselves . <eos>
-Most governments weren't distracting herself . <eos>
+Most governments were n't distracting themselves . <eos>
+Most governments were n't distracting herself . <eos>
 Marie described herself . <eos>
 Marie described themselves . <eos>
 All senators had loved themselves . <eos>
 All senators had loved herself . <eos>
 The waitresses are aggravating themselves . <eos>
 The waitresses are aggravating itself . <eos>
-A lot of guests weren't scaring themselves . <eos>
-A lot of guests weren't scaring himself . <eos>
-Timothy wasn't firing himself . <eos>
-Timothy wasn't firing themselves . <eos>
+A lot of guests were n't scaring themselves . <eos>
+A lot of guests were n't scaring himself . <eos>
+Timothy was n't firing himself . <eos>
+Timothy was n't firing themselves . <eos>
 Teachers can admire themselves . <eos>
 Teachers can admire herself . <eos>
 Some girls have n't irritated themselves . <eos>
@@ -1546,14 +1546,14 @@ Most adults couldn't distract themselves . <eos>
 Most adults couldn't distract itself . <eos>
 Laurie attacks herself . <eos>
 Laurie attacks themselves . <eos>
-Karen can't respect herself . <eos>
-Karen can't respect themselves . <eos>
+Karen ca n't respect herself . <eos>
+Karen ca n't respect themselves . <eos>
 All drivers are n't worrying themselves . <eos>
 All drivers are n't worrying himself . <eos>
 Many associations have confused themselves . <eos>
 Many associations have confused himself . <eos>
-Samantha can't hate herself . <eos>
-Samantha can't hate themselves . <eos>
+Samantha ca n't hate herself . <eos>
+Samantha ca n't hate themselves . <eos>
 The snakes have n't found themselves . <eos>
 The snakes have n't found herself . <eos>
 Waiters could find themselves . <eos>
@@ -1564,8 +1564,8 @@ Helen hugged herself . <eos>
 Helen hugged themselves . <eos>
 This documentary sounds like itself . <eos>
 This documentary sounds like themselves . <eos>
-A lot of actresses weren't escaping from themselves . <eos>
-A lot of actresses weren't escaping from itself . <eos>
+A lot of actresses were n't escaping from themselves . <eos>
+A lot of actresses were n't escaping from itself . <eos>
 Larry found himself . <eos>
 Larry found themselves . <eos>
 Connie can forget herself . <eos>
@@ -1600,16 +1600,16 @@ Many books won't reference themselves . <eos>
 Many books won't reference himself . <eos>
 Sheila is describing herself . <eos>
 Sheila is describing themselves . <eos>
-Most teenagers weren't disturbing themselves . <eos>
-Most teenagers weren't disturbing himself . <eos>
+Most teenagers were n't disturbing themselves . <eos>
+Most teenagers were n't disturbing himself . <eos>
 Some adults disliked themselves . <eos>
 Some adults disliked himself . <eos>
 Every waitress has n't attacked herself . <eos>
 Every waitress has n't attacked themselves . <eos>
-Susan wasn't discussing herself . <eos>
-Susan wasn't discussing themselves . <eos>
-Timothy can't visit himself . <eos>
-Timothy can't visit themselves . <eos>
+Susan was n't discussing herself . <eos>
+Susan was n't discussing themselves . <eos>
+Timothy ca n't visit himself . <eos>
+Timothy ca n't visit themselves . <eos>
 Jerry was leaving himself . <eos>
 Jerry was leaving themselves . <eos>
 David does n't reveal himself . <eos>
@@ -1696,8 +1696,8 @@ Naomi hadn't impressed herself . <eos>
 Naomi hadn't impressed themselves . <eos>
 Lori has cured herself . <eos>
 Lori has cured themselves . <eos>
-Most guys weren't revealing themselves . <eos>
-Most guys weren't revealing himself . <eos>
+Most guys were n't revealing themselves . <eos>
+Most guys were n't revealing himself . <eos>
 Christina has hired herself . <eos>
 Christina has hired themselves . <eos>
 Jason hired himself . <eos>
@@ -1710,8 +1710,8 @@ The museums are n't discussing themselves . <eos>
 The museums are n't discussing itself . <eos>
 These guests had visited themselves . <eos>
 These guests had visited itself . <eos>
-Some dancers weren't fleeing from themselves . <eos>
-Some dancers weren't fleeing from itself . <eos>
+Some dancers were n't fleeing from themselves . <eos>
+Some dancers were n't fleeing from itself . <eos>
 Todd does n't heal himself . <eos>
 Todd does n't heal themselves . <eos>
 Lisa was annoying herself . <eos>
@@ -1848,8 +1848,8 @@ A lot of guests were praising themselves . <eos>
 A lot of guests were praising himself . <eos>
 Brett had bored himself . <eos>
 Brett had bored themselves . <eos>
-Claire wasn't escaping from herself . <eos>
-Claire wasn't escaping from themselves . <eos>
+Claire was n't escaping from herself . <eos>
+Claire was n't escaping from themselves . <eos>
 Bill hires himself . <eos>
 Bill hires themselves . <eos>
 Plays had praised themselves . <eos>
@@ -1858,8 +1858,8 @@ Suzanne complained about herself . <eos>
 Suzanne complained about themselves . <eos>
 All essays are disagreeing with themselves . <eos>
 All essays are disagreeing with itself . <eos>
-A lot of ladies weren't investigating themselves . <eos>
-A lot of ladies weren't investigating herself . <eos>
+A lot of ladies were n't investigating themselves . <eos>
+A lot of ladies were n't investigating herself . <eos>
 Some guests didn't find themselves . <eos>
 Some guests didn't find herself . <eos>
 Anne talked to herself . <eos>
@@ -1916,8 +1916,8 @@ That dog found itself . <eos>
 That dog found themselves . <eos>
 Adults kissed themselves . <eos>
 Adults kissed herself . <eos>
-All ladies can't describe themselves . <eos>
-All ladies can't describe himself . <eos>
+All ladies ca n't describe themselves . <eos>
+All ladies ca n't describe himself . <eos>
 Sheila saw herself . <eos>
 Sheila saw themselves . <eos>
 Most guests observed themselves . <eos>
@@ -1978,8 +1978,8 @@ Randolf is firing himself . <eos>
 Randolf is firing themselves . <eos>
 All guys bothered themselves . <eos>
 All guys bothered himself . <eos>
-The drivers weren't listening to themselves . <eos>
-The drivers weren't listening to himself . <eos>
+The drivers were n't listening to themselves . <eos>
+The drivers were n't listening to himself . <eos>
 Sara cures herself . <eos>
 Sara cures themselves . <eos>
 Some customers have discussed themselves . <eos>
@@ -1996,5 +1996,5 @@ Andrea couldn't disturb herself . <eos>
 Andrea couldn't disturb themselves . <eos>
 Maria has n't bored herself . <eos>
 Maria has n't bored themselves . <eos>
-The adults can't scare themselves . <eos>
-The adults can't scare itself . <eos>
+The adults ca n't scare themselves . <eos>
+The adults ca n't scare itself . <eos>
