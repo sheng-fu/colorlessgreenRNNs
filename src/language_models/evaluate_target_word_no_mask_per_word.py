@@ -74,6 +74,7 @@ def evaluate(data_source):
             entropy1 = -(torch.exp(output_flat) * output_flat).sum(dim=-1)
             print(entropy1)
             print(output_flat)
+            print(output.shape)
             #print(output_flat.shape)
             #print(targets)
             #print(output_flat[2, :])
