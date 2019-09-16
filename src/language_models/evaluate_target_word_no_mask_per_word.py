@@ -70,10 +70,10 @@ def evaluate(data_source):
             total_loss += len(data) * nn.CrossEntropyLoss()(output_flat, targets)
 
             print(data_source[0][i])
-            print(nn.CrossEntropyLoss()(output_flat, targets,reduction='none'))
+            print(nn.CrossEntropyLoss(reduction='none')(output_flat, targets))
             exit()
 
-            outfile.write(data_source[0][i] + '\t' + str(len(data) * nn.CrossEntropyLoss()(output_flat, targets, reduction='none').item()) + '\n')
+            outfile.write(data_source[0][i] + '\t' + str(len(data) * nn.CrossEntropyLoss(reduction='none')(output_flat, targets).item()) + '\n')
 
             #output_candidates_probs(output_flat, targets)
 
