@@ -72,7 +72,7 @@ def evaluate(data_source):
             #print(data_source[0][i])
             #print(nn.CrossEntropyLoss(reduction='none')(output_flat, targets))
 
-            outfile.write(data_source[0][i] + '\t' + str(nn.CrossEntropyLoss(reduction='none')(output_flat, targets)) + '\n')
+            outfile.write(data_source[0][i] + '\t' + str(nn.CrossEntropyLoss(reduction='none')(output_flat, targets).tolist()) + '\n')
 
             #output_candidates_probs(output_flat, targets)
 
