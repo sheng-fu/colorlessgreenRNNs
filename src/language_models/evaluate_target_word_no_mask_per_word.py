@@ -67,26 +67,22 @@ def evaluate(data_source):
             #_, targets_mask = get_batch(mask, i, seq_len)
             output, hidden = model(data, hidden)
             output_flat = output.view(-1, vocab_size)
-            m = nn.LogSoftmax()
-            output_logit = m(output_flat)
+
 
             total_loss += len(data) * nn.CrossEntropyLoss()(output_flat, targets)
 
             print(data_source[0][i])
-            #print(nn.CrossEntropyLoss(reduction='none')(output_flat, targets))
-            entropy1 = -(torch.exp(output_logit) * output_logit).sum(dim=-1)
-            print(entropy1)
-            print(output_logit)
-            print("####")
-            print(output_flat)
-            #print(output_flat.shape)
-            #print(targets)
-            #print(output_flat[2, :])
-            exit()
 
-            outfile.write(data_source[0][i] + '\t' + str(nn.CrossEntropyLoss(reduction='none')(output_flat, targets).tolist()) + '\n')
+            #calculate token-specific entropy
+            m = nn.LogSoftmax()
+            output_logit = m(output_flat)
+            entropy_tensor = -(torch.exp(output_logit) * output_logit).sum(dim=-1)
 
-            #output_candidates_probs(output_flat, targets)
+            #calculate token-specific logit
+            logit_tensor = nn.CrossEntropyLoss(reduction='none')(output_flat, targets)
+
+            #output 
+            outfile.write(data_source[0][i] + '\t' + str(entropy_tensor.tolist()) + '\t' + str(logit_tensor.tolist()) + '\n')
 
             hidden = repackage_hidden(hidden)
 
