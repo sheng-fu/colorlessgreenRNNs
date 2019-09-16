@@ -148,7 +148,7 @@ test_data = dictionary_corpus.sent_tokenize_with_unks(dictionary, args.path + ".
 
 f_output = open(args.path + ".output_" + args.suffix, 'w')
 evaluate(test_data)
-parse_pairwise(args.outfile)
+#parse_pairwise(args.outfile)
 print("Probabilities saved to", args.path + ".output_" + args.suffix)
 f_output.close()
 
