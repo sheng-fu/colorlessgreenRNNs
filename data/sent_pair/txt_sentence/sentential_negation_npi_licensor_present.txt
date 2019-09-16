@@ -54,8 +54,8 @@ Most adults could not ever respond . <eos>
 Most adults could really ever respond . <eos>
 This teacher has not ever biked to every grocery store . <eos>
 This teacher has really ever biked to every grocery store . <eos>
-James has not ever realized who couldn't discuss Christine . <eos>
-James has fortunately ever realized who couldn't discuss Christine . <eos>
+James has not ever realized who could n't discuss Christine . <eos>
+James has fortunately ever realized who could n't discuss Christine . <eos>
 Patients might not ever resemble every painting . <eos>
 Patients might probably ever resemble every painting . <eos>
 Most organizations have not ever worked hard . <eos>
@@ -248,8 +248,8 @@ Sara has not ever figured out who sells some fork . <eos>
 Sara has fortunately ever figured out who sells some fork . <eos>
 Patrick should not ever wonder who hides Tonya . <eos>
 Patrick should really ever wonder who hides Tonya . <eos>
-Brian has not ever revealed who couldn't escape from Steven . <eos>
-Brian has fortunately ever revealed who couldn't escape from Steven . <eos>
+Brian has not ever revealed who could n't escape from Steven . <eos>
+Brian has fortunately ever revealed who could n't escape from Steven . <eos>
 Deborah had not ever worried Naomi . <eos>
 Deborah had probably ever worried Naomi . <eos>
 Kristin will not ever complain . <eos>
@@ -1174,8 +1174,8 @@ Rose does not ever fall . <eos>
 Rose does really ever fall . <eos>
 Cindy did not ever disturb Patricia . <eos>
 Cindy did probably ever disturb Patricia . <eos>
-Tiffany had not ever concealed who won't depart . <eos>
-Tiffany had really ever concealed who won't depart . <eos>
+Tiffany had not ever concealed who wo n't depart . <eos>
+Tiffany had really ever concealed who wo n't depart . <eos>
 Edward has not ever regretted these cashiers were n't conspiring . <eos>
 Edward has probably ever regretted these cashiers were n't conspiring . <eos>
 The waiters might not ever negotiate . <eos>
@@ -1398,8 +1398,8 @@ Sherry would not ever escape . <eos>
 Sherry would probably ever escape . <eos>
 Every essay can not ever disagree with Charles . <eos>
 Every essay can probably ever disagree with Charles . <eos>
-Linda had not ever learned who couldn't find these computers . <eos>
-Linda had probably ever learned who couldn't find these computers . <eos>
+Linda had not ever learned who could n't find these computers . <eos>
+Linda had probably ever learned who could n't find these computers . <eos>
 These boys should not ever interact . <eos>
 These boys should really ever interact . <eos>
 Benjamin had not ever scratched . <eos>

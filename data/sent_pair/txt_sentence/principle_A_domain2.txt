@@ -46,8 +46,8 @@ This lady thinks Wayne cures himself . <eos>
 This lady thinks Wayne cures herself . <eos>
 John hadn't thought Brenda disliked herself . <eos>
 John hadn't thought Brenda disliked himself . <eos>
-Diane shouldn't think the pedestrians couldn't kiss themselves . <eos>
-Diane shouldn't think the pedestrians couldn't kiss herself . <eos>
+Diane shouldn't think the pedestrians could n't kiss themselves . <eos>
+Diane shouldn't think the pedestrians could n't kiss herself . <eos>
 Melinda is n't thinking this print has n't shocked itself . <eos>
 Melinda is n't thinking this print has n't shocked herself . <eos>
 Most customers explain Dana was firing herself . <eos>
@@ -60,8 +60,8 @@ Alan wouldn't imagine Diana hadn't alarmed herself . <eos>
 Alan wouldn't imagine Diana hadn't alarmed himself . <eos>
 All drivers explain the bird has n't bored itself . <eos>
 All drivers explain the bird has n't bored themselves . <eos>
-Brad said the government won't hire itself . <eos>
-Brad said the government won't hire himself . <eos>
+Brad said the government wo n't hire itself . <eos>
+Brad said the government wo n't hire himself . <eos>
 Waiters think some newspaper article will annoy itself . <eos>
 Waiters think some newspaper article will annoy themselves . <eos>
 Frank hadn't explained Carol was n't insulting herself . <eos>
@@ -74,12 +74,12 @@ Tanya imagined some students didn't describe themselves . <eos>
 Tanya imagined some students didn't describe herself . <eos>
 Most girls explain every movie theater has annoyed itself . <eos>
 Most girls explain every movie theater has annoyed themselves . <eos>
-Jane can explain Steve couldn't hate himself . <eos>
-Jane can explain Steve couldn't hate herself . <eos>
+Jane can explain Steve could n't hate himself . <eos>
+Jane can explain Steve could n't hate herself . <eos>
 The boy thinks Emily was describing herself . <eos>
 The boy thinks Emily was describing himself . <eos>
-Some boys are imagining Ronald won't know himself . <eos>
-Some boys are imagining Ronald won't know themselves . <eos>
+Some boys are imagining Ronald wo n't know himself . <eos>
+Some boys are imagining Ronald wo n't know themselves . <eos>
 Some waiters explain Jill sounds like herself . <eos>
 Some waiters explain Jill sounds like themselves . <eos>
 Travis says Judy sounds like herself . <eos>
@@ -144,12 +144,12 @@ These actors explain Regina conceals herself . <eos>
 These actors explain Regina conceals themselves . <eos>
 Julie says Gary is n't stunning himself . <eos>
 Julie says Gary is n't stunning herself . <eos>
-Some teenagers imagine Judy couldn't embarrass herself . <eos>
-Some teenagers imagine Judy couldn't embarrass themselves . <eos>
+Some teenagers imagine Judy could n't embarrass herself . <eos>
+Some teenagers imagine Judy could n't embarrass themselves . <eos>
 Tanya has said Homer has n't shocked himself . <eos>
 Tanya has said Homer has n't shocked herself . <eos>
-Keith won't explain Tracy helped herself . <eos>
-Keith won't explain Tracy helped himself . <eos>
+Keith wo n't explain Tracy helped herself . <eos>
+Keith wo n't explain Tracy helped himself . <eos>
 Samantha imagined the man could irritate himself . <eos>
 Samantha imagined the man could irritate herself . <eos>
 Doctors think Donna kissed herself . <eos>
@@ -162,8 +162,8 @@ Amanda had said the teenagers didn't criticize themselves . <eos>
 Amanda had said the teenagers didn't criticize herself . <eos>
 Florence had thought Eric returned to himself . <eos>
 Florence had thought Eric returned to herself . <eos>
-Roger won't say Carla wouldn't embarrass herself . <eos>
-Roger won't say Carla wouldn't embarrass himself . <eos>
+Roger wo n't say Carla wouldn't embarrass herself . <eos>
+Roger wo n't say Carla wouldn't embarrass himself . <eos>
 Tamara has n't thought Bradley is healing himself . <eos>
 Tamara has n't thought Bradley is healing herself . <eos>
 A lot of guys say Sara was curing herself . <eos>
@@ -176,8 +176,8 @@ Kayla has n't thought these cars confused themselves . <eos>
 Kayla has n't thought these cars confused herself . <eos>
 That girl hadn't said a lot of dancers disgusted themselves . <eos>
 That girl hadn't said a lot of dancers disgusted herself . <eos>
-James said some museums couldn't describe themselves . <eos>
-James said some museums couldn't describe himself . <eos>
+James said some museums could n't describe themselves . <eos>
+James said some museums could n't describe himself . <eos>
 Derek is n't imagining these stairs hadn't impressed themselves . <eos>
 Derek is n't imagining these stairs hadn't impressed himself . <eos>
 These patients explain Rose has n't hugged herself . <eos>
@@ -326,8 +326,8 @@ Daniel does n't think the people were escaping from themselves . <eos>
 Daniel does n't think the people were escaping from himself . <eos>
 The women imagine every face has bored itself . <eos>
 The women imagine every face has bored themselves . <eos>
-Sabrina won't explain Samuel had observed himself . <eos>
-Sabrina won't explain Samuel had observed herself . <eos>
+Sabrina wo n't explain Samuel had observed himself . <eos>
+Sabrina wo n't explain Samuel had observed herself . <eos>
 Timothy does n't imagine Eva had hated herself . <eos>
 Timothy does n't imagine Eva had hated himself . <eos>
 Raymond has n't said Carla has hidden herself . <eos>
@@ -338,8 +338,8 @@ Beverly is n't saying Dennis was leaving himself . <eos>
 Beverly is n't saying Dennis was leaving herself . <eos>
 Some cashiers imagine Derek praised himself . <eos>
 Some cashiers imagine Derek praised themselves . <eos>
-Samantha couldn't imagine the print wouldn't scare itself . <eos>
-Samantha couldn't imagine the print wouldn't scare herself . <eos>
+Samantha could n't imagine the print wouldn't scare itself . <eos>
+Samantha could n't imagine the print wouldn't scare herself . <eos>
 Alexander hadn't imagined Alicia is n't leaving herself . <eos>
 Alexander hadn't imagined Alicia is n't leaving himself . <eos>
 William was imagining Tammy worked with herself . <eos>
@@ -382,8 +382,8 @@ Janice says some university was alarming itself . <eos>
 Janice says some university was alarming herself . <eos>
 Danielle hadn't thought Craig left himself . <eos>
 Danielle hadn't thought Craig left herself . <eos>
-Gregory has said Wendy couldn't return to herself . <eos>
-Gregory has said Wendy couldn't return to himself . <eos>
+Gregory has said Wendy could n't return to herself . <eos>
+Gregory has said Wendy could n't return to himself . <eos>
 Becky says some guys are n't arguing about themselves . <eos>
 Becky says some guys are n't arguing about herself . <eos>
 Steven says Julie was n't approaching herself . <eos>
@@ -400,14 +400,14 @@ Noah explained most students ca n't dislike themselves . <eos>
 Noah explained most students ca n't dislike himself . <eos>
 Kristen does say Omar attacked himself . <eos>
 Kristen does say Omar attacked herself . <eos>
-Steven won't think Helen won't kiss herself . <eos>
-Steven won't think Helen won't kiss himself . <eos>
+Steven wo n't think Helen wo n't kiss herself . <eos>
+Steven wo n't think Helen wo n't kiss himself . <eos>
 All ladies explain some ice cream has n't annoyed itself . <eos>
 All ladies explain some ice cream has n't annoyed themselves . <eos>
 Beverly does say Daniel had talked about himself . <eos>
 Beverly does say Daniel had talked about herself . <eos>
-Valerie thought Derek couldn't flee from himself . <eos>
-Valerie thought Derek couldn't flee from herself . <eos>
+Valerie thought Derek could n't flee from himself . <eos>
+Valerie thought Derek could n't flee from herself . <eos>
 Sarah might think Adam flees from himself . <eos>
 Sarah might think Adam flees from herself . <eos>
 A lot of ladies explain the hamster bothered itself . <eos>
@@ -492,8 +492,8 @@ Marie said some hospitals criticized themselves . <eos>
 Marie said some hospitals criticized herself . <eos>
 Many girls explain Donald healed himself . <eos>
 Many girls explain Donald healed themselves . <eos>
-Amy is explaining many committees couldn't boast about themselves . <eos>
-Amy is explaining many committees couldn't boast about herself . <eos>
+Amy is explaining many committees could n't boast about themselves . <eos>
+Amy is explaining many committees could n't boast about herself . <eos>
 Tiffany did imagine Alan praises himself . <eos>
 Tiffany did imagine Alan praises herself . <eos>
 Douglas was n't saying all libraries had embarrassed themselves . <eos>
@@ -506,8 +506,8 @@ A lot of pedestrians explain Kristin hurt herself . <eos>
 A lot of pedestrians explain Kristin hurt themselves . <eos>
 Jason imagines Debra insulted herself . <eos>
 Jason imagines Debra insulted himself . <eos>
-Derek won't imagine Debra is n't visiting herself . <eos>
-Derek won't imagine Debra is n't visiting himself . <eos>
+Derek wo n't imagine Debra is n't visiting herself . <eos>
+Derek wo n't imagine Debra is n't visiting himself . <eos>
 Many children were n't thinking Lucille does fire herself . <eos>
 Many children were n't thinking Lucille does fire themselves . <eos>
 Thomas explains many hamsters were n't scaring themselves . <eos>
@@ -560,8 +560,8 @@ Rebecca has thought many essays insulted themselves . <eos>
 Rebecca has thought many essays insulted herself . <eos>
 Claire is imagining Michael will respect himself . <eos>
 Claire is imagining Michael will respect herself . <eos>
-Jill couldn't say the horse hadn't aggravated itself . <eos>
-Jill couldn't say the horse hadn't aggravated herself . <eos>
+Jill could n't say the horse hadn't aggravated itself . <eos>
+Jill could n't say the horse hadn't aggravated herself . <eos>
 Eva was explaining many cashiers revealed themselves . <eos>
 Eva was explaining many cashiers revealed herself . <eos>
 A lot of ladies think Cheryl embarrassed herself . <eos>
@@ -608,8 +608,8 @@ Candice thought Steve hadn't cured himself . <eos>
 Candice thought Steve hadn't cured herself . <eos>
 Steven imagines Pamela loves herself . <eos>
 Steven imagines Pamela loves himself . <eos>
-Many guys explain Mark couldn't observe himself . <eos>
-Many guys explain Mark couldn't observe themselves . <eos>
+Many guys explain Mark could n't observe himself . <eos>
+Many guys explain Mark could n't observe themselves . <eos>
 Mitchell says Kristin remembered herself . <eos>
 Mitchell says Kristin remembered himself . <eos>
 Amy thought Mark was n't annoying himself . <eos>
@@ -624,8 +624,8 @@ Rachelle is thinking these hamsters found themselves . <eos>
 Rachelle is thinking these hamsters found herself . <eos>
 Many patients do n't think Becky is escaping from herself . <eos>
 Many patients do n't think Becky is escaping from themselves . <eos>
-Sally does n't think George won't find himself . <eos>
-Sally does n't think George won't find herself . <eos>
+Sally does n't think George wo n't find himself . <eos>
+Sally does n't think George wo n't find herself . <eos>
 Some patients think Donald approaches himself . <eos>
 Some patients think Donald approaches themselves . <eos>
 Charles explained Jill talks about herself . <eos>
@@ -674,8 +674,8 @@ Jason thinks Katherine cared for herself . <eos>
 Jason thinks Katherine cared for himself . <eos>
 Kathleen was imagining Paul hugged himself . <eos>
 Kathleen was imagining Paul hugged herself . <eos>
-Tara has said Theodore won't talk about himself . <eos>
-Tara has said Theodore won't talk about herself . <eos>
+Tara has said Theodore wo n't talk about himself . <eos>
+Tara has said Theodore wo n't talk about herself . <eos>
 Eva does explain many senators are watching themselves . <eos>
 Eva does explain many senators are watching herself . <eos>
 Holly has n't explained Clyde forgets himself . <eos>
@@ -694,8 +694,8 @@ Lisa is n't saying the story has n't stunned itself . <eos>
 Lisa is n't saying the story has n't stunned herself . <eos>
 Dawn has n't thought Joel loves himself . <eos>
 Dawn has n't thought Joel loves herself . <eos>
-Martha couldn't explain some companies alarmed themselves . <eos>
-Martha couldn't explain some companies alarmed herself . <eos>
+Martha could n't explain some companies alarmed themselves . <eos>
+Martha could n't explain some companies alarmed herself . <eos>
 Victoria imagined the association does n't hire itself . <eos>
 Victoria imagined the association does n't hire herself . <eos>
 Drivers explain Bruce kissed himself . <eos>
@@ -744,8 +744,8 @@ Martha is n't saying Joel insulted himself . <eos>
 Martha is n't saying Joel insulted herself . <eos>
 Adults think Tara is firing herself . <eos>
 Adults think Tara is firing themselves . <eos>
-Holly thought most banks couldn't listen to themselves . <eos>
-Holly thought most banks couldn't listen to herself . <eos>
+Holly thought most banks could n't listen to themselves . <eos>
+Holly thought most banks could n't listen to herself . <eos>
 Tonya imagined the photograph aggravated itself . <eos>
 Tonya imagined the photograph aggravated herself . <eos>
 Karla would think many commentaries hadn't discussed themselves . <eos>
@@ -778,8 +778,8 @@ The ladies have n't thought Catherine does n't find herself . <eos>
 The ladies have n't thought Catherine does n't find themselves . <eos>
 Gina was n't explaining these customers were n't talking about themselves . <eos>
 Gina was n't explaining these customers were n't talking about herself . <eos>
-Leslie imagines many drivers won't reveal themselves . <eos>
-Leslie imagines many drivers won't reveal herself . <eos>
+Leslie imagines many drivers wo n't reveal themselves . <eos>
+Leslie imagines many drivers wo n't reveal herself . <eos>
 Most patients imagine Kristen hadn't revealed herself . <eos>
 Most patients imagine Kristen hadn't revealed themselves . <eos>
 Many adults imagine Lawrence did heal himself . <eos>
@@ -898,16 +898,16 @@ Some guests explain this plate upset itself . <eos>
 Some guests explain this plate upset themselves . <eos>
 Gary ca n't say some chair would hurt itself . <eos>
 Gary ca n't say some chair would hurt himself . <eos>
-These waiters won't say Wendy shocked herself . <eos>
-These waiters won't say Wendy shocked themselves . <eos>
+These waiters wo n't say Wendy shocked herself . <eos>
+These waiters wo n't say Wendy shocked themselves . <eos>
 Many drivers imagine Denise might irritate herself . <eos>
 Many drivers imagine Denise might irritate themselves . <eos>
 Most women are n't explaining Kirsten was finding herself . <eos>
 Most women are n't explaining Kirsten was finding themselves . <eos>
 Michelle explains that play disturbed itself . <eos>
 Michelle explains that play disturbed herself . <eos>
-Guy couldn't think Rose has n't insulted herself . <eos>
-Guy couldn't think Rose has n't insulted himself . <eos>
+Guy could n't think Rose has n't insulted herself . <eos>
+Guy could n't think Rose has n't insulted himself . <eos>
 Samantha has imagined Timothy did know himself . <eos>
 Samantha has imagined Timothy did know herself . <eos>
 Sheila might think John hadn't escaped from himself . <eos>
@@ -966,8 +966,8 @@ Some lady has thought every company wouldn't stun itself . <eos>
 Some lady has thought every company wouldn't stun herself . <eos>
 A lot of drivers explain Kimberley had returned to herself . <eos>
 A lot of drivers explain Kimberley had returned to themselves . <eos>
-Rhonda won't imagine Guy has n't known himself . <eos>
-Rhonda won't imagine Guy has n't known herself . <eos>
+Rhonda wo n't imagine Guy has n't known himself . <eos>
+Rhonda wo n't imagine Guy has n't known herself . <eos>
 Carrie says Randolf discussed himself . <eos>
 Carrie says Randolf discussed herself . <eos>
 Veronica said Matt can kiss himself . <eos>
@@ -1082,8 +1082,8 @@ A lot of adults say that commentary was disagreeing with itself . <eos>
 A lot of adults say that commentary was disagreeing with themselves . <eos>
 Charles was n't saying these senators watched themselves . <eos>
 Charles was n't saying these senators watched himself . <eos>
-Jessica was n't thinking Mitchell couldn't forget himself . <eos>
-Jessica was n't thinking Mitchell couldn't forget herself . <eos>
+Jessica was n't thinking Mitchell could n't forget himself . <eos>
+Jessica was n't thinking Mitchell could n't forget herself . <eos>
 James should think all people have disagreed with themselves . <eos>
 James should think all people have disagreed with himself . <eos>
 Noah was n't imagining April was hiding herself . <eos>
@@ -1284,8 +1284,8 @@ All doctors explain Janet forgets herself . <eos>
 All doctors explain Janet forgets themselves . <eos>
 Barbara is imagining Samuel reveals himself . <eos>
 Barbara is imagining Samuel reveals herself . <eos>
-A waitress won't say Scott could like himself . <eos>
-A waitress won't say Scott could like herself . <eos>
+A waitress wo n't say Scott could like himself . <eos>
+A waitress wo n't say Scott could like herself . <eos>
 All boys explain Melissa was discussing herself . <eos>
 All boys explain Melissa was discussing themselves . <eos>
 Lawrence thought Nina astounded herself . <eos>
@@ -1434,12 +1434,12 @@ Wayne didn't explain some actress has n't observed herself . <eos>
 Wayne didn't explain some actress has n't observed himself . <eos>
 Sonia was thinking William didn't hate himself . <eos>
 Sonia was thinking William didn't hate herself . <eos>
-Most waitresses say Candice won't hire herself . <eos>
-Most waitresses say Candice won't hire themselves . <eos>
+Most waitresses say Candice wo n't hire herself . <eos>
+Most waitresses say Candice wo n't hire themselves . <eos>
 Sherry is imagining Gregory knows himself . <eos>
 Sherry is imagining Gregory knows herself . <eos>
-The guy imagines the patients won't worry themselves . <eos>
-The guy imagines the patients won't worry himself . <eos>
+The guy imagines the patients wo n't worry themselves . <eos>
+The guy imagines the patients wo n't worry himself . <eos>
 Every dancer is n't explaining Aaron was healing himself . <eos>
 Every dancer is n't explaining Aaron was healing herself . <eos>
 Some actors imagine Derek helped himself . <eos>
@@ -1488,8 +1488,8 @@ Cindy was n't saying Carl helped himself . <eos>
 Cindy was n't saying Carl helped herself . <eos>
 Sonia would think Patrick concealed himself . <eos>
 Sonia would think Patrick concealed herself . <eos>
-William couldn't explain the company is alarming itself . <eos>
-William couldn't explain the company is alarming himself . <eos>
+William could n't explain the company is alarming itself . <eos>
+William could n't explain the company is alarming himself . <eos>
 Carlos was saying Renee can remember herself . <eos>
 Carlos was saying Renee can remember himself . <eos>
 Angela explains Travis sounds like himself . <eos>
@@ -1542,8 +1542,8 @@ Most girls explain Anna was arguing about herself . <eos>
 Most girls explain Anna was arguing about themselves . <eos>
 Gina said a lot of plays disagreed with themselves . <eos>
 Gina said a lot of plays disagreed with herself . <eos>
-That waitress couldn't say Aaron didn't describe himself . <eos>
-That waitress couldn't say Aaron didn't describe herself . <eos>
+That waitress could n't say Aaron didn't describe himself . <eos>
+That waitress could n't say Aaron didn't describe herself . <eos>
 Some women imagine Walter hugged himself . <eos>
 Some women imagine Walter hugged themselves . <eos>
 Gerald thought Erin is impressing herself . <eos>
@@ -1586,8 +1586,8 @@ These senators explain Marie talked to herself . <eos>
 These senators explain Marie talked to themselves . <eos>
 Many pedestrians say every play has n't disagreed with itself . <eos>
 Many pedestrians say every play has n't disagreed with themselves . <eos>
-The guy won't imagine Melissa appreciates herself . <eos>
-The guy won't imagine Melissa appreciates himself . <eos>
+The guy wo n't imagine Melissa appreciates herself . <eos>
+The guy wo n't imagine Melissa appreciates himself . <eos>
 Leslie shouldn't imagine Lawrence disliked himself . <eos>
 Leslie shouldn't imagine Lawrence disliked herself . <eos>
 Kristen could think Charles had loved himself . <eos>
@@ -1644,8 +1644,8 @@ Colleen said Stephen hugs himself . <eos>
 Colleen said Stephen hugs herself . <eos>
 Clyde is n't imagining that museum wouldn't like itself . <eos>
 Clyde is n't imagining that museum wouldn't like himself . <eos>
-Erin won't think Ronald was n't fleeing from himself . <eos>
-Erin won't think Ronald was n't fleeing from herself . <eos>
+Erin wo n't think Ronald was n't fleeing from himself . <eos>
+Erin wo n't think Ronald was n't fleeing from herself . <eos>
 Adam explained many people were impressing themselves . <eos>
 Adam explained many people were impressing himself . <eos>
 Colleen had imagined Curtis didn't boast about himself . <eos>
@@ -1698,24 +1698,24 @@ Matt does explain Tammy cured herself . <eos>
 Matt does explain Tammy cured himself . <eos>
 The boys say Laura is n't hugging herself . <eos>
 The boys say Laura is n't hugging themselves . <eos>
-Daniel won't imagine many dancers attacked themselves . <eos>
-Daniel won't imagine many dancers attacked himself . <eos>
+Daniel wo n't imagine many dancers attacked themselves . <eos>
+Daniel wo n't imagine many dancers attacked himself . <eos>
 Nina will explain Joel conceals himself . <eos>
 Nina will explain Joel conceals herself . <eos>
 Dan hadn't imagined Claire is observing herself . <eos>
 Dan hadn't imagined Claire is observing himself . <eos>
 Dennis hadn't explained Susan fired herself . <eos>
 Dennis hadn't explained Susan fired himself . <eos>
-Adam won't explain every actress did respect herself . <eos>
-Adam won't explain every actress did respect himself . <eos>
+Adam wo n't explain every actress did respect herself . <eos>
+Adam wo n't explain every actress did respect himself . <eos>
 The adults had imagined Tammy fired herself . <eos>
 The adults had imagined Tammy fired themselves . <eos>
 Allison was n't saying Steven insults himself . <eos>
 Allison was n't saying Steven insults herself . <eos>
 Deborah would say Walter hadn't complained about himself . <eos>
 Deborah would say Walter hadn't complained about herself . <eos>
-Renee is n't imagining these waitresses won't hide themselves . <eos>
-Renee is n't imagining these waitresses won't hide herself . <eos>
+Renee is n't imagining these waitresses wo n't hide themselves . <eos>
+Renee is n't imagining these waitresses wo n't hide herself . <eos>
 The woman hadn't imagined Robert is n't listening to himself . <eos>
 The woman hadn't imagined Robert is n't listening to herself . <eos>
 Some ladies imagine Sonia will watch herself . <eos>
@@ -1734,8 +1734,8 @@ Daniel thought some tomato stunned itself . <eos>
 Daniel thought some tomato stunned himself . <eos>
 Leslie is n't imagining Liam observes himself . <eos>
 Leslie is n't imagining Liam observes herself . <eos>
-Kirsten couldn't imagine Scott alarmed himself . <eos>
-Kirsten couldn't imagine Scott alarmed herself . <eos>
+Kirsten could n't imagine Scott alarmed himself . <eos>
+Kirsten could n't imagine Scott alarmed herself . <eos>
 Rebecca explained Eric was insulting himself . <eos>
 Rebecca explained Eric was insulting herself . <eos>
 These guests have n't imagined Christina aggravated herself . <eos>
@@ -1758,8 +1758,8 @@ A lot of guests explain Margaret will hate herself . <eos>
 A lot of guests explain Margaret will hate themselves . <eos>
 Brad said that newspaper article upset itself . <eos>
 Brad said that newspaper article upset himself . <eos>
-Diana imagines all associations won't dislike themselves . <eos>
-Diana imagines all associations won't dislike herself . <eos>
+Diana imagines all associations wo n't dislike themselves . <eos>
+Diana imagines all associations wo n't dislike herself . <eos>
 Janet is explaining Dennis was curing himself . <eos>
 Janet is explaining Dennis was curing herself . <eos>
 Brian was n't imagining Judy bored herself . <eos>
@@ -1876,8 +1876,8 @@ Scott said the schools are appreciating themselves . <eos>
 Scott said the schools are appreciating himself . <eos>
 Christopher hadn't explained the company bored itself . <eos>
 Christopher hadn't explained the company bored himself . <eos>
-Cindy couldn't say Kevin shouldn't boast about himself . <eos>
-Cindy couldn't say Kevin shouldn't boast about herself . <eos>
+Cindy could n't say Kevin shouldn't boast about himself . <eos>
+Cindy could n't say Kevin shouldn't boast about herself . <eos>
 Kimberley did imagine Walter liked himself . <eos>
 Kimberley did imagine Walter liked herself . <eos>
 Samantha imagines that eye embarrassed itself . <eos>

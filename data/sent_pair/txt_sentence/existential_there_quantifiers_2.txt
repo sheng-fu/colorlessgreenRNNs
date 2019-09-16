@@ -1382,8 +1382,8 @@ All doctors are n't there concealing Candice . <eos>
 There are n't all doctors concealing Candice . <eos>
 Each dog is n't there shocking Travis . <eos>
 There is n't each dog shocking Travis . <eos>
-Each cousin of Jason was there realizing what couldn't benefit . <eos>
-There was each cousin of Jason realizing what couldn't benefit . <eos>
+Each cousin of Jason was there realizing what could n't benefit . <eos>
+There was each cousin of Jason realizing what could n't benefit . <eos>
 All governments are there praising Wendy . <eos>
 There are all governments praising Wendy . <eos>
 Most grandfathers of this man are there arguing . <eos>

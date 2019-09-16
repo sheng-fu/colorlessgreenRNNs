@@ -276,8 +276,8 @@ Some senators certainly profit . <eos>
 Some senators ever profit . <eos>
 A lot of patients also eat . <eos>
 A lot of patients ever eat . <eos>
-Richard also figures out who couldn't discuss Joel . <eos>
-Richard ever figures out who couldn't discuss Joel . <eos>
+Richard also figures out who could n't discuss Joel . <eos>
+Richard ever figures out who could n't discuss Joel . <eos>
 That customer also wakes up . <eos>
 That customer ever wakes up . <eos>
 Homer has often ran around the grocery store . <eos>
@@ -642,8 +642,8 @@ Many people might really date . <eos>
 Many people might ever date . <eos>
 A lot of schools clearly conceal who find out who shouldn't play . <eos>
 A lot of schools ever conceal who find out who shouldn't play . <eos>
-Joel has often explained Kathleen is finding out who won't wonder who climbs down the ladder . <eos>
-Joel has ever explained Kathleen is finding out who won't wonder who climbs down the ladder . <eos>
+Joel has often explained Kathleen is finding out who wo n't wonder who climbs down the ladder . <eos>
+Joel has ever explained Kathleen is finding out who wo n't wonder who climbs down the ladder . <eos>
 Donna also watched Margaret . <eos>
 Donna ever watched Margaret . <eos>
 Jodi had really arrived at some schools . <eos>
@@ -1138,8 +1138,8 @@ Eric also jokes around . <eos>
 Eric ever jokes around . <eos>
 Michael really drops by these restaurants . <eos>
 Michael ever drops by these restaurants . <eos>
-Nicole has also figured out who finds out what couldn't disturb Omar . <eos>
-Nicole has ever figured out who finds out what couldn't disturb Omar . <eos>
+Nicole has also figured out who finds out what could n't disturb Omar . <eos>
+Nicole has ever figured out who finds out what could n't disturb Omar . <eos>
 Connie will certainly lift that report . <eos>
 Connie will ever lift that report . <eos>
 Laurie often cleaned the bird . <eos>

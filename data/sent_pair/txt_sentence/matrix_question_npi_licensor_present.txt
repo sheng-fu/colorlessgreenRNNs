@@ -254,8 +254,8 @@ Will Joel ever conceal Steven ? <eos>
 Joel will ever conceal Steven . <eos>
 Has Omar ever joked around ? <eos>
 Omar has ever joked around . <eos>
-Can Rachelle ever forget who won't date ? <eos>
-Rachelle can ever forget who won't date . <eos>
+Can Rachelle ever forget who wo n't date ? <eos>
+Rachelle can ever forget who wo n't date . <eos>
 Had Roger ever ran around that river ? <eos>
 Roger had ever ran around that river . <eos>
 Might some library ever conceal who was n't hiring all guys ? <eos>

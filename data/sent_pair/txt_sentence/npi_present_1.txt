@@ -208,8 +208,8 @@ Even this rabbit also falls . <eos>
 Even this rabbit ever falls . <eos>
 Even Carol does also write hard . <eos>
 Even Carol does ever write hard . <eos>
-Even Douglas really doubted Alicia couldn't argue about Eric . <eos>
-Even Douglas ever doubted Alicia couldn't argue about Eric . <eos>
+Even Douglas really doubted Alicia could n't argue about Eric . <eos>
+Even Douglas ever doubted Alicia could n't argue about Eric . <eos>
 Even customers have certainly won . <eos>
 Even customers have ever won . <eos>
 Even George had also admired that actress . <eos>
@@ -832,8 +832,8 @@ Even Mitchell often works hard . <eos>
 Even Mitchell ever works hard . <eos>
 Even this senator could certainly murmur . <eos>
 Even this senator could ever murmur . <eos>
-Even the men also find out who couldn't win . <eos>
-Even the men ever find out who couldn't win . <eos>
+Even the men also find out who could n't win . <eos>
+Even the men ever find out who could n't win . <eos>
 Even the documentaries also lie . <eos>
 Even the documentaries ever lie . <eos>
 Even Gregory really lied . <eos>

@@ -42,8 +42,8 @@ Who does Marie think debated ? <eos>
 Who does Marie think that debated ? <eos>
 Who might Curtis say arrive at a lot of malls ? <eos>
 Who might Curtis say that arrive at a lot of malls ? <eos>
-What has Candice said won't shut ? <eos>
-What has Candice said that won't shut ? <eos>
+What has Candice said wo n't shut ? <eos>
+What has Candice said that wo n't shut ? <eos>
 Who will Gary think has listened to Daniel ? <eos>
 Who will Gary think that has listened to Daniel ? <eos>
 Who might Julia say reveals most plates ? <eos>
@@ -72,8 +72,8 @@ Who have these actresses imagined has n't yelled ? <eos>
 Who have these actresses imagined that has n't yelled ? <eos>
 Who should Jane explain argued ? <eos>
 Who should Jane explain that argued ? <eos>
-Who is Deborah explaining won't annoy many associations ? <eos>
-Who is Deborah explaining that won't annoy many associations ? <eos>
+Who is Deborah explaining wo n't annoy many associations ? <eos>
+Who is Deborah explaining that wo n't annoy many associations ? <eos>
 Who should Kirsten say singing ? <eos>
 Who should Kirsten say that singing ? <eos>
 What has Rachelle explained has irritated Renee ? <eos>
@@ -136,8 +136,8 @@ Who has Russell explained has cheered ? <eos>
 Who has Russell explained that has cheered ? <eos>
 Who are these students explaining has n't responded ? <eos>
 Who are these students explaining that has n't responded ? <eos>
-What is Tonya imagining couldn't look like the chair ? <eos>
-What is Tonya imagining that couldn't look like the chair ? <eos>
+What is Tonya imagining could n't look like the chair ? <eos>
+What is Tonya imagining that could n't look like the chair ? <eos>
 Who was Alicia imagining will murmur ? <eos>
 Who was Alicia imagining that will murmur ? <eos>
 Who had Samantha explained arrives at the cafes ? <eos>
@@ -154,8 +154,8 @@ Who would Tammy imagine descend all steps ? <eos>
 Who would Tammy imagine that descend all steps ? <eos>
 Who were dancers imagining is grinning ? <eos>
 Who were dancers imagining that is grinning ? <eos>
-Who will many waiters explain couldn't reunite ? <eos>
-Who will many waiters explain that couldn't reunite ? <eos>
+Who will many waiters explain could n't reunite ? <eos>
+Who will many waiters explain that could n't reunite ? <eos>
 Who can Florence think debated ? <eos>
 Who can Florence think that debated ? <eos>
 Who will guys imagine is n't attacking Rebecca ? <eos>
@@ -166,8 +166,8 @@ Who is Vincent thinking hires Ellen ? <eos>
 Who is Vincent thinking that hires Ellen ? <eos>
 Who does a woman explain is arguing ? <eos>
 Who does a woman explain that is arguing ? <eos>
-Who had George explained couldn't spin around ? <eos>
-Who had George explained that couldn't spin around ? <eos>
+Who had George explained could n't spin around ? <eos>
+Who had George explained that could n't spin around ? <eos>
 Who is Irene saying hadn't slumped over ? <eos>
 Who is Irene saying that hadn't slumped over ? <eos>
 Who has this man said wouldn't forfeit ? <eos>
@@ -356,8 +356,8 @@ Who will that man explain salute ? <eos>
 Who will that man explain that salute ? <eos>
 Who will Amanda think argued ? <eos>
 Who will Amanda think that argued ? <eos>
-Who could Catherine explain won't gets fired ? <eos>
-Who could Catherine explain that won't gets fired ? <eos>
+Who could Catherine explain wo n't gets fired ? <eos>
+Who could Catherine explain that wo n't gets fired ? <eos>
 Who does Julia think wouldn't reveal Curtis ? <eos>
 Who does Julia think that wouldn't reveal Curtis ? <eos>
 Who is Sally thinking was donating ? <eos>
@@ -374,8 +374,8 @@ Who would Brett think approves ? <eos>
 Who would Brett think that approves ? <eos>
 What is Amanda saying disturbs Elaine ? <eos>
 What is Amanda saying that disturbs Elaine ? <eos>
-Who could Clyde think couldn't complain ? <eos>
-Who could Clyde think that couldn't complain ? <eos>
+Who could Clyde think could n't complain ? <eos>
+Who could Clyde think that could n't complain ? <eos>
 Who might Julie explain hadn't admired Deborah ? <eos>
 Who might Julie explain that hadn't admired Deborah ? <eos>
 Who is Michelle imagining boycotts every art gallery ? <eos>
@@ -530,8 +530,8 @@ Who is Stacey imagining shouldn't hide some photograph ? <eos>
 Who is Stacey imagining that shouldn't hide some photograph ? <eos>
 What has John said confuses Chad ? <eos>
 What has John said that confuses Chad ? <eos>
-Who has Andrew said couldn't donate ? <eos>
-Who has Andrew said that couldn't donate ? <eos>
+Who has Andrew said could n't donate ? <eos>
+Who has Andrew said that could n't donate ? <eos>
 Who does Becca think fell asleep ? <eos>
 Who does Becca think that fell asleep ? <eos>
 Who is Kayla imagining fixes that window ? <eos>
@@ -604,8 +604,8 @@ Who did Mitchell think is n't muttering ? <eos>
 Who did Mitchell think that is n't muttering ? <eos>
 Who is Lissa explaining drops by a lot of college campuses ? <eos>
 Who is Lissa explaining that drops by a lot of college campuses ? <eos>
-Who does Omar think couldn't flee from Noah ? <eos>
-Who does Omar think that couldn't flee from Noah ? <eos>
+Who does Omar think could n't flee from Noah ? <eos>
+Who does Omar think that could n't flee from Noah ? <eos>
 Who was Susan explaining is reacting ? <eos>
 Who was Susan explaining that is reacting ? <eos>
 What had Sandra said communicated ? <eos>
@@ -692,8 +692,8 @@ Who did Alice imagine muttered ? <eos>
 Who did Alice imagine that muttered ? <eos>
 Who would Cynthia say explains everything ? <eos>
 Who would Cynthia say that explains everything ? <eos>
-Who had Judy imagined won't argue ? <eos>
-Who had Judy imagined that won't argue ? <eos>
+Who had Judy imagined wo n't argue ? <eos>
+Who had Judy imagined that wo n't argue ? <eos>
 Who was Allison explaining forgot Richard ? <eos>
 Who was Allison explaining that forgot Richard ? <eos>
 Who would Kenneth say approached Julie ? <eos>
@@ -732,8 +732,8 @@ What had Veronica said annoys a committee ? <eos>
 What had Veronica said that annoys a committee ? <eos>
 Who had Paul said conceals a glass ? <eos>
 Who had Paul said that conceals a glass ? <eos>
-What had Jeffrey said couldn't cooperate ? <eos>
-What had Jeffrey said that couldn't cooperate ? <eos>
+What had Jeffrey said could n't cooperate ? <eos>
+What had Jeffrey said that could n't cooperate ? <eos>
 Who is Claire thinking had benefited ? <eos>
 Who is Claire thinking that had benefited ? <eos>
 Who has Carmen imagined can die ? <eos>
@@ -886,8 +886,8 @@ Who would Eric explain reveal the cars ? <eos>
 Who would Eric explain that reveal the cars ? <eos>
 Who could Gerald imagine has n't observed Deanna ? <eos>
 Who could Gerald imagine that has n't observed Deanna ? <eos>
-Who had every man said couldn't suffer ? <eos>
-Who had every man said that couldn't suffer ? <eos>
+Who had every man said could n't suffer ? <eos>
+Who had every man said that could n't suffer ? <eos>
 Who might Katherine explain reply ? <eos>
 Who might Katherine explain that reply ? <eos>
 Who does Phillip imagine shouldn't cooperate ? <eos>
@@ -902,8 +902,8 @@ Who did Beth imagine has collaborated ? <eos>
 Who did Beth imagine that has collaborated ? <eos>
 Who were these cashiers thinking complained ? <eos>
 Who were these cashiers thinking that complained ? <eos>
-Who will this lady imagine won't like every car ? <eos>
-Who will this lady imagine that won't like every car ? <eos>
+Who will this lady imagine wo n't like every car ? <eos>
+Who will this lady imagine that wo n't like every car ? <eos>
 Who does Pamela imagine cooked ? <eos>
 Who does Pamela imagine that cooked ? <eos>
 What is Kristin thinking has n't reacted ? <eos>
@@ -940,8 +940,8 @@ What is Nicole saying had reunited ? <eos>
 What is Nicole saying that had reunited ? <eos>
 Who can Colleen explain marry ? <eos>
 Who can Colleen explain that marry ? <eos>
-Who is Lissa thinking couldn't scratch ? <eos>
-Who is Lissa thinking that couldn't scratch ? <eos>
+Who is Lissa thinking could n't scratch ? <eos>
+Who is Lissa thinking that could n't scratch ? <eos>
 What is Phillip explaining rots ? <eos>
 What is Phillip explaining that rots ? <eos>
 Who are guests imagining eats ? <eos>
@@ -1006,8 +1006,8 @@ Who can the woman imagine has exited this bank ? <eos>
 Who can the woman imagine that has exited this bank ? <eos>
 Who will April imagine had admired some teenagers ? <eos>
 Who will April imagine that had admired some teenagers ? <eos>
-Who has Vincent imagined couldn't discuss Caroline ? <eos>
-Who has Vincent imagined that couldn't discuss Caroline ? <eos>
+Who has Vincent imagined could n't discuss Caroline ? <eos>
+Who has Vincent imagined that could n't discuss Caroline ? <eos>
 Who was Rose imagining kissed Janice ? <eos>
 Who was Rose imagining that kissed Janice ? <eos>
 What would Jerry explain has n't hurt every boy ? <eos>
@@ -1076,8 +1076,8 @@ Who has Andrea said is n't approving ? <eos>
 Who has Andrea said that is n't approving ? <eos>
 Who was Gina saying upset children ? <eos>
 Who was Gina saying that upset children ? <eos>
-What has Bruce explained couldn't worry Christina ? <eos>
-What has Bruce explained that couldn't worry Christina ? <eos>
+What has Bruce explained could n't worry Christina ? <eos>
+What has Bruce explained that could n't worry Christina ? <eos>
 Who was Curtis saying has n't described waiters ? <eos>
 Who was Curtis saying that has n't described waiters ? <eos>
 Who should Becca imagine returned to Andrea ? <eos>
@@ -1138,8 +1138,8 @@ Who is Sonia explaining is n't passing some closets ? <eos>
 Who is Sonia explaining that is n't passing some closets ? <eos>
 Who could all students imagine wouldn't benefit ? <eos>
 Who could all students imagine that wouldn't benefit ? <eos>
-Who was Emily imagining won't ascend these stairs ? <eos>
-Who was Emily imagining that won't ascend these stairs ? <eos>
+Who was Emily imagining wo n't ascend these stairs ? <eos>
+Who was Emily imagining that wo n't ascend these stairs ? <eos>
 Who should Pamela say had sung ? <eos>
 Who should Pamela say that had sung ? <eos>
 What would Barbara explain hadn't disturbed Carl ? <eos>
@@ -1184,8 +1184,8 @@ Who has Cindy said loved Alexander ? <eos>
 Who has Cindy said that loved Alexander ? <eos>
 Who is Mary saying is n't shouting ? <eos>
 Who is Mary saying that is n't shouting ? <eos>
-Who is Carla imagining couldn't fire Denise ? <eos>
-Who is Carla imagining that couldn't fire Denise ? <eos>
+Who is Carla imagining could n't fire Denise ? <eos>
+Who is Carla imagining that could n't fire Denise ? <eos>
 Who has Tara explained attack Ellen ? <eos>
 Who has Tara explained that attack Ellen ? <eos>
 Who had Liam imagined is n't arriving at a lot of malls ? <eos>
@@ -1230,8 +1230,8 @@ Who is Theodore thinking flees from Alice ? <eos>
 Who is Theodore thinking that flees from Alice ? <eos>
 Who was Sherry thinking ascends some steps ? <eos>
 Who was Sherry thinking that ascends some steps ? <eos>
-Who had a lot of actors imagined couldn't complain about Martha ? <eos>
-Who had a lot of actors imagined that couldn't complain about Martha ? <eos>
+Who had a lot of actors imagined could n't complain about Martha ? <eos>
+Who had a lot of actors imagined that could n't complain about Martha ? <eos>
 Who has Sonia said should argue ? <eos>
 Who has Sonia said that should argue ? <eos>
 Who was Tanya imagining has n't embraced ? <eos>
@@ -1390,8 +1390,8 @@ Who are these drivers thinking profits ? <eos>
 Who are these drivers thinking that profits ? <eos>
 What was Candice explaining was n't clashing ? <eos>
 What was Candice explaining that was n't clashing ? <eos>
-Who was Kathleen saying won't boast ? <eos>
-Who was Kathleen saying that won't boast ? <eos>
+Who was Kathleen saying wo n't boast ? <eos>
+Who was Kathleen saying that wo n't boast ? <eos>
 Who had Dennis thought didn't buy a lot of mirrors ? <eos>
 Who had Dennis thought that didn't buy a lot of mirrors ? <eos>
 Who is Cindy explaining alarmed Victoria ? <eos>
@@ -1400,8 +1400,8 @@ Who might Stacey say had eaten ? <eos>
 Who might Stacey say that had eaten ? <eos>
 What had Andrew thought is stunning Carrie ? <eos>
 What had Andrew thought that is stunning Carrie ? <eos>
-Who is Catherine imagining won't listen to Sonia ? <eos>
-Who is Catherine imagining that won't listen to Sonia ? <eos>
+Who is Catherine imagining wo n't listen to Sonia ? <eos>
+Who is Catherine imagining that wo n't listen to Sonia ? <eos>
 Who will Becca think was n't hiring Bruce ? <eos>
 Who will Becca think that was n't hiring Bruce ? <eos>
 Who has Carmen imagined swallow ? <eos>
@@ -1458,8 +1458,8 @@ What could Dan explain hadn't disagreed ? <eos>
 What could Dan explain that hadn't disagreed ? <eos>
 Who was Laura thinking would embarrass Kirsten ? <eos>
 Who was Laura thinking that would embarrass Kirsten ? <eos>
-What has Karla said won't clash ? <eos>
-What has Karla said that won't clash ? <eos>
+What has Karla said wo n't clash ? <eos>
+What has Karla said that wo n't clash ? <eos>
 Who are these actresses imagining described Sarah ? <eos>
 Who are these actresses imagining that described Sarah ? <eos>
 Who should the waitress say retaliate ? <eos>
@@ -1646,8 +1646,8 @@ Who does Ella say is driving to many cafes ? <eos>
 Who does Ella say that is driving to many cafes ? <eos>
 What did Diana say had aggravated Teresa ? <eos>
 What did Diana say that had aggravated Teresa ? <eos>
-Who could Leslie explain won't learn ? <eos>
-Who could Leslie explain that won't learn ? <eos>
+Who could Leslie explain wo n't learn ? <eos>
+Who could Leslie explain that wo n't learn ? <eos>
 Who could Marcus explain hadn't climbed down some mountains ? <eos>
 Who could Marcus explain that hadn't climbed down some mountains ? <eos>
 Who could Katherine explain boycotted every government ? <eos>
@@ -1826,8 +1826,8 @@ Who has Joseph imagined is n't complaining ? <eos>
 Who has Joseph imagined that is n't complaining ? <eos>
 Who could Derek imagine smiled ? <eos>
 Who could Derek imagine that smiled ? <eos>
-Who does Guy say couldn't break most bicycles ? <eos>
-Who does Guy say that couldn't break most bicycles ? <eos>
+Who does Guy say could n't break most bicycles ? <eos>
+Who does Guy say that could n't break most bicycles ? <eos>
 Who had George said mess up all banks ? <eos>
 Who had George said that mess up all banks ? <eos>
 Who can Vincent say will talk about some cashiers ? <eos>

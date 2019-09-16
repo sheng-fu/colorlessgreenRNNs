@@ -36,8 +36,8 @@ Children that are escaping from Martin are n't discussing themselves . <eos>
 Children that are escaping from Martin are n't discussing himself . <eos>
 That girl who disgusted Andrew returned to herself . <eos>
 That girl who disgusted Andrew returned to himself . <eos>
-This woman who described a restaurant won't fire herself . <eos>
-This woman who described a restaurant won't fire itself . <eos>
+This woman who described a restaurant wo n't fire herself . <eos>
+This woman who described a restaurant wo n't fire itself . <eos>
 That school that shouldn't remember all girls should admire itself . <eos>
 That school that shouldn't remember all girls should admire themselves . <eos>
 Every girl who disliked Marcus complains about herself . <eos>
@@ -56,8 +56,8 @@ All patients who have n't seen Stephanie kissed themselves . <eos>
 All patients who have n't seen Stephanie kissed herself . <eos>
 A government that shouldn't shock Tina forgets itself . <eos>
 A government that shouldn't shock Tina forgets herself . <eos>
-All grocery stores that couldn't alarm Jodi hadn't embarrassed themselves . <eos>
-All grocery stores that couldn't alarm Jodi hadn't embarrassed herself . <eos>
+All grocery stores that could n't alarm Jodi hadn't embarrassed themselves . <eos>
+All grocery stores that could n't alarm Jodi hadn't embarrassed herself . <eos>
 These commentaries that upset Jill praise themselves . <eos>
 These commentaries that upset Jill praise herself . <eos>
 Some actress that shocked every university had complained about herself . <eos>
@@ -88,8 +88,8 @@ The children that irritates Lissa could admire themselves . <eos>
 The children that irritates Lissa could admire herself . <eos>
 Some teenagers who left Lori talked about themselves . <eos>
 Some teenagers who left Lori talked about herself . <eos>
-Every dancer who won't climb down this hill had respected herself . <eos>
-Every dancer who won't climb down this hill had respected itself . <eos>
+Every dancer who wo n't climb down this hill had respected herself . <eos>
+Every dancer who wo n't climb down this hill had respected itself . <eos>
 Most schools that distracted Nina disgusted themselves . <eos>
 Most schools that distracted Nina disgusted herself . <eos>
 Most drivers who have n't shocked Carrie sounded like themselves . <eos>
@@ -100,8 +100,8 @@ Every association that had bought all doors was describing itself . <eos>
 Every association that had bought all doors was describing themselves . <eos>
 That sketch that has n't stunned actors has aggravated itself . <eos>
 That sketch that has n't stunned actors has aggravated themselves . <eos>
-This company that couldn't talk about Peter ca n't remember itself . <eos>
-This company that couldn't talk about Peter ca n't remember himself . <eos>
+This company that could n't talk about Peter ca n't remember itself . <eos>
+This company that could n't talk about Peter ca n't remember himself . <eos>
 All guys that fix this window are n't finding themselves . <eos>
 All guys that fix this window are n't finding itself . <eos>
 Some chair that does n't worry Bill impressed itself . <eos>
@@ -118,8 +118,8 @@ All adults who do watch Janet left themselves . <eos>
 All adults who do watch Janet left herself . <eos>
 Plays that referenced Ronald have n't irritated themselves . <eos>
 Plays that referenced Ronald have n't irritated himself . <eos>
-Some students who won't clean the movie theater are embarrassing themselves . <eos>
-Some students who won't clean the movie theater are embarrassing itself . <eos>
+Some students who wo n't clean the movie theater are embarrassing themselves . <eos>
+Some students who wo n't clean the movie theater are embarrassing itself . <eos>
 The commentary that alarmed all pedestrians was talking about itself . <eos>
 The commentary that alarmed all pedestrians was talking about themselves . <eos>
 Some horses that embarrass Keith have annoyed themselves . <eos>
@@ -142,8 +142,8 @@ Every woman who had cured Christopher does n't forget herself . <eos>
 Every woman who had cured Christopher does n't forget himself . <eos>
 The woman who argued about Stephen kisses herself . <eos>
 The woman who argued about Stephen kisses himself . <eos>
-That photograph that won't disgust Debra is n't annoying itself . <eos>
-That photograph that won't disgust Debra is n't annoying herself . <eos>
+That photograph that wo n't disgust Debra is n't annoying itself . <eos>
+That photograph that wo n't disgust Debra is n't annoying herself . <eos>
 This girl that hadn't bought a cup sees herself . <eos>
 This girl that hadn't bought a cup sees itself . <eos>
 Most stories that disturbed Adam are discussing themselves . <eos>
@@ -168,8 +168,8 @@ Some teachers that have examined this essay are n't leaving themselves . <eos>
 Some teachers that have examined this essay are n't leaving itself . <eos>
 Some drivers who respected Catherine disliked themselves . <eos>
 Some drivers who respected Catherine disliked herself . <eos>
-A lot of men who won't climb down that slope are n't praising themselves . <eos>
-A lot of men who won't climb down that slope are n't praising itself . <eos>
+A lot of men who wo n't climb down that slope are n't praising themselves . <eos>
+A lot of men who wo n't climb down that slope are n't praising itself . <eos>
 Every boy who respected most hills does n't see himself . <eos>
 Every boy who respected most hills does n't see themselves . <eos>
 Most cashiers who could sound like Rachel admired themselves . <eos>
@@ -182,10 +182,10 @@ Some company that had hurt Christopher remembered itself . <eos>
 Some company that had hurt Christopher remembered himself . <eos>
 The committee that was n't insulting Beth alarmed itself . <eos>
 The committee that was n't insulting Beth alarmed herself . <eos>
-Every organization that won't describe Carmen appreciated itself . <eos>
-Every organization that won't describe Carmen appreciated herself . <eos>
-This fish that disgusted Barbara won't distract itself . <eos>
-This fish that disgusted Barbara won't distract herself . <eos>
+Every organization that wo n't describe Carmen appreciated itself . <eos>
+Every organization that wo n't describe Carmen appreciated herself . <eos>
+This fish that disgusted Barbara wo n't distract itself . <eos>
+This fish that disgusted Barbara wo n't distract herself . <eos>
 The pedestrians that returned to Charles were n't attacking themselves . <eos>
 The pedestrians that returned to Charles were n't attacking himself . <eos>
 Guys who were looking like every sketch have observed themselves . <eos>
@@ -250,8 +250,8 @@ Most boys who hadn't loved Jessica did kiss themselves . <eos>
 Most boys who hadn't loved Jessica did kiss herself . <eos>
 Many people who would appreciate an essay could care for themselves . <eos>
 Many people who would appreciate an essay could care for itself . <eos>
-The waiters that couldn't hide Larry couldn't stun themselves . <eos>
-The waiters that couldn't hide Larry couldn't stun himself . <eos>
+The waiters that could n't hide Larry could n't stun themselves . <eos>
+The waiters that could n't hide Larry could n't stun himself . <eos>
 An actress that kisses people has n't left herself . <eos>
 An actress that kisses people has n't left themselves . <eos>
 A man that insults Sandra has sounded like himself . <eos>
@@ -266,8 +266,8 @@ All banks that do n't talk about this art gallery talked to themselves . <eos>
 All banks that do n't talk about this art gallery talked to itself . <eos>
 This guy who does n't talk about Martha had fled from himself . <eos>
 This guy who does n't talk about Martha had fled from herself . <eos>
-A company that does n't reference Leslie won't love itself . <eos>
-A company that does n't reference Leslie won't love herself . <eos>
+A company that does n't reference Leslie wo n't love itself . <eos>
+A company that does n't reference Leslie wo n't love herself . <eos>
 Teenagers that described Peter were curing themselves . <eos>
 Teenagers that described Peter were curing himself . <eos>
 Some companies that can astound Diane might stun themselves . <eos>
@@ -276,8 +276,8 @@ Some companies that were aggravating Adam were stunning themselves . <eos>
 Some companies that were aggravating Adam were stunning himself . <eos>
 A government that shocks Heather respected itself . <eos>
 A government that shocks Heather respected herself . <eos>
-Some lady that is n't discussing some glacier won't leave herself . <eos>
-Some lady that is n't discussing some glacier won't leave itself . <eos>
+Some lady that is n't discussing some glacier wo n't leave herself . <eos>
+Some lady that is n't discussing some glacier wo n't leave itself . <eos>
 The teachers that embarrasses Noah hurt themselves . <eos>
 The teachers that embarrasses Noah hurt himself . <eos>
 Customers that have n't visited Rhonda shouldn't help themselves . <eos>
@@ -286,10 +286,10 @@ That boy that was n't passing most schools was kissing himself . <eos>
 That boy that was n't passing most schools was kissing themselves . <eos>
 The waitresses that boasted about Douglas were escaping from themselves . <eos>
 The waitresses that boasted about Douglas were escaping from himself . <eos>
-This waitress who couldn't flee from a lot of children concealed herself . <eos>
-This waitress who couldn't flee from a lot of children concealed themselves . <eos>
-All doctors that couldn't help Irene hugged themselves . <eos>
-All doctors that couldn't help Irene hugged herself . <eos>
+This waitress who could n't flee from a lot of children concealed herself . <eos>
+This waitress who could n't flee from a lot of children concealed themselves . <eos>
+All doctors that could n't help Irene hugged themselves . <eos>
+All doctors that could n't help Irene hugged herself . <eos>
 The people that had some hair were n't watching themselves . <eos>
 The people that had some hair were n't watching itself . <eos>
 These teenagers that had attacked Joseph do flee from themselves . <eos>
@@ -366,8 +366,8 @@ Some associations that were distracting Melissa bothered themselves . <eos>
 Some associations that were distracting Melissa bothered herself . <eos>
 Some doctors that aggravate Becca are referencing themselves . <eos>
 Some doctors that aggravate Becca are referencing herself . <eos>
-A company that didn't impress Donna couldn't remember itself . <eos>
-A company that didn't impress Donna couldn't remember herself . <eos>
+A company that didn't impress Donna could n't remember itself . <eos>
+A company that didn't impress Donna could n't remember herself . <eos>
 Every company that was n't annoying Gina remembered itself . <eos>
 Every company that was n't annoying Gina remembered herself . <eos>
 Some company that bothers Martha has disliked itself . <eos>
@@ -392,10 +392,10 @@ Some university that should forget Alexander talks about itself . <eos>
 Some university that should forget Alexander talks about himself . <eos>
 Some companies that should boast about Stacy have talked about themselves . <eos>
 Some companies that should boast about Stacy have talked about herself . <eos>
-Most people that had praised James couldn't hire themselves . <eos>
-Most people that had praised James couldn't hire himself . <eos>
-A lady that couldn't astound Eric will hide herself . <eos>
-A lady that couldn't astound Eric will hide himself . <eos>
+Most people that had praised James could n't hire themselves . <eos>
+Most people that had praised James could n't hire himself . <eos>
+A lady that could n't astound Eric will hide herself . <eos>
+A lady that could n't astound Eric will hide himself . <eos>
 All patients that returned to Nicole ca n't impress themselves . <eos>
 All patients that returned to Nicole ca n't impress herself . <eos>
 Senators who do sell the box disgusted themselves . <eos>
@@ -442,8 +442,8 @@ Some children who can arrive at the glacier do n't argue about themselves . <eos
 Some children who can arrive at the glacier do n't argue about itself . <eos>
 A lot of boys that irritate Bethany were criticizing themselves . <eos>
 A lot of boys that irritate Bethany were criticizing herself . <eos>
-A boy who fires Melissa won't flee from himself . <eos>
-A boy who fires Melissa won't flee from herself . <eos>
+A boy who fires Melissa wo n't flee from himself . <eos>
+A boy who fires Melissa wo n't flee from herself . <eos>
 A lot of waiters who hurt Sheila were shocking themselves . <eos>
 A lot of waiters who hurt Sheila were shocking herself . <eos>
 These companies that sold a bird listened to themselves . <eos>
@@ -498,8 +498,8 @@ Every organization that impressed Patricia ca n't describe itself . <eos>
 Every organization that impressed Patricia ca n't describe herself . <eos>
 That girl who broke vases has kissed herself . <eos>
 That girl who broke vases has kissed themselves . <eos>
-Every guy who attacked Donna couldn't know himself . <eos>
-Every guy who attacked Donna couldn't know herself . <eos>
+Every guy who attacked Donna could n't know himself . <eos>
+Every guy who attacked Donna could n't know herself . <eos>
 That museum that wouldn't scare Kevin might help itself . <eos>
 That museum that wouldn't scare Kevin might help himself . <eos>
 Teenagers who have insulted Douglas did disgust themselves . <eos>
@@ -556,8 +556,8 @@ The company that was n't scaring Carlos dislikes itself . <eos>
 The company that was n't scaring Carlos dislikes himself . <eos>
 Every documentary that has described Bradley has n't sounded like itself . <eos>
 Every documentary that has described Bradley has n't sounded like himself . <eos>
-The forks that disturb Mitchell won't distract themselves . <eos>
-The forks that disturb Mitchell won't distract himself . <eos>
+The forks that disturb Mitchell wo n't distract themselves . <eos>
+The forks that disturb Mitchell wo n't distract himself . <eos>
 The story that should describe Timothy distracted itself . <eos>
 The story that should describe Timothy distracted himself . <eos>
 The vase that has embarrassed Edward didn't scare itself . <eos>
@@ -596,14 +596,14 @@ A lot of doctors who left Cheryl fired themselves . <eos>
 A lot of doctors who left Cheryl fired herself . <eos>
 Some essay that hadn't confused Bruce disagreed with itself . <eos>
 Some essay that hadn't confused Bruce disagreed with himself . <eos>
-Some dancer that couldn't clean some window escaped from herself . <eos>
-Some dancer that couldn't clean some window escaped from itself . <eos>
+Some dancer that could n't clean some window escaped from herself . <eos>
+Some dancer that could n't clean some window escaped from itself . <eos>
 Waitresses that were hiding every drawing revealed themselves . <eos>
 Waitresses that were hiding every drawing revealed itself . <eos>
 Some governments that had disliked Nancy fired themselves . <eos>
 Some governments that had disliked Nancy fired herself . <eos>
-This organization that won't reference that lady will bother itself . <eos>
-This organization that won't reference that lady will bother herself . <eos>
+This organization that wo n't reference that lady will bother itself . <eos>
+This organization that wo n't reference that lady will bother herself . <eos>
 That lady who bikes to some malls appreciates herself . <eos>
 That lady who bikes to some malls appreciates themselves . <eos>
 The books that discussed Aaron disagree with themselves . <eos>
@@ -684,16 +684,16 @@ A lady that does n't like all guests watches herself . <eos>
 A lady that does n't like all guests watches themselves . <eos>
 A lot of waiters that annoy Steve were n't hiding themselves . <eos>
 A lot of waiters that annoy Steve were n't hiding himself . <eos>
-Actors that had disturbed Curtis couldn't dislike themselves . <eos>
-Actors that had disturbed Curtis couldn't dislike himself . <eos>
+Actors that had disturbed Curtis could n't dislike themselves . <eos>
+Actors that had disturbed Curtis could n't dislike himself . <eos>
 All actresses that escape from Tiffany had shocked themselves . <eos>
 All actresses that escape from Tiffany had shocked herself . <eos>
 All girls who distracted a university watched themselves . <eos>
 All girls who distracted a university watched itself . <eos>
 Every guy who watched Wendy was n't criticizing himself . <eos>
 Every guy who watched Wendy was n't criticizing herself . <eos>
-That bird that breaks a lot of couches couldn't impress itself . <eos>
-That bird that breaks a lot of couches couldn't impress themselves . <eos>
+That bird that breaks a lot of couches could n't impress itself . <eos>
+That bird that breaks a lot of couches could n't impress themselves . <eos>
 These newspaper articles that could alarm Walter praise themselves . <eos>
 These newspaper articles that could alarm Walter praise himself . <eos>
 A lot of teenagers who see Pamela remembered themselves . <eos>
@@ -712,8 +712,8 @@ A lot of waiters that listened to Walter loved themselves . <eos>
 A lot of waiters that listened to Walter loved himself . <eos>
 The woman that ca n't distract a legislature has n't complained about herself . <eos>
 The woman that ca n't distract a legislature has n't complained about itself . <eos>
-The adults that couldn't boast about Sharon shouldn't investigate themselves . <eos>
-The adults that couldn't boast about Sharon shouldn't investigate herself . <eos>
+The adults that could n't boast about Sharon shouldn't investigate themselves . <eos>
+The adults that could n't boast about Sharon shouldn't investigate herself . <eos>
 All waitresses that ca n't help Elizabeth had healed themselves . <eos>
 All waitresses that ca n't help Elizabeth had healed herself . <eos>
 Some lady who is n't climbing down the hills admired herself . <eos>
@@ -882,8 +882,8 @@ A museum that was irritating Steven appreciates itself . <eos>
 A museum that was irritating Steven appreciates himself . <eos>
 This documentary that aggravated Elizabeth was n't concealing itself . <eos>
 This documentary that aggravated Elizabeth was n't concealing herself . <eos>
-Every organization that won't forget Beth works with itself . <eos>
-Every organization that won't forget Beth works with herself . <eos>
+Every organization that wo n't forget Beth works with itself . <eos>
+Every organization that wo n't forget Beth works with herself . <eos>
 This boy that is n't fleeing from these waitresses was kissing himself . <eos>
 This boy that is n't fleeing from these waitresses was kissing themselves . <eos>
 These children that have exited this bank were n't revealing themselves . <eos>
@@ -904,8 +904,8 @@ This waitress that is fleeing from Jerry observes herself . <eos>
 This waitress that is fleeing from Jerry observes himself . <eos>
 Many organizations that should discuss Dennis criticize themselves . <eos>
 Many organizations that should discuss Dennis criticize himself . <eos>
-The actresses that hadn't lifted every screen won't aggravate themselves . <eos>
-The actresses that hadn't lifted every screen won't aggravate itself . <eos>
+The actresses that hadn't lifted every screen wo n't aggravate themselves . <eos>
+The actresses that hadn't lifted every screen wo n't aggravate itself . <eos>
 A man who ca n't remember Candice approaches himself . <eos>
 A man who ca n't remember Candice approaches herself . <eos>
 This newspaper article that would discuss Carmen was n't aggravating itself . <eos>
@@ -928,8 +928,8 @@ A lot of children who were hurting Gina had bothered themselves . <eos>
 A lot of children who were hurting Gina had bothered herself . <eos>
 Many senators that have n't disagreed with this play fled from themselves . <eos>
 Many senators that have n't disagreed with this play fled from itself . <eos>
-These children who have helped Erin couldn't flee from themselves . <eos>
-These children who have helped Erin couldn't flee from herself . <eos>
+These children who have helped Erin could n't flee from themselves . <eos>
+These children who have helped Erin could n't flee from herself . <eos>
 The lady who hadn't distracted Steve cures herself . <eos>
 The lady who hadn't distracted Steve cures himself . <eos>
 A legislature that has discussed Edward likes itself . <eos>
@@ -980,8 +980,8 @@ Many museums that have n't admired some guy can conceal themselves . <eos>
 Many museums that have n't admired some guy can conceal himself . <eos>
 The story that does n't conceal Benjamin disagreed with itself . <eos>
 The story that does n't conceal Benjamin disagreed with himself . <eos>
-Pedestrians who won't aggravate Steven might reveal themselves . <eos>
-Pedestrians who won't aggravate Steven might reveal himself . <eos>
+Pedestrians who wo n't aggravate Steven might reveal themselves . <eos>
+Pedestrians who wo n't aggravate Steven might reveal himself . <eos>
 Many doctors that do n't find Frank wouldn't conceal themselves . <eos>
 Many doctors that do n't find Frank wouldn't conceal himself . <eos>
 Every legislature that has n't listened to Alan hires itself . <eos>
@@ -996,8 +996,8 @@ Women that alarm Nicole have n't shocked themselves . <eos>
 Women that alarm Nicole have n't shocked herself . <eos>
 That library that disturbed Heather bothered itself . <eos>
 That library that disturbed Heather bothered herself . <eos>
-A fish that ca n't shock Cindy couldn't find itself . <eos>
-A fish that ca n't shock Cindy couldn't find herself . <eos>
+A fish that ca n't shock Cindy could n't find itself . <eos>
+A fish that ca n't shock Cindy could n't find herself . <eos>
 The students who could heal Nancy had concealed themselves . <eos>
 The students who could heal Nancy had concealed herself . <eos>
 Some restaurant that had hurt Anna hadn't bothered itself . <eos>
@@ -1034,8 +1034,8 @@ That guy who has biked to that movie theater liked himself . <eos>
 That guy who has biked to that movie theater liked itself . <eos>
 Every man that had disgusted Alice hadn't left himself . <eos>
 Every man that had disgusted Alice hadn't left herself . <eos>
-This glass that might scare Theresa couldn't bore itself . <eos>
-This glass that might scare Theresa couldn't bore herself . <eos>
+This glass that might scare Theresa could n't bore itself . <eos>
+This glass that might scare Theresa could n't bore herself . <eos>
 These icicles that shock Brenda are worrying themselves . <eos>
 These icicles that shock Brenda are worrying herself . <eos>
 This dancer who has n't loved Wayne hires herself . <eos>
@@ -1044,8 +1044,8 @@ A dancer who was exploring some closet did leave herself . <eos>
 A dancer who was exploring some closet did leave itself . <eos>
 A lot of hospitals that are talking to Karen have disliked themselves . <eos>
 A lot of hospitals that are talking to Karen have disliked herself . <eos>
-Some man that couldn't pass this public park does attack himself . <eos>
-Some man that couldn't pass this public park does attack itself . <eos>
+Some man that could n't pass this public park does attack himself . <eos>
+Some man that could n't pass this public park does attack itself . <eos>
 A lot of doctors that were astounding Noah can irritate themselves . <eos>
 A lot of doctors that were astounding Noah can irritate himself . <eos>
 Every woman that didn't break the car cares for herself . <eos>
@@ -1066,8 +1066,8 @@ That waitress that has n't upset Frank will talk to herself . <eos>
 That waitress that has n't upset Frank will talk to himself . <eos>
 These teenagers that hadn't found Randolf have approached themselves . <eos>
 These teenagers that hadn't found Randolf have approached himself . <eos>
-Men that couldn't arrive at the mall discussed themselves . <eos>
-Men that couldn't arrive at the mall discussed itself . <eos>
+Men that could n't arrive at the mall discussed themselves . <eos>
+Men that could n't arrive at the mall discussed itself . <eos>
 This waitress who praised every newspaper article insulted herself . <eos>
 This waitress who praised every newspaper article insulted itself . <eos>
 Men who had insulted Paula might like themselves . <eos>
@@ -1090,8 +1090,8 @@ Every actress who might admire Brett approaches herself . <eos>
 Every actress who might admire Brett approaches himself . <eos>
 Every report that bored Kendra had talked about itself . <eos>
 Every report that bored Kendra had talked about herself . <eos>
-This legislature that won't disturb James criticized itself . <eos>
-This legislature that won't disturb James criticized himself . <eos>
+This legislature that wo n't disturb James criticized itself . <eos>
+This legislature that wo n't disturb James criticized himself . <eos>
 This man that was n't fleeing from Rose has attacked himself . <eos>
 This man that was n't fleeing from Rose has attacked herself . <eos>
 Many actresses who ascended some slope described themselves . <eos>
@@ -1148,8 +1148,8 @@ All waitresses who have n't listened to Karla were n't boasting about themselves
 All waitresses who have n't listened to Karla were n't boasting about herself . <eos>
 Most women who are n't running around the grocery store will help themselves . <eos>
 Most women who are n't running around the grocery store will help itself . <eos>
-Most teachers that couldn't take some horse are n't hiring themselves . <eos>
-Most teachers that couldn't take some horse are n't hiring itself . <eos>
+Most teachers that could n't take some horse are n't hiring themselves . <eos>
+Most teachers that could n't take some horse are n't hiring itself . <eos>
 The committees that are n't hurting Dawn are n't listening to themselves . <eos>
 The committees that are n't hurting Dawn are n't listening to herself . <eos>
 A woman who was n't examining these documentaries is fleeing from herself . <eos>
@@ -1196,8 +1196,8 @@ Some boxes that were shocking Carol have n't shocked themselves . <eos>
 Some boxes that were shocking Carol have n't shocked herself . <eos>
 A lot of college campuses that stunned Veronica had stunned themselves . <eos>
 A lot of college campuses that stunned Veronica had stunned herself . <eos>
-Most guests who hadn't brought a sketch couldn't leave themselves . <eos>
-Most guests who hadn't brought a sketch couldn't leave itself . <eos>
+Most guests who hadn't brought a sketch could n't leave themselves . <eos>
+Most guests who hadn't brought a sketch could n't leave itself . <eos>
 This actress who has n't hidden every bird is visiting herself . <eos>
 This actress who has n't hidden every bird is visiting itself . <eos>
 All cashiers that hurts that waitress were complaining about themselves . <eos>
@@ -1226,8 +1226,8 @@ This bird that climbs down most hills had found itself . <eos>
 This bird that climbs down most hills had found themselves . <eos>
 Some woman who has bought some closet has n't approached herself . <eos>
 Some woman who has bought some closet has n't approached itself . <eos>
-A lot of waitresses who break every window won't dislike themselves . <eos>
-A lot of waitresses who break every window won't dislike itself . <eos>
+A lot of waitresses who break every window wo n't dislike themselves . <eos>
+A lot of waitresses who break every window wo n't dislike itself . <eos>
 The customers who saw Katherine had fired themselves . <eos>
 The customers who saw Katherine had fired herself . <eos>
 All pedestrians who have found Tammy were describing themselves . <eos>
@@ -1266,8 +1266,8 @@ The ladies who are returning to David should conceal themselves . <eos>
 The ladies who are returning to David should conceal himself . <eos>
 Some prints that stun every woman hurt themselves . <eos>
 Some prints that stun every woman hurt herself . <eos>
-These women who couldn't find this closet will distract themselves . <eos>
-These women who couldn't find this closet will distract itself . <eos>
+These women who could n't find this closet will distract themselves . <eos>
+These women who could n't find this closet will distract itself . <eos>
 A lot of actors who were n't descending the slope had observed themselves . <eos>
 A lot of actors who were n't descending the slope had observed itself . <eos>
 This girl that does hate George ca n't complain about herself . <eos>
@@ -1280,8 +1280,8 @@ This government that distracts Holly is aggravating itself . <eos>
 This government that distracts Holly is aggravating herself . <eos>
 Some people that boasted about Cheryl fired themselves . <eos>
 Some people that boasted about Cheryl fired herself . <eos>
-This door that won't irritate Carl has n't shocked itself . <eos>
-This door that won't irritate Carl has n't shocked himself . <eos>
+This door that wo n't irritate Carl has n't shocked itself . <eos>
+This door that wo n't irritate Carl has n't shocked himself . <eos>
 All reports that described Ann are n't hurting themselves . <eos>
 All reports that described Ann are n't hurting herself . <eos>
 The slope that was shocking Brett was n't stunning itself . <eos>
@@ -1302,8 +1302,8 @@ That mall that is n't distracting Valerie is aggravating itself . <eos>
 That mall that is n't distracting Valerie is aggravating herself . <eos>
 All waitresses who are irritating Mark had fled from themselves . <eos>
 All waitresses who are irritating Mark had fled from himself . <eos>
-This lady who was boycotting many companies couldn't conceal herself . <eos>
-This lady who was boycotting many companies couldn't conceal themselves . <eos>
+This lady who was boycotting many companies could n't conceal herself . <eos>
+This lady who was boycotting many companies could n't conceal themselves . <eos>
 That actress who wouldn't discuss John cares for herself . <eos>
 That actress who wouldn't discuss John cares for himself . <eos>
 This box that was n't shocking Michael annoyed itself . <eos>
@@ -1404,8 +1404,8 @@ Cashiers that climb up this slope do n't return to themselves . <eos>
 Cashiers that climb up this slope do n't return to itself . <eos>
 Most senators who are n't touring every hill are hugging themselves . <eos>
 Most senators who are n't touring every hill are hugging itself . <eos>
-Essays that were n't bothering Steven couldn't embarrass themselves . <eos>
-Essays that were n't bothering Steven couldn't embarrass himself . <eos>
+Essays that were n't bothering Steven could n't embarrass themselves . <eos>
+Essays that were n't bothering Steven could n't embarrass himself . <eos>
 Many cashiers who resemble the drawing do fire themselves . <eos>
 Many cashiers who resemble the drawing do fire itself . <eos>
 Some boys who can see Rachelle should conceal themselves . <eos>
@@ -1432,8 +1432,8 @@ That painting that could hurt Carla impressed itself . <eos>
 That painting that could hurt Carla impressed herself . <eos>
 Most girls that could upset every guy will investigate themselves . <eos>
 Most girls that could upset every guy will investigate himself . <eos>
-All teachers who couldn't distract Travis have hidden themselves . <eos>
-All teachers who couldn't distract Travis have hidden himself . <eos>
+All teachers who could n't distract Travis have hidden themselves . <eos>
+All teachers who could n't distract Travis have hidden himself . <eos>
 The children that bike to this river reference themselves . <eos>
 The children that bike to this river reference itself . <eos>
 Some company that had loved Margaret respected itself . <eos>
@@ -1594,8 +1594,8 @@ Doctors that have messed up every movie theater might remember themselves . <eos
 Doctors that have messed up every movie theater might remember itself . <eos>
 All men who referenced Noah didn't observe themselves . <eos>
 All men who referenced Noah didn't observe himself . <eos>
-Most ladies who are lifting the plate couldn't disturb themselves . <eos>
-Most ladies who are lifting the plate couldn't disturb itself . <eos>
+Most ladies who are lifting the plate could n't disturb themselves . <eos>
+Most ladies who are lifting the plate could n't disturb itself . <eos>
 These students who took that box should embarrass themselves . <eos>
 These students who took that box should embarrass itself . <eos>
 Most legislatures that have n't referenced Paul shouldn't listen to themselves . <eos>
@@ -1618,8 +1618,8 @@ Women who hadn't hurt Danielle are n't revealing themselves . <eos>
 Women who hadn't hurt Danielle are n't revealing herself . <eos>
 Doctors who were disgusting Kimberley do n't kiss themselves . <eos>
 Doctors who were disgusting Kimberley do n't kiss herself . <eos>
-These drivers that saw Timothy won't disagree with themselves . <eos>
-These drivers that saw Timothy won't disagree with himself . <eos>
+These drivers that saw Timothy wo n't disagree with themselves . <eos>
+These drivers that saw Timothy wo n't disagree with himself . <eos>
 This legislature that can have these pants has shocked itself . <eos>
 This legislature that can have these pants has shocked themselves . <eos>
 Every committee that argued about some commentaries hadn't known itself . <eos>
@@ -1638,10 +1638,10 @@ The legislatures that alarmed Nicole impressed themselves . <eos>
 The legislatures that alarmed Nicole impressed herself . <eos>
 The lady that flees from Craig hadn't visited herself . <eos>
 The lady that flees from Craig hadn't visited himself . <eos>
-These computers that couldn't resemble a sketch aggravated themselves . <eos>
-These computers that couldn't resemble a sketch aggravated itself . <eos>
-Every museum that wouldn't talk to Janice couldn't insult itself . <eos>
-Every museum that wouldn't talk to Janice couldn't insult herself . <eos>
+These computers that could n't resemble a sketch aggravated themselves . <eos>
+These computers that could n't resemble a sketch aggravated itself . <eos>
+Every museum that wouldn't talk to Janice could n't insult itself . <eos>
+Every museum that wouldn't talk to Janice could n't insult herself . <eos>
 Some senators who complained about Sarah have n't complained about themselves . <eos>
 Some senators who complained about Sarah have n't complained about herself . <eos>
 Many photographs that worried Candice have disturbed themselves . <eos>
@@ -1690,10 +1690,10 @@ Most boys who were n't touring a school ca n't talk to themselves . <eos>
 Most boys who were n't touring a school ca n't talk to itself . <eos>
 A book that was n't disagreeing with Steven sounded like itself . <eos>
 A book that was n't disagreeing with Steven sounded like himself . <eos>
-Some adults that were driving to this museum couldn't approach themselves . <eos>
-Some adults that were driving to this museum couldn't approach itself . <eos>
-Many men who are n't boring Caroline couldn't leave themselves . <eos>
-Many men who are n't boring Caroline couldn't leave herself . <eos>
+Some adults that were driving to this museum could n't approach themselves . <eos>
+Some adults that were driving to this museum could n't approach itself . <eos>
+Many men who are n't boring Caroline could n't leave themselves . <eos>
+Many men who are n't boring Caroline could n't leave herself . <eos>
 These adults that do n't drop by that river observed themselves . <eos>
 These adults that do n't drop by that river observed itself . <eos>
 These screens that distracted Alexander disturbed themselves . <eos>
@@ -1744,8 +1744,8 @@ The dishes that do n't bore Ruth hurt themselves . <eos>
 The dishes that do n't bore Ruth hurt herself . <eos>
 This woman that is n't cleaning banks would leave herself . <eos>
 This woman that is n't cleaning banks would leave themselves . <eos>
-All ladies who won't discuss Dan are n't disturbing themselves . <eos>
-All ladies who won't discuss Dan are n't disturbing himself . <eos>
+All ladies who wo n't discuss Dan are n't disturbing themselves . <eos>
+All ladies who wo n't discuss Dan are n't disturbing himself . <eos>
 The women that will annoy Sharon have described themselves . <eos>
 The women that will annoy Sharon have described herself . <eos>
 Most pedestrians who observed Jane were criticizing themselves . <eos>
@@ -1768,8 +1768,8 @@ Some museums that insult a waitress were n't referencing themselves . <eos>
 Some museums that insult a waitress were n't referencing herself . <eos>
 Some commentaries that shocked Debra have n't disagreed with themselves . <eos>
 Some commentaries that shocked Debra have n't disagreed with herself . <eos>
-Some universities that were n't scaring Charles won't fire themselves . <eos>
-Some universities that were n't scaring Charles won't fire himself . <eos>
+Some universities that were n't scaring Charles wo n't fire themselves . <eos>
+Some universities that were n't scaring Charles wo n't fire himself . <eos>
 Most associations that admired Martin can embarrass themselves . <eos>
 Most associations that admired Martin can embarrass himself . <eos>
 The association that had bought the newspaper articles hadn't hired itself . <eos>
@@ -1920,8 +1920,8 @@ Some boys that sounded like Stacey ca n't respect themselves . <eos>
 Some boys that sounded like Stacey ca n't respect herself . <eos>
 These steps that irritate Tamara can hurt themselves . <eos>
 These steps that irritate Tamara can hurt herself . <eos>
-The man that couldn't hurt Monica is complaining about himself . <eos>
-The man that couldn't hurt Monica is complaining about herself . <eos>
+The man that could n't hurt Monica is complaining about himself . <eos>
+The man that could n't hurt Monica is complaining about herself . <eos>
 Some woman who was examining the essays did cure herself . <eos>
 Some woman who was examining the essays did cure themselves . <eos>
 That man that conceals some mouths fired himself . <eos>
@@ -1932,8 +1932,8 @@ These drivers that are n't ascending some ladder might conceal themselves . <eos
 These drivers that are n't ascending some ladder might conceal itself . <eos>
 A lot of students who are hugging Nicole ca n't sound like themselves . <eos>
 A lot of students who are hugging Nicole ca n't sound like herself . <eos>
-The people who are n't arriving at this mountain won't talk about themselves . <eos>
-The people who are n't arriving at this mountain won't talk about itself . <eos>
+The people who are n't arriving at this mountain wo n't talk about themselves . <eos>
+The people who are n't arriving at this mountain wo n't talk about itself . <eos>
 Patients that might leave Carrie alarmed themselves . <eos>
 Patients that might leave Carrie alarmed herself . <eos>
 The boy who has passed a library helps himself . <eos>
@@ -1944,8 +1944,8 @@ This girl that disliked Robert attacks herself . <eos>
 This girl that disliked Robert attacks himself . <eos>
 Every commentary that bothered Tanya praises itself . <eos>
 Every commentary that bothered Tanya praises herself . <eos>
-A newspaper article that won't astound Holly criticized itself . <eos>
-A newspaper article that won't astound Holly criticized herself . <eos>
+A newspaper article that wo n't astound Holly criticized itself . <eos>
+A newspaper article that wo n't astound Holly criticized herself . <eos>
 The dancer that is disgusting this organization does love herself . <eos>
 The dancer that is disgusting this organization does love itself . <eos>
 Most girls that had every chair shouldn't fire themselves . <eos>
@@ -1994,7 +1994,7 @@ This committee that shouldn't work with Helen hadn't worried itself . <eos>
 This committee that shouldn't work with Helen hadn't worried herself . <eos>
 Some girls who drive to every hospital are hugging themselves . <eos>
 Some girls who drive to every hospital are hugging itself . <eos>
-Many hospitals that shouldn't aggravate Vanessa couldn't work with themselves . <eos>
-Many hospitals that shouldn't aggravate Vanessa couldn't work with herself . <eos>
+Many hospitals that shouldn't aggravate Vanessa could n't work with themselves . <eos>
+Many hospitals that shouldn't aggravate Vanessa could n't work with herself . <eos>
 Most patients that have n't insulted Theresa shouldn't escape from themselves . <eos>
 Most patients that have n't insulted Theresa shouldn't escape from herself . <eos>
