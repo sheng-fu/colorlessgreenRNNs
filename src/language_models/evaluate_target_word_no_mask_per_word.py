@@ -74,6 +74,7 @@ def evaluate(data_source):
             print(output_flat)
             print(output_flat.shape)
             print(targets)
+            print(output_flat[:, :2])
             exit()
 
             outfile.write(data_source[0][i] + '\t' + str(nn.CrossEntropyLoss(reduction='none')(output_flat, targets).tolist()) + '\n')
