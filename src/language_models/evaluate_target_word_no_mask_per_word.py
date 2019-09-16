@@ -71,7 +71,7 @@ def evaluate(data_source):
 
             print(data_source[0][i])
             #print(nn.CrossEntropyLoss(reduction='none')(output_flat, targets))
-            entropy1 = -(torch.exp(lm_pred1) * lm_pred1).sum(dim=-1)
+            entropy1 = -(torch.exp(output_flat) * output_flat).sum(dim=-1)
             print(entropy1)
             #print(output_flat)
             #print(output_flat.shape)
