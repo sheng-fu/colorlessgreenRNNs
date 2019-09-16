@@ -3,7 +3,7 @@ library(jsonlite)
 
 setwd("~/GitHub/colorlessgreenRNNs/src/analysis")
 
-sentence_path = "~/GitHub/colorlessgreenRNNs/results/sentence_full/"
+sentence_path = "~/GitHub/colorlessgreenRNNs/results/tokenization_fix_0911/sentence_full/"
 sentence_file = list.files(sentence_path)
 sentence_file = sentence_file[grepl("_parsed", sentence_file)]
 
@@ -27,7 +27,7 @@ for (file in sentence_file){
 
 result_sent$type = "sentence"
 
-prefix_path = "~/GitHub/colorlessgreenRNNs/results/prefix_full/"
+prefix_path = "~/GitHub/colorlessgreenRNNs/results/tokenization_fix_0911/prefix_full/"
 prefix_file = list.files(prefix_path)
 prefix_file = prefix_file[grepl("_parsed", prefix_file)]
 
@@ -47,7 +47,7 @@ for (file in prefix_file){
   
 }
 
-two_prefix_path = "~/GitHub/colorlessgreenRNNs/results/two_prefix_full/"
+two_prefix_path = "~/GitHub/colorlessgreenRNNs/results/tokenization_fix_0911/two_prefix_full/"
 two_prefix_file = list.files(two_prefix_path)
 two_prefix_file = two_prefix_file[grepl("_parsed", two_prefix_file)]
 two_prefix_file
@@ -84,7 +84,7 @@ group_by(result_all, type) %>% summarise(acc = mean(prob_dec), n = n())
 
 View(breakdown)  
 
-write.table(result_all, "scil_pilot_full.tsv", sep='\t', quote=F, row.names = F)
-write.table(breakdown, "scil_breakdown_full.tsv", sep='\t', quote=F, row.names = F)
+write.table(result_all, "scil_pilot_full_token.tsv", sep='\t', quote=F, row.names = F)
+write.table(breakdown, "scil_breakdown_full_token.tsv", sep='\t', quote=F, row.names = F)
 
 
