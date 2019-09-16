@@ -69,9 +69,8 @@ def evaluate(data_source):
             output_flat = output.view(-1, vocab_size)
             total_loss += len(data) * nn.CrossEntropyLoss()(output_flat, targets)
 
-            print(data_source[0][i])
-            print(nn.CrossEntropyLoss(reduction='none')(output_flat, targets))
-            exit()
+            #print(data_source[0][i])
+            #print(nn.CrossEntropyLoss(reduction='none')(output_flat, targets))
 
             outfile.write(data_source[0][i] + '\t' + str(len(data) * nn.CrossEntropyLoss(reduction='none')(output_flat, targets).item()) + '\n')
 
