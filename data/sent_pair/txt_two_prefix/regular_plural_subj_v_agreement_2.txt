@@ -1,39 +1,39 @@
-The guys haven't
-The guy haven't
-The adults haven't
-The adult haven't
-The cashier hasn't
-The cashiers hasn't
-The association wasn't
-The associations wasn't
+The guys have n't
+The guy have n't
+The adults have n't
+The adult have n't
+The cashier has n't
+The cashiers has n't
+The association was n't
+The associations was n't
 The driver has
 The drivers has
-The cashiers haven't
-The cashier haven't
-The organization hasn't
-The organizations hasn't
+The cashiers have n't
+The cashier have n't
+The organization has n't
+The organizations has n't
 The patient does
 The patients does
 The companies have
 The company have
 The teachers are
 The teacher are
-The patient doesn't
-The patients doesn't
+The patient does n't
+The patients does n't
 The customers do
 The customer do
 The teenagers have
 The teenager have
-The waitresses don't
-The waitress don't
-The company hasn't
-The companies hasn't
+The waitresses do n't
+The waitress do n't
+The company has n't
+The companies has n't
 The patient was
 The patients was
-The pedestrians aren't
-The pedestrian aren't
-The customers weren't
-The customer weren't
+The pedestrians are n't
+The pedestrian are n't
+The customers were n't
+The customer were n't
 The doctor is
 The doctors is
 The dancer is
@@ -42,12 +42,12 @@ The customers do
 The customer do
 The cashiers do
 The cashier do
-The dancers aren't
-The dancer aren't
+The dancers are n't
+The dancer are n't
 The schools do
 The school do
-The ladies weren't
-The lady weren't
+The ladies were n't
+The lady were n't
 The dancer does
 The dancers does
 The patients are
@@ -56,10 +56,10 @@ The girls do
 The girl do
 The adult has
 The adults has
-The adults haven't
-The adult haven't
-The hamster isn't
-The hamsters isn't
+The adults have n't
+The adult have n't
+The hamster is n't
+The hamsters is n't
 The doctor has
 The doctors has
 The actors have
@@ -68,20 +68,20 @@ The guys have
 The guy have
 The pedestrians do
 The pedestrian do
-The patient hasn't
-The patients hasn't
-The waitresses don't
-The waitress don't
+The patient has n't
+The patients has n't
+The waitresses do n't
+The waitress do n't
 The cashier does
 The cashiers does
-The girls don't
-The girl don't
-The adults weren't
-The adult weren't
-The girls don't
-The girl don't
-The ladies don't
-The lady don't
+The girls do n't
+The girl do n't
+The adults were n't
+The adult were n't
+The girls do n't
+The girl do n't
+The ladies do n't
+The lady do n't
 The drivers do
 The driver do
 The children have
@@ -92,48 +92,48 @@ The cat does
 The cats does
 The ladies are
 The lady are
-The boy doesn't
-The boys doesn't
-The companies don't
-The company don't
+The boy does n't
+The boys does n't
+The companies do n't
+The company do n't
 The cashiers have
 The cashier have
 The lady is
 The ladies is
 The legislatures were
 The legislature were
-The report hasn't
-The reports hasn't
+The report has n't
+The reports has n't
 The drivers have
 The driver have
-The snakes haven't
-The snake haven't
+The snakes have n't
+The snake have n't
 The companies do
 The company do
 The guests do
 The guest do
 The ladies do
 The lady do
-The student hasn't
-The students hasn't
-The waiter doesn't
-The waiters doesn't
-The driver hasn't
-The drivers hasn't
-The children don't
-The child don't
+The student has n't
+The students has n't
+The waiter does n't
+The waiters does n't
+The driver has n't
+The drivers has n't
+The children do n't
+The child do n't
 The actor is
 The actors is
-The boy hasn't
-The boys hasn't
-The customer doesn't
-The customers doesn't
-The teenager doesn't
-The teenagers doesn't
+The boy has n't
+The boys has n't
+The customer does n't
+The customers does n't
+The teenager does n't
+The teenagers does n't
 The patients are
 The patient are
-The senators haven't
-The senator haven't
+The senators have n't
+The senator have n't
 The bank has
 The banks has
 The adult has
@@ -144,136 +144,136 @@ The committee is
 The committees is
 The university has
 The universities has
-The girls weren't
-The girl weren't
+The girls were n't
+The girl were n't
 The patients are
 The patient are
-The dancers haven't
-The dancer haven't
+The dancers have n't
+The dancer have n't
 The boys were
 The boy were
 The waiter has
 The waiters has
-The guy doesn't
-The guys doesn't
+The guy does n't
+The guys does n't
 The museum has
 The museums has
 The guys do
 The guy do
-The museums aren't
-The museum aren't
-The actresses don't
-The actress don't
+The museums are n't
+The museum are n't
+The actresses do n't
+The actress do n't
 The lady has
 The ladies has
-The guys don't
-The guy don't
-The teenagers weren't
-The teenager weren't
+The guys do n't
+The guy do n't
+The teenagers were n't
+The teenager were n't
 The museum was
 The museums was
 The children have
 The child have
-The actress isn't
-The actresses isn't
-The guests don't
-The guest don't
-The waitress hasn't
-The waitresses hasn't
-The library doesn't
-The libraries doesn't
+The actress is n't
+The actresses is n't
+The guests do n't
+The guest do n't
+The waitress has n't
+The waitresses has n't
+The library does n't
+The libraries does n't
 The teenagers have
 The teenager have
-The actress wasn't
-The actresses wasn't
-The bank doesn't
-The banks doesn't
-The cashiers don't
-The cashier don't
-The shoes haven't
-The shoe haven't
-The waiters weren't
-The waiter weren't
+The actress was n't
+The actresses was n't
+The bank does n't
+The banks does n't
+The cashiers do n't
+The cashier do n't
+The shoes have n't
+The shoe have n't
+The waiters were n't
+The waiter were n't
 The senators were
 The senator were
-The waiter isn't
-The waiters isn't
-The adult doesn't
-The adults doesn't
-The prints don't
-The print don't
-The ladies haven't
-The lady haven't
-The waitresses weren't
-The waitress weren't
-The hamsters aren't
-The hamster aren't
+The waiter is n't
+The waiters is n't
+The adult does n't
+The adults does n't
+The prints do n't
+The print do n't
+The ladies have n't
+The lady have n't
+The waitresses were n't
+The waitress were n't
+The hamsters are n't
+The hamster are n't
 The guys do
 The guy do
 The girl was
 The girls was
-The dancer wasn't
-The dancers wasn't
+The dancer was n't
+The dancers was n't
 The university does
 The universities does
-The customer doesn't
-The customers doesn't
+The customer does n't
+The customers does n't
 The children were
 The child were
-The legislatures haven't
-The legislature haven't
-The driver hasn't
-The drivers hasn't
-The chairs haven't
-The chair haven't
+The legislatures have n't
+The legislature have n't
+The driver has n't
+The drivers has n't
+The chairs have n't
+The chair have n't
 The dancers do
 The dancer do
 The actress is
 The actresses is
 The senator is
 The senators is
-The waitress doesn't
-The waitresses doesn't
+The waitress does n't
+The waitresses does n't
 The waiter has
 The waiters has
 The teenager is
 The teenagers is
-The actor doesn't
-The actors doesn't
-The waitresses don't
-The waitress don't
+The actor does n't
+The actors does n't
+The waitresses do n't
+The waitress do n't
 The commentary has
 The commentaries has
 The waiter has
 The waiters has
-The adults haven't
-The adult haven't
-The horse isn't
-The horses isn't
+The adults have n't
+The adult have n't
+The horse is n't
+The horses is n't
 The story is
 The stories is
 The guests have
 The guest have
-The customers haven't
-The customer haven't
-The cashier doesn't
-The cashiers doesn't
-The legislatures haven't
-The legislature haven't
+The customers have n't
+The customer have n't
+The cashier does n't
+The cashiers does n't
+The legislatures have n't
+The legislature have n't
 The committees are
 The committee are
-The public park isn't
-The public parks isn't
-The actresses don't
-The actress don't
+The public park is n't
+The public parks is n't
+The actresses do n't
+The actress do n't
 The guest was
 The guests was
-The hospitals weren't
-The hospital weren't
-The teachers aren't
-The teacher aren't
-The teachers don't
-The teacher don't
+The hospitals were n't
+The hospital were n't
+The teachers are n't
+The teacher are n't
+The teachers do n't
+The teacher do n't
 The children do
 The child do
 The actresses have
@@ -282,58 +282,58 @@ The pamphlet was
 The pamphlets was
 The high schools have
 The high school have
-The teenager doesn't
-The teenagers doesn't
+The teenager does n't
+The teenagers does n't
 The university was
 The universities was
-The guests aren't
-The guest aren't
+The guests are n't
+The guest are n't
 The teachers have
 The teacher have
 The senators have
 The senator have
 The hospital does
 The hospitals does
-The girls aren't
-The girl aren't
-The girl hasn't
-The girls hasn't
+The girls are n't
+The girl are n't
+The girl has n't
+The girls has n't
 The universities do
 The university do
 The girls have
 The girl have
-The doctors aren't
-The doctor aren't
+The doctors are n't
+The doctor are n't
 The museum was
 The museums was
-The dancers don't
-The dancer don't
-The university doesn't
-The universities doesn't
+The dancers do n't
+The dancer do n't
+The university does n't
+The universities does n't
 The guests do
 The guest do
 The pedestrians have
 The pedestrian have
-The driver isn't
-The drivers isn't
-The pedestrian hasn't
-The pedestrians hasn't
-The guests haven't
-The guest haven't
+The driver is n't
+The drivers is n't
+The pedestrian has n't
+The pedestrians has n't
+The guests have n't
+The guest have n't
 The bank is
 The banks is
 The teachers have
 The teacher have
-The book hasn't
-The books hasn't
+The book has n't
+The books has n't
 The cafe has
 The cafes has
-The legislatures don't
-The legislature don't
-The girls haven't
-The girl haven't
-The universities haven't
-The university haven't
+The legislatures do n't
+The legislature do n't
+The girls have n't
+The girl have n't
+The universities have n't
+The university have n't
 The committee is
 The committees is
 The patients were
@@ -346,18 +346,18 @@ The actors have
 The actor have
 The guy has
 The guys has
-The teacher doesn't
-The teachers doesn't
+The teacher does n't
+The teachers does n't
 The pedestrian was
 The pedestrians was
-The waitresses don't
-The waitress don't
-The doctors don't
-The doctor don't
+The waitresses do n't
+The waitress do n't
+The doctors do n't
+The doctor do n't
 The libraries have
 The library have
-The pedestrians haven't
-The pedestrian haven't
+The pedestrians have n't
+The pedestrian have n't
 The government has
 The governments has
 The commentary is
@@ -366,12 +366,12 @@ The waiters do
 The waiter do
 The patient was
 The patients was
-The adults haven't
-The adult haven't
-The governments aren't
-The government aren't
-The shoes haven't
-The shoe haven't
+The adults have n't
+The adult have n't
+The governments are n't
+The government are n't
+The shoes have n't
+The shoe have n't
 The company does
 The companies does
 The cashier has
@@ -380,220 +380,220 @@ The waitress has
 The waitresses has
 The children do
 The child do
-The adult hasn't
-The adults hasn't
-The girls don't
-The girl don't
-The stories aren't
-The story aren't
-The patients don't
-The patient don't
-The guests weren't
-The guest weren't
+The adult has n't
+The adults has n't
+The girls do n't
+The girl do n't
+The stories are n't
+The story are n't
+The patients do n't
+The patient do n't
+The guests were n't
+The guest were n't
 The waiter has
 The waiters has
-The fork doesn't
-The forks doesn't
-The patient doesn't
-The patients doesn't
+The fork does n't
+The forks does n't
+The patient does n't
+The patients does n't
 The senators have
 The senator have
-The patients aren't
-The patient aren't
+The patients are n't
+The patient are n't
 The girls were
 The girl were
-The guy wasn't
-The guys wasn't
+The guy was n't
+The guys was n't
 The actress has
 The actresses has
 The guys have
 The guy have
-The governments weren't
-The government weren't
+The governments were n't
+The government were n't
 The guys have
 The guy have
-The universities aren't
-The university aren't
+The universities are n't
+The university are n't
 The library was
 The libraries was
 The guest has
 The guests has
-The doctors weren't
-The doctor weren't
+The doctors were n't
+The doctor were n't
 The movies have
 The movie have
 The adults have
 The adult have
 The company was
 The companies was
-The actresses haven't
-The actress haven't
-The student isn't
-The students isn't
+The actresses have n't
+The actress have n't
+The student is n't
+The students is n't
 The teachers have
 The teacher have
-The students don't
-The student don't
-The rabbit hasn't
-The rabbits hasn't
+The students do n't
+The student do n't
+The rabbit has n't
+The rabbits has n't
 The lady does
 The ladies does
-The lady hasn't
-The ladies hasn't
+The lady has n't
+The ladies has n't
 The senator is
 The senators is
-The waitresses don't
-The waitress don't
-The cashier wasn't
-The cashiers wasn't
+The waitresses do n't
+The waitress do n't
+The cashier was n't
+The cashiers was n't
 The teenagers have
 The teenager have
-The teacher doesn't
-The teachers doesn't
+The teacher does n't
+The teachers does n't
 The doctors do
 The doctor do
-The adult wasn't
-The adults wasn't
+The adult was n't
+The adults was n't
 The adults do
 The adult do
-The senators haven't
-The senator haven't
-The doctors haven't
-The doctor haven't
-The guy hasn't
-The guys hasn't
+The senators have n't
+The senator have n't
+The doctors have n't
+The doctor have n't
+The guy has n't
+The guys has n't
 The driver is
 The drivers is
 The girls do
 The girl do
-The actresses weren't
-The actress weren't
+The actresses were n't
+The actress were n't
 The teenagers have
 The teenager have
-The actress hasn't
-The actresses hasn't
+The actress has n't
+The actresses has n't
 The guests have
 The guest have
-The teenagers haven't
-The teenager haven't
+The teenagers have n't
+The teenager have n't
 The book does
 The books does
 The movie theaters do
 The movie theater do
 The teenager has
 The teenagers has
-The patient wasn't
-The patients wasn't
+The patient was n't
+The patients was n't
 The universities are
 The university are
-The governments don't
-The government don't
+The governments do n't
+The government do n't
 The waiter does
 The waiters does
-The libraries weren't
-The library weren't
-The college campus hasn't
-The college campuses hasn't
-The actors aren't
-The actor aren't
+The libraries were n't
+The library were n't
+The college campus has n't
+The college campuses has n't
+The actors are n't
+The actor are n't
 The girls have
 The girl have
-The legislature hasn't
-The legislatures hasn't
+The legislature has n't
+The legislatures has n't
 The teachers were
 The teacher were
-The senators haven't
-The senator haven't
+The senators have n't
+The senator have n't
 The customers have
 The customer have
-The senators haven't
-The senator haven't
-The adult wasn't
-The adults wasn't
-The waitresses don't
-The waitress don't
+The senators have n't
+The senator have n't
+The adult was n't
+The adults was n't
+The waitresses do n't
+The waitress do n't
 The waiters do
 The waiter do
 The school does
 The schools does
-The dancers aren't
-The dancer aren't
-The actress hasn't
-The actresses hasn't
-The actress doesn't
-The actresses doesn't
+The dancers are n't
+The dancer are n't
+The actress has n't
+The actresses has n't
+The actress does n't
+The actresses does n't
 The drivers have
 The driver have
 The actress has
 The actresses has
 The company is
 The companies is
-The dancer doesn't
-The dancers doesn't
-The senator hasn't
-The senators hasn't
+The dancer does n't
+The dancers does n't
+The senator has n't
+The senators has n't
 The teenager does
 The teenagers does
-The children aren't
-The child aren't
+The children are n't
+The child are n't
 The boys have
 The boy have
-The patients haven't
-The patient haven't
-The cashiers weren't
-The cashier weren't
+The patients have n't
+The patient have n't
+The cashiers were n't
+The cashier were n't
 The waitress was
 The waitresses was
-The patient isn't
-The patients isn't
+The patient is n't
+The patients is n't
 The doctors do
 The doctor do
-The libraries haven't
-The library haven't
-The guests aren't
-The guest aren't
-The teachers haven't
-The teacher haven't
-The students don't
-The student don't
+The libraries have n't
+The library have n't
+The guests are n't
+The guest are n't
+The teachers have n't
+The teacher have n't
+The students do n't
+The student do n't
 The grocery stores have
 The grocery store have
 The teacher has
 The teachers has
 The rabbit has
 The rabbits has
-The teenager doesn't
-The teenagers doesn't
+The teenager does n't
+The teenagers does n't
 The guests do
 The guest do
-The dress hasn't
-The dresses hasn't
-The committees aren't
-The committee aren't
+The dress has n't
+The dresses has n't
+The committees are n't
+The committee are n't
 The students do
 The student do
-The senator hasn't
-The senators hasn't
+The senator has n't
+The senators has n't
 The drivers have
 The driver have
 The teacher does
 The teachers does
 The organizations have
 The organization have
-The guy doesn't
-The guys doesn't
+The guy does n't
+The guys does n't
 The associations have
 The association have
-The association wasn't
-The associations wasn't
+The association was n't
+The associations was n't
 The teachers were
 The teacher were
 The dancers were
 The dancer were
-The pamphlet isn't
-The pamphlets isn't
-The senator doesn't
-The senators doesn't
+The pamphlet is n't
+The pamphlets is n't
+The senator does n't
+The senators does n't
 The pedestrian has
 The pedestrians has
 The girls have
@@ -602,36 +602,36 @@ The dancer is
 The dancers is
 The dogs have
 The dog have
-The student doesn't
-The students doesn't
+The student does n't
+The students does n't
 The senator was
 The senators was
 The boy has
 The boys has
 The teacher has
 The teachers has
-The children don't
-The child don't
-The actresses aren't
-The actress aren't
-The school wasn't
-The schools wasn't
+The children do n't
+The child do n't
+The actresses are n't
+The actress are n't
+The school was n't
+The schools was n't
 The organizations do
 The organization do
-The teacher wasn't
-The teachers wasn't
-The cashier doesn't
-The cashiers doesn't
+The teacher was n't
+The teachers was n't
+The cashier does n't
+The cashiers does n't
 The senator was
 The senators was
 The senators do
 The senator do
-The drivers don't
-The driver don't
+The drivers do n't
+The driver do n't
 The waiters do
 The waiter do
-The girl hasn't
-The girls hasn't
+The girl has n't
+The girls has n't
 The cats were
 The cat were
 The patients are
@@ -648,144 +648,144 @@ The actors do
 The actor do
 The books have
 The book have
-The teenager isn't
-The teenagers isn't
-The actor doesn't
-The actors doesn't
-The waiters weren't
-The waiter weren't
-The reports don't
-The report don't
+The teenager is n't
+The teenagers is n't
+The actor does n't
+The actors does n't
+The waiters were n't
+The waiter were n't
+The reports do n't
+The report do n't
 The guest has
 The guests has
 The legislature does
 The legislatures does
-The couches aren't
-The couch aren't
+The couches are n't
+The couch are n't
 The cashiers do
 The cashier do
 The guys have
 The guy have
 The waiters do
 The waiter do
-The customer doesn't
-The customers doesn't
-The organization doesn't
-The organizations doesn't
-The waitress isn't
-The waitresses isn't
-The pedestrian isn't
-The pedestrians isn't
-The pamphlet hasn't
-The pamphlets hasn't
-The teenager doesn't
-The teenagers doesn't
+The customer does n't
+The customers does n't
+The organization does n't
+The organizations does n't
+The waitress is n't
+The waitresses is n't
+The pedestrian is n't
+The pedestrians is n't
+The pamphlet has n't
+The pamphlets has n't
+The teenager does n't
+The teenagers does n't
 The waiter does
 The waiters does
-The newspaper article hasn't
-The newspaper articles hasn't
+The newspaper article has n't
+The newspaper articles has n't
 The companies have
 The company have
-The doctor doesn't
-The doctors doesn't
+The doctor does n't
+The doctors does n't
 The children do
 The child do
-The patients don't
-The patient don't
+The patients do n't
+The patient do n't
 The drawings are
 The drawing are
 The rug does
 The rugs does
-The students don't
-The student don't
-The teenagers weren't
-The teenager weren't
-The book doesn't
-The books doesn't
-The snake isn't
-The snakes isn't
-The organization hasn't
-The organizations hasn't
+The students do n't
+The student do n't
+The teenagers were n't
+The teenager were n't
+The book does n't
+The books does n't
+The snake is n't
+The snakes is n't
+The organization has n't
+The organizations has n't
 The doctors have
 The doctor have
-The associations haven't
-The association haven't
-The customers don't
-The customer don't
+The associations have n't
+The association have n't
+The customers do n't
+The customer do n't
 The guests were
 The guest were
-The actresses weren't
-The actress weren't
+The actresses were n't
+The actress were n't
 The teenagers do
 The teenager do
-The waiter isn't
-The waiters isn't
-The documentary wasn't
-The documentaries wasn't
+The waiter is n't
+The waiters is n't
+The documentary was n't
+The documentaries was n't
 The drawing was
 The drawings was
-The students don't
-The student don't
+The students do n't
+The student do n't
 The university does
 The universities does
 The senator has
 The senators has
 The pedestrians were
 The pedestrian were
-The lady doesn't
-The ladies doesn't
-The guests aren't
-The guest aren't
-The actor hasn't
-The actors hasn't
-The pedestrians don't
-The pedestrian don't
-The waitresses haven't
-The waitress haven't
-The association doesn't
-The associations doesn't
-The children don't
-The child don't
-The students don't
-The student don't
-The cashier doesn't
-The cashiers doesn't
-The boys weren't
-The boy weren't
-The guest isn't
-The guests isn't
+The lady does n't
+The ladies does n't
+The guests are n't
+The guest are n't
+The actor has n't
+The actors has n't
+The pedestrians do n't
+The pedestrian do n't
+The waitresses have n't
+The waitress have n't
+The association does n't
+The associations does n't
+The children do n't
+The child do n't
+The students do n't
+The student do n't
+The cashier does n't
+The cashiers does n't
+The boys were n't
+The boy were n't
+The guest is n't
+The guests is n't
 The adults have
 The adult have
-The organizations haven't
-The organization haven't
-The waiters aren't
-The waiter aren't
-The actresses don't
-The actress don't
-The government wasn't
-The governments wasn't
+The organizations have n't
+The organization have n't
+The waiters are n't
+The waiter are n't
+The actresses do n't
+The actress do n't
+The government was n't
+The governments was n't
 The girl does
 The girls does
-The driver wasn't
-The drivers wasn't
-The hospital doesn't
-The hospitals doesn't
-The senators haven't
-The senator haven't
+The driver was n't
+The drivers was n't
+The hospital does n't
+The hospitals does n't
+The senators have n't
+The senator have n't
 The guests are
 The guest are
-The organization hasn't
-The organizations hasn't
+The organization has n't
+The organizations has n't
 The drivers have
 The driver have
 The reports were
 The report were
-The girl doesn't
-The girls doesn't
+The girl does n't
+The girls does n't
 The teacher does
 The teachers does
-The guest hasn't
-The guests hasn't
+The guest has n't
+The guests has n't
 The university does
 The universities does
 The customer is
@@ -794,114 +794,114 @@ The commentaries do
 The commentary do
 The students were
 The student were
-The drivers don't
-The driver don't
+The drivers do n't
+The driver do n't
 The boys do
 The boy do
 The adults are
 The adult are
-The patient doesn't
-The patients doesn't
+The patient does n't
+The patients does n't
 The teenagers do
 The teenager do
 The dancers do
 The dancer do
-The actors haven't
-The actor haven't
+The actors have n't
+The actor have n't
 The cup was
 The cups was
 The students are
 The student are
-The organizations haven't
-The organization haven't
+The organizations have n't
+The organization have n't
 The students were
 The student were
 The commentary is
 The commentaries is
-The cashiers haven't
-The cashier haven't
-The waiter hasn't
-The waiters hasn't
+The cashiers have n't
+The cashier have n't
+The waiter has n't
+The waiters has n't
 The girl is
 The girls is
 The doctors do
 The doctor do
 The patient does
 The patients does
-The children weren't
-The child weren't
+The children were n't
+The child were n't
 The pedestrian has
 The pedestrians has
-The dancers don't
-The dancer don't
-The driver doesn't
-The drivers doesn't
+The dancers do n't
+The dancer do n't
+The driver does n't
+The drivers does n't
 The legislatures do
 The legislature do
 The guy was
 The guys was
 The customer has
 The customers has
-The adults weren't
-The adult weren't
-The committees haven't
-The committee haven't
-The guests weren't
-The guest weren't
+The adults were n't
+The adult were n't
+The committees have n't
+The committee have n't
+The guests were n't
+The guest were n't
 The senator does
 The senators does
-The governments don't
-The government don't
+The governments do n't
+The government do n't
 The actresses have
 The actress have
-The cat hasn't
-The cats hasn't
-The girl doesn't
-The girls doesn't
+The cat has n't
+The cats has n't
+The girl does n't
+The girls does n't
 The guy has
 The guys has
-The ladies weren't
-The lady weren't
-The adult wasn't
-The adults wasn't
-The guests haven't
-The guest haven't
+The ladies were n't
+The lady were n't
+The adult was n't
+The adults was n't
+The guests have n't
+The guest have n't
 The actors do
 The actor do
-The dancer hasn't
-The dancers hasn't
-The teachers weren't
-The teacher weren't
+The dancer has n't
+The dancers has n't
+The teachers were n't
+The teacher were n't
 The children were
 The child were
 The newspaper articles do
 The newspaper article do
 The waitress does
 The waitresses does
-The doctor doesn't
-The doctors doesn't
+The doctor does n't
+The doctors does n't
 The essay was
 The essays was
-The patient isn't
-The patients isn't
+The patient is n't
+The patients is n't
 The customers have
 The customer have
-The museum hasn't
-The museums hasn't
+The museum has n't
+The museums has n't
 The guests have
 The guest have
-The girl doesn't
-The girls doesn't
+The girl does n't
+The girls does n't
 The museums do
 The museum do
-The government hasn't
-The governments hasn't
-The organization hasn't
-The organizations hasn't
+The government has n't
+The governments has n't
+The organization has n't
+The organizations has n't
 The customer was
 The customers was
-The students don't
-The student don't
+The students do n't
+The student do n't
 The legislatures have
 The legislature have
 The waiters have
@@ -912,134 +912,134 @@ The public park does
 The public parks does
 The waitresses are
 The waitress are
-The pedestrians weren't
-The pedestrian weren't
+The pedestrians were n't
+The pedestrian were n't
 The actress has
 The actresses has
 The adult does
 The adults does
 The dancers do
 The dancer do
-The cashier wasn't
-The cashiers wasn't
-The guests don't
-The guest don't
+The cashier was n't
+The cashiers was n't
+The guests do n't
+The guest do n't
 The pedestrian has
 The pedestrians has
-The high school hasn't
-The high schools hasn't
-The cashier doesn't
-The cashiers doesn't
-The dancers don't
-The dancer don't
+The high school has n't
+The high schools has n't
+The cashier does n't
+The cashiers does n't
+The dancers do n't
+The dancer do n't
 The boy was
 The boys was
-The student isn't
-The students isn't
-The hat hasn't
-The hats hasn't
-The snakes don't
-The snake don't
+The student is n't
+The students is n't
+The hat has n't
+The hats has n't
+The snakes do n't
+The snake do n't
 The students are
 The student are
-The adult hasn't
-The adults hasn't
-The museum hasn't
-The museums hasn't
-The dancer wasn't
-The dancers wasn't
+The adult has n't
+The adults has n't
+The museum has n't
+The museums has n't
+The dancer was n't
+The dancers was n't
 The pedestrians are
 The pedestrian are
 The ladies have
 The lady have
-The patients haven't
-The patient haven't
-The actor isn't
-The actors isn't
+The patients have n't
+The patient have n't
+The actor is n't
+The actors is n't
 The waitress was
 The waitresses was
-The dancer doesn't
-The dancers doesn't
+The dancer does n't
+The dancers does n't
 The associations have
 The association have
-The customer isn't
-The customers isn't
-The pedestrian doesn't
-The pedestrians doesn't
+The customer is n't
+The customers is n't
+The pedestrian does n't
+The pedestrians does n't
 The company does
 The companies does
-The guys aren't
-The guy aren't
+The guys are n't
+The guy are n't
 The girl is
 The girls is
-The teachers aren't
-The teacher aren't
+The teachers are n't
+The teacher are n't
 The committee has
 The committees has
-The actresses don't
-The actress don't
-The committees weren't
-The committee weren't
+The actresses do n't
+The actress do n't
+The committees were n't
+The committee were n't
 The adults do
 The adult do
 The government was
 The governments was
-The adult wasn't
-The adults wasn't
+The adult was n't
+The adults was n't
 The pedestrians were
 The pedestrian were
-The doctor hasn't
-The doctors hasn't
-The actress doesn't
-The actresses doesn't
-The university doesn't
-The universities doesn't
+The doctor has n't
+The doctors has n't
+The actress does n't
+The actresses does n't
+The university does n't
+The universities does n't
 The drivers do
 The driver do
-The company hasn't
-The companies hasn't
-The teenager doesn't
-The teenagers doesn't
-The teenagers haven't
-The teenager haven't
-The guest hasn't
-The guests hasn't
-The movies weren't
-The movie weren't
+The company has n't
+The companies has n't
+The teenager does n't
+The teenagers does n't
+The teenagers have n't
+The teenager have n't
+The guest has n't
+The guests has n't
+The movies were n't
+The movie were n't
 The cashiers have
 The cashier have
 The association was
 The associations was
-The dancers don't
-The dancer don't
-The teenagers aren't
-The teenager aren't
+The dancers do n't
+The dancer do n't
+The teenagers are n't
+The teenager are n't
 The teenagers are
 The teenager are
 The essays do
 The essay do
 The children are
 The child are
-The dancers haven't
-The dancer haven't
-The dancer wasn't
-The dancers wasn't
+The dancers have n't
+The dancer have n't
+The dancer was n't
+The dancers was n't
 The play does
 The plays does
 The senators do
 The senator do
-The students don't
-The student don't
+The students do n't
+The student do n't
 The student has
 The students has
-The boys weren't
-The boy weren't
+The boys were n't
+The boy were n't
 The museum is
 The museums is
-The children don't
-The child don't
-The guest doesn't
-The guests doesn't
+The children do n't
+The child do n't
+The guest does n't
+The guests does n't
 The teenagers have
 The teenager have
 The dancers were
@@ -1050,52 +1050,52 @@ The committees have
 The committee have
 The adult has
 The adults has
-The boys don't
-The boy don't
-The school wasn't
-The schools wasn't
-The teachers haven't
-The teacher haven't
-The couches haven't
-The couch haven't
+The boys do n't
+The boy do n't
+The school was n't
+The schools was n't
+The teachers have n't
+The teacher have n't
+The couches have n't
+The couch have n't
 The waiters do
 The waiter do
 The pedestrian does
 The pedestrians does
-The fork isn't
-The forks isn't
+The fork is n't
+The forks is n't
 The driver does
 The drivers does
 The patient does
 The patients does
-The brochures don't
-The brochure don't
-The companies haven't
-The company haven't
+The brochures do n't
+The brochure do n't
+The companies have n't
+The company have n't
 The legislature is
 The legislatures is
-The association isn't
-The associations isn't
+The association is n't
+The associations is n't
 The girls were
 The girl were
 The actors do
 The actor do
 The government is
 The governments is
-The pedestrian isn't
-The pedestrians isn't
-The organization doesn't
-The organizations doesn't
+The pedestrian is n't
+The pedestrians is n't
+The organization does n't
+The organizations does n't
 The guests do
 The guest do
 The guest has
 The guests has
-The horse isn't
-The horses isn't
-The legislatures haven't
-The legislature haven't
-The customers aren't
-The customer aren't
+The horse is n't
+The horses is n't
+The legislatures have n't
+The legislature have n't
+The customers are n't
+The customer are n't
 The governments have
 The government have
 The pedestrians are
@@ -1104,20 +1104,20 @@ The doctors do
 The doctor do
 The chairs do
 The chair do
-The associations haven't
-The association haven't
-The newspaper article isn't
-The newspaper articles isn't
+The associations have n't
+The association have n't
+The newspaper article is n't
+The newspaper articles is n't
 The senator has
 The senators has
-The cashier hasn't
-The cashiers hasn't
-The pictures weren't
-The picture weren't
-The patients haven't
-The patient haven't
-The guys haven't
-The guy haven't
+The cashier has n't
+The cashiers has n't
+The pictures were n't
+The picture were n't
+The patients have n't
+The patient have n't
+The guys have n't
+The guy have n't
 The teacher is
 The teachers is
 The cashiers are
@@ -1126,52 +1126,52 @@ The cashiers do
 The cashier do
 The cashier is
 The cashiers is
-The girl doesn't
-The girls doesn't
+The girl does n't
+The girls does n't
 The actors were
 The actor were
 The guest does
 The guests does
-The patients aren't
-The patient aren't
-The guest isn't
-The guests isn't
+The patients are n't
+The patient are n't
+The guest is n't
+The guests is n't
 The actresses were
 The actress were
 The dancer has
 The dancers has
-The dress wasn't
-The dresses wasn't
+The dress was n't
+The dresses was n't
 The drivers do
 The driver do
 The actor does
 The actors does
-The customers aren't
-The customer aren't
-The universities don't
-The university don't
+The customers are n't
+The customer are n't
+The universities do n't
+The university do n't
 The actresses do
 The actress do
-The drivers haven't
-The driver haven't
-The banks haven't
-The bank haven't
-The adult doesn't
-The adults doesn't
+The drivers have n't
+The driver have n't
+The banks have n't
+The bank have n't
+The adult does n't
+The adults does n't
 The drivers do
 The driver do
-The customer isn't
-The customers isn't
+The customer is n't
+The customers is n't
 The senators have
 The senator have
-The doctor hasn't
-The doctors hasn't
-The cars haven't
-The car haven't
+The doctor has n't
+The doctors has n't
+The cars have n't
+The car have n't
 The guys have
 The guy have
-The commentary doesn't
-The commentaries doesn't
+The commentary does n't
+The commentaries does n't
 The teenagers do
 The teenager do
 The adults were
@@ -1182,44 +1182,44 @@ The dancer has
 The dancers has
 The cashiers do
 The cashier do
-The boys weren't
-The boy weren't
+The boys were n't
+The boy were n't
 The children have
 The child have
 The teenagers have
 The teenager have
-The birds haven't
-The bird haven't
+The birds have n't
+The bird have n't
 The doctors have
 The doctor have
-The senator doesn't
-The senators doesn't
+The senator does n't
+The senators does n't
 The dancers were
 The dancer were
 The customer has
 The customers has
 The cat is
 The cats is
-The doctors don't
-The doctor don't
-The teenagers don't
-The teenager don't
-The senator wasn't
-The senators wasn't
+The doctors do n't
+The doctor do n't
+The teenagers do n't
+The teenager do n't
+The senator was n't
+The senators was n't
 The gloves do
 The glove do
-The universities haven't
-The university haven't
-The waitress hasn't
-The waitresses hasn't
+The universities have n't
+The university have n't
+The waitress has n't
+The waitresses has n't
 The doctors do
 The doctor do
-The banks haven't
-The bank haven't
+The banks have n't
+The bank have n't
 The patient does
 The patients does
-The actress doesn't
-The actresses doesn't
+The actress does n't
+The actresses does n't
 The guests have
 The guest have
 The pedestrians have
@@ -1228,54 +1228,54 @@ The book has
 The books has
 The adults do
 The adult do
-The children don't
-The child don't
+The children do n't
+The child do n't
 The cashiers do
 The cashier do
 The commentary was
 The commentaries was
-The senator doesn't
-The senators doesn't
-The horse hasn't
-The horses hasn't
-The senators haven't
-The senator haven't
+The senator does n't
+The senators does n't
+The horse has n't
+The horses has n't
+The senators have n't
+The senator have n't
 The driver does
 The drivers does
-The cashiers haven't
-The cashier haven't
+The cashiers have n't
+The cashier have n't
 The associations have
 The association have
-The actress wasn't
-The actresses wasn't
+The actress was n't
+The actresses was n't
 The students were
 The student were
 The student has
 The students has
-The guest doesn't
-The guests doesn't
-The hamster hasn't
-The hamsters hasn't
-The committees haven't
-The committee haven't
+The guest does n't
+The guests does n't
+The hamster has n't
+The hamsters has n't
+The committees have n't
+The committee have n't
 The associations do
 The association do
-The actress wasn't
-The actresses wasn't
+The actress was n't
+The actresses was n't
 The committee has
 The committees has
-The customer hasn't
-The customers hasn't
-The girls don't
-The girl don't
-The boys don't
-The boy don't
+The customer has n't
+The customers has n't
+The girls do n't
+The girl do n't
+The boys do n't
+The boy do n't
 The cashiers were
 The cashier were
-The girl hasn't
-The girls hasn't
-The teacher doesn't
-The teachers doesn't
+The girl has n't
+The girls has n't
+The teacher does n't
+The teachers does n't
 The customer was
 The customers was
 The patient does
@@ -1284,24 +1284,24 @@ The teachers do
 The teacher do
 The adult does
 The adults does
-The universities aren't
-The university aren't
+The universities are n't
+The university are n't
 The girls are
 The girl are
 The doctors were
 The doctor were
-The snake wasn't
-The snakes wasn't
-The adult hasn't
-The adults hasn't
+The snake was n't
+The snakes was n't
+The adult has n't
+The adults has n't
 The drivers have
 The driver have
 The waitress has
 The waitresses has
 The sketch has
 The sketches has
-The associations aren't
-The association aren't
+The associations are n't
+The association are n't
 The association has
 The associations has
 The school has
@@ -1312,20 +1312,20 @@ The actors do
 The actor do
 The students have
 The student have
-The dancer doesn't
-The dancers doesn't
-The guy hasn't
-The guys hasn't
+The dancer does n't
+The dancers does n't
+The guy has n't
+The guys has n't
 The doctors do
 The doctor do
-The organization hasn't
-The organizations hasn't
+The organization has n't
+The organizations has n't
 The doctors have
 The doctor have
 The adults do
 The adult do
-The customer doesn't
-The customers doesn't
+The customer does n't
+The customers does n't
 The students have
 The student have
 The actress does
@@ -1334,26 +1334,26 @@ The cashiers have
 The cashier have
 The adults do
 The adult do
-The adult isn't
-The adults isn't
-The pamphlet wasn't
-The pamphlets wasn't
+The adult is n't
+The adults is n't
+The pamphlet was n't
+The pamphlets was n't
 The customer was
 The customers was
 The customer was
 The customers was
 The rabbits are
 The rabbit are
-The actor wasn't
-The actors wasn't
+The actor was n't
+The actors was n't
 The waiter does
 The waiters does
 The legislatures do
 The legislature do
 The customer is
 The customers is
-The actress hasn't
-The actresses hasn't
+The actress has n't
+The actresses has n't
 The guys have
 The guy have
 The turtles have
@@ -1362,30 +1362,30 @@ The senators have
 The senator have
 The patients were
 The patient were
-The girls weren't
-The girl weren't
-The girl hasn't
-The girls hasn't
+The girls were n't
+The girl were n't
+The girl has n't
+The girls has n't
 The bank has
 The banks has
 The teenagers have
 The teenager have
 The universities are
 The university are
-The boy doesn't
-The boys doesn't
-The customer isn't
-The customers isn't
-The customer wasn't
-The customers wasn't
+The boy does n't
+The boys does n't
+The customer is n't
+The customers is n't
+The customer was n't
+The customers was n't
 The pedestrian has
 The pedestrians has
-The couches haven't
-The couch haven't
+The couches have n't
+The couch have n't
 The boys were
 The boy were
-The students don't
-The student don't
+The students do n't
+The student do n't
 The girls do
 The girl do
 The committees do
@@ -1396,16 +1396,16 @@ The teachers do
 The teacher do
 The driver does
 The drivers does
-The actor hasn't
-The actors hasn't
-The brochures weren't
-The brochure weren't
+The actor has n't
+The actors has n't
+The brochures were n't
+The brochure were n't
 The actors do
 The actor do
 The senator is
 The senators is
-The doctor isn't
-The doctors isn't
+The doctor is n't
+The doctors is n't
 The boys do
 The boy do
 The actresses have
@@ -1414,18 +1414,18 @@ The boy was
 The boys was
 The patients have
 The patient have
-The senators haven't
-The senator haven't
-The drawings don't
-The drawing don't
-The picture doesn't
-The pictures doesn't
+The senators have n't
+The senator have n't
+The drawings do n't
+The drawing do n't
+The picture does n't
+The pictures does n't
 The associations have
 The association have
 The boy was
 The boys was
-The movie theaters weren't
-The movie theater weren't
+The movie theaters were n't
+The movie theater were n't
 The story has
 The stories has
 The hospital has
@@ -1440,62 +1440,62 @@ The senators do
 The senator do
 The lady does
 The ladies does
-The customer isn't
-The customers isn't
+The customer is n't
+The customers is n't
 The girl was
 The girls was
-The doctors haven't
-The doctor haven't
+The doctors have n't
+The doctor have n't
 The dancer does
 The dancers does
 The teachers do
 The teacher do
-The association isn't
-The associations isn't
+The association is n't
+The associations is n't
 The patients are
 The patient are
 The sketch does
 The sketches does
 The guys have
 The guy have
-The students haven't
-The student haven't
+The students have n't
+The student have n't
 The dancer does
 The dancers does
-The patients haven't
-The patient haven't
+The patients have n't
+The patient have n't
 The museum does
 The museums does
-The girls haven't
-The girl haven't
+The girls have n't
+The girl have n't
 The cashier does
 The cashiers does
-The restaurants haven't
-The restaurant haven't
-The adult hasn't
-The adults hasn't
-The adults aren't
-The adult aren't
-The turtles don't
-The turtle don't
+The restaurants have n't
+The restaurant have n't
+The adult has n't
+The adults has n't
+The adults are n't
+The adult are n't
+The turtles do n't
+The turtle do n't
 The student does
 The students does
-The company hasn't
-The companies hasn't
+The company has n't
+The companies has n't
 The customers were
 The customer were
 The girls have
 The girl have
-The teenager isn't
-The teenagers isn't
+The teenager is n't
+The teenagers is n't
 The scarf was
 The scarfs was
-The patient isn't
-The patients isn't
+The patient is n't
+The patients is n't
 The dancer has
 The dancers has
-The waitresses don't
-The waitress don't
+The waitresses do n't
+The waitress do n't
 The waiter has
 The waiters has
 The ladies have
@@ -1506,88 +1506,88 @@ The actresses have
 The actress have
 The guy has
 The guys has
-The actresses don't
-The actress don't
+The actresses do n't
+The actress do n't
 The essay was
 The essays was
-The adults haven't
-The adult haven't
-The adult hasn't
-The adults hasn't
-The teenagers haven't
-The teenager haven't
-The dancer isn't
-The dancers isn't
+The adults have n't
+The adult have n't
+The adult has n't
+The adults has n't
+The teenagers have n't
+The teenager have n't
+The dancer is n't
+The dancers is n't
 The patients do
 The patient do
-The children haven't
-The child haven't
+The children have n't
+The child have n't
 The guy has
 The guys has
 The actresses have
 The actress have
 The patients do
 The patient do
-The girls don't
-The girl don't
-The lady hasn't
-The ladies hasn't
+The girls do n't
+The girl do n't
+The lady has n't
+The ladies has n't
 The photograph has
 The photographs has
-The senators weren't
-The senator weren't
+The senators were n't
+The senator were n't
 The senators have
 The senator have
 The children have
 The child have
-The commentary hasn't
-The commentaries hasn't
+The commentary has n't
+The commentaries has n't
 The legislature has
 The legislatures has
 The ladies do
 The lady do
 The boy is
 The boys is
-The waiter isn't
-The waiters isn't
+The waiter is n't
+The waiters is n't
 The company has
 The companies has
 The hospital does
 The hospitals does
-The dancers haven't
-The dancer haven't
+The dancers have n't
+The dancer have n't
 The ladies have
 The lady have
-The waitress isn't
-The waitresses isn't
-The pedestrian wasn't
-The pedestrians wasn't
+The waitress is n't
+The waitresses is n't
+The pedestrian was n't
+The pedestrians was n't
 The pedestrian does
 The pedestrians does
-The doctor doesn't
-The doctors doesn't
-The children don't
-The child don't
-The senators don't
-The senator don't
-The waitress hasn't
-The waitresses hasn't
-The girl hasn't
-The girls hasn't
-The pedestrians aren't
-The pedestrian aren't
-The teacher doesn't
-The teachers doesn't
-The dog wasn't
-The dogs wasn't
+The doctor does n't
+The doctors does n't
+The children do n't
+The child do n't
+The senators do n't
+The senator do n't
+The waitress has n't
+The waitresses has n't
+The girl has n't
+The girls has n't
+The pedestrians are n't
+The pedestrian are n't
+The teacher does n't
+The teachers does n't
+The dog was n't
+The dogs was n't
 The guy does
 The guys does
 The teacher does
 The teachers does
 The lady is
 The ladies is
-The students aren't
-The student aren't
+The students are n't
+The student are n't
 The teachers do
 The teacher do
 The government does
@@ -1596,86 +1596,86 @@ The waiter does
 The waiters does
 The patient does
 The patients does
-The sketch doesn't
-The sketches doesn't
+The sketch does n't
+The sketches does n't
 The university does
 The universities does
-The customers weren't
-The customer weren't
+The customers were n't
+The customer were n't
 The waiters do
 The waiter do
-The adults haven't
-The adult haven't
+The adults have n't
+The adult have n't
 The waitress has
 The waitresses has
-The patients aren't
-The patient aren't
-The company wasn't
-The companies wasn't
-The dancer doesn't
-The dancers doesn't
+The patients are n't
+The patient are n't
+The company was n't
+The companies was n't
+The dancer does n't
+The dancers does n't
 The cats were
 The cat were
 The guys have
 The guy have
 The cashiers are
 The cashier are
-The gloves don't
-The glove don't
-The customers haven't
-The customer haven't
-The hospitals weren't
-The hospital weren't
-The government hasn't
-The governments hasn't
+The gloves do n't
+The glove do n't
+The customers have n't
+The customer have n't
+The hospitals were n't
+The hospital were n't
+The government has n't
+The governments has n't
 The guys are
 The guy are
-The drivers aren't
-The driver aren't
-The guests don't
-The guest don't
-The face hasn't
-The faces hasn't
-The children haven't
-The child haven't
+The drivers are n't
+The driver are n't
+The guests do n't
+The guest do n't
+The face has n't
+The faces has n't
+The children have n't
+The child have n't
 The patients do
 The patient do
 The libraries have
 The library have
 The patient does
 The patients does
-The committee doesn't
-The committees doesn't
-The dancers weren't
-The dancer weren't
-The children don't
-The child don't
-The skirt isn't
-The skirts isn't
-The dancers don't
-The dancer don't
-The guys haven't
-The guy haven't
+The committee does n't
+The committees does n't
+The dancers were n't
+The dancer were n't
+The children do n't
+The child do n't
+The skirt is n't
+The skirts is n't
+The dancers do n't
+The dancer do n't
+The guys have n't
+The guy have n't
 The teenager has
 The teenagers has
 The student was
 The students was
 The association does
 The associations does
-The cashiers aren't
-The cashier aren't
-The actresses don't
-The actress don't
+The cashiers are n't
+The cashier are n't
+The actresses do n't
+The actress do n't
 The customer was
 The customers was
-The university hasn't
-The universities hasn't
-The hospitals don't
-The hospital don't
+The university has n't
+The universities has n't
+The hospitals do n't
+The hospital do n't
 The brochures have
 The brochure have
-The dancer hasn't
-The dancers hasn't
+The dancer has n't
+The dancers has n't
 The girls were
 The girl were
 The boy is
@@ -1686,98 +1686,98 @@ The girl was
 The girls was
 The children do
 The child do
-The actor isn't
-The actors isn't
+The actor is n't
+The actors is n't
 The ladies were
 The lady were
-The print hasn't
-The prints hasn't
+The print has n't
+The prints has n't
 The committee has
 The committees has
-The children aren't
-The child aren't
-The customer hasn't
-The customers hasn't
+The children are n't
+The child are n't
+The customer has n't
+The customers has n't
 The pedestrians do
 The pedestrian do
 The dogs are
 The dog are
-The doctors don't
-The doctor don't
-The senators weren't
-The senator weren't
-The actors aren't
-The actor aren't
+The doctors do n't
+The doctor do n't
+The senators were n't
+The senator were n't
+The actors are n't
+The actor are n't
 The actresses are
 The actress are
 The children have
 The child have
 The teenagers are
 The teenager are
-The teenager wasn't
-The teenagers wasn't
+The teenager was n't
+The teenagers was n't
 The adults are
 The adult are
 The doctors do
 The doctor do
-The drivers weren't
-The driver weren't
-The boy hasn't
-The boys hasn't
-The cashier hasn't
-The cashiers hasn't
-The customer doesn't
-The customers doesn't
-The patient doesn't
-The patients doesn't
-The senators aren't
-The senator aren't
-The boys don't
-The boy don't
+The drivers were n't
+The driver were n't
+The boy has n't
+The boys has n't
+The cashier has n't
+The cashiers has n't
+The customer does n't
+The customers does n't
+The patient does n't
+The patients does n't
+The senators are n't
+The senator are n't
+The boys do n't
+The boy do n't
 The dress has
 The dresses has
-The student wasn't
-The students wasn't
-The waitresses haven't
-The waitress haven't
+The student was n't
+The students was n't
+The waitresses have n't
+The waitress have n't
 The newspaper article was
 The newspaper articles was
 The bank was
 The banks was
 The cashier has
 The cashiers has
-The ladies haven't
-The lady haven't
-The bank doesn't
-The banks doesn't
+The ladies have n't
+The lady have n't
+The bank does n't
+The banks does n't
 The guys do
 The guy do
-The customer wasn't
-The customers wasn't
-The dancers don't
-The dancer don't
-The students haven't
-The student haven't
+The customer was n't
+The customers was n't
+The dancers do n't
+The dancer do n't
+The students have n't
+The student have n't
 The guests were
 The guest were
 The committees have
 The committee have
-The teacher doesn't
-The teachers doesn't
+The teacher does n't
+The teachers does n't
 The girls do
 The girl do
-The pedestrians don't
-The pedestrian don't
+The pedestrians do n't
+The pedestrian do n't
 The association has
 The associations has
 The teenagers are
 The teenager are
-The students weren't
-The student weren't
-The ladies weren't
-The lady weren't
-The dancers haven't
-The dancer haven't
+The students were n't
+The student were n't
+The ladies were n't
+The lady were n't
+The dancers have n't
+The dancer have n't
 The committees are
 The committee are
 The guests have
@@ -1796,80 +1796,80 @@ The dancers do
 The dancer do
 The doctors have
 The doctor have
-The cashiers don't
-The cashier don't
-The doctor wasn't
-The doctors wasn't
-The patients haven't
-The patient haven't
+The cashiers do n't
+The cashier do n't
+The doctor was n't
+The doctors was n't
+The patients have n't
+The patient have n't
 The dancer has
 The dancers has
 The teachers have
 The teacher have
-The girls aren't
-The girl aren't
+The girls are n't
+The girl are n't
 The waitress was
 The waitresses was
 The dancers have
 The dancer have
 The drivers do
 The driver do
-The pedestrians haven't
-The pedestrian haven't
+The pedestrians have n't
+The pedestrian have n't
 The hamster does
 The hamsters does
 The actress does
 The actresses does
-The pedestrian doesn't
-The pedestrians doesn't
+The pedestrian does n't
+The pedestrians does n't
 The organization does
 The organizations does
-The lady isn't
-The ladies isn't
+The lady is n't
+The ladies is n't
 The drawing does
 The drawings does
 The newspaper article does
 The newspaper articles does
 The company does
 The companies does
-The documentaries don't
-The documentary don't
-The actress doesn't
-The actresses doesn't
-The lady doesn't
-The ladies doesn't
+The documentaries do n't
+The documentary do n't
+The actress does n't
+The actresses does n't
+The lady does n't
+The ladies does n't
 The patients do
 The patient do
 The stories are
 The story are
-The waiters don't
-The waiter don't
+The waiters do n't
+The waiter do n't
 The boys are
 The boy are
 The waitresses do
 The waitress do
-The guys don't
-The guy don't
-The pamphlets haven't
-The pamphlet haven't
+The guys do n't
+The guy do n't
+The pamphlets have n't
+The pamphlet have n't
 The shoes do
 The shoe do
 The organizations have
 The organization have
-The actress doesn't
-The actresses doesn't
-The driver wasn't
-The drivers wasn't
+The actress does n't
+The actresses does n't
+The driver was n't
+The drivers was n't
 The children have
 The child have
 The teenager has
 The teenagers has
 The hamster has
 The hamsters has
-The public parks aren't
-The public park aren't
-The lady wasn't
-The ladies wasn't
+The public parks are n't
+The public park are n't
+The lady was n't
+The ladies was n't
 The waiters were
 The waiter were
 The children do
@@ -1878,120 +1878,120 @@ The teacher does
 The teachers does
 The dancer has
 The dancers has
-The teenagers aren't
-The teenager aren't
-The hospital isn't
-The hospitals isn't
+The teenagers are n't
+The teenager are n't
+The hospital is n't
+The hospitals is n't
 The actor was
 The actors was
-The waitress hasn't
-The waitresses hasn't
-The pedestrians don't
-The pedestrian don't
+The waitress has n't
+The waitresses has n't
+The pedestrians do n't
+The pedestrian do n't
 The legislatures have
 The legislature have
 The customer has
 The customers has
-The lady hasn't
-The ladies hasn't
-The lady hasn't
-The ladies hasn't
+The lady has n't
+The ladies has n't
+The lady has n't
+The ladies has n't
 The guys are
 The guy are
-The library hasn't
-The libraries hasn't
-The doctors haven't
-The doctor haven't
+The library has n't
+The libraries has n't
+The doctors have n't
+The doctor have n't
 The guy has
 The guys has
-The committees haven't
-The committee haven't
-The students haven't
-The student haven't
-The driver wasn't
-The drivers wasn't
-The waitress wasn't
-The waitresses wasn't
+The committees have n't
+The committee have n't
+The students have n't
+The student have n't
+The driver was n't
+The drivers was n't
+The waitress was n't
+The waitresses was n't
 The essays are
 The essay are
-The waitress hasn't
-The waitresses hasn't
+The waitress has n't
+The waitresses has n't
 The waiters do
 The waiter do
 The legislature was
 The legislatures was
 The legislatures have
 The legislature have
-The teenagers weren't
-The teenager weren't
+The teenagers were n't
+The teenager were n't
 The guests are
 The guest are
-The guys aren't
-The guy aren't
-The teachers don't
-The teacher don't
-The essays don't
-The essay don't
+The guys are n't
+The guy are n't
+The teachers do n't
+The teacher do n't
+The essays do n't
+The essay do n't
 The student is
 The students is
-The students weren't
-The student weren't
+The students were n't
+The student were n't
 The pedestrian has
 The pedestrians has
-The libraries weren't
-The library weren't
+The libraries were n't
+The library were n't
 The boys are
 The boy are
 The actress does
 The actresses does
 The pictures were
 The picture were
-The guests haven't
-The guest haven't
+The guests have n't
+The guest have n't
 The waiters have
 The waiter have
 The senators do
 The senator do
-The patients aren't
-The patient aren't
-The ladies aren't
-The lady aren't
-The adults aren't
-The adult aren't
+The patients are n't
+The patient are n't
+The ladies are n't
+The lady are n't
+The adults are n't
+The adult are n't
 The teacher does
 The teachers does
-The paintings don't
-The painting don't
-The dancers weren't
-The dancer weren't
+The paintings do n't
+The painting do n't
+The dancers were n't
+The dancer were n't
 The drivers have
 The driver have
 The government has
 The governments has
-The pedestrians don't
-The pedestrian don't
-The museum wasn't
-The museums wasn't
-The movie hasn't
-The movies hasn't
-The plays don't
-The play don't
+The pedestrians do n't
+The pedestrian do n't
+The museum was n't
+The museums was n't
+The movie has n't
+The movies has n't
+The plays do n't
+The play do n't
 The senators do
 The senator do
-The legislature wasn't
-The legislatures wasn't
-The senator isn't
-The senators isn't
+The legislature was n't
+The legislatures was n't
+The senator is n't
+The senators is n't
 The actors do
 The actor do
 The patients have
 The patient have
-The schools weren't
-The school weren't
+The schools were n't
+The school were n't
 The waitresses do
 The waitress do
-The pedestrians haven't
-The pedestrian haven't
+The pedestrians have n't
+The pedestrian have n't
 The senator does
 The senators does
 The adults have
