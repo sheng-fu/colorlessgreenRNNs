@@ -49,8 +49,8 @@ for jsonl in jsonls:
         outfile = open(path+'/txt_two_prefix/'+jsonl[:-6]+'.txt', 'w')
         for i in infile_json:
              if 'two_prefix_prefix_good' in i.keys() and 'two_prefix_prefix_good' in i.keys():
-                good_form = re.sub('(are|is|have|has|do|does|was|were|ca|could|wo)n\'t', '\\1 n\'t', i['two_prefix_prefix_good'])
-                bad_form = re.sub('(are|is|have|has|do|does|was|were|ca|could|wo)n\'t', '\\1 n\'t', i['two_prefix_prefix_bad'])
+                good_form = re.sub('(are|is|have|has|do|does|was|were|ca|could|wo)n\'t', '\\1 n\'t', i['two_prefix_prefix_good']) + ' ' + i['two_prefix_word']
+                bad_form = re.sub('(are|is|have|has|do|does|was|were|ca|could|wo)n\'t', '\\1 n\'t', i['two_prefix_prefix_bad']) + ' ' + i['two_prefix_word']
                 outfile.write(good_form)
                 outfile.write('\n')
                 outfile.write(bad_form)
