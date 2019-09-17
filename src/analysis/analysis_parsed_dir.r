@@ -81,6 +81,7 @@ breakdown = group_by(result_all, UID, type, linguistics_term) %>% summarise(acc 
   
 group_by(result_all, type) %>% summarise(acc = mean(prob_dec), n = n())
 
+breakdown$UID
 
 View(breakdown)  
 

@@ -35,11 +35,11 @@ args = parser.parse_args()
 
 def parse_pairwise(filepath):
     infile = open(filepath, 'r')
-    outfile = open(filepath[:-4]+ '_parsed.tab', 'w')
+    outfile = open(filepath[:-4]+ '_parsed_by_token.tab', 'w')
     infile = [x for x in infile.read().split('\n') if x != '']
     for i in range(len(infile)):
         if i % 2 == 0:
-            outfile.write(infile[i].split('\t')[1] + '\t' + infile[i+1].split('\t')[1] + '\n')
+            outfile.write(infile[i] + '\t' + infile[i+1] + '\n')
 
     return None
         
@@ -154,10 +154,10 @@ test_data = dictionary_corpus.sent_tokenize_with_unks(dictionary, args.path + ".
 #print(test_data[0][0])
 #print(test_data[1][0])
 
-f_output = open(args.path + ".output_" + args.suffix, 'w')
+f_output = open(args.path + ".output_by_token" + args.suffix, 'w')
 evaluate(test_data)
-#parse_pairwise(args.outfile)
-print("Probabilities saved to", args.path + ".output_" + args.suffix)
+parse_pairwise(args.outfile)
+print("Probabilities saved to", args.path + ".output_by_token" + args.suffix)
 f_output.close()
 
 
