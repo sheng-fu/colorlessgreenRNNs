@@ -14,8 +14,8 @@ Who was Claire saying that the guest is n't positive has n't succeeded ? <eos>
 Who was Claire saying the guest is n't positive that has n't succeeded ? <eos>
 Who can all pedestrians explain that Aaron was n't positive had sounded like a high school ? <eos>
 Who can all pedestrians explain Aaron was n't positive that had sounded like a high school ? <eos>
-Who has Dennis imagined that Cheryl was n't doubtful didn't change ? <eos>
-Who has Dennis imagined Cheryl was n't doubtful that didn't change ? <eos>
+Who has Dennis imagined that Cheryl was n't doubtful did n't change ? <eos>
+Who has Dennis imagined Cheryl was n't doubtful that did n't change ? <eos>
 Who was Elizabeth thinking that Joseph is n't thrilled painted ? <eos>
 Who was Elizabeth thinking Joseph is n't thrilled that painted ? <eos>
 What had Stacy imagined that the teenager was n't lucky impressed a lot of customers ? <eos>
@@ -28,12 +28,12 @@ What had Lissa explained that Lissa was doubtful had ascended every ladder ? <eo
 What had Lissa explained Lissa was doubtful that had ascended every ladder ? <eos>
 Who had some ladies explained that Craig was thrilled found the dress ? <eos>
 Who had some ladies explained Craig was thrilled that found the dress ? <eos>
-Who had Gina explained that Suzanne was scared shouldn't care for Thomas ? <eos>
-Who had Gina explained Suzanne was scared that shouldn't care for Thomas ? <eos>
+Who had Gina explained that Suzanne was scared should n't care for Thomas ? <eos>
+Who had Gina explained Suzanne was scared that should n't care for Thomas ? <eos>
 Who can Edward think that Julie was n't content sang ? <eos>
 Who can Edward think Julie was n't content that sang ? <eos>
-Who has Lissa said that Matt is glad hadn't shocked Brian ? <eos>
-Who has Lissa said Matt is glad that hadn't shocked Brian ? <eos>
+Who has Lissa said that Matt is glad had n't shocked Brian ? <eos>
+Who has Lissa said Matt is glad that had n't shocked Brian ? <eos>
 What is Travis explaining that Tamara is n't glad impresses many schools ? <eos>
 What is Travis explaining Tamara is n't glad that impresses many schools ? <eos>
 Who has Theodore said that George was n't unsure stretched ? <eos>
@@ -70,8 +70,8 @@ Who had Valerie thought that Robert was sad bothered Janet ? <eos>
 Who had Valerie thought Robert was sad that bothered Janet ? <eos>
 Who had Marcus said that Steven is n't certain wo n't kiss Stacey ? <eos>
 Who had Marcus said Steven is n't certain that wo n't kiss Stacey ? <eos>
-Who should Rhonda explain that Stephanie is n't upset didn't joke around ? <eos>
-Who should Rhonda explain Stephanie is n't upset that didn't joke around ? <eos>
+Who should Rhonda explain that Stephanie is n't upset did n't joke around ? <eos>
+Who should Rhonda explain Stephanie is n't upset that did n't joke around ? <eos>
 Who is Nina thinking that Grace is sad was complaining about Sara ? <eos>
 Who is Nina thinking Grace is sad that was complaining about Sara ? <eos>
 Who was Melissa thinking that Sherry was n't delighted sell the fish ? <eos>
@@ -88,8 +88,8 @@ What is Margaret saying that Amy was n't sure was collaborating ? <eos>
 What is Margaret saying Amy was n't sure that was collaborating ? <eos>
 Who does some waitress imagine that James was displeased conceal Pamela ? <eos>
 Who does some waitress imagine James was displeased that conceal Pamela ? <eos>
-Who had the men thought that Lori was n't lucky hadn't worked with Lawrence ? <eos>
-Who had the men thought Lori was n't lucky that hadn't worked with Lawrence ? <eos>
+Who had the men thought that Lori was n't lucky had n't worked with Lawrence ? <eos>
+Who had the men thought Lori was n't lucky that had n't worked with Lawrence ? <eos>
 What had Kristin said that every girl is hopeful is cooperating ? <eos>
 What had Kristin said every girl is hopeful that is cooperating ? <eos>
 Who has Ronald said that this patient is n't unsure see a picture ? <eos>
@@ -102,8 +102,8 @@ What was Rodney saying that Elizabeth is n't troubled is negotiating ? <eos>
 What was Rodney saying Elizabeth is n't troubled that is negotiating ? <eos>
 Who is Alicia thinking that Nicole is n't pleased has n't fixed a lot of plates ? <eos>
 Who is Alicia thinking Nicole is n't pleased that has n't fixed a lot of plates ? <eos>
-Who has Cynthia explained that Kristin is lucky hadn't hunted ? <eos>
-Who has Cynthia explained Kristin is lucky that hadn't hunted ? <eos>
+Who has Cynthia explained that Kristin is lucky had n't hunted ? <eos>
+Who has Cynthia explained Kristin is lucky that had n't hunted ? <eos>
 Who had Marla said that Aaron is n't thrilled is leaving ? <eos>
 Who had Marla said Aaron is n't thrilled that is leaving ? <eos>
 Who has Clyde thought that Scott is excited did buy a lot of glasses ? <eos>
@@ -136,8 +136,8 @@ Who has Janet explained that Kendra is sure broke a plate ? <eos>
 Who has Janet explained Kendra is sure that broke a plate ? <eos>
 Who is Phillip saying that Bruce is convinced climb down every hill ? <eos>
 Who is Phillip saying Bruce is convinced that climb down every hill ? <eos>
-Who had Colleen explained that Derek was n't scared hadn't practiced ? <eos>
-Who had Colleen explained Derek was n't scared that hadn't practiced ? <eos>
+Who had Colleen explained that Derek was n't scared had n't practiced ? <eos>
+Who had Colleen explained Derek was n't scared that had n't practiced ? <eos>
 Who should Pamela say that Carlos is convinced stretched ? <eos>
 Who should Pamela say Carlos is convinced that stretched ? <eos>
 Who has Ann imagined that Tara was n't scared could wash ? <eos>
@@ -156,8 +156,8 @@ Who could Chad imagine that Emily is thrilled dropped by the public parks ? <eos
 Who could Chad imagine Emily is thrilled that dropped by the public parks ? <eos>
 Who are most dancers saying that Travis was n't hopeful ca n't bring the dish ? <eos>
 Who are most dancers saying Travis was n't hopeful that ca n't bring the dish ? <eos>
-What had Suzanne thought that Christopher was sure hadn't insulted some bank ? <eos>
-What had Suzanne thought Christopher was sure that hadn't insulted some bank ? <eos>
+What had Suzanne thought that Christopher was sure had n't insulted some bank ? <eos>
+What had Suzanne thought Christopher was sure that had n't insulted some bank ? <eos>
 Who have the drivers explained that many people are n't upset has n't ascended some steps ? <eos>
 Who have the drivers explained many people are n't upset that has n't ascended some steps ? <eos>
 What was Rachel saying that Diana was content was closing ? <eos>
@@ -172,8 +172,8 @@ What was Bruce explaining that Erin is n't thrilled should benefit ? <eos>
 What was Bruce explaining Erin is n't thrilled that should benefit ? <eos>
 Who has Brian thought that some waiter was uncertain was climbing down a lot of mountains ? <eos>
 Who has Brian thought some waiter was uncertain that was climbing down a lot of mountains ? <eos>
-Who has Jerry imagined that Bruce was n't unsure hadn't chuckled ? <eos>
-Who has Jerry imagined Bruce was n't unsure that hadn't chuckled ? <eos>
+Who has Jerry imagined that Bruce was n't unsure had n't chuckled ? <eos>
+Who has Jerry imagined Bruce was n't unsure that had n't chuckled ? <eos>
 Who is Martin explaining that some lady is glad is working with Cindy ? <eos>
 Who is Martin explaining some lady is glad that is working with Cindy ? <eos>
 Who was Carolyn thinking that Katherine was thrilled ca n't take a lot of slopes ? <eos>
@@ -188,8 +188,8 @@ Who is Anne explaining that Brad was n't hopeful ca n't sing ? <eos>
 Who is Anne explaining Brad was n't hopeful that ca n't sing ? <eos>
 Who is Karen thinking that Frank is n't content fight ? <eos>
 Who is Karen thinking Frank is n't content that fight ? <eos>
-Who is Jessica saying that Charles was n't pleased didn't grin ? <eos>
-Who is Jessica saying Charles was n't pleased that didn't grin ? <eos>
+Who is Jessica saying that Charles was n't pleased did n't grin ? <eos>
+Who is Jessica saying Charles was n't pleased that did n't grin ? <eos>
 Who has Kendra imagined that Ellen was n't delighted grin ? <eos>
 Who has Kendra imagined Ellen was n't delighted that grin ? <eos>
 Who is Jerry thinking that waiters were n't happy fix that chair ? <eos>
@@ -218,8 +218,8 @@ Who is Erin imagining that that doctor was doubtful is washing ? <eos>
 Who is Erin imagining that doctor was doubtful that is washing ? <eos>
 What is Eric imagining that Colleen was troubled was communicating ? <eos>
 What is Eric imagining Colleen was troubled that was communicating ? <eos>
-Who will this boy say that Monica was n't troubled shouldn't lie ? <eos>
-Who will this boy say Monica was n't troubled that shouldn't lie ? <eos>
+Who will this boy say that Monica was n't troubled should n't lie ? <eos>
+Who will this boy say Monica was n't troubled that should n't lie ? <eos>
 What might Andrew imagine that David is n't delighted ca n't melt ? <eos>
 What might Andrew imagine David is n't delighted that ca n't melt ? <eos>
 Who have most women said that these doctors are delighted has left Rodney ? <eos>
@@ -232,14 +232,14 @@ Who did every boy say that Phillip was doubtful was exercising ? <eos>
 Who did every boy say Phillip was doubtful that was exercising ? <eos>
 What is Keith imagining that Renee was doubtful talk about Matt ? <eos>
 What is Keith imagining Renee was doubtful that talk about Matt ? <eos>
-Who is Dana imagining that these dancers are n't upset hadn't respected Julia ? <eos>
-Who is Dana imagining these dancers are n't upset that hadn't respected Julia ? <eos>
+Who is Dana imagining that these dancers are n't upset had n't respected Julia ? <eos>
+Who is Dana imagining these dancers are n't upset that had n't respected Julia ? <eos>
 Who was Melissa saying that every cashier is scared wo n't benefit ? <eos>
 Who was Melissa saying every cashier is scared that wo n't benefit ? <eos>
 Who has Kendra thought that April was n't confident blinks ? <eos>
 Who has Kendra thought April was n't confident that blinks ? <eos>
-Who was Steven saying that Renee was n't lucky wouldn't mess up some cup ? <eos>
-Who was Steven saying Renee was n't lucky that wouldn't mess up some cup ? <eos>
+Who was Steven saying that Renee was n't lucky would n't mess up some cup ? <eos>
+Who was Steven saying Renee was n't lucky that would n't mess up some cup ? <eos>
 Who would Brenda imagine that a teacher is troubled does flirt ? <eos>
 Who would Brenda imagine a teacher is troubled that does flirt ? <eos>
 Who should these actors imagine that Noah was n't happy has n't upset Rhonda ? <eos>
@@ -254,14 +254,14 @@ Who did Valerie imagine that Julia is thrilled is n't communicating ? <eos>
 Who did Valerie imagine Julia is thrilled that is n't communicating ? <eos>
 Who had Walter imagined that some patients are n't lucky was n't dating ? <eos>
 Who had Walter imagined some patients are n't lucky that was n't dating ? <eos>
-Who was Michael saying that Allison was doubtful didn't donate ? <eos>
-Who was Michael saying Allison was doubtful that didn't donate ? <eos>
-What had William imagined that Brett was thrilled hadn't ripened ? <eos>
-What had William imagined Brett was thrilled that hadn't ripened ? <eos>
-What had Brian imagined that some students were n't happy shouldn't disgust Carl ? <eos>
-What had Brian imagined some students were n't happy that shouldn't disgust Carl ? <eos>
-What will some girls imagine that Douglas is thrilled wouldn't ripen ? <eos>
-What will some girls imagine Douglas is thrilled that wouldn't ripen ? <eos>
+Who was Michael saying that Allison was doubtful did n't donate ? <eos>
+Who was Michael saying Allison was doubtful that did n't donate ? <eos>
+What had William imagined that Brett was thrilled had n't ripened ? <eos>
+What had William imagined Brett was thrilled that had n't ripened ? <eos>
+What had Brian imagined that some students were n't happy should n't disgust Carl ? <eos>
+What had Brian imagined some students were n't happy that should n't disgust Carl ? <eos>
+What will some girls imagine that Douglas is thrilled would n't ripen ? <eos>
+What will some girls imagine Douglas is thrilled that would n't ripen ? <eos>
 Who has Gerald imagined that the customers are unsure has n't confused this library ? <eos>
 Who has Gerald imagined the customers are unsure that has n't confused this library ? <eos>
 Who had Tina explained that Regina is n't scared saluted ? <eos>
@@ -276,22 +276,22 @@ Who had this actress imagined that Brad was certain knows Roger ? <eos>
 Who had this actress imagined Brad was certain that knows Roger ? <eos>
 Who had Wayne imagined that Richard was unsure changed ? <eos>
 Who had Wayne imagined Richard was unsure that changed ? <eos>
-What do some pedestrians imagine that Holly is doubtful hadn't hated Donald ? <eos>
-What do some pedestrians imagine Holly is doubtful that hadn't hated Donald ? <eos>
+What do some pedestrians imagine that Holly is doubtful had n't hated Donald ? <eos>
+What do some pedestrians imagine Holly is doubtful that had n't hated Donald ? <eos>
 Who was Candice thinking that Colleen was upset cleans a lot of plates ? <eos>
 Who was Candice thinking Colleen was upset that cleans a lot of plates ? <eos>
 Who has Renee imagined that Mary was n't unconvinced washed ? <eos>
 Who has Renee imagined Mary was n't unconvinced that washed ? <eos>
 Who could Jerry say that Beverly is troubled assembled ? <eos>
 Who could Jerry say Beverly is troubled that assembled ? <eos>
-Who is Curtis thinking that Rebecca is positive hadn't fixed these vases ? <eos>
-Who is Curtis thinking Rebecca is positive that hadn't fixed these vases ? <eos>
-Who might Colleen think that all pedestrians were hopeful hadn't scared Cindy ? <eos>
-Who might Colleen think all pedestrians were hopeful that hadn't scared Cindy ? <eos>
+Who is Curtis thinking that Rebecca is positive had n't fixed these vases ? <eos>
+Who is Curtis thinking Rebecca is positive that had n't fixed these vases ? <eos>
+Who might Colleen think that all pedestrians were hopeful had n't scared Cindy ? <eos>
+Who might Colleen think all pedestrians were hopeful that had n't scared Cindy ? <eos>
 Who would Nina imagine that Amanda is upset talked ? <eos>
 Who would Nina imagine Amanda is upset that talked ? <eos>
-Who will the actresses imagine that Margaret is n't content hadn't toured these mountains ? <eos>
-Who will the actresses imagine Margaret is n't content that hadn't toured these mountains ? <eos>
+Who will the actresses imagine that Margaret is n't content had n't toured these mountains ? <eos>
+Who will the actresses imagine Margaret is n't content that had n't toured these mountains ? <eos>
 Who can Connie imagine that all teachers are sad reference Gina ? <eos>
 Who can Connie imagine all teachers are sad that reference Gina ? <eos>
 Who is Sheila thinking that Alicia is happy will shout ? <eos>
@@ -316,8 +316,8 @@ What is Theresa thinking that Tara was certain assemble ? <eos>
 What is Theresa thinking Tara was certain that assemble ? <eos>
 What has Amanda thought that Heidi was n't convinced escaped ? <eos>
 What has Amanda thought Heidi was n't convinced that escaped ? <eos>
-What has Kristin said that Lori is n't scared wouldn't distract Larry ? <eos>
-What has Kristin said Lori is n't scared that wouldn't distract Larry ? <eos>
+What has Kristin said that Lori is n't scared would n't distract Larry ? <eos>
+What has Kristin said Lori is n't scared that would n't distract Larry ? <eos>
 Who were most boys thinking that these adults are n't pleased hugged Brenda ? <eos>
 Who were most boys thinking these adults are n't pleased that hugged Brenda ? <eos>
 Who was Kendra thinking that Tracy was scared described Maria ? <eos>
@@ -366,8 +366,8 @@ Who is Liam imagining that some lady is n't hopeful embarrass Craig ? <eos>
 Who is Liam imagining some lady is n't hopeful that embarrass Craig ? <eos>
 What is Carolyn saying that these teenagers were n't confident is n't disagreeing with Monica ? <eos>
 What is Carolyn saying these teenagers were n't confident that is n't disagreeing with Monica ? <eos>
-Who will Elaine imagine that Angela is delighted hadn't bought that dog ? <eos>
-Who will Elaine imagine Angela is delighted that hadn't bought that dog ? <eos>
+Who will Elaine imagine that Angela is delighted had n't bought that dog ? <eos>
+Who will Elaine imagine Angela is delighted that had n't bought that dog ? <eos>
 Who was Curtis imagining that Robert was lucky investigates Elaine ? <eos>
 Who was Curtis imagining Robert was lucky that investigates Elaine ? <eos>
 Who had Christina thought that Teresa was happy complains about Bethany ? <eos>
@@ -446,8 +446,8 @@ Who can Linda imagine that Jennifer is n't unsure distracts many schools ? <eos>
 Who can Linda imagine Jennifer is n't unsure that distracts many schools ? <eos>
 Who had Andrea said that Carlos was lucky has n't eaten ? <eos>
 Who had Andrea said Carlos was lucky that has n't eaten ? <eos>
-Who might Tina imagine that Cindy is excited shouldn't testify ? <eos>
-Who might Tina imagine Cindy is excited that shouldn't testify ? <eos>
+Who might Tina imagine that Cindy is excited should n't testify ? <eos>
+Who might Tina imagine Cindy is excited that should n't testify ? <eos>
 What is Larry thinking that Jacqueline was sure was n't freezing ? <eos>
 What is Larry thinking Jacqueline was sure that was n't freezing ? <eos>
 Who is Jeffrey imagining that Paula was n't upset has gotten a job ? <eos>
@@ -460,8 +460,8 @@ Who was Dana thinking that Raymond was n't lucky is cooking ? <eos>
 Who was Dana thinking Raymond was n't lucky that is cooking ? <eos>
 Who was Danielle thinking that Paul was n't delighted sits down ? <eos>
 Who was Danielle thinking Paul was n't delighted that sits down ? <eos>
-Who has Kendra thought that some cashier is thrilled didn't distract Janice ? <eos>
-Who has Kendra thought some cashier is thrilled that didn't distract Janice ? <eos>
+Who has Kendra thought that some cashier is thrilled did n't distract Janice ? <eos>
+Who has Kendra thought some cashier is thrilled that did n't distract Janice ? <eos>
 Who can many students imagine that Tiffany is troubled was n't bringing the scarf ? <eos>
 Who can many students imagine Tiffany is troubled that was n't bringing the scarf ? <eos>
 What has Daniel said that Nina is n't certain closed ? <eos>
@@ -472,8 +472,8 @@ Who was Beverly explaining that Anna was thrilled bought this fork ? <eos>
 Who was Beverly explaining Anna was thrilled that bought this fork ? <eos>
 Who was Mark saying that Alice was n't upset had nodded ? <eos>
 Who was Mark saying Alice was n't upset that had nodded ? <eos>
-Who could Karen think that some ladies were pleased hadn't worn a scarf ? <eos>
-Who could Karen think some ladies were pleased that hadn't worn a scarf ? <eos>
+Who could Karen think that some ladies were pleased had n't worn a scarf ? <eos>
+Who could Karen think some ladies were pleased that had n't worn a scarf ? <eos>
 Who will Elaine imagine that Samuel was pleased will flirt ? <eos>
 Who will Elaine imagine Samuel was pleased that will flirt ? <eos>
 Who was Clyde imagining that Janice is n't hopeful was n't screaming ? <eos>
@@ -512,8 +512,8 @@ Who had Judy thought that Melissa is certain wo n't explain everything ? <eos>
 Who had Judy thought Melissa is certain that wo n't explain everything ? <eos>
 Who was Emily saying that Lisa was n't confident was n't driving to the rivers ? <eos>
 Who was Emily saying Lisa was n't confident that was n't driving to the rivers ? <eos>
-Who does Andrea think that Cindy was delighted hadn't admired most pants ? <eos>
-Who does Andrea think Cindy was delighted that hadn't admired most pants ? <eos>
+Who does Andrea think that Cindy was delighted had n't admired most pants ? <eos>
+Who does Andrea think Cindy was delighted that had n't admired most pants ? <eos>
 Who was Janet saying that Amy was n't certain scratch ? <eos>
 Who was Janet saying Amy was n't certain that scratch ? <eos>
 Who is Suzanne explaining that David was unconvinced has examined the commentaries ? <eos>
@@ -530,8 +530,8 @@ Who will Noah explain that Melinda is n't happy leave ? <eos>
 Who will Noah explain Melinda is n't happy that leave ? <eos>
 Who had most women thought that that waitress was troubled concealed Andrew ? <eos>
 Who had most women thought that waitress was troubled that concealed Andrew ? <eos>
-Who was Heather imagining that most waitresses are doubtful hadn't bored Richard ? <eos>
-Who was Heather imagining most waitresses are doubtful that hadn't bored Richard ? <eos>
+Who was Heather imagining that most waitresses are doubtful had n't bored Richard ? <eos>
+Who was Heather imagining most waitresses are doubtful that had n't bored Richard ? <eos>
 Who can Brad imagine that Holly was n't displeased donates ? <eos>
 Who can Brad imagine Holly was n't displeased that donates ? <eos>
 What had every dancer explained that Sheila was excited has profited ? <eos>
@@ -556,16 +556,16 @@ Who had Erin said that Sharon was n't unsure ate ? <eos>
 Who had Erin said Sharon was n't unsure that ate ? <eos>
 Who should Mary imagine that John is n't delighted should hire Karla ? <eos>
 Who should Mary imagine John is n't delighted that should hire Karla ? <eos>
-Who had Brenda imagined that many patients were n't pleased hadn't coped ? <eos>
-Who had Brenda imagined many patients were n't pleased that hadn't coped ? <eos>
+Who had Brenda imagined that many patients were n't pleased had n't coped ? <eos>
+Who had Brenda imagined many patients were n't pleased that had n't coped ? <eos>
 Who was Donna saying that Dan is lucky is n't lying ? <eos>
 Who was Donna saying Dan is lucky that is n't lying ? <eos>
 Who had the woman said that some doctors are delighted has corresponded ? <eos>
 Who had the woman said some doctors are delighted that has corresponded ? <eos>
 Who is Brenda explaining that Benjamin is doubtful has n't kissed ? <eos>
 Who is Brenda explaining Benjamin is doubtful that has n't kissed ? <eos>
-Who is Claire imagining that this actress is scared wouldn't bake ? <eos>
-Who is Claire imagining this actress is scared that wouldn't bake ? <eos>
+Who is Claire imagining that this actress is scared would n't bake ? <eos>
+Who is Claire imagining this actress is scared that would n't bake ? <eos>
 Who had Jill explained that Jessica is confident could perform ? <eos>
 Who had Jill explained Jessica is confident that could perform ? <eos>
 Who has Sheila said that Brenda is n't happy pass most restaurants ? <eos>
@@ -594,8 +594,8 @@ Who had Dawn thought that some cashiers are n't upset sounds like Thomas ? <eos>
 Who had Dawn thought some cashiers are n't upset that sounds like Thomas ? <eos>
 Who did Guy imagine that this waiter is uncertain has n't worked with Karen ? <eos>
 Who did Guy imagine this waiter is uncertain that has n't worked with Karen ? <eos>
-Who should Eric explain that Alexander was n't content wouldn't donate ? <eos>
-Who should Eric explain Alexander was n't content that wouldn't donate ? <eos>
+Who should Eric explain that Alexander was n't content would n't donate ? <eos>
+Who should Eric explain Alexander was n't content that would n't donate ? <eos>
 Who was Grace imagining that Ronald was confident hug that man ? <eos>
 Who was Grace imagining Ronald was confident that hug that man ? <eos>
 Who do the men imagine that every cashier is sure has negotiated ? <eos>
@@ -678,8 +678,8 @@ Who could Teresa say that Wendy was excited cure boys ? <eos>
 Who could Teresa say Wendy was excited that cure boys ? <eos>
 Who is Bruce thinking that Larry was hopeful shocked Susan ? <eos>
 Who is Bruce thinking Larry was hopeful that shocked Susan ? <eos>
-Who did Catherine say that every girl is uncertain hadn't coped ? <eos>
-Who did Catherine say every girl is uncertain that hadn't coped ? <eos>
+Who did Catherine say that every girl is uncertain had n't coped ? <eos>
+Who did Catherine say every girl is uncertain that had n't coped ? <eos>
 Who was Brenda explaining that Joel was scared has scratched ? <eos>
 Who was Brenda explaining Joel was scared that has scratched ? <eos>
 Who is Todd saying that Mary was n't positive is n't kissing ? <eos>
@@ -742,8 +742,8 @@ What have actors said that April was convinced testify ? <eos>
 What have actors said April was convinced that testify ? <eos>
 Who are all drivers saying that Elizabeth was unsure has found Christopher ? <eos>
 Who are all drivers saying Elizabeth was unsure that has found Christopher ? <eos>
-Who was Florence saying that Holly was lucky hadn't healed Donald ? <eos>
-Who was Florence saying Holly was lucky that hadn't healed Donald ? <eos>
+Who was Florence saying that Holly was lucky had n't healed Donald ? <eos>
+Who was Florence saying Holly was lucky that had n't healed Donald ? <eos>
 Who will David explain that Grace was n't delighted has n't concurred ? <eos>
 Who will David explain Grace was n't delighted that has n't concurred ? <eos>
 Who had Sherry explained that Craig was sure approves ? <eos>
@@ -786,8 +786,8 @@ Who was Joseph imagining that Emily is n't certain could sound like this documen
 Who was Joseph imagining Emily is n't certain that could sound like this documentary ? <eos>
 Who was Nina explaining that Sarah is confident had bought this door ? <eos>
 Who was Nina explaining Sarah is confident that had bought this door ? <eos>
-What had Liam said that Dan is n't confident hadn't fought ? <eos>
-What had Liam said Dan is n't confident that hadn't fought ? <eos>
+What had Liam said that Dan is n't confident had n't fought ? <eos>
+What had Liam said Dan is n't confident that had n't fought ? <eos>
 Who is Sabrina saying that Michael was unconvinced talk about Sally ? <eos>
 Who is Sabrina saying Michael was unconvinced that talk about Sally ? <eos>
 Who is Monica thinking that Brenda is n't sure explains everything ? <eos>
@@ -800,24 +800,24 @@ Who is Kayla thinking that Erin is happy should protest ? <eos>
 Who is Kayla thinking Erin is happy that should protest ? <eos>
 Who do these people say that Omar is n't lucky respect Theodore ? <eos>
 Who do these people say Omar is n't lucky that respect Theodore ? <eos>
-What was Christopher thinking that Bethany is n't excited shouldn't disagree with most waiters ? <eos>
-What was Christopher thinking Bethany is n't excited that shouldn't disagree with most waiters ? <eos>
+What was Christopher thinking that Bethany is n't excited should n't disagree with most waiters ? <eos>
+What was Christopher thinking Bethany is n't excited that should n't disagree with most waiters ? <eos>
 Who does every boy explain that Ella is content ca n't struggle ? <eos>
 Who does every boy explain Ella is content that ca n't struggle ? <eos>
 Who will Janet explain that Lissa was n't excited runs around some hills ? <eos>
 Who will Janet explain Lissa was n't excited that runs around some hills ? <eos>
-Who had Suzanne said that Roger was sad shouldn't upset Lori ? <eos>
-Who had Suzanne said Roger was sad that shouldn't upset Lori ? <eos>
+Who had Suzanne said that Roger was sad should n't upset Lori ? <eos>
+Who had Suzanne said Roger was sad that should n't upset Lori ? <eos>
 Who does Brian think that Lucille is n't scared learned ? <eos>
 Who does Brian think Lucille is n't scared that learned ? <eos>
 Who was Bill thinking that Elizabeth is n't troubled is breaking some glasses ? <eos>
 Who was Bill thinking Elizabeth is n't troubled that is breaking some glasses ? <eos>
-Who can Teresa imagine that Todd was n't pleased hadn't gone to the bank ? <eos>
-Who can Teresa imagine Todd was n't pleased that hadn't gone to the bank ? <eos>
+Who can Teresa imagine that Todd was n't pleased had n't gone to the bank ? <eos>
+Who can Teresa imagine Todd was n't pleased that had n't gone to the bank ? <eos>
 Who might Katherine say that teachers were sad will appreciate Samuel ? <eos>
 Who might Katherine say teachers were sad that will appreciate Samuel ? <eos>
-Who has Valerie explained that Julie was n't unconvinced hadn't lied ? <eos>
-Who has Valerie explained Julie was n't unconvinced that hadn't lied ? <eos>
+Who has Valerie explained that Julie was n't unconvinced had n't lied ? <eos>
+Who has Valerie explained Julie was n't unconvinced that had n't lied ? <eos>
 Who were many ladies imagining that Veronica was excited embraced ? <eos>
 Who were many ladies imagining Veronica was excited that embraced ? <eos>
 Who was Candice saying that Suzanne is sure admire Judy ? <eos>
@@ -846,8 +846,8 @@ What has Martha explained that Raymond is n't convinced could look like all sena
 What has Martha explained Raymond is n't convinced that could look like all senators ? <eos>
 Who is jason imagining that Ella is positive does exercise ? <eos>
 Who is jason imagining Ella is positive that does exercise ? <eos>
-Who has Bethany said that Amy is lucky shouldn't argue about Renee ? <eos>
-Who has Bethany said Amy is lucky that shouldn't argue about Renee ? <eos>
+Who has Bethany said that Amy is lucky should n't argue about Renee ? <eos>
+Who has Bethany said Amy is lucky that should n't argue about Renee ? <eos>
 Who had Frank said that Diane is n't convinced looked like many pictures ? <eos>
 Who had Frank said Diane is n't convinced that looked like many pictures ? <eos>
 Who had Richard imagined that Kristin was n't sad hires Suzanne ? <eos>
@@ -862,8 +862,8 @@ Who is Tamara explaining that Karla was n't content escape from Russell ? <eos>
 Who is Tamara explaining Karla was n't content that escape from Russell ? <eos>
 Who had Dawn thought that Jacqueline is excited has telephoned ? <eos>
 Who had Dawn thought Jacqueline is excited that has telephoned ? <eos>
-Who is Kendra thinking that Tara is scared hadn't gotten a job ? <eos>
-Who is Kendra thinking Tara is scared that hadn't gotten a job ? <eos>
+Who is Kendra thinking that Tara is scared had n't gotten a job ? <eos>
+Who is Kendra thinking Tara is scared that had n't gotten a job ? <eos>
 Who did Erin imagine that Sharon is thrilled loved Lissa ? <eos>
 Who did Erin imagine Sharon is thrilled that loved Lissa ? <eos>
 What is Derek imagining that every cashier was certain could melt ? <eos>
@@ -918,8 +918,8 @@ Who should George imagine that most waitresses are uncertain might have all pain
 Who should George imagine most waitresses are uncertain that might have all paintings ? <eos>
 Who could Dana explain that the doctors were n't doubtful cares for Tara ? <eos>
 Who could Dana explain the doctors were n't doubtful that cares for Tara ? <eos>
-Who had Gina said that Raymond was n't confident hadn't bought many chairs ? <eos>
-Who had Gina said Raymond was n't confident that hadn't bought many chairs ? <eos>
+Who had Gina said that Raymond was n't confident had n't bought many chairs ? <eos>
+Who had Gina said Raymond was n't confident that had n't bought many chairs ? <eos>
 Who is Walter explaining that Andrew is positive clashed ? <eos>
 Who is Walter explaining Andrew is positive that clashed ? <eos>
 Who have these pedestrians explained that some boys are doubtful cooks ? <eos>
@@ -1004,16 +1004,16 @@ Who do all actors explain that doctors were certain admired Sherry ? <eos>
 Who do all actors explain doctors were certain that admired Sherry ? <eos>
 Who does Amanda imagine that Martin is n't certain was n't lifting every slope ? <eos>
 Who does Amanda imagine Martin is n't certain that was n't lifting every slope ? <eos>
-Who could Kirsten say that many teenagers were n't sad shouldn't correspond ? <eos>
-Who could Kirsten say many teenagers were n't sad that shouldn't correspond ? <eos>
+Who could Kirsten say that many teenagers were n't sad should n't correspond ? <eos>
+Who could Kirsten say many teenagers were n't sad that should n't correspond ? <eos>
 Who did Kayla think that Marie was n't uncertain resembled this painting ? <eos>
 Who did Kayla think Marie was n't uncertain that resembled this painting ? <eos>
 Who is John imagining that Elaine is n't sure stunned Sharon ? <eos>
 Who is John imagining Elaine is n't sure that stunned Sharon ? <eos>
 Who could Cheryl think that most teenagers are n't lucky had scratched ? <eos>
 Who could Cheryl think most teenagers are n't lucky that had scratched ? <eos>
-Who was Rebecca saying that Valerie was doubtful didn't climb up a lot of hills ? <eos>
-Who was Rebecca saying Valerie was doubtful that didn't climb up a lot of hills ? <eos>
+Who was Rebecca saying that Valerie was doubtful did n't climb up a lot of hills ? <eos>
+Who was Rebecca saying Valerie was doubtful that did n't climb up a lot of hills ? <eos>
 Who is Brian thinking that Douglas was n't glad goes fishing ? <eos>
 Who is Brian thinking Douglas was n't glad that goes fishing ? <eos>
 Who has Brad imagined that Michelle is n't confident sell a lot of hills ? <eos>
@@ -1024,8 +1024,8 @@ Who should Stephanie think that Patrick was n't upset performed ? <eos>
 Who should Stephanie think Patrick was n't upset that performed ? <eos>
 Who might Brad say that Clyde is n't sad appreciate some lake ? <eos>
 Who might Brad say Clyde is n't sad that appreciate some lake ? <eos>
-Who will Craig imagine that Brian was lucky shouldn't chuckle ? <eos>
-Who will Craig imagine Brian was lucky that shouldn't chuckle ? <eos>
+Who will Craig imagine that Brian was lucky should n't chuckle ? <eos>
+Who will Craig imagine Brian was lucky that should n't chuckle ? <eos>
 Who has Travis said that Carol is sad broke the fork ? <eos>
 Who has Travis said Carol is sad that broke the fork ? <eos>
 Who is Ann imagining that Elaine was n't confident does n't pass this river ? <eos>
@@ -1100,8 +1100,8 @@ Who has Gary explained that Valerie is doubtful escaped ? <eos>
 Who has Gary explained Valerie is doubtful that escaped ? <eos>
 Who was Holly thinking that Rhonda is delighted explain everything ? <eos>
 Who was Holly thinking Rhonda is delighted that explain everything ? <eos>
-Who has Judy explained that Becky was n't doubtful didn't hide Becky ? <eos>
-Who has Judy explained Becky was n't doubtful that didn't hide Becky ? <eos>
+Who has Judy explained that Becky was n't doubtful did n't hide Becky ? <eos>
+Who has Judy explained Becky was n't doubtful that did n't hide Becky ? <eos>
 Who was Thomas explaining that a lot of students are certain bother some library ? <eos>
 Who was Thomas explaining a lot of students are certain that bother some library ? <eos>
 Who might Regina imagine that Florence was upset is hugging Regina ? <eos>
@@ -1170,8 +1170,8 @@ Who did Theodore say that Charles is n't uncertain drove to these schools ? <eos
 Who did Theodore say Charles is n't uncertain that drove to these schools ? <eos>
 Who can Scott say that Jessica was n't thrilled is n't nodding ? <eos>
 Who can Scott say Jessica was n't thrilled that is n't nodding ? <eos>
-Who has Nina imagined that Joel was n't convinced wouldn't suffer ? <eos>
-Who has Nina imagined Joel was n't convinced that wouldn't suffer ? <eos>
+Who has Nina imagined that Joel was n't convinced would n't suffer ? <eos>
+Who has Nina imagined Joel was n't convinced that would n't suffer ? <eos>
 Who did Renee say that Jeffrey was confident succeeds ? <eos>
 Who did Renee say Jeffrey was confident that succeeds ? <eos>
 Who is Patricia saying that that actress was n't unconvinced ate ? <eos>
@@ -1232,8 +1232,8 @@ Who will Claire explain that Jacqueline is n't excited cleaned that bank ? <eos>
 Who will Claire explain Jacqueline is n't excited that cleaned that bank ? <eos>
 Who had Carrie said that Sherry was n't thrilled has n't hated Mitchell ? <eos>
 Who had Carrie said Sherry was n't thrilled that has n't hated Mitchell ? <eos>
-Who will Connie say that Elizabeth is pleased shouldn't protest ? <eos>
-Who will Connie say Elizabeth is pleased that shouldn't protest ? <eos>
+Who will Connie say that Elizabeth is pleased should n't protest ? <eos>
+Who will Connie say Elizabeth is pleased that should n't protest ? <eos>
 Who had Janet imagined that all children are n't upset is n't dating ? <eos>
 Who had Janet imagined all children are n't upset that is n't dating ? <eos>
 Who is Alan imagining that a lot of girls are upset could boast ? <eos>
@@ -1256,10 +1256,10 @@ Who was Ann imagining that cashiers are n't sad is n't weeping ? <eos>
 Who was Ann imagining cashiers are n't sad that is n't weeping ? <eos>
 Who is Sherry explaining that Douglas is sad escaped from Teresa ? <eos>
 Who is Sherry explaining Douglas is sad that escaped from Teresa ? <eos>
-Who has Jacqueline explained that every waiter is thrilled hadn't saluted ? <eos>
-Who has Jacqueline explained every waiter is thrilled that hadn't saluted ? <eos>
-Who are all cashiers explaining that Stephanie was n't displeased hadn't hurt Amanda ? <eos>
-Who are all cashiers explaining Stephanie was n't displeased that hadn't hurt Amanda ? <eos>
+Who has Jacqueline explained that every waiter is thrilled had n't saluted ? <eos>
+Who has Jacqueline explained every waiter is thrilled that had n't saluted ? <eos>
+Who are all cashiers explaining that Stephanie was n't displeased had n't hurt Amanda ? <eos>
+Who are all cashiers explaining Stephanie was n't displeased that had n't hurt Amanda ? <eos>
 What has Homer imagined that Lawrence is happy loved Leslie ? <eos>
 What has Homer imagined Lawrence is happy that loved Leslie ? <eos>
 Who were a lot of boys imagining that Helen is certain salute ? <eos>
@@ -1314,8 +1314,8 @@ Who will guests explain that Ronald is n't upset sounded like Nancy ? <eos>
 Who will guests explain Ronald is n't upset that sounded like Nancy ? <eos>
 What had Sara imagined that Carmen is n't sure succeeded ? <eos>
 What had Sara imagined Carmen is n't sure that succeeded ? <eos>
-Who will Debra think that most senators are n't hopeful wouldn't argue about guys ? <eos>
-Who will Debra think most senators are n't hopeful that wouldn't argue about guys ? <eos>
+Who will Debra think that most senators are n't hopeful would n't argue about guys ? <eos>
+Who will Debra think most senators are n't hopeful that would n't argue about guys ? <eos>
 Who has Sandra imagined that Stacey is n't sure cheers ? <eos>
 Who has Sandra imagined Stacey is n't sure that cheers ? <eos>
 Who had Diana thought that Angela was n't positive admired many cats ? <eos>
@@ -1342,8 +1342,8 @@ Who could Rose imagine that some drivers were n't uncertain explores the lake ? 
 Who could Rose imagine some drivers were n't uncertain that explores the lake ? <eos>
 Who had Timothy thought that Margaret was scared eats ? <eos>
 Who had Timothy thought Margaret was scared that eats ? <eos>
-Who was Beverly imagining that Paula is n't displeased hadn't passed all schools ? <eos>
-Who was Beverly imagining Paula is n't displeased that hadn't passed all schools ? <eos>
+Who was Beverly imagining that Paula is n't displeased had n't passed all schools ? <eos>
+Who was Beverly imagining Paula is n't displeased that had n't passed all schools ? <eos>
 Who has Leslie said that Todd is excited swallow ? <eos>
 Who has Leslie said Todd is excited that swallow ? <eos>
 What was Renee explaining that Samantha is n't unconvinced was stunning Paul ? <eos>
@@ -1362,8 +1362,8 @@ Who was Candice saying that the doctor was n't thrilled has impressed Carolyn ? 
 Who was Candice saying the doctor was n't thrilled that has impressed Carolyn ? <eos>
 Who has some lady imagined that Jerry was happy talked to Julie ? <eos>
 Who has some lady imagined Jerry was happy that talked to Julie ? <eos>
-Who has Christina explained that Richard was n't pleased hadn't hidden away ? <eos>
-Who has Christina explained Richard was n't pleased that hadn't hidden away ? <eos>
+Who has Christina explained that Richard was n't pleased had n't hidden away ? <eos>
+Who has Christina explained Richard was n't pleased that had n't hidden away ? <eos>
 What is Travis saying that that guy was excited distract Stacy ? <eos>
 What is Travis saying that guy was excited that distract Stacy ? <eos>
 Who is Ella saying that Joseph was troubled skated around the hills ? <eos>
@@ -1374,14 +1374,14 @@ Who was Barbara imagining that the woman is thrilled go to these cafes ? <eos>
 Who was Barbara imagining the woman is thrilled that go to these cafes ? <eos>
 Who is Charles imagining that Colleen was n't uncertain has shrugged ? <eos>
 Who is Charles imagining Colleen was n't uncertain that has shrugged ? <eos>
-Who had Kevin thought that Rodney is n't doubtful didn't break the plate ? <eos>
-Who had Kevin thought Rodney is n't doubtful that didn't break the plate ? <eos>
+Who had Kevin thought that Rodney is n't doubtful did n't break the plate ? <eos>
+Who had Kevin thought Rodney is n't doubtful that did n't break the plate ? <eos>
 Who does April say that Grace was n't displeased had chatted ? <eos>
 Who does April say Grace was n't displeased that had chatted ? <eos>
 Who has Wendy said that James was n't sure perform ? <eos>
 Who has Wendy said James was n't sure that perform ? <eos>
-What had all waitresses said that Martha is n't lucky hadn't hurt Erin ? <eos>
-What had all waitresses said Martha is n't lucky that hadn't hurt Erin ? <eos>
+What had all waitresses said that Martha is n't lucky had n't hurt Erin ? <eos>
+What had all waitresses said Martha is n't lucky that had n't hurt Erin ? <eos>
 Who will Vincent explain that Kendra was unsure cleaned most cars ? <eos>
 Who will Vincent explain Kendra was unsure that cleaned most cars ? <eos>
 Who does Tara say that Eva was convinced has n't concealed Suzanne ? <eos>
@@ -1396,8 +1396,8 @@ Who are a lot of boys saying that the actress was n't certain could n't upset al
 Who are a lot of boys saying the actress was n't certain that could n't upset all libraries ? <eos>
 Who will Chad imagine that David was certain was n't lifting every drawing ? <eos>
 Who will Chad imagine David was certain that was n't lifting every drawing ? <eos>
-Who is Cindy imagining that Eva is n't convinced hadn't compromised ? <eos>
-Who is Cindy imagining Eva is n't convinced that hadn't compromised ? <eos>
+Who is Cindy imagining that Eva is n't convinced had n't compromised ? <eos>
+Who is Cindy imagining Eva is n't convinced that had n't compromised ? <eos>
 What is Connie saying that Paula is n't pleased was ripening ? <eos>
 What is Connie saying Paula is n't pleased that was ripening ? <eos>
 Who can Diane explain that Derek is n't certain does n't cook ? <eos>
@@ -1450,8 +1450,8 @@ What might Phillip imagine that Dawn was n't glad is n't boring waiters ? <eos>
 What might Phillip imagine Dawn was n't glad that is n't boring waiters ? <eos>
 Who would Lucille explain that Michael was n't excited scan most movies ? <eos>
 Who would Lucille explain Michael was n't excited that scan most movies ? <eos>
-Who had a lot of waiters explained that Jane is n't troubled wouldn't mutter ? <eos>
-Who had a lot of waiters explained Jane is n't troubled that wouldn't mutter ? <eos>
+Who had a lot of waiters explained that Jane is n't troubled would n't mutter ? <eos>
+Who had a lot of waiters explained Jane is n't troubled that would n't mutter ? <eos>
 Who is Tina thinking that Russell was n't sure will swallow ? <eos>
 Who is Tina thinking Russell was n't sure that will swallow ? <eos>
 What had Kevin imagined that Sheila was n't unconvinced forget Donna ? <eos>
@@ -1476,8 +1476,8 @@ Who has Adam thought that Brenda was n't unconvinced muttered ? <eos>
 Who has Adam thought Brenda was n't unconvinced that muttered ? <eos>
 Who had Anne thought that Tamara was excited spin around ? <eos>
 Who had Anne thought Tamara was excited that spin around ? <eos>
-Who does Jeffrey think that Vincent is scared hadn't slumped over ? <eos>
-Who does Jeffrey think Vincent is scared that hadn't slumped over ? <eos>
+Who does Jeffrey think that Vincent is scared had n't slumped over ? <eos>
+Who does Jeffrey think Vincent is scared that had n't slumped over ? <eos>
 Who has Noah imagined that Craig was hopeful should kiss ? <eos>
 Who has Noah imagined Craig was hopeful that should kiss ? <eos>
 Who should Thomas imagine that Joseph was uncertain is n't saluting ? <eos>
@@ -1500,8 +1500,8 @@ Who has Travis explained that Candice is n't displeased sound like Deborah ? <eo
 Who has Travis explained Candice is n't displeased that sound like Deborah ? <eos>
 What will Samantha think that every doctor is n't positive was n't closing ? <eos>
 What will Samantha think every doctor is n't positive that was n't closing ? <eos>
-Who did Homer imagine that Travis was n't lucky wouldn't change ? <eos>
-Who did Homer imagine Travis was n't lucky that wouldn't change ? <eos>
+Who did Homer imagine that Travis was n't lucky would n't change ? <eos>
+Who did Homer imagine Travis was n't lucky that would n't change ? <eos>
 What does Victoria imagine that Wendy was n't content could n't chat ? <eos>
 What does Victoria imagine Wendy was n't content that could n't chat ? <eos>
 Who has Guy thought that Tamara was certain exits some restaurants ? <eos>
@@ -1568,8 +1568,8 @@ Who had many teachers explained that Gary is lucky is n't boring most pedestrian
 Who had many teachers explained Gary is lucky that is n't boring most pedestrians ? <eos>
 Who was William thinking that Sheila was positive did sit down ? <eos>
 Who was William thinking Sheila was positive that did sit down ? <eos>
-Who is Eric thinking that Vanessa was scared wouldn't date ? <eos>
-Who is Eric thinking Vanessa was scared that wouldn't date ? <eos>
+Who is Eric thinking that Vanessa was scared would n't date ? <eos>
+Who is Eric thinking Vanessa was scared that would n't date ? <eos>
 Who is Samuel imagining that Elizabeth is happy shout ? <eos>
 Who is Samuel imagining Elizabeth is happy that shout ? <eos>
 Who should teenagers explain that Patrick was glad disagree with Tanya ? <eos>
@@ -1590,8 +1590,8 @@ Who has Kristen imagined that some guests are happy cooks ? <eos>
 Who has Kristen imagined some guests are happy that cooks ? <eos>
 Who had Sonia said that Rachelle is happy see that report ? <eos>
 Who had Sonia said Rachelle is happy that see that report ? <eos>
-What was Elaine saying that Jill was troubled didn't astound that government ? <eos>
-What was Elaine saying Jill was troubled that didn't astound that government ? <eos>
+What was Elaine saying that Jill was troubled did n't astound that government ? <eos>
+What was Elaine saying Jill was troubled that did n't astound that government ? <eos>
 Who are some senators saying that George is n't uncertain has insulted Michael ? <eos>
 Who are some senators saying George is n't uncertain that has insulted Michael ? <eos>
 Who might Renee say that some doctor is sure buys that cat ? <eos>
@@ -1600,8 +1600,8 @@ Who had Mark thought that Margaret was positive left many patients ? <eos>
 Who had Mark thought Margaret was positive that left many patients ? <eos>
 Who had Marcus thought that Linda was lucky scares a lot of organizations ? <eos>
 Who had Marcus thought Linda was lucky that scares a lot of organizations ? <eos>
-Who had Brian explained that Candice is lucky hadn't exited that glacier ? <eos>
-Who had Brian explained Candice is lucky that hadn't exited that glacier ? <eos>
+Who had Brian explained that Candice is lucky had n't exited that glacier ? <eos>
+Who had Brian explained Candice is lucky that had n't exited that glacier ? <eos>
 Who was Donna saying that a lady was certain is arguing about the guys ? <eos>
 Who was Donna saying a lady was certain that is arguing about the guys ? <eos>
 Who had Beth thought that Benjamin is troubled did cheer ? <eos>
@@ -1634,14 +1634,14 @@ Who was Claire saying that Raymond is unconvinced was donating ? <eos>
 Who was Claire saying Raymond is unconvinced that was donating ? <eos>
 Who had Gerald imagined that Lissa was troubled was going to all art galleries ? <eos>
 Who had Gerald imagined Lissa was troubled that was going to all art galleries ? <eos>
-Who was Jeffrey explaining that Gerald is n't doubtful didn't learn ? <eos>
-Who was Jeffrey explaining Gerald is n't doubtful that didn't learn ? <eos>
+Who was Jeffrey explaining that Gerald is n't doubtful did n't learn ? <eos>
+Who was Jeffrey explaining Gerald is n't doubtful that did n't learn ? <eos>
 Who was Caroline imagining that George is upset has surrendered ? <eos>
 Who was Caroline imagining George is upset that has surrendered ? <eos>
 Who were most actors explaining that Martha was n't lucky falls asleep ? <eos>
 Who were most actors explaining Martha was n't lucky that falls asleep ? <eos>
-Who might Omar explain that Martin was confident hadn't talked to Mitchell ? <eos>
-Who might Omar explain Martin was confident that hadn't talked to Mitchell ? <eos>
+Who might Omar explain that Martin was confident had n't talked to Mitchell ? <eos>
+Who might Omar explain Martin was confident that had n't talked to Mitchell ? <eos>
 Who is Steve thinking that Jeffrey is unsure was embarrassing Claire ? <eos>
 Who is Steve thinking Jeffrey is unsure that was embarrassing Claire ? <eos>
 Who had Steve thought that Natalie was content died ? <eos>
@@ -1650,8 +1650,8 @@ Who had Eva said that Catherine was n't glad boasts ? <eos>
 Who had Eva said Catherine was n't glad that boasts ? <eos>
 Who had Carla said that some teenager is n't confident could n't help John ? <eos>
 Who had Carla said some teenager is n't confident that could n't help John ? <eos>
-Who is Teresa explaining that this actor was n't happy hadn't muttered ? <eos>
-Who is Teresa explaining this actor was n't happy that hadn't muttered ? <eos>
+Who is Teresa explaining that this actor was n't happy had n't muttered ? <eos>
+Who is Teresa explaining this actor was n't happy that had n't muttered ? <eos>
 Who had Sabrina thought that Mary is content donates ? <eos>
 Who had Sabrina thought Mary is content that donates ? <eos>
 What was Lori explaining that Homer was content debate ? <eos>
@@ -1694,14 +1694,14 @@ Who can Sharon imagine that Judy is unconvinced sit down ? <eos>
 Who can Sharon imagine Judy is unconvinced that sit down ? <eos>
 Who was Scott explaining that Derek was scared has exited this hospital ? <eos>
 Who was Scott explaining Derek was scared that has exited this hospital ? <eos>
-Who should Marie imagine that Kristen is n't lucky shouldn't look like most pictures ? <eos>
-Who should Marie imagine Kristen is n't lucky that shouldn't look like most pictures ? <eos>
+Who should Marie imagine that Kristen is n't lucky should n't look like most pictures ? <eos>
+Who should Marie imagine Kristen is n't lucky that should n't look like most pictures ? <eos>
 Who has David thought that Douglas was convinced disgusted that company ? <eos>
 Who has David thought Douglas was convinced that disgusted that company ? <eos>
 Who does Monica think that Larry was n't troubled climbs up some slope ? <eos>
 Who does Monica think Larry was n't troubled that climbs up some slope ? <eos>
-Who was Scott thinking that Heather was happy wouldn't help Melissa ? <eos>
-Who was Scott thinking Heather was happy that wouldn't help Melissa ? <eos>
+Who was Scott thinking that Heather was happy would n't help Melissa ? <eos>
+Who was Scott thinking Heather was happy that would n't help Melissa ? <eos>
 Who has Nancy explained that Becky was positive concurred ? <eos>
 Who has Nancy explained Becky was positive that concurred ? <eos>
 Who might Regina explain that Tammy was sure should hide away ? <eos>
@@ -1748,8 +1748,8 @@ Who would Claire imagine that Sharon is uncertain watch Timothy ? <eos>
 Who would Claire imagine Sharon is uncertain that watch Timothy ? <eos>
 Who has Catherine said that this lady is n't glad fired Dana ? <eos>
 Who has Catherine said this lady is n't glad that fired Dana ? <eos>
-Who have these pedestrians explained that Mark is hopeful wouldn't marry ? <eos>
-Who have these pedestrians explained Mark is hopeful that wouldn't marry ? <eos>
+Who have these pedestrians explained that Mark is hopeful would n't marry ? <eos>
+Who have these pedestrians explained Mark is hopeful that would n't marry ? <eos>
 Who had Colleen explained that Heather was n't uncertain was praising Martin ? <eos>
 Who had Colleen explained Heather was n't uncertain that was praising Martin ? <eos>
 Who would Paul say that Peter is doubtful joked around ? <eos>
@@ -1770,24 +1770,24 @@ Who was Heather saying that patients were n't hopeful scratches ? <eos>
 Who was Heather saying patients were n't hopeful that scratches ? <eos>
 Who had Jodi explained that Craig was n't thrilled eats ? <eos>
 Who had Jodi explained Craig was n't thrilled that eats ? <eos>
-Who will Allison imagine that many ladies were sure didn't disagree ? <eos>
-Who will Allison imagine many ladies were sure that didn't disagree ? <eos>
-Who has Diane explained that Vanessa is doubtful shouldn't appreciate this report ? <eos>
-Who has Diane explained Vanessa is doubtful that shouldn't appreciate this report ? <eos>
+Who will Allison imagine that many ladies were sure did n't disagree ? <eos>
+Who will Allison imagine many ladies were sure that did n't disagree ? <eos>
+Who has Diane explained that Vanessa is doubtful should n't appreciate this report ? <eos>
+Who has Diane explained Vanessa is doubtful that should n't appreciate this report ? <eos>
 Who was Dennis imagining that this waitress was content is n't crying ? <eos>
 Who was Dennis imagining this waitress was content that is n't crying ? <eos>
 Who is Walter imagining that Joseph was n't glad is n't eating ? <eos>
 Who is Walter imagining Joseph was n't glad that is n't eating ? <eos>
 Who is Linda saying that Colleen is scared bother Sheila ? <eos>
 Who is Linda saying Colleen is scared that bother Sheila ? <eos>
-Who had Grace explained that an adult is n't content shouldn't run around some libraries ? <eos>
-Who had Grace explained an adult is n't content that shouldn't run around some libraries ? <eos>
+Who had Grace explained that an adult is n't content should n't run around some libraries ? <eos>
+Who had Grace explained an adult is n't content that should n't run around some libraries ? <eos>
 What might Monica imagine that Samantha was doubtful impresses Scott ? <eos>
 What might Monica imagine Samantha was doubtful that impresses Scott ? <eos>
 Who is Lisa imagining that Stephanie was convinced bike to a lot of closets ? <eos>
 Who is Lisa imagining Stephanie was convinced that bike to a lot of closets ? <eos>
-Who are all pedestrians imagining that Dan was n't convinced hadn't read ? <eos>
-Who are all pedestrians imagining Dan was n't convinced that hadn't read ? <eos>
+Who are all pedestrians imagining that Dan was n't convinced had n't read ? <eos>
+Who are all pedestrians imagining Dan was n't convinced that had n't read ? <eos>
 Who was Connie thinking that Melissa was n't lucky is whispering ? <eos>
 Who was Connie thinking Melissa was n't lucky that is whispering ? <eos>
 Who has Colleen explained that Victoria was glad investigated Todd ? <eos>
@@ -1820,8 +1820,8 @@ Who was Benjamin thinking that Margaret was n't glad might impress Gina ? <eos>
 Who was Benjamin thinking Margaret was n't glad that might impress Gina ? <eos>
 Who has Jeffrey imagined that Beth was sure sighed ? <eos>
 Who has Jeffrey imagined Beth was sure that sighed ? <eos>
-Who might Vanessa say that Janet was sure hadn't woken up ? <eos>
-Who might Vanessa say Janet was sure that hadn't woken up ? <eos>
+Who might Vanessa say that Janet was sure had n't woken up ? <eos>
+Who might Vanessa say Janet was sure that had n't woken up ? <eos>
 What did Kirsten think that Valerie is lucky alarms Vincent ? <eos>
 What did Kirsten think Valerie is lucky that alarms Vincent ? <eos>
 Who could the teenagers imagine that Irene was n't hopeful wrote ? <eos>
@@ -1854,14 +1854,14 @@ Who would this girl say that Michael was n't hopeful confuse Brian ? <eos>
 Who would this girl say Michael was n't hopeful that confuse Brian ? <eos>
 Who has Mary explained that Alan was glad insulted Carolyn ? <eos>
 Who has Mary explained Alan was glad that insulted Carolyn ? <eos>
-Who has Samuel explained that Thomas is n't unsure hadn't boasted about Liam ? <eos>
-Who has Samuel explained Thomas is n't unsure that hadn't boasted about Liam ? <eos>
+Who has Samuel explained that Thomas is n't unsure had n't boasted about Liam ? <eos>
+Who has Samuel explained Thomas is n't unsure that had n't boasted about Liam ? <eos>
 Who would April think that Catherine was n't scared approves ? <eos>
 Who would April think Catherine was n't scared that approves ? <eos>
 Who is Angela explaining that Richard was n't pleased does visit Mitchell ? <eos>
 Who is Angela explaining Richard was n't pleased that does visit Mitchell ? <eos>
-Who is Julie explaining that Meredith is upset wouldn't arrive at the art gallery ? <eos>
-Who is Julie explaining Meredith is upset that wouldn't arrive at the art gallery ? <eos>
+Who is Julie explaining that Meredith is upset would n't arrive at the art gallery ? <eos>
+Who is Julie explaining Meredith is upset that would n't arrive at the art gallery ? <eos>
 Who is Martin saying that some guys were n't uncertain sold these snakes ? <eos>
 Who is Martin saying some guys were n't uncertain that sold these snakes ? <eos>
 Who have many doctors explained that Irene was n't sad could n't talk about Cheryl ? <eos>
@@ -1944,8 +1944,8 @@ Who has Lori explained that Ronald is n't content had confused actors ? <eos>
 Who has Lori explained Ronald is n't content that had confused actors ? <eos>
 Who has Meredith thought that Jacqueline is n't certain sees ? <eos>
 Who has Meredith thought Jacqueline is n't certain that sees ? <eos>
-Who has Christine said that Deborah was n't delighted didn't impress Steven ? <eos>
-Who has Christine said Deborah was n't delighted that didn't impress Steven ? <eos>
+Who has Christine said that Deborah was n't delighted did n't impress Steven ? <eos>
+Who has Christine said Deborah was n't delighted that did n't impress Steven ? <eos>
 Who is Julia thinking that Melissa was lucky has insulted all commentaries ? <eos>
 Who is Julia thinking Melissa was lucky that has insulted all commentaries ? <eos>
 What had the lady explained that Rachel was n't content embarrasses Russell ? <eos>

@@ -228,8 +228,8 @@ Only Monica can ever think about who is descending the mountains . <eos>
 Even Monica can ever think about who is descending the mountains . <eos>
 Only Irene does ever spin around . <eos>
 Even Irene does ever spin around . <eos>
-Only the child ever concealed who hadn't exited some lake . <eos>
-Even the child ever concealed who hadn't exited some lake . <eos>
+Only the child ever concealed who had n't exited some lake . <eos>
+Even the child ever concealed who had n't exited some lake . <eos>
 Only Randolf has ever annoyed Melissa . <eos>
 Even Randolf has ever annoyed Melissa . <eos>
 Only some ladies ever flirt . <eos>
@@ -472,8 +472,8 @@ Only some committees ever astound Jodi . <eos>
 Even some committees ever astound Jodi . <eos>
 Only these teachers ever flirt . <eos>
 Even these teachers ever flirt . <eos>
-Only Elizabeth did ever think about who didn't cook . <eos>
-Even Elizabeth did ever think about who didn't cook . <eos>
+Only Elizabeth did ever think about who did n't cook . <eos>
+Even Elizabeth did ever think about who did n't cook . <eos>
 Only students ever write . <eos>
 Even students ever write . <eos>
 Only the library can ever learn what conceal Kristin . <eos>
@@ -830,8 +830,8 @@ Only Jennifer could ever die . <eos>
 Even Jennifer could ever die . <eos>
 Only some companies ever discover who is messing up glasses . <eos>
 Even some companies ever discover who is messing up glasses . <eos>
-Only these dancers ever refuse to explain David wouldn't appreciate Steven . <eos>
-Even these dancers ever refuse to explain David wouldn't appreciate Steven . <eos>
+Only these dancers ever refuse to explain David would n't appreciate Steven . <eos>
+Even these dancers ever refuse to explain David would n't appreciate Steven . <eos>
 Only movie theaters ever distracted a senator . <eos>
 Even movie theaters ever distracted a senator . <eos>
 Only Theresa did ever want Gina to irritate some dancer . <eos>
@@ -1042,8 +1042,8 @@ Only this guy can ever cry . <eos>
 Even this guy can ever cry . <eos>
 Only Melissa ever hid away . <eos>
 Even Melissa ever hid away . <eos>
-Only some patient ever says Christopher hadn't littered . <eos>
-Even some patient ever says Christopher hadn't littered . <eos>
+Only some patient ever says Christopher had n't littered . <eos>
+Even some patient ever says Christopher had n't littered . <eos>
 Only these vases ever fall . <eos>
 Even these vases ever fall . <eos>
 Only these teenagers ever spin around . <eos>
@@ -1308,8 +1308,8 @@ Only Homer ever bored Grace . <eos>
 Even Homer ever bored Grace . <eos>
 Only some lake had ever frozen . <eos>
 Even some lake had ever frozen . <eos>
-Only Beth would ever doubt Ruth hadn't left . <eos>
-Even Beth would ever doubt Ruth hadn't left . <eos>
+Only Beth would ever doubt Ruth had n't left . <eos>
+Even Beth would ever doubt Ruth had n't left . <eos>
 Only Tiffany ever hid . <eos>
 Even Tiffany ever hid . <eos>
 Only Andrea ever played . <eos>
@@ -1716,8 +1716,8 @@ Only Raymond ever cares for Kayla . <eos>
 Even Raymond ever cares for Kayla . <eos>
 Only students ever retaliate . <eos>
 Even students ever retaliate . <eos>
-Only Stephanie does ever realize who hadn't kissed Debra . <eos>
-Even Stephanie does ever realize who hadn't kissed Debra . <eos>
+Only Stephanie does ever realize who had n't kissed Debra . <eos>
+Even Stephanie does ever realize who had n't kissed Debra . <eos>
 Only Bradley might ever scratch . <eos>
 Even Bradley might ever scratch . <eos>
 Only these committees might ever cooperate . <eos>
@@ -1726,8 +1726,8 @@ Only some senators ever hunt . <eos>
 Even some senators ever hunt . <eos>
 Only Tara does ever stand up . <eos>
 Even Tara does ever stand up . <eos>
-Only these committees ever wonder who shouldn't irritate Stephen . <eos>
-Even these committees ever wonder who shouldn't irritate Stephen . <eos>
+Only these committees ever wonder who should n't irritate Stephen . <eos>
+Even these committees ever wonder who should n't irritate Stephen . <eos>
 Only Amy ever yells . <eos>
 Even Amy ever yells . <eos>
 Only Carolyn had ever concealed Donna . <eos>

@@ -14,10 +14,10 @@ Some children explain that they
 Some children explain that themselves
 Noah was n't thinking that he
 Noah was n't thinking that himself
-Gary shouldn't explain that he
-Gary shouldn't explain that himself
-Joel hadn't imagined that he
-Joel hadn't imagined that himself
+Gary should n't explain that he
+Gary should n't explain that himself
+Joel had n't imagined that he
+Joel had n't imagined that himself
 Bill had said that he
 Bill had said that himself
 Renee wo n't explain that she
@@ -30,8 +30,8 @@ Sara was n't explaining that she
 Sara was n't explaining that herself
 Noah thinks that he
 Noah thinks that himself
-Meredith wouldn't imagine that she
-Meredith wouldn't imagine that herself
+Meredith would n't imagine that she
+Meredith would n't imagine that herself
 Robert was n't thinking that he
 Robert was n't thinking that himself
 Carolyn explained that she
@@ -46,20 +46,20 @@ Maria has explained that she
 Maria has explained that herself
 Ronald explained that he
 Ronald explained that himself
-Susan shouldn't explain that she
-Susan shouldn't explain that herself
+Susan should n't explain that she
+Susan should n't explain that herself
 Paula is n't imagining that she
 Paula is n't imagining that herself
 Rose could n't imagine that she
 Rose could n't imagine that herself
 The cashiers are n't thinking that they
 The cashiers are n't thinking that themselves
-Patricia hadn't explained that she
-Patricia hadn't explained that herself
+Patricia had n't explained that she
+Patricia had n't explained that herself
 Peter imagined that he
 Peter imagined that himself
-Janet wouldn't say that she
-Janet wouldn't say that herself
+Janet would n't say that she
+Janet would n't say that herself
 Deborah imagined that she
 Deborah imagined that herself
 Guests say that they
@@ -80,16 +80,16 @@ Rose could explain that she
 Rose could explain that herself
 Brad explains that he
 Brad explains that himself
-Bradley shouldn't explain that he
-Bradley shouldn't explain that himself
+Bradley should n't explain that he
+Bradley should n't explain that himself
 Ellen says that she
 Ellen says that herself
 Grace did say that she
 Grace did say that herself
 Sherry was explaining that she
 Sherry was explaining that herself
-Carlos hadn't explained that he
-Carlos hadn't explained that himself
+Carlos had n't explained that he
+Carlos had n't explained that himself
 Rodney has thought that he
 Rodney has thought that himself
 Andrea was n't thinking that she
@@ -130,18 +130,18 @@ Brad says that he
 Brad says that himself
 Cynthia had imagined that she
 Cynthia had imagined that herself
-Eric wouldn't explain that he
-Eric wouldn't explain that himself
+Eric would n't explain that he
+Eric would n't explain that himself
 Bill does imagine that he
 Bill does imagine that himself
 These girls are n't saying that they
 These girls are n't saying that themselves
 The doctors say that they
 The doctors say that themselves
-Candice hadn't imagined that she
-Candice hadn't imagined that herself
-Emily hadn't imagined that she
-Emily hadn't imagined that herself
+Candice had n't imagined that she
+Candice had n't imagined that herself
+Emily had n't imagined that she
+Emily had n't imagined that herself
 Anna explained that she
 Anna explained that herself
 Gerald was n't explaining that he
@@ -198,8 +198,8 @@ All students explained that they
 All students explained that themselves
 Larry has n't explained that he
 Larry has n't explained that himself
-Samuel hadn't explained that he
-Samuel hadn't explained that himself
+Samuel had n't explained that he
+Samuel had n't explained that himself
 Julia is n't saying that she
 Julia is n't saying that herself
 Emily imagines that she
@@ -218,8 +218,8 @@ Julia wo n't say that she
 Julia wo n't say that herself
 Danielle was explaining that she
 Danielle was explaining that herself
-Anne shouldn't explain that she
-Anne shouldn't explain that herself
+Anne should n't explain that she
+Anne should n't explain that herself
 Donald could n't explain that he
 Donald could n't explain that himself
 Leslie has n't thought that she
@@ -232,8 +232,8 @@ Patricia is n't saying that she
 Patricia is n't saying that herself
 Randolf explained that he
 Randolf explained that himself
-Paul wouldn't think that he
-Paul wouldn't think that himself
+Paul would n't think that he
+Paul would n't think that himself
 Craig was n't saying that he
 Craig was n't saying that himself
 Most drivers imagine that they
@@ -292,8 +292,8 @@ Jessica thinks that she
 Jessica thinks that herself
 Tiffany says that she
 Tiffany says that herself
-Timothy hadn't explained that he
-Timothy hadn't explained that himself
+Timothy had n't explained that he
+Timothy had n't explained that himself
 Beth explains that she
 Beth explains that herself
 Richard said that he
@@ -316,8 +316,8 @@ Leslie might think that she
 Leslie might think that herself
 Douglas said that he
 Douglas said that himself
-Some guys shouldn't imagine that they
-Some guys shouldn't imagine that themselves
+Some guys should n't imagine that they
+Some guys should n't imagine that themselves
 Cashiers imagine that they
 Cashiers imagine that themselves
 Angela has thought that she
@@ -406,8 +406,8 @@ Larry ca n't imagine that he
 Larry ca n't imagine that himself
 Dawn could n't explain that she
 Dawn could n't explain that herself
-Gary hadn't explained that he
-Gary hadn't explained that himself
+Gary had n't explained that he
+Gary had n't explained that himself
 Cindy is thinking that she
 Cindy is thinking that herself
 Suzanne imagined that she
@@ -418,12 +418,12 @@ Many adults were n't thinking that they
 Many adults were n't thinking that themselves
 The adults think that they
 The adults think that themselves
-These drivers shouldn't think that they
-These drivers shouldn't think that themselves
+These drivers should n't think that they
+These drivers should n't think that themselves
 Matt is n't thinking that he
 Matt is n't thinking that himself
-Stephanie shouldn't say that she
-Stephanie shouldn't say that herself
+Stephanie should n't say that she
+Stephanie should n't say that herself
 Some pedestrians imagine that they
 Some pedestrians imagine that themselves
 This dancer explained that she
@@ -474,8 +474,8 @@ Some dancer thought that she
 Some dancer thought that herself
 Many pedestrians do n't think that they
 Many pedestrians do n't think that themselves
-These children wouldn't imagine that they
-These children wouldn't imagine that themselves
+These children would n't imagine that they
+These children would n't imagine that themselves
 Curtis says that he
 Curtis says that himself
 Tracy was imagining that she
@@ -488,8 +488,8 @@ Debra thinks that she
 Debra thinks that herself
 Bethany might say that she
 Bethany might say that herself
-Elaine wouldn't explain that she
-Elaine wouldn't explain that herself
+Elaine would n't explain that she
+Elaine would n't explain that herself
 Catherine was explaining that she
 Catherine was explaining that herself
 Scott has n't thought that he
@@ -526,8 +526,8 @@ Boys imagined that they
 Boys imagined that themselves
 Charles thinks that he
 Charles thinks that himself
-Dan shouldn't think that he
-Dan shouldn't think that himself
+Dan should n't think that he
+Dan should n't think that himself
 Jane imagined that she
 Jane imagined that herself
 Dawn thinks that she
@@ -584,8 +584,8 @@ Sharon explained that she
 Sharon explained that herself
 A lot of drivers will imagine that they
 A lot of drivers will imagine that themselves
-Stacy shouldn't think that she
-Stacy shouldn't think that herself
+Stacy should n't think that she
+Stacy should n't think that herself
 Derek is n't explaining that he
 Derek is n't explaining that himself
 Amelia imagined that she
@@ -594,8 +594,8 @@ Ladies say that they
 Ladies say that themselves
 Kevin is n't thinking that he
 Kevin is n't thinking that himself
-Walter shouldn't explain that he
-Walter shouldn't explain that himself
+Walter should n't explain that he
+Walter should n't explain that himself
 Some guests imagine that they
 Some guests imagine that themselves
 Jodi says that she
@@ -674,8 +674,8 @@ Most patients imagined that they
 Most patients imagined that themselves
 Julie ca n't imagine that she
 Julie ca n't imagine that herself
-Regina shouldn't think that she
-Regina shouldn't think that herself
+Regina should n't think that she
+Regina should n't think that herself
 Karen thinks that she
 Karen thinks that herself
 These students have said that they
@@ -726,8 +726,8 @@ Kirsten was explaining that she
 Kirsten was explaining that herself
 A lot of dancers could think that they
 A lot of dancers could think that themselves
-Kirsten didn't explain that she
-Kirsten didn't explain that herself
+Kirsten did n't explain that she
+Kirsten did n't explain that herself
 Laura does n't say that she
 Laura does n't say that herself
 Judy is n't thinking that she
@@ -776,18 +776,18 @@ All senators had said that they
 All senators had said that themselves
 Christine thinks that she
 Christine thinks that herself
-Regina didn't explain that she
-Regina didn't explain that herself
+Regina did n't explain that she
+Regina did n't explain that herself
 Samuel explained that he
 Samuel explained that himself
 Monica explains that she
 Monica explains that herself
 All guests imagine that they
 All guests imagine that themselves
-Christine hadn't imagined that she
-Christine hadn't imagined that herself
-Cindy didn't explain that she
-Cindy didn't explain that herself
+Christine had n't imagined that she
+Christine had n't imagined that herself
+Cindy did n't explain that she
+Cindy did n't explain that herself
 Jennifer was imagining that she
 Jennifer was imagining that herself
 Most waiters say that they
@@ -886,8 +886,8 @@ Wayne was n't imagining that he
 Wayne was n't imagining that himself
 Natalie thought that she
 Natalie thought that herself
-Karen wouldn't think that she
-Karen wouldn't think that herself
+Karen would n't think that she
+Karen would n't think that herself
 Rhonda says that she
 Rhonda says that herself
 Most actresses explain that they
@@ -908,8 +908,8 @@ Marcus would say that he
 Marcus would say that himself
 These students imagined that they
 These students imagined that themselves
-Naomi hadn't said that she
-Naomi hadn't said that herself
+Naomi had n't said that she
+Naomi had n't said that herself
 The teachers imagine that they
 The teachers imagine that themselves
 Dennis is saying that he
@@ -920,8 +920,8 @@ Jerry ca n't say that he
 Jerry ca n't say that himself
 Irene thinks that she
 Irene thinks that herself
-Edward hadn't thought that he
-Edward hadn't thought that himself
+Edward had n't thought that he
+Edward had n't thought that himself
 Veronica says that she
 Veronica says that herself
 Curtis explains that he
@@ -988,8 +988,8 @@ Helen says that she
 Helen says that herself
 A lot of actresses explain that they
 A lot of actresses explain that themselves
-Dennis hadn't thought that he
-Dennis hadn't thought that himself
+Dennis had n't thought that he
+Dennis had n't thought that himself
 Omar had said that he
 Omar had said that himself
 Renee could n't explain that she
@@ -1050,8 +1050,8 @@ Melinda said that she
 Melinda said that herself
 These waitresses say that they
 These waitresses say that themselves
-Melinda hadn't thought that she
-Melinda hadn't thought that herself
+Melinda had n't thought that she
+Melinda had n't thought that herself
 Emily does imagine that she
 Emily does imagine that herself
 Charles might think that he
@@ -1074,8 +1074,8 @@ Colleen has n't imagined that she
 Colleen has n't imagined that herself
 Ladies imagine that they
 Ladies imagine that themselves
-Vincent hadn't imagined that he
-Vincent hadn't imagined that himself
+Vincent had n't imagined that he
+Vincent had n't imagined that himself
 These waitresses think that they
 These waitresses think that themselves
 Some guests said that they
@@ -1100,8 +1100,8 @@ Timothy had thought that he
 Timothy had thought that himself
 Caroline said that she
 Caroline said that herself
-Janet hadn't explained that she
-Janet hadn't explained that herself
+Janet had n't explained that she
+Janet had n't explained that herself
 Sonia has imagined that she
 Sonia has imagined that herself
 A lot of boys think that they
@@ -1202,8 +1202,8 @@ Every girl explains that she
 Every girl explains that herself
 Samantha can explain that she
 Samantha can explain that herself
-Bradley shouldn't say that he
-Bradley shouldn't say that himself
+Bradley should n't say that he
+Bradley should n't say that himself
 Brad thinks that he
 Brad thinks that himself
 Many senators could n't imagine that they
@@ -1244,8 +1244,8 @@ A lot of girls think that they
 A lot of girls think that themselves
 All students explain that they
 All students explain that themselves
-Ruth shouldn't think that she
-Ruth shouldn't think that herself
+Ruth should n't think that she
+Ruth should n't think that herself
 Marie says that she
 Marie says that herself
 Wayne could imagine that he
@@ -1312,8 +1312,8 @@ Becky has n't said that she
 Becky has n't said that herself
 All senators imagined that they
 All senators imagined that themselves
-Tonya didn't explain that she
-Tonya didn't explain that herself
+Tonya did n't explain that she
+Tonya did n't explain that herself
 Many women think that they
 Many women think that themselves
 Mark is n't saying that he
@@ -1328,8 +1328,8 @@ Some waitresses were n't saying that they
 Some waitresses were n't saying that themselves
 Omar thought that he
 Omar thought that himself
-Michael shouldn't imagine that he
-Michael shouldn't imagine that himself
+Michael should n't imagine that he
+Michael should n't imagine that himself
 Gregory had thought that he
 Gregory had thought that himself
 Jane thought that she
@@ -1370,8 +1370,8 @@ Rose has n't explained that she
 Rose has n't explained that herself
 Samantha thought that she
 Samantha thought that herself
-Veronica hadn't said that she
-Veronica hadn't said that herself
+Veronica had n't said that she
+Veronica had n't said that herself
 Some girls say that they
 Some girls say that themselves
 Carl has explained that he
@@ -1390,8 +1390,8 @@ Sharon explained that she
 Sharon explained that herself
 Tammy thinks that she
 Tammy thinks that herself
-Most people hadn't imagined that they
-Most people hadn't imagined that themselves
+Most people had n't imagined that they
+Most people had n't imagined that themselves
 Leslie was n't imagining that she
 Leslie was n't imagining that herself
 Peter thinks that he
@@ -1420,24 +1420,24 @@ That woman thinks that she
 That woman thinks that herself
 Benjamin was n't saying that he
 Benjamin was n't saying that himself
-Kristen hadn't imagined that she
-Kristen hadn't imagined that herself
+Kristen had n't imagined that she
+Kristen had n't imagined that herself
 Kenneth explains that he
 Kenneth explains that himself
 Omar was n't thinking that he
 Omar was n't thinking that himself
-Jessica didn't think that she
-Jessica didn't think that herself
+Jessica did n't think that she
+Jessica did n't think that herself
 Cynthia said that she
 Cynthia said that herself
 Chad does n't say that he
 Chad does n't say that himself
 Some boy says that he
 Some boy says that himself
-Heidi shouldn't say that she
-Heidi shouldn't say that herself
-Thomas didn't say that he
-Thomas didn't say that himself
+Heidi should n't say that she
+Heidi should n't say that herself
+Thomas did n't say that he
+Thomas did n't say that himself
 Jessica thinks that she
 Jessica thinks that herself
 Linda imagined that she
@@ -1472,18 +1472,18 @@ Sherry was thinking that she
 Sherry was thinking that herself
 Walter does n't think that he
 Walter does n't think that himself
-John hadn't imagined that he
-John hadn't imagined that himself
+John had n't imagined that he
+John had n't imagined that himself
 Guy wo n't imagine that he
 Guy wo n't imagine that himself
 Julia says that she
 Julia says that herself
 Dennis had explained that he
 Dennis had explained that himself
-Julia hadn't thought that she
-Julia hadn't thought that herself
-Lisa didn't explain that she
-Lisa didn't explain that herself
+Julia had n't thought that she
+Julia had n't thought that herself
+Lisa did n't explain that she
+Lisa did n't explain that herself
 Jennifer is n't imagining that she
 Jennifer is n't imagining that herself
 Lisa thinks that she
@@ -1550,8 +1550,8 @@ Some woman imagined that she
 Some woman imagined that herself
 Bradley is saying that he
 Bradley is saying that himself
-Dennis hadn't thought that he
-Dennis hadn't thought that himself
+Dennis had n't thought that he
+Dennis had n't thought that himself
 Actresses say that they
 Actresses say that themselves
 Tracy did explain that she
@@ -1572,8 +1572,8 @@ A man is saying that he
 A man is saying that himself
 Janice explained that she
 Janice explained that herself
-The lady hadn't said that she
-The lady hadn't said that herself
+The lady had n't said that she
+The lady had n't said that herself
 These waiters say that they
 These waiters say that themselves
 Alice had explained that she
@@ -1636,20 +1636,20 @@ Bruce is n't imagining that he
 Bruce is n't imagining that himself
 Phillip thinks that he
 Phillip thinks that himself
-Catherine hadn't said that she
-Catherine hadn't said that herself
+Catherine had n't said that she
+Catherine had n't said that herself
 Clyde was saying that he
 Clyde was saying that himself
 Actors imagine that they
 Actors imagine that themselves
-Steve shouldn't say that he
-Steve shouldn't say that himself
+Steve should n't say that he
+Steve should n't say that himself
 The actresses say that they
 The actresses say that themselves
 Martin has imagined that he
 Martin has imagined that himself
-Vanessa hadn't said that she
-Vanessa hadn't said that herself
+Vanessa had n't said that she
+Vanessa had n't said that herself
 The guests imagine that they
 The guests imagine that themselves
 Heather explained that she
@@ -1666,16 +1666,16 @@ Gregory explains that he
 Gregory explains that himself
 Timothy imagined that he
 Timothy imagined that himself
-Connie shouldn't think that she
-Connie shouldn't think that herself
+Connie should n't think that she
+Connie should n't think that herself
 Many actors explain that they
 Many actors explain that themselves
 Frank does n't explain that he
 Frank does n't explain that himself
 Laurie explains that she
 Laurie explains that herself
-Sarah hadn't imagined that she
-Sarah hadn't imagined that herself
+Sarah had n't imagined that she
+Sarah had n't imagined that herself
 Dana imagines that she
 Dana imagines that herself
 A lot of waitresses say that they
@@ -1688,8 +1688,8 @@ These dancers imagine that they
 These dancers imagine that themselves
 Alicia ca n't think that she
 Alicia ca n't think that herself
-Irene hadn't imagined that she
-Irene hadn't imagined that herself
+Irene had n't imagined that she
+Irene had n't imagined that herself
 Sabrina imagined that she
 Sabrina imagined that herself
 Many pedestrians think that they
@@ -1702,8 +1702,8 @@ Many customers think that they
 Many customers think that themselves
 George is n't imagining that he
 George is n't imagining that himself
-Tara didn't imagine that she
-Tara didn't imagine that herself
+Tara did n't imagine that she
+Tara did n't imagine that herself
 Some girl thinks that she
 Some girl thinks that herself
 Alice is n't imagining that she
@@ -1714,8 +1714,8 @@ Paula imagined that she
 Paula imagined that herself
 Stephanie has n't said that she
 Stephanie has n't said that herself
-Andrew wouldn't think that he
-Andrew wouldn't think that himself
+Andrew would n't think that he
+Andrew would n't think that himself
 Debra thought that she
 Debra thought that herself
 Joel explains that he
@@ -1746,8 +1746,8 @@ Connie imagined that she
 Connie imagined that herself
 Bradley explains that he
 Bradley explains that himself
-Sharon hadn't imagined that she
-Sharon hadn't imagined that herself
+Sharon had n't imagined that she
+Sharon had n't imagined that herself
 Many girls explain that they
 Many girls explain that themselves
 Patients say that they
@@ -1762,10 +1762,10 @@ Sara could explain that she
 Sara could explain that herself
 Barbara is n't thinking that she
 Barbara is n't thinking that herself
-Nancy hadn't thought that she
-Nancy hadn't thought that herself
-Sabrina didn't say that she
-Sabrina didn't say that herself
+Nancy had n't thought that she
+Nancy had n't thought that herself
+Sabrina did n't say that she
+Sabrina did n't say that herself
 Christina has thought that she
 Christina has thought that herself
 Kevin imagines that he
@@ -1812,8 +1812,8 @@ Timothy explained that he
 Timothy explained that himself
 Thomas has n't thought that he
 Thomas has n't thought that himself
-Thomas hadn't imagined that he
-Thomas hadn't imagined that himself
+Thomas had n't imagined that he
+Thomas had n't imagined that himself
 Daniel could think that he
 Daniel could think that himself
 Cindy said that she
@@ -1856,8 +1856,8 @@ Frank is n't thinking that he
 Frank is n't thinking that himself
 Elaine explained that she
 Elaine explained that herself
-Catherine hadn't thought that she
-Catherine hadn't thought that herself
+Catherine had n't thought that she
+Catherine had n't thought that herself
 Raymond ca n't imagine that he
 Raymond ca n't imagine that himself
 These boys were saying that they
@@ -1868,8 +1868,8 @@ Wayne ca n't say that he
 Wayne ca n't say that himself
 Tara should explain that she
 Tara should explain that herself
-Tamara wouldn't think that she
-Tamara wouldn't think that herself
+Tamara would n't think that she
+Tamara would n't think that herself
 Jodi has said that she
 Jodi has said that herself
 Bruce imagines that he
@@ -1906,8 +1906,8 @@ Rachel explains that she
 Rachel explains that herself
 Janet was n't explaining that she
 Janet was n't explaining that herself
-Every actress wouldn't think that she
-Every actress wouldn't think that herself
+Every actress would n't think that she
+Every actress would n't think that herself
 Mark said that he
 Mark said that himself
 Jane explained that she
@@ -1918,14 +1918,14 @@ Most women think that they
 Most women think that themselves
 Sandra imagines that she
 Sandra imagines that herself
-Denise shouldn't imagine that she
-Denise shouldn't imagine that herself
+Denise should n't imagine that she
+Denise should n't imagine that herself
 Many teenagers explain that they
 Many teenagers explain that themselves
 These waiters were imagining that they
 These waiters were imagining that themselves
-Alicia shouldn't imagine that she
-Alicia shouldn't imagine that herself
+Alicia should n't imagine that she
+Alicia should n't imagine that herself
 All women think that they
 All women think that themselves
 These ladies think that they
@@ -1968,8 +1968,8 @@ A lot of guys explain that they
 A lot of guys explain that themselves
 A lot of actresses explain that they
 A lot of actresses explain that themselves
-Richard hadn't thought that he
-Richard hadn't thought that himself
+Richard had n't thought that he
+Richard had n't thought that himself
 Grace can say that she
 Grace can say that herself
 Alice was n't saying that she
@@ -1988,8 +1988,8 @@ Amanda explains that she
 Amanda explains that herself
 Marie says that she
 Marie says that herself
-Customers shouldn't imagine that they
-Customers shouldn't imagine that themselves
+Customers should n't imagine that they
+Customers should n't imagine that themselves
 The actresses have n't thought that they
 The actresses have n't thought that themselves
 Susan thought that she

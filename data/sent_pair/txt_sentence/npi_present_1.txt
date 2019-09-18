@@ -1914,8 +1914,8 @@ Even Meredith clearly flees from Sandra . <eos>
 Even Meredith ever flees from Sandra . <eos>
 Even Jodi does certainly drop by this mountain . <eos>
 Even Jodi does ever drop by this mountain . <eos>
-Even Beth has really forgotten who hadn't worn every dress . <eos>
-Even Beth has ever forgotten who hadn't worn every dress . <eos>
+Even Beth has really forgotten who had n't worn every dress . <eos>
+Even Beth has ever forgotten who had n't worn every dress . <eos>
 Even John also sells most snakes . <eos>
 Even John ever sells most snakes . <eos>
 Even Sandra often grinned . <eos>
@@ -1974,8 +1974,8 @@ Even all waitresses have certainly corresponded . <eos>
 Even all waitresses have ever corresponded . <eos>
 Even Grace has really hidden Sharon . <eos>
 Even Grace has ever hidden Sharon . <eos>
-Even Maria really imagined many museums hadn't concealed Heather . <eos>
-Even Maria ever imagined many museums hadn't concealed Heather . <eos>
+Even Maria really imagined many museums had n't concealed Heather . <eos>
+Even Maria ever imagined many museums had n't concealed Heather . <eos>
 Even actresses have really flirted . <eos>
 Even actresses have ever flirted . <eos>
 Even the customers often corresponded . <eos>

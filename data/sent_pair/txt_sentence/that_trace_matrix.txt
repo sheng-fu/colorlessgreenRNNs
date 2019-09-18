@@ -24,8 +24,8 @@ Who does Ruth think could hug Heather ? <eos>
 Who does Ruth think that could hug Heather ? <eos>
 Who is Heidi imagining has n't wept ? <eos>
 Who is Heidi imagining that has n't wept ? <eos>
-Who should Heidi say hadn't won ? <eos>
-Who should Heidi say that hadn't won ? <eos>
+Who should Heidi say had n't won ? <eos>
+Who should Heidi say that had n't won ? <eos>
 Who is David thinking was n't changing ? <eos>
 Who is David thinking that was n't changing ? <eos>
 Who has Brad imagined bothered Raymond ? <eos>
@@ -34,8 +34,8 @@ Who could Dan say ca n't heal Mitchell ? <eos>
 Who could Dan say that ca n't heal Mitchell ? <eos>
 Who did some men imagine has n't cleaned these couches ? <eos>
 Who did some men imagine that has n't cleaned these couches ? <eos>
-Who could John say shouldn't examine that story ? <eos>
-Who could John say that shouldn't examine that story ? <eos>
+Who could John say should n't examine that story ? <eos>
+Who could John say that should n't examine that story ? <eos>
 Who would Curtis explain has n't descended some mountains ? <eos>
 Who would Curtis explain that has n't descended some mountains ? <eos>
 Who does Marie think debated ? <eos>
@@ -84,8 +84,8 @@ Who is Tanya thinking worry ? <eos>
 Who is Tanya thinking that worry ? <eos>
 What is Andrew explaining criticized Kevin ? <eos>
 What is Andrew explaining that criticized Kevin ? <eos>
-Who was some guy thinking hadn't baked ? <eos>
-Who was some guy thinking that hadn't baked ? <eos>
+Who was some guy thinking had n't baked ? <eos>
+Who was some guy thinking that had n't baked ? <eos>
 Who is Rodney explaining bore that library ? <eos>
 Who is Rodney explaining that bore that library ? <eos>
 Who might Edward imagine exited all mountains ? <eos>
@@ -98,8 +98,8 @@ Who should Wendy explain might drop by this college campus ? <eos>
 Who should Wendy explain that might drop by this college campus ? <eos>
 Who was Pamela saying has n't broken the chair ? <eos>
 Who was Pamela saying that has n't broken the chair ? <eos>
-Who has Jill said shouldn't assemble ? <eos>
-Who has Jill said that shouldn't assemble ? <eos>
+Who has Jill said should n't assemble ? <eos>
+Who has Jill said that should n't assemble ? <eos>
 Who was Carrie explaining nodded ? <eos>
 Who was Carrie explaining that nodded ? <eos>
 Who had these students thought investigated Russell ? <eos>
@@ -146,10 +146,10 @@ What could Paula imagine bother Barbara ? <eos>
 What could Paula imagine that bother Barbara ? <eos>
 What was Catherine saying had looked like Catherine ? <eos>
 What was Catherine saying that had looked like Catherine ? <eos>
-Who is a boy explaining hadn't hated Bethany ? <eos>
-Who is a boy explaining that hadn't hated Bethany ? <eos>
-What had Martha said shouldn't work hard ? <eos>
-What had Martha said that shouldn't work hard ? <eos>
+Who is a boy explaining had n't hated Bethany ? <eos>
+Who is a boy explaining that had n't hated Bethany ? <eos>
+What had Martha said should n't work hard ? <eos>
+What had Martha said that should n't work hard ? <eos>
 Who would Tammy imagine descend all steps ? <eos>
 Who would Tammy imagine that descend all steps ? <eos>
 Who were dancers imagining is grinning ? <eos>
@@ -168,10 +168,10 @@ Who does a woman explain is arguing ? <eos>
 Who does a woman explain that is arguing ? <eos>
 Who had George explained could n't spin around ? <eos>
 Who had George explained that could n't spin around ? <eos>
-Who is Irene saying hadn't slumped over ? <eos>
-Who is Irene saying that hadn't slumped over ? <eos>
-Who has this man said wouldn't forfeit ? <eos>
-Who has this man said that wouldn't forfeit ? <eos>
+Who is Irene saying had n't slumped over ? <eos>
+Who is Irene saying that had n't slumped over ? <eos>
+Who has this man said would n't forfeit ? <eos>
+Who has this man said that would n't forfeit ? <eos>
 What might Brett say benefits ? <eos>
 What might Brett say that benefits ? <eos>
 Who can Stacy think does mutter ? <eos>
@@ -182,8 +182,8 @@ What has Andrew thought was n't chatting ? <eos>
 What has Andrew thought that was n't chatting ? <eos>
 What is Jodi thinking benefit ? <eos>
 What is Jodi thinking that benefit ? <eos>
-Who is Daniel thinking wouldn't cook ? <eos>
-Who is Daniel thinking that wouldn't cook ? <eos>
+Who is Daniel thinking would n't cook ? <eos>
+Who is Daniel thinking that would n't cook ? <eos>
 Who was Thomas thinking has praised Larry ? <eos>
 Who was Thomas thinking that has praised Larry ? <eos>
 Who is Theresa explaining had fixed every car ? <eos>
@@ -264,8 +264,8 @@ Who is Theresa saying watches Ronald ? <eos>
 Who is Theresa saying that watches Ronald ? <eos>
 Who will Curtis say chuckled ? <eos>
 Who will Curtis say that chuckled ? <eos>
-Who might Vanessa explain hadn't watched Sara ? <eos>
-Who might Vanessa explain that hadn't watched Sara ? <eos>
+Who might Vanessa explain had n't watched Sara ? <eos>
+Who might Vanessa explain that had n't watched Sara ? <eos>
 Who had Todd imagined ca n't break the computer ? <eos>
 Who had Todd imagined that ca n't break the computer ? <eos>
 Who has Tiffany imagined blinks ? <eos>
@@ -300,8 +300,8 @@ Who has Jane thought blink ? <eos>
 Who has Jane thought that blink ? <eos>
 What had Rhonda explained hides that snake ? <eos>
 What had Rhonda explained that hides that snake ? <eos>
-Who is Mark explaining hadn't listened to Theresa ? <eos>
-Who is Mark explaining that hadn't listened to Theresa ? <eos>
+Who is Mark explaining had n't listened to Theresa ? <eos>
+Who is Mark explaining that had n't listened to Theresa ? <eos>
 Who had many actors said die ? <eos>
 Who had many actors said that die ? <eos>
 What could Stephen explain embarrasses most people ? <eos>
@@ -344,8 +344,8 @@ Who had Stephanie thought admired most snakes ? <eos>
 Who had Stephanie thought that admired most snakes ? <eos>
 Who was Regina explaining scan that play ? <eos>
 Who was Regina explaining that scan that play ? <eos>
-Who was Tanya imagining hadn't hidden away ? <eos>
-Who was Tanya imagining that hadn't hidden away ? <eos>
+Who was Tanya imagining had n't hidden away ? <eos>
+Who was Tanya imagining that had n't hidden away ? <eos>
 Who was Sonia explaining chuckled ? <eos>
 Who was Sonia explaining that chuckled ? <eos>
 Who might the teachers say is n't listening to Amy ? <eos>
@@ -358,26 +358,26 @@ Who will Amanda think argued ? <eos>
 Who will Amanda think that argued ? <eos>
 Who could Catherine explain wo n't gets fired ? <eos>
 Who could Catherine explain that wo n't gets fired ? <eos>
-Who does Julia think wouldn't reveal Curtis ? <eos>
-Who does Julia think that wouldn't reveal Curtis ? <eos>
+Who does Julia think would n't reveal Curtis ? <eos>
+Who does Julia think that would n't reveal Curtis ? <eos>
 Who is Sally thinking was donating ? <eos>
 Who is Sally thinking that was donating ? <eos>
-Who was Roger thinking wouldn't fire Randolf ? <eos>
-Who was Roger thinking that wouldn't fire Randolf ? <eos>
+Who was Roger thinking would n't fire Randolf ? <eos>
+Who was Roger thinking that would n't fire Randolf ? <eos>
 What might Laura explain rot ? <eos>
 What might Laura explain that rot ? <eos>
 Who is Beverly explaining dropped by some art galleries ? <eos>
 Who is Beverly explaining that dropped by some art galleries ? <eos>
-Who was Frank thinking didn't cheer ? <eos>
-Who was Frank thinking that didn't cheer ? <eos>
+Who was Frank thinking did n't cheer ? <eos>
+Who was Frank thinking that did n't cheer ? <eos>
 Who would Brett think approves ? <eos>
 Who would Brett think that approves ? <eos>
 What is Amanda saying disturbs Elaine ? <eos>
 What is Amanda saying that disturbs Elaine ? <eos>
 Who could Clyde think could n't complain ? <eos>
 Who could Clyde think that could n't complain ? <eos>
-Who might Julie explain hadn't admired Deborah ? <eos>
-Who might Julie explain that hadn't admired Deborah ? <eos>
+Who might Julie explain had n't admired Deborah ? <eos>
+Who might Julie explain that had n't admired Deborah ? <eos>
 Who is Michelle imagining boycotts every art gallery ? <eos>
 Who is Michelle imagining that boycotts every art gallery ? <eos>
 Who has Carmen imagined sighs ? <eos>
@@ -418,8 +418,8 @@ Who had Janice explained embraced ? <eos>
 Who had Janice explained that embraced ? <eos>
 Who is Lori saying revealed that actress ? <eos>
 Who is Lori saying that revealed that actress ? <eos>
-Who had Richard said didn't sound like Dan ? <eos>
-Who had Richard said that didn't sound like Dan ? <eos>
+Who had Richard said did n't sound like Dan ? <eos>
+Who had Richard said that did n't sound like Dan ? <eos>
 Who should Deanna imagine disagree ? <eos>
 Who should Deanna imagine that disagree ? <eos>
 What might Derek think is alarming Lissa ? <eos>
@@ -510,8 +510,8 @@ Who is Keith saying reunite ? <eos>
 Who is Keith saying that reunite ? <eos>
 Who has Andrew explained does drive to a high school ? <eos>
 Who has Andrew explained that does drive to a high school ? <eos>
-Who did actors think hadn't insulted some lake ? <eos>
-Who did actors think that hadn't insulted some lake ? <eos>
+Who did actors think had n't insulted some lake ? <eos>
+Who did actors think that had n't insulted some lake ? <eos>
 Who can Jerry say scanned a movie ? <eos>
 Who can Jerry say that scanned a movie ? <eos>
 Who had Sherry thought depart ? <eos>
@@ -522,12 +522,12 @@ Who had Brad thought saluted ? <eos>
 Who had Brad thought that saluted ? <eos>
 Who was Daniel imagining did reference Amelia ? <eos>
 Who was Daniel imagining that did reference Amelia ? <eos>
-Who is Barbara saying hadn't scratched ? <eos>
-Who is Barbara saying that hadn't scratched ? <eos>
+Who is Barbara saying had n't scratched ? <eos>
+Who is Barbara saying that had n't scratched ? <eos>
 What did Marla imagine falls ? <eos>
 What did Marla imagine that falls ? <eos>
-Who is Stacey imagining shouldn't hide some photograph ? <eos>
-Who is Stacey imagining that shouldn't hide some photograph ? <eos>
+Who is Stacey imagining should n't hide some photograph ? <eos>
+Who is Stacey imagining that should n't hide some photograph ? <eos>
 What has John said confuses Chad ? <eos>
 What has John said that confuses Chad ? <eos>
 Who has Andrew said could n't donate ? <eos>
@@ -546,8 +546,8 @@ What does Theresa explain had conspired ? <eos>
 What does Theresa explain that had conspired ? <eos>
 Who had the dancer thought is n't confusing Beverly ? <eos>
 Who had the dancer thought that is n't confusing Beverly ? <eos>
-What is Raymond thinking didn't like Carmen ? <eos>
-What is Raymond thinking that didn't like Carmen ? <eos>
+What is Raymond thinking did n't like Carmen ? <eos>
+What is Raymond thinking that did n't like Carmen ? <eos>
 Who would Mitchell explain whispers ? <eos>
 Who would Mitchell explain that whispers ? <eos>
 Who would Jerry imagine dislikes Bradley ? <eos>
@@ -572,12 +572,12 @@ Who has Sharon said complains about Melinda ? <eos>
 Who has Sharon said that complains about Melinda ? <eos>
 Who was Rodney thinking had concurred ? <eos>
 Who was Rodney thinking that had concurred ? <eos>
-Who was Adam saying hadn't revealed the tomato ? <eos>
-Who was Adam saying that hadn't revealed the tomato ? <eos>
+Who was Adam saying had n't revealed the tomato ? <eos>
+Who was Adam saying that had n't revealed the tomato ? <eos>
 Who has this man imagined has discussed Deanna ? <eos>
 Who has this man imagined that has discussed Deanna ? <eos>
-Who has Cindy explained hadn't cleaned that book ? <eos>
-Who has Cindy explained that hadn't cleaned that book ? <eos>
+Who has Cindy explained had n't cleaned that book ? <eos>
+Who has Cindy explained that had n't cleaned that book ? <eos>
 Who had all men explained drink ? <eos>
 Who had all men explained that drink ? <eos>
 What does Janice think has n't rotted ? <eos>
@@ -632,8 +632,8 @@ Who had Erin said is n't going fishing ? <eos>
 Who had Erin said that is n't going fishing ? <eos>
 Who is Timothy imagining approach Lucille ? <eos>
 Who is Timothy imagining that approach Lucille ? <eos>
-Who has Tina explained hadn't healed Becky ? <eos>
-Who has Tina explained that hadn't healed Becky ? <eos>
+Who has Tina explained had n't healed Becky ? <eos>
+Who has Tina explained that had n't healed Becky ? <eos>
 Who can Matt say has arrived at every hill ? <eos>
 Who can Matt say that has arrived at every hill ? <eos>
 What has Dawn explained distracts waitresses ? <eos>
@@ -654,8 +654,8 @@ Who was Tara saying kiss ? <eos>
 Who was Tara saying that kiss ? <eos>
 Who was Martha explaining had boasted ? <eos>
 Who was Martha explaining that had boasted ? <eos>
-Who is Clyde thinking didn't speak up ? <eos>
-Who is Clyde thinking that didn't speak up ? <eos>
+Who is Clyde thinking did n't speak up ? <eos>
+Who is Clyde thinking that did n't speak up ? <eos>
 Who should some actresses explain has telephoned ? <eos>
 Who should some actresses explain that has telephoned ? <eos>
 What was Brian explaining coped ? <eos>
@@ -702,8 +702,8 @@ What was Diana explaining was profiting ? <eos>
 What was Diana explaining that was profiting ? <eos>
 Who has Patricia explained cook ? <eos>
 Who has Patricia explained that cook ? <eos>
-What can Raymond explain hadn't discussed that lake ? <eos>
-What can Raymond explain that hadn't discussed that lake ? <eos>
+What can Raymond explain had n't discussed that lake ? <eos>
+What can Raymond explain that had n't discussed that lake ? <eos>
 What will Wendy explain has n't cooperated ? <eos>
 What will Wendy explain that has n't cooperated ? <eos>
 Who has Kevin imagined escaped ? <eos>
@@ -760,8 +760,8 @@ Who is Caroline saying sound like Allison ? <eos>
 Who is Caroline saying that sound like Allison ? <eos>
 Who is Jessica thinking reveals Katherine ? <eos>
 Who is Jessica thinking that reveals Katherine ? <eos>
-Who was Christopher explaining hadn't worn gloves ? <eos>
-Who was Christopher explaining that hadn't worn gloves ? <eos>
+Who was Christopher explaining had n't worn gloves ? <eos>
+Who was Christopher explaining that had n't worn gloves ? <eos>
 Who might Laurie think was n't biking to mountains ? <eos>
 Who might Laurie think that was n't biking to mountains ? <eos>
 Who does Melissa think is n't forfeiting ? <eos>
@@ -772,8 +772,8 @@ Who should Meredith say criticize Dennis ? <eos>
 Who should Meredith say that criticize Dennis ? <eos>
 Who did Jacqueline think can reference George ? <eos>
 Who did Jacqueline think that can reference George ? <eos>
-Who were guys thinking shouldn't know Christopher ? <eos>
-Who were guys thinking that shouldn't know Christopher ? <eos>
+Who were guys thinking should n't know Christopher ? <eos>
+Who were guys thinking that should n't know Christopher ? <eos>
 Who is Brenda imagining care for the senators ? <eos>
 Who is Brenda imagining that care for the senators ? <eos>
 Who might Diane say approaches Christopher ? <eos>
@@ -852,8 +852,8 @@ Who had Alan explained meet ? <eos>
 Who had Alan explained that meet ? <eos>
 Who will Christina explain listened to Steven ? <eos>
 Who will Christina explain that listened to Steven ? <eos>
-Who is Rachelle saying hadn't boasted ? <eos>
-Who is Rachelle saying that hadn't boasted ? <eos>
+Who is Rachelle saying had n't boasted ? <eos>
+Who is Rachelle saying that had n't boasted ? <eos>
 Who will most adults imagine was writing ? <eos>
 Who will most adults imagine that was writing ? <eos>
 Who is Rhonda thinking was ascending these ladders ? <eos>
@@ -872,8 +872,8 @@ Who did Elaine explain ca n't come here ? <eos>
 Who did Elaine explain that ca n't come here ? <eos>
 What has Ellen imagined should hurt a woman ? <eos>
 What has Ellen imagined that should hurt a woman ? <eos>
-Who could Nicole explain shouldn't chat ? <eos>
-Who could Nicole explain that shouldn't chat ? <eos>
+Who could Nicole explain should n't chat ? <eos>
+Who could Nicole explain that should n't chat ? <eos>
 What has Sonia thought has profited ? <eos>
 What has Sonia thought that has profited ? <eos>
 Who is Tamara thinking complain ? <eos>
@@ -890,8 +890,8 @@ Who had every man said could n't suffer ? <eos>
 Who had every man said that could n't suffer ? <eos>
 Who might Katherine explain reply ? <eos>
 Who might Katherine explain that reply ? <eos>
-Who does Phillip imagine shouldn't cooperate ? <eos>
-Who does Phillip imagine that shouldn't cooperate ? <eos>
+Who does Phillip imagine should n't cooperate ? <eos>
+Who does Phillip imagine that should n't cooperate ? <eos>
 Who could Roger say was arguing ? <eos>
 Who could Roger say that was arguing ? <eos>
 Who has Eva explained is n't laughing ? <eos>
@@ -922,8 +922,8 @@ Who has Nicole imagined could wear that dress ? <eos>
 Who has Nicole imagined that could wear that dress ? <eos>
 Who would Lori say has examined the essays ? <eos>
 Who would Lori say that has examined the essays ? <eos>
-Who does Maria think didn't walk through the closet ? <eos>
-Who does Maria think that didn't walk through the closet ? <eos>
+Who does Maria think did n't walk through the closet ? <eos>
+Who does Maria think that did n't walk through the closet ? <eos>
 Who has Nina said does get a job ? <eos>
 Who has Nina said that does get a job ? <eos>
 Who does the actress explain reference Kevin ? <eos>
@@ -960,8 +960,8 @@ Who would Leslie say can conceal the people ? <eos>
 Who would Leslie say that can conceal the people ? <eos>
 Who had Michelle explained has n't screamed ? <eos>
 Who had Michelle explained that has n't screamed ? <eos>
-Who was Tonya saying shouldn't praise Barbara ? <eos>
-Who was Tonya saying that shouldn't praise Barbara ? <eos>
+Who was Tonya saying should n't praise Barbara ? <eos>
+Who was Tonya saying that should n't praise Barbara ? <eos>
 What has Florence explained was n't looking like most drawings ? <eos>
 What has Florence explained that was n't looking like most drawings ? <eos>
 Who has David explained practiced ? <eos>
@@ -1104,8 +1104,8 @@ Who was Samantha saying does hug Wayne ? <eos>
 Who was Samantha saying that does hug Wayne ? <eos>
 What had Douglas imagined chatted ? <eos>
 What had Douglas imagined that chatted ? <eos>
-Who is Gary thinking didn't bike to every bank ? <eos>
-Who is Gary thinking that didn't bike to every bank ? <eos>
+Who is Gary thinking did n't bike to every bank ? <eos>
+Who is Gary thinking that did n't bike to every bank ? <eos>
 Who should Cindy think spoke up ? <eos>
 Who should Cindy think that spoke up ? <eos>
 Who is Matt explaining replies ? <eos>
@@ -1118,14 +1118,14 @@ Who had Craig thought will hide away ? <eos>
 Who had Craig thought that will hide away ? <eos>
 What had Andrew imagined was assembling ? <eos>
 What had Andrew imagined that was assembling ? <eos>
-Who might some pedestrians explain hadn't seen ? <eos>
-Who might some pedestrians explain that hadn't seen ? <eos>
+Who might some pedestrians explain had n't seen ? <eos>
+Who might some pedestrians explain that had n't seen ? <eos>
 Who should Mark say was going to some museum ? <eos>
 Who should Mark say that was going to some museum ? <eos>
 Who are the girls imagining has astounded Anna ? <eos>
 Who are the girls imagining that has astounded Anna ? <eos>
-What has Daniel thought hadn't irritated Cheryl ? <eos>
-What has Daniel thought that hadn't irritated Cheryl ? <eos>
+What has Daniel thought had n't irritated Cheryl ? <eos>
+What has Daniel thought that had n't irritated Cheryl ? <eos>
 What is Ann explaining irritate Melanie ? <eos>
 What is Ann explaining that irritate Melanie ? <eos>
 Who was Beverly thinking complain about the dancer ? <eos>
@@ -1136,16 +1136,16 @@ Who were most men thinking escaped ? <eos>
 Who were most men thinking that escaped ? <eos>
 Who is Sonia explaining is n't passing some closets ? <eos>
 Who is Sonia explaining that is n't passing some closets ? <eos>
-Who could all students imagine wouldn't benefit ? <eos>
-Who could all students imagine that wouldn't benefit ? <eos>
+Who could all students imagine would n't benefit ? <eos>
+Who could all students imagine that would n't benefit ? <eos>
 Who was Emily imagining wo n't ascend these stairs ? <eos>
 Who was Emily imagining that wo n't ascend these stairs ? <eos>
 Who should Pamela say had sung ? <eos>
 Who should Pamela say that had sung ? <eos>
-What would Barbara explain hadn't disturbed Carl ? <eos>
-What would Barbara explain that hadn't disturbed Carl ? <eos>
-Who has Donna imagined hadn't talked about Samantha ? <eos>
-Who has Donna imagined that hadn't talked about Samantha ? <eos>
+What would Barbara explain had n't disturbed Carl ? <eos>
+What would Barbara explain that had n't disturbed Carl ? <eos>
+Who has Donna imagined had n't talked about Samantha ? <eos>
+Who has Donna imagined that had n't talked about Samantha ? <eos>
 What is Peter thinking had gone bad ? <eos>
 What is Peter thinking that had gone bad ? <eos>
 What is Bruce thinking cope ? <eos>
@@ -1158,22 +1158,22 @@ Who are some drivers thinking changed ? <eos>
 Who are some drivers thinking that changed ? <eos>
 What has Melinda said has argued ? <eos>
 What has Melinda said that has argued ? <eos>
-Who do the senators explain wouldn't hide Katherine ? <eos>
-Who do the senators explain that wouldn't hide Katherine ? <eos>
-What might most children explain hadn't frozen ? <eos>
-What might most children explain that hadn't frozen ? <eos>
-Who had Judy imagined hadn't waved ? <eos>
-Who had Judy imagined that hadn't waved ? <eos>
-What was Naomi saying hadn't confused Kristen ? <eos>
-What was Naomi saying that hadn't confused Kristen ? <eos>
-Who has Marla said didn't run around most museums ? <eos>
-Who has Marla said that didn't run around most museums ? <eos>
+Who do the senators explain would n't hide Katherine ? <eos>
+Who do the senators explain that would n't hide Katherine ? <eos>
+What might most children explain had n't frozen ? <eos>
+What might most children explain that had n't frozen ? <eos>
+Who had Judy imagined had n't waved ? <eos>
+Who had Judy imagined that had n't waved ? <eos>
+What was Naomi saying had n't confused Kristen ? <eos>
+What was Naomi saying that had n't confused Kristen ? <eos>
+Who has Marla said did n't run around most museums ? <eos>
+Who has Marla said that did n't run around most museums ? <eos>
 Who is Karla explaining correspond ? <eos>
 Who is Karla explaining that correspond ? <eos>
 What has Daniel imagined did talk about a lot of public parks ? <eos>
 What has Daniel imagined that did talk about a lot of public parks ? <eos>
-Who was Donald explaining hadn't shouted ? <eos>
-Who was Donald explaining that hadn't shouted ? <eos>
+Who was Donald explaining had n't shouted ? <eos>
+Who was Donald explaining that had n't shouted ? <eos>
 Who had Diane said is climbing up all stairs ? <eos>
 Who had Diane said that is climbing up all stairs ? <eos>
 What does Dennis say ripens ? <eos>
@@ -1192,12 +1192,12 @@ Who had Liam imagined is n't arriving at a lot of malls ? <eos>
 Who had Liam imagined that is n't arriving at a lot of malls ? <eos>
 Who might Robert explain lies ? <eos>
 Who might Robert explain that lies ? <eos>
-Who might Bruce imagine hadn't criticized doctors ? <eos>
-Who might Bruce imagine that hadn't criticized doctors ? <eos>
+Who might Bruce imagine had n't criticized doctors ? <eos>
+Who might Bruce imagine that had n't criticized doctors ? <eos>
 What does Carla imagine communicated ? <eos>
 What does Carla imagine that communicated ? <eos>
-What has Vincent explained didn't annoy Jessica ? <eos>
-What has Vincent explained that didn't annoy Jessica ? <eos>
+What has Vincent explained did n't annoy Jessica ? <eos>
+What has Vincent explained that did n't annoy Jessica ? <eos>
 Who is Stacey thinking does escape from most restaurants ? <eos>
 Who is Stacey thinking that does escape from most restaurants ? <eos>
 Who was Ronald explaining investigate Joseph ? <eos>
@@ -1246,8 +1246,8 @@ What had Tracy thought irritate most drivers ? <eos>
 What had Tracy thought that irritate most drivers ? <eos>
 Who has Edward explained is n't firing Keith ? <eos>
 Who has Edward explained that is n't firing Keith ? <eos>
-What can Ronald imagine hadn't surrendered ? <eos>
-What can Ronald imagine that hadn't surrendered ? <eos>
+What can Ronald imagine had n't surrendered ? <eos>
+What can Ronald imagine that had n't surrendered ? <eos>
 Who might Allison think does n't break these vases ? <eos>
 Who might Allison think that does n't break these vases ? <eos>
 What had Jeffrey said look like this print ? <eos>
@@ -1392,8 +1392,8 @@ What was Candice explaining was n't clashing ? <eos>
 What was Candice explaining that was n't clashing ? <eos>
 Who was Kathleen saying wo n't boast ? <eos>
 Who was Kathleen saying that wo n't boast ? <eos>
-Who had Dennis thought didn't buy a lot of mirrors ? <eos>
-Who had Dennis thought that didn't buy a lot of mirrors ? <eos>
+Who had Dennis thought did n't buy a lot of mirrors ? <eos>
+Who had Dennis thought that did n't buy a lot of mirrors ? <eos>
 Who is Cindy explaining alarmed Victoria ? <eos>
 Who is Cindy explaining that alarmed Victoria ? <eos>
 Who might Stacey say had eaten ? <eos>
@@ -1416,8 +1416,8 @@ Who might Rachelle imagine lie ? <eos>
 Who might Rachelle imagine that lie ? <eos>
 Who have a lot of patients thought is negotiating ? <eos>
 Who have a lot of patients thought that is negotiating ? <eos>
-Who is Kristin imagining hadn't worried Judy ? <eos>
-Who is Kristin imagining that hadn't worried Judy ? <eos>
+Who is Kristin imagining had n't worried Judy ? <eos>
+Who is Kristin imagining that had n't worried Judy ? <eos>
 What had Allison thought work hard ? <eos>
 What had Allison thought that work hard ? <eos>
 What were many patients saying should remember all movie theaters ? <eos>
@@ -1454,8 +1454,8 @@ Who is Melinda imagining argued about Todd ? <eos>
 Who is Melinda imagining that argued about Todd ? <eos>
 What is Nancy imagining astound Heidi ? <eos>
 What is Nancy imagining that astound Heidi ? <eos>
-What could Dan explain hadn't disagreed ? <eos>
-What could Dan explain that hadn't disagreed ? <eos>
+What could Dan explain had n't disagreed ? <eos>
+What could Dan explain that had n't disagreed ? <eos>
 Who was Laura thinking would embarrass Kirsten ? <eos>
 Who was Laura thinking that would embarrass Kirsten ? <eos>
 What has Karla said wo n't clash ? <eos>
@@ -1528,8 +1528,8 @@ Who should Rachel explain climb up many hills ? <eos>
 Who should Rachel explain that climb up many hills ? <eos>
 Who had Caroline said observes these patients ? <eos>
 Who had Caroline said that observes these patients ? <eos>
-Who would Janet imagine wouldn't escape ? <eos>
-Who would Janet imagine that wouldn't escape ? <eos>
+Who would Janet imagine would n't escape ? <eos>
+Who would Janet imagine that would n't escape ? <eos>
 Who would Janet think does n't wave ? <eos>
 Who would Janet think that does n't wave ? <eos>
 Who has Steven said compromise ? <eos>
@@ -1590,8 +1590,8 @@ Who has Stacey explained dislike all doctors ? <eos>
 Who has Stacey explained that dislike all doctors ? <eos>
 Who has Todd explained distracted Judy ? <eos>
 Who has Todd explained that distracted Judy ? <eos>
-Who was Angela thinking didn't work hard ? <eos>
-Who was Angela thinking that didn't work hard ? <eos>
+Who was Angela thinking did n't work hard ? <eos>
+Who was Angela thinking that did n't work hard ? <eos>
 Who would Margaret think answer ? <eos>
 Who would Margaret think that answer ? <eos>
 Who is Janet explaining lifts every car ? <eos>
@@ -1614,8 +1614,8 @@ Who did Gregory think was leaving Gary ? <eos>
 Who did Gregory think that was leaving Gary ? <eos>
 Who did Brian think talked to Marcus ? <eos>
 Who did Brian think that talked to Marcus ? <eos>
-What were all dancers imagining hadn't upset Tanya ? <eos>
-What were all dancers imagining that hadn't upset Tanya ? <eos>
+What were all dancers imagining had n't upset Tanya ? <eos>
+What were all dancers imagining that had n't upset Tanya ? <eos>
 Who has Frank imagined escapes from Eric ? <eos>
 Who has Frank imagined that escapes from Eric ? <eos>
 What was Sharon saying alarms the bank ? <eos>
@@ -1648,8 +1648,8 @@ What did Diana say had aggravated Teresa ? <eos>
 What did Diana say that had aggravated Teresa ? <eos>
 Who could Leslie explain wo n't learn ? <eos>
 Who could Leslie explain that wo n't learn ? <eos>
-Who could Marcus explain hadn't climbed down some mountains ? <eos>
-Who could Marcus explain that hadn't climbed down some mountains ? <eos>
+Who could Marcus explain had n't climbed down some mountains ? <eos>
+Who could Marcus explain that had n't climbed down some mountains ? <eos>
 Who could Katherine explain boycotted every government ? <eos>
 Who could Katherine explain that boycotted every government ? <eos>
 Who could a boy explain was fleeing from Lori ? <eos>
@@ -1658,8 +1658,8 @@ What can Tracy think has n't aggravated the libraries ? <eos>
 What can Tracy think that has n't aggravated the libraries ? <eos>
 Who is Cindy imagining is n't watching most waiters ? <eos>
 Who is Cindy imagining that is n't watching most waiters ? <eos>
-Who has Allison explained hadn't talked ? <eos>
-Who has Allison explained that hadn't talked ? <eos>
+Who has Allison explained had n't talked ? <eos>
+Who has Allison explained that had n't talked ? <eos>
 Who was Karen explaining was arguing ? <eos>
 Who was Karen explaining that was arguing ? <eos>
 Who has Christopher said is singing ? <eos>
@@ -1720,8 +1720,8 @@ Who was Ellen explaining has disliked most rivers ? <eos>
 Who was Ellen explaining that has disliked most rivers ? <eos>
 Who has Travis thought hires Florence ? <eos>
 Who has Travis thought that hires Florence ? <eos>
-Who had Raymond imagined hadn't played ? <eos>
-Who had Raymond imagined that hadn't played ? <eos>
+Who had Raymond imagined had n't played ? <eos>
+Who had Raymond imagined that had n't played ? <eos>
 Who will many waiters explain is driving to some hill ? <eos>
 Who will many waiters explain that is driving to some hill ? <eos>
 Who can Monica imagine healed these boys ? <eos>
@@ -1758,14 +1758,14 @@ Who was Lisa saying can eat ? <eos>
 Who was Lisa saying that can eat ? <eos>
 What did some dancers think is rotting ? <eos>
 What did some dancers think that is rotting ? <eos>
-Who is Kristin imagining didn't visit Rachelle ? <eos>
-Who is Kristin imagining that didn't visit Rachelle ? <eos>
+Who is Kristin imagining did n't visit Rachelle ? <eos>
+Who is Kristin imagining that did n't visit Rachelle ? <eos>
 Who is Stacy saying blinks ? <eos>
 Who is Stacy saying that blinks ? <eos>
 Who were the actresses saying was n't grinning ? <eos>
 Who were the actresses saying that was n't grinning ? <eos>
-Who had Bradley imagined hadn't insulted Bethany ? <eos>
-Who had Bradley imagined that hadn't insulted Bethany ? <eos>
+Who had Bradley imagined had n't insulted Bethany ? <eos>
+Who had Bradley imagined that had n't insulted Bethany ? <eos>
 Who is Carlos thinking disagreed with Jacqueline ? <eos>
 Who is Carlos thinking that disagreed with Jacqueline ? <eos>
 Who had actors thought had skated around some mountains ? <eos>
@@ -1778,8 +1778,8 @@ Who should David explain had woken up ? <eos>
 Who should David explain that had woken up ? <eos>
 Who has Nicole said confused Noah ? <eos>
 Who has Nicole said that confused Noah ? <eos>
-Who is Tamara saying hadn't lied ? <eos>
-Who is Tamara saying that hadn't lied ? <eos>
+Who is Tamara saying had n't lied ? <eos>
+Who is Tamara saying that had n't lied ? <eos>
 Who is Rose imagining has fixed many mirrors ? <eos>
 Who is Rose imagining that has fixed many mirrors ? <eos>
 Who is Kimberley thinking fix this mirror ? <eos>
@@ -1792,12 +1792,12 @@ Who were some actors thinking has n't biked to the hospitals ? <eos>
 Who were some actors thinking that has n't biked to the hospitals ? <eos>
 Who had Julia thought hide Erin ? <eos>
 Who had Julia thought that hide Erin ? <eos>
-Who is Stacy explaining hadn't cooked ? <eos>
-Who is Stacy explaining that hadn't cooked ? <eos>
+Who is Stacy explaining had n't cooked ? <eos>
+Who is Stacy explaining that had n't cooked ? <eos>
 Who had Victoria explained boasted ? <eos>
 Who had Victoria explained that boasted ? <eos>
-Who can some guys think hadn't concurred ? <eos>
-Who can some guys think that hadn't concurred ? <eos>
+Who can some guys think had n't concurred ? <eos>
+Who can some guys think that had n't concurred ? <eos>
 Who has Jill explained litter ? <eos>
 Who has Jill explained that litter ? <eos>
 Who is Victoria explaining has sounded like Sarah ? <eos>
@@ -1872,8 +1872,8 @@ Who is Michael explaining has n't forgotten Laurie ? <eos>
 Who is Michael explaining that has n't forgotten Laurie ? <eos>
 Who had Gary explained would bother Catherine ? <eos>
 Who had Gary explained that would bother Catherine ? <eos>
-What did Denise imagine hadn't benefited ? <eos>
-What did Denise imagine that hadn't benefited ? <eos>
+What did Denise imagine had n't benefited ? <eos>
+What did Denise imagine that had n't benefited ? <eos>
 Who was Deborah explaining concealed Donald ? <eos>
 Who was Deborah explaining that concealed Donald ? <eos>
 What was Theodore explaining debate ? <eos>
@@ -1882,8 +1882,8 @@ Who was Renee imagining approve ? <eos>
 Who was Renee imagining that approve ? <eos>
 Who had Karen thought complains ? <eos>
 Who had Karen thought that complains ? <eos>
-Who does Pamela think hadn't visited all schools ? <eos>
-Who does Pamela think that hadn't visited all schools ? <eos>
+Who does Pamela think had n't visited all schools ? <eos>
+Who does Pamela think that had n't visited all schools ? <eos>
 Who had Teresa said has n't disliked Donna ? <eos>
 Who had Teresa said that has n't disliked Donna ? <eos>
 Who was Stephanie thinking practice ? <eos>
@@ -1914,8 +1914,8 @@ Who has Andrew said respected Christine ? <eos>
 Who has Andrew said that respected Christine ? <eos>
 Who can Marcus think hunted ? <eos>
 Who can Marcus think that hunted ? <eos>
-Who has Andrew explained didn't find the snakes ? <eos>
-Who has Andrew explained that didn't find the snakes ? <eos>
+Who has Andrew explained did n't find the snakes ? <eos>
+Who has Andrew explained that did n't find the snakes ? <eos>
 Who had these customers explained grins ? <eos>
 Who had these customers explained that grins ? <eos>
 What will Marcus explain shut ? <eos>
@@ -1936,8 +1936,8 @@ Who would Alexander think examined some newspaper article ? <eos>
 Who would Alexander think that examined some newspaper article ? <eos>
 Who is Jennifer thinking was n't hiding away ? <eos>
 Who is Jennifer thinking that was n't hiding away ? <eos>
-Who is Lissa explaining hadn't disagreed ? <eos>
-Who is Lissa explaining that hadn't disagreed ? <eos>
+Who is Lissa explaining had n't disagreed ? <eos>
+Who is Lissa explaining that had n't disagreed ? <eos>
 Who have children said cooperates ? <eos>
 Who have children said that cooperates ? <eos>
 Who is Stacy imagining respect Sandra ? <eos>
@@ -1946,8 +1946,8 @@ Who does Erin explain laughs ? <eos>
 Who does Erin explain that laughs ? <eos>
 Who has Rodney explained embraced ? <eos>
 Who has Rodney explained that embraced ? <eos>
-Who did Edward think shouldn't ascend these ladders ? <eos>
-Who did Edward think that shouldn't ascend these ladders ? <eos>
+Who did Edward think should n't ascend these ladders ? <eos>
+Who did Edward think that should n't ascend these ladders ? <eos>
 Who has Renee explained depart ? <eos>
 Who has Renee explained that depart ? <eos>
 Who is Sonia explaining is n't singing ? <eos>
@@ -1996,5 +1996,5 @@ Who will Omar think is n't walking through that closet ? <eos>
 Who will Omar think that is n't walking through that closet ? <eos>
 Who could Kevin say got a job ? <eos>
 Who could Kevin say that got a job ? <eos>
-Who can Mitchell explain hadn't chuckled ? <eos>
-Who can Mitchell explain that hadn't chuckled ? <eos>
+Who can Mitchell explain had n't chuckled ? <eos>
+Who can Mitchell explain that had n't chuckled ? <eos>

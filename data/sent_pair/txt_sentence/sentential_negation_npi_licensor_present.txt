@@ -60,8 +60,8 @@ Patients might not ever resemble every painting . <eos>
 Patients might probably ever resemble every painting . <eos>
 Most organizations have not ever worked hard . <eos>
 Most organizations have probably ever worked hard . <eos>
-Sherry should not ever imagine this lady hadn't studied . <eos>
-Sherry should probably ever imagine this lady hadn't studied . <eos>
+Sherry should not ever imagine this lady had n't studied . <eos>
+Sherry should probably ever imagine this lady had n't studied . <eos>
 Michelle had not ever observed Denise . <eos>
 Michelle had probably ever observed Denise . <eos>
 These teachers have not ever hugged Todd . <eos>
@@ -328,8 +328,8 @@ Some eyes might not ever close . <eos>
 Some eyes might probably ever close . <eos>
 Tamara can not ever love Kendra . <eos>
 Tamara can fortunately ever love Kendra . <eos>
-Frank has not ever realized what wouldn't conceal the spinach . <eos>
-Frank has probably ever realized what wouldn't conceal the spinach . <eos>
+Frank has not ever realized what would n't conceal the spinach . <eos>
+Frank has probably ever realized what would n't conceal the spinach . <eos>
 Sabrina had not ever stood up . <eos>
 Sabrina had really ever stood up . <eos>
 Allison should not ever astound Rodney . <eos>
@@ -866,8 +866,8 @@ Lawrence could not ever murmur . <eos>
 Lawrence could fortunately ever murmur . <eos>
 Karla had not ever considered Todd to climb up the steps . <eos>
 Karla had fortunately ever considered Todd to climb up the steps . <eos>
-Most children might not ever regret Pamela hadn't grinned . <eos>
-Most children might probably ever regret Pamela hadn't grinned . <eos>
+Most children might not ever regret Pamela had n't grinned . <eos>
+Most children might probably ever regret Pamela had n't grinned . <eos>
 Mary had not ever learned who aggravate this teacher . <eos>
 Mary had fortunately ever learned who aggravate this teacher . <eos>
 That doctor has not ever approached Rodney . <eos>
@@ -1072,8 +1072,8 @@ These men have not ever written . <eos>
 These men have really ever written . <eos>
 Every pedestrian can not ever admire Phillip . <eos>
 Every pedestrian can probably ever admire Phillip . <eos>
-Curtis will not ever investigate who shouldn't read . <eos>
-Curtis will really ever investigate who shouldn't read . <eos>
+Curtis will not ever investigate who should n't read . <eos>
+Curtis will really ever investigate who should n't read . <eos>
 Edward had not ever toured these grocery stores . <eos>
 Edward had fortunately ever toured these grocery stores . <eos>
 Sheila has not ever revealed who cleaned a college campus . <eos>
@@ -1200,8 +1200,8 @@ The men should not ever divorce . <eos>
 The men should fortunately ever divorce . <eos>
 Regina has not ever remembered what was n't coping . <eos>
 Regina has really ever remembered what was n't coping . <eos>
-This student can not ever figure out who shouldn't win . <eos>
-This student can really ever figure out who shouldn't win . <eos>
+This student can not ever figure out who should n't win . <eos>
+This student can really ever figure out who should n't win . <eos>
 Helen has not ever cheered . <eos>
 Helen has fortunately ever cheered . <eos>
 Carolyn has not ever walked through these malls . <eos>

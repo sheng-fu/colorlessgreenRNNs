@@ -16,8 +16,8 @@ Should Richard ever see some child ? <eos>
 Richard should ever see some child . <eos>
 Has April ever escaped from Joel ? <eos>
 April has ever escaped from Joel . <eos>
-Has a driver ever imagined Carla hadn't tried to discover who suffer ? <eos>
-A driver has ever imagined Carla hadn't tried to discover who suffer . <eos>
+Has a driver ever imagined Carla had n't tried to discover who suffer ? <eos>
+A driver has ever imagined Carla had n't tried to discover who suffer . <eos>
 Did some legislatures ever astound Tammy ? <eos>
 Some legislatures did ever astound Tammy . <eos>
 Could Florence ever think all actresses benefited ? <eos>
@@ -128,12 +128,12 @@ Did Eva ever skate around most libraries ? <eos>
 Eva did ever skate around most libraries . <eos>
 Had most pedestrians ever waved ? <eos>
 Most pedestrians had ever waved . <eos>
-Do doctors ever explain a university hadn't debated ? <eos>
-Doctors do ever explain a university hadn't debated . <eos>
+Do doctors ever explain a university had n't debated ? <eos>
+Doctors do ever explain a university had n't debated . <eos>
 Could that pedestrian ever cry ? <eos>
 That pedestrian could ever cry . <eos>
-Can Maria ever explain Pamela shouldn't love Patrick ? <eos>
-Maria can ever explain Pamela shouldn't love Patrick . <eos>
+Can Maria ever explain Pamela should n't love Patrick ? <eos>
+Maria can ever explain Pamela should n't love Patrick . <eos>
 Might Walter ever conceal Brad ? <eos>
 Walter might ever conceal Brad . <eos>
 Might Helen ever read ? <eos>
@@ -1014,8 +1014,8 @@ Had Karen ever climbed down that mountain ? <eos>
 Karen had ever climbed down that mountain . <eos>
 Can legislatures ever struggle ? <eos>
 Legislatures can ever struggle . <eos>
-Had Pamela ever revealed who wouldn't stand up ? <eos>
-Pamela had ever revealed who wouldn't stand up . <eos>
+Had Pamela ever revealed who would n't stand up ? <eos>
+Pamela had ever revealed who would n't stand up . <eos>
 Could Rose ever fall asleep ? <eos>
 Rose could ever fall asleep . <eos>
 Had a lot of waitresses ever described Eric ? <eos>
@@ -1206,8 +1206,8 @@ Do these dancers ever conceal most patients ? <eos>
 These dancers do ever conceal most patients . <eos>
 Did the company ever work hard ? <eos>
 The company did ever work hard . <eos>
-Has Jeffrey ever forgotten who hadn't boasted about Margaret ? <eos>
-Jeffrey has ever forgotten who hadn't boasted about Margaret . <eos>
+Has Jeffrey ever forgotten who had n't boasted about Margaret ? <eos>
+Jeffrey has ever forgotten who had n't boasted about Margaret . <eos>
 Might Laurie ever change ? <eos>
 Laurie might ever change . <eos>
 Should Paula ever describe Russell ? <eos>
@@ -1452,8 +1452,8 @@ Could Theodore ever imagine many adults hug Randolf ? <eos>
 Theodore could ever imagine many adults hug Randolf . <eos>
 Has Vincent ever suffered ? <eos>
 Vincent has ever suffered . <eos>
-Had Bethany ever concealed who didn't weep ? <eos>
-Bethany had ever concealed who didn't weep . <eos>
+Had Bethany ever concealed who did n't weep ? <eos>
+Bethany had ever concealed who did n't weep . <eos>
 Had Holly ever discussed Veronica ? <eos>
 Holly had ever discussed Veronica . <eos>
 Could Natalie ever drop by that glacier ? <eos>
@@ -1542,8 +1542,8 @@ Has some hospital ever tried to learn who have thought about who were replying ?
 Some hospital has ever tried to learn who have thought about who were replying . <eos>
 Could Heather ever sound like Becca ? <eos>
 Heather could ever sound like Becca . <eos>
-Has Nicole ever figured out who hadn't murmured ? <eos>
-Nicole has ever figured out who hadn't murmured . <eos>
+Has Nicole ever figured out who had n't murmured ? <eos>
+Nicole has ever figured out who had n't murmured . <eos>
 Has Lucille ever hunted ? <eos>
 Lucille has ever hunted . <eos>
 Has Jeffrey ever stood up ? <eos>
@@ -1912,8 +1912,8 @@ Had Angela ever washed ? <eos>
 Angela had ever washed . <eos>
 Had Mitchell ever discussed Emily ? <eos>
 Mitchell had ever discussed Emily . <eos>
-Has the school ever forgotten who shouldn't forget Theresa ? <eos>
-The school has ever forgotten who shouldn't forget Theresa . <eos>
+Has the school ever forgotten who should n't forget Theresa ? <eos>
+The school has ever forgotten who should n't forget Theresa . <eos>
 Has Nicole ever gone to some library ? <eos>
 Nicole has ever gone to some library . <eos>
 Had Raymond ever fixed most plates ? <eos>
@@ -1976,8 +1976,8 @@ Could Tonya ever boast about Jane ? <eos>
 Tonya could ever boast about Jane . <eos>
 Might Donna ever mess up every dish ? <eos>
 Donna might ever mess up every dish . <eos>
-Can Wayne ever wonder who hadn't figured out who argued ? <eos>
-Wayne can ever wonder who hadn't figured out who argued . <eos>
+Can Wayne ever wonder who had n't figured out who argued ? <eos>
+Wayne can ever wonder who had n't figured out who argued . <eos>
 Had Beth ever yelled ? <eos>
 Beth had ever yelled . <eos>
 Will Margaret ever want to lift the fork ? <eos>

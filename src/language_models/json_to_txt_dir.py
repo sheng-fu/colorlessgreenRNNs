@@ -2,6 +2,8 @@ import json
 import pandas as pd
 import re
 import os
+from nltk.tokenize import word_tokenize
+
 
 path = '../../data/sent_pair'
 
@@ -22,26 +24,21 @@ for jsonl in jsonls:
 
     outfile = open(path+'/txt_sentence/'+jsonl[:-6]+'.txt', 'w')
 
-    tokenization_regex = '(are|is|have|has|do|does|was|were|ca|could|wo)n\'t'
-
     for i in infile_json:
-        temp = re.sub('(.$)', ' \\1 <eos>', i['sentence_good'].strip())
-        outfile.write(re.sub(tokenization_regex, '\\1 n\'t', temp))
-        outfile.write('\n')
-        temp = re.sub('(.$)', ' \\1 <eos>', i['sentence_bad'].strip())
-        outfile.write(re.sub(tokenization_regex, '\\1 n\'t', temp))     
-        outfile.write('\n')
-
+        outfile.write(' '.join(word_tokenize(i['sentence_good'])))
+        outfile.write(' <eos>\n') 
+        outfile.write(' '.join(word_tokenize(i['sentence_bad'])))
+        outfile.write(' <eos>\n')       
 
     if infile_json[0]['one_prefix_method'] == True:
         outfile = open(path+'/txt_prefix/'+jsonl[:-6]+'.txt', 'w')
         for i in infile_json:
             if 'one_prefix_word_good' in i.keys() and 'one_prefix_word_bad' in i.keys():
-                good_form = i['one_prefix_prefix'].strip() + ' ' + i['one_prefix_word_good'].strip()
-                bad_form = i['one_prefix_prefix'].strip() + ' ' + i['one_prefix_word_bad'].strip()
-                outfile.write(re.sub(tokenization_regex, '\\1 n\'t', good_form))
+                good_form = ' '.join(word_tokenize(i['one_prefix_prefix'])) + ' ' + ' '.join(word_tokenize(i['one_prefix_word_good']))
+                bad_form = ' '.join(word_tokenize(i['one_prefix_prefix'])) + ' ' + ' '.join(word_tokenize(i['one_prefix_word_bad']))
+                outfile.write(good_form)
                 outfile.write('\n')
-                outfile.write(re.sub(tokenization_regex, '\\1 n\'t', bad_form))
+                outfile.write(bad_form)
                 outfile.write('\n')
 
     if infile_json[0]['two_prefix_method'] == True:
@@ -49,11 +46,11 @@ for jsonl in jsonls:
         outfile = open(path+'/txt_two_prefix/'+jsonl[:-6]+'.txt', 'w')
         for i in infile_json:
              if 'two_prefix_prefix_good' in i.keys() and 'two_prefix_prefix_good' in i.keys():
-                good_form = i['two_prefix_prefix_good'].strip() + ' ' + i['two_prefix_word'].strip()
-                bad_form = i['two_prefix_prefix_bad'].strip() + ' ' + i['two_prefix_word'].strip()
-                outfile.write(re.sub(tokenization_regex, '\\1 n\'t', good_form))
+                good_form = ' '.join(word_tokenize(i['two_prefix_prefix_good'])) + ' ' + ' '.join(word_tokenize(i['two_prefix_word']))
+                bad_form = ' '.join(word_tokenize(i['two_prefix_prefix_bad'])) + ' ' + ' '.join(word_tokenize(i['two_prefix_word']))
+                outfile.write(good_form)
                 outfile.write('\n')
-                outfile.write(re.sub(tokenization_regex, '\\1 n\'t', bad_form))
+                outfile.write(bad_form)
                 outfile.write('\n')       
    
 
