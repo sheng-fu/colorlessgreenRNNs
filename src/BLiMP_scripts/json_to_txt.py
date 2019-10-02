@@ -5,7 +5,7 @@ import os
 from nltk.tokenize import word_tokenize
 
 
-path = '../../data/sent_pair'
+path = '../data/sent_pair'
 
 jsonls = []
 for r, d, f in os.walk(path+'/jsonl'):

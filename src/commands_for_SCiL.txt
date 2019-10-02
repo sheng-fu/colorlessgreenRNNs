@@ -1,1 +1,0 @@
-python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt --path ../data/sent_pair/test_simp_altered --suffix best_model --cuda --outfile ../data/sent_pair/test_simp_output_altered.txt
