@@ -152,6 +152,48 @@ python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English
 
 python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/wh_vs_that_with_gap_long_distance --outfile ../results/blimp/txt_sentence/wh_vs_that_with_gap_long_distance_output.tab
 
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/anaphor_gender_agreement --outfile ../results/blimp/txt_one_prefix/anaphor_gender_agreement_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/animate_obj_trans --outfile ../results/blimp/txt_one_prefix/animate_obj_trans_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/animate_subj_passive --outfile ../results/blimp/txt_one_prefix/animate_subj_passive_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/determiner_noun_agreement_1 --outfile ../results/blimp/txt_one_prefix/determiner_noun_agreement_1_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/determiner_noun_agreement_irregular_1 --outfile ../results/blimp/txt_one_prefix/determiner_noun_agreement_irregular_1_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/determiner_noun_agreement_with_adjective_1 --outfile ../results/blimp/txt_one_prefix/determiner_noun_agreement_with_adjective_1_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/determiner_noun_agreement_with_adj_irregular_1 --outfile ../results/blimp/txt_one_prefix/determiner_noun_agreement_with_adj_irregular_1_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/distractor_agreement_relational_noun --outfile ../results/blimp/txt_one_prefix/distractor_agreement_relational_noun_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/distractor_agreement_relative_clause --outfile ../results/blimp/txt_one_prefix/distractor_agreement_relative_clause_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/irregular_past_participle_verbs --outfile ../results/blimp/txt_one_prefix/irregular_past_participle_verbs_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/irregular_plural_subject_verb_agreement_1 --outfile ../results/blimp/txt_one_prefix/irregular_plural_subject_verb_agreement_1_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/npi_present_1 --outfile ../results/blimp/txt_one_prefix/npi_present_1_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/npi_present_2 --outfile ../results/blimp/txt_one_prefix/npi_present_2_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/principle_A_case_1 --outfile ../results/blimp/txt_one_prefix/principle_A_case_1_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/principle_A_case_2 --outfile ../results/blimp/txt_one_prefix/principle_A_case_2_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/principle_A_c_command --outfile ../results/blimp/txt_one_prefix/principle_A_c_command_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/principle_A_domain_1 --outfile ../results/blimp/txt_one_prefix/principle_A_domain_1_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/principle_A_domain_2 --outfile ../results/blimp/txt_one_prefix/principle_A_domain_2_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/regular_plural_subject_verb_agreement_1 --outfile ../results/blimp/txt_one_prefix/regular_plural_subject_verb_agreement_1_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/simple_anaphor_number_agreement --outfile ../results/blimp/txt_one_prefix/simple_anaphor_number_agreement_output.tab
+
+python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/wh_island --outfile ../results/blimp/txt_one_prefix/wh_island_output.tab
+
 python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_two_prefix/animate_obj_passive --outfile ../results/blimp/txt_two_prefix/animate_obj_passive_output.tab
 
 python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_two_prefix/animate_subj_trans --outfile ../results/blimp/txt_two_prefix/animate_subj_trans_output.tab
