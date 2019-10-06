@@ -1,0 +1,2000 @@
+All boys hid Maria . <eos>
+All boys hidden Maria . <eos>
+Larry went fishing . <eos>
+Larry gone fishing . <eos>
+Most cashiers came here . <eos>
+Most cashiers come here . <eos>
+The students hid the coat . <eos>
+The students hidden the coat . <eos>
+Brenda hid some planes . <eos>
+Brenda hidden some planes . <eos>
+Daniel wore all gloves . <eos>
+Daniel worn all gloves . <eos>
+Frank went to the glacier . <eos>
+Frank gone to the glacier . <eos>
+Susan hid many planes . <eos>
+Susan hidden many planes . <eos>
+Edward drank . <eos>
+Edward drunk . <eos>
+A cashier drove to these college campuses . <eos>
+A cashier driven to these college campuses . <eos>
+These waitresses hid away . <eos>
+These waitresses hidden away . <eos>
+Adam came here . <eos>
+Adam come here . <eos>
+This child wrote . <eos>
+This child written . <eos>
+These actresses came here . <eos>
+These actresses come here . <eos>
+Students drove to these public parks . <eos>
+Students driven to these public parks . <eos>
+Vanessa went fishing . <eos>
+Vanessa gone fishing . <eos>
+Jason hid Sonia . <eos>
+Jason hidden Sonia . <eos>
+Samuel broke those cars . <eos>
+Samuel broken those cars . <eos>
+John knew Christopher . <eos>
+John known Christopher . <eos>
+Randolf broke a computer . <eos>
+Randolf broken a computer . <eos>
+That pepper went bad . <eos>
+That pepper gone bad . <eos>
+Most bananas went bad . <eos>
+Most bananas gone bad . <eos>
+All drivers drove to every hospital . <eos>
+All drivers driven to every hospital . <eos>
+Marie went to every river . <eos>
+Marie gone to every river . <eos>
+Ellen took the vases . <eos>
+Ellen taken the vases . <eos>
+Some shirts shrank . <eos>
+Some shirts shrunk . <eos>
+Most children hid away . <eos>
+Most children hidden away . <eos>
+The banana went bad . <eos>
+The banana gone bad . <eos>
+All jackets shrank . <eos>
+All jackets shrunk . <eos>
+This teacher wore a lot of shoes . <eos>
+This teacher worn a lot of shoes . <eos>
+Sherry broke every dish . <eos>
+Sherry broken every dish . <eos>
+Dan spoke up . <eos>
+Dan spoken up . <eos>
+Lucille drank . <eos>
+Lucille drunk . <eos>
+Some icicles froze . <eos>
+Some icicles frozen . <eos>
+Some hats shrank . <eos>
+Some hats shrunk . <eos>
+Some pedestrian broke the couches . <eos>
+Some pedestrian broken the couches . <eos>
+Nancy took those photographs . <eos>
+Nancy taken those photographs . <eos>
+Jason drove to some museums . <eos>
+Jason driven to some museums . <eos>
+The actresses ate . <eos>
+The actresses eaten . <eos>
+Stacey spoke up . <eos>
+Stacey spoken up . <eos>
+Carlos hid away . <eos>
+Carlos hidden away . <eos>
+Rachel forgot that woman . <eos>
+Rachel forgotten that woman . <eos>
+Aaron forgot Carolyn . <eos>
+Aaron forgotten Carolyn . <eos>
+Those teenagers spoke up . <eos>
+Those teenagers spoken up . <eos>
+Kristin went fishing . <eos>
+Kristin gone fishing . <eos>
+Some jacket shrank . <eos>
+Some jacket shrunk . <eos>
+This lake froze . <eos>
+This lake frozen . <eos>
+Helen hid . <eos>
+Helen hidden . <eos>
+The Impressionists spoke up . <eos>
+The Impressionists spoken up . <eos>
+Rose went fishing . <eos>
+Rose gone fishing . <eos>
+Nancy got fired . <eos>
+Nancy gotten fired . <eos>
+Tanya drove to this school . <eos>
+Tanya driven to this school . <eos>
+Sonia sang . <eos>
+Sonia sung . <eos>
+Denise forgot the Impressionists . <eos>
+Denise forgotten the Impressionists . <eos>
+Rodney spoke up . <eos>
+Rodney spoken up . <eos>
+Some dancer drank . <eos>
+Some dancer drunk . <eos>
+All adults spoke up . <eos>
+All adults spoken up . <eos>
+Many guys hid some convertibles . <eos>
+Many guys hidden some convertibles . <eos>
+Brad wore some sweater . <eos>
+Brad worn some sweater . <eos>
+All actresses drank . <eos>
+All actresses drunk . <eos>
+That patient hid some snake . <eos>
+That patient hidden some snake . <eos>
+That water froze . <eos>
+That water frozen . <eos>
+Clyde drove to those movie theaters . <eos>
+Clyde driven to those movie theaters . <eos>
+Elaine hid the actors . <eos>
+Elaine hidden the actors . <eos>
+Bethany broke some computers . <eos>
+Bethany broken some computers . <eos>
+William went fishing . <eos>
+William gone fishing . <eos>
+Patients went to some banks . <eos>
+Patients gone to some banks . <eos>
+Tonya knew Tina . <eos>
+Tonya known Tina . <eos>
+Lucille drove to that hospital . <eos>
+Lucille driven to that hospital . <eos>
+Gregory took all hospitals . <eos>
+Gregory taken all hospitals . <eos>
+This man took a lot of books . <eos>
+This man taken a lot of books . <eos>
+Most guys sang . <eos>
+Most guys sung . <eos>
+Dawn went fishing . <eos>
+Dawn gone fishing . <eos>
+Amy wore every shawl . <eos>
+Amy worn every shawl . <eos>
+George got a job . <eos>
+George gotten a job . <eos>
+Meredith hid away . <eos>
+Meredith hidden away . <eos>
+Rebecca knew Martha . <eos>
+Rebecca known Martha . <eos>
+All actors hid away . <eos>
+All actors hidden away . <eos>
+Ellen forgot Raymond . <eos>
+Ellen forgotten Raymond . <eos>
+Some actor spoke up . <eos>
+Some actor spoken up . <eos>
+Elaine knew the waitresses . <eos>
+Elaine known the waitresses . <eos>
+Diana got a job . <eos>
+Diana gotten a job . <eos>
+Those waitresses knew Erin . <eos>
+Those waitresses known Erin . <eos>
+April drove to a school . <eos>
+April driven to a school . <eos>
+Travis broke the dish . <eos>
+Travis broken the dish . <eos>
+Some museum took this muffin . <eos>
+Some museum taken this muffin . <eos>
+The children went to some hospital . <eos>
+The children gone to some hospital . <eos>
+Stacy wore these scarves . <eos>
+Stacy worn these scarves . <eos>
+Beth hid Theodore . <eos>
+Beth hidden Theodore . <eos>
+Melanie wore a scarf . <eos>
+Melanie worn a scarf . <eos>
+Those cashiers came here . <eos>
+Those cashiers come here . <eos>
+Every banana went bad . <eos>
+Every banana gone bad . <eos>
+Ronald drove to Spain . <eos>
+Ronald driven to Spain . <eos>
+A lot of doctors broke some bicycles . <eos>
+A lot of doctors broken some bicycles . <eos>
+Denise wrote . <eos>
+Denise written . <eos>
+A waitress drove to the grocery store . <eos>
+A waitress driven to the grocery store . <eos>
+Heidi spoke up . <eos>
+Heidi spoken up . <eos>
+Angela hid Kayla . <eos>
+Angela hidden Kayla . <eos>
+Chad broke that vase . <eos>
+Chad broken that vase . <eos>
+Michael sang . <eos>
+Michael sung . <eos>
+Some women sang . <eos>
+Some women sung . <eos>
+The Lutherans went to all museums . <eos>
+The Lutherans gone to all museums . <eos>
+Those glaciers froze . <eos>
+Those glaciers frozen . <eos>
+The Lutherans drank . <eos>
+The Lutherans drunk . <eos>
+Theodore sang . <eos>
+Theodore sung . <eos>
+These cucumbers went bad . <eos>
+These cucumbers gone bad . <eos>
+The Impressionists sang . <eos>
+The Impressionists sung . <eos>
+William ate . <eos>
+William eaten . <eos>
+These people ate . <eos>
+These people eaten . <eos>
+Kevin went fishing . <eos>
+Kevin gone fishing . <eos>
+Steve came here . <eos>
+Steve come here . <eos>
+Adults went to these hills . <eos>
+Adults gone to these hills . <eos>
+Randolf drank . <eos>
+Randolf drunk . <eos>
+Michael got a job . <eos>
+Michael gotten a job . <eos>
+Danielle broke some plane . <eos>
+Danielle broken some plane . <eos>
+Sara drove to art galleries . <eos>
+Sara driven to art galleries . <eos>
+Sharon sang . <eos>
+Sharon sung . <eos>
+A lot of adults hid . <eos>
+A lot of adults hidden . <eos>
+Gary hid . <eos>
+Gary hidden . <eos>
+Guys ate . <eos>
+Guys eaten . <eos>
+The person went to that lake . <eos>
+The person gone to that lake . <eos>
+Lisa hid the shirt . <eos>
+Lisa hidden the shirt . <eos>
+A lot of lakes froze . <eos>
+A lot of lakes frozen . <eos>
+Stephen drank . <eos>
+Stephen drunk . <eos>
+Nancy got a job . <eos>
+Nancy gotten a job . <eos>
+This guy drove to all hospitals . <eos>
+This guy driven to all hospitals . <eos>
+Some man forgot Martin . <eos>
+Some man forgotten Martin . <eos>
+Todd went to the art gallery . <eos>
+Todd gone to the art gallery . <eos>
+The river froze . <eos>
+The river frozen . <eos>
+Carol took horses . <eos>
+Carol taken horses . <eos>
+Andrew broke a lot of unicycles . <eos>
+Andrew broken a lot of unicycles . <eos>
+Randolf went fishing . <eos>
+Randolf gone fishing . <eos>
+Margaret drank . <eos>
+Margaret drunk . <eos>
+Guys went to some hill . <eos>
+Guys gone to some hill . <eos>
+The pedestrian forgot Lucille . <eos>
+The pedestrian forgotten Lucille . <eos>
+All girls broke all windows . <eos>
+All girls broken all windows . <eos>
+Bethany spoke up . <eos>
+Bethany spoken up . <eos>
+Some actress forgot Carrie . <eos>
+Some actress forgotten Carrie . <eos>
+Most customers woke up . <eos>
+Most customers woken up . <eos>
+The senator went to some cafes . <eos>
+The senator gone to some cafes . <eos>
+Laura went to every mountain . <eos>
+Laura gone to every mountain . <eos>
+A lot of senators broke a wheelbarrow . <eos>
+A lot of senators broken a wheelbarrow . <eos>
+Sabrina got fired . <eos>
+Sabrina gotten fired . <eos>
+William took most closets . <eos>
+William taken most closets . <eos>
+Bradley hid some banks . <eos>
+Bradley hidden some banks . <eos>
+Guests drank . <eos>
+Guests drunk . <eos>
+Meredith took a face . <eos>
+Meredith taken a face . <eos>
+Many dancers wore those blouses . <eos>
+Many dancers worn those blouses . <eos>
+Christina broke this convertible . <eos>
+Christina broken this convertible . <eos>
+The scarf shrank . <eos>
+The scarf shrunk . <eos>
+Tiffany hid . <eos>
+Tiffany hidden . <eos>
+Samantha broke some couches . <eos>
+Samantha broken some couches . <eos>
+Steve forgot Cindy . <eos>
+Steve forgotten Cindy . <eos>
+Karla wrote . <eos>
+Karla written . <eos>
+All guests broke these convertibles . <eos>
+All guests broken these convertibles . <eos>
+The Borgias hid . <eos>
+The Borgias hidden . <eos>
+This man broke some fork . <eos>
+This man broken some fork . <eos>
+These waiters woke up . <eos>
+These waiters woken up . <eos>
+Jacqueline got a job . <eos>
+Jacqueline gotten a job . <eos>
+A school took some screen . <eos>
+A school taken some screen . <eos>
+Some dancers went to all banks . <eos>
+Some dancers gone to all banks . <eos>
+Wendy broke all screens . <eos>
+Wendy broken all screens . <eos>
+Brian spoke up . <eos>
+Brian spoken up . <eos>
+Alice got a job . <eos>
+Alice gotten a job . <eos>
+A guest wore these shirts . <eos>
+A guest worn these shirts . <eos>
+Kenneth spoke up . <eos>
+Kenneth spoken up . <eos>
+Suzanne broke some couch . <eos>
+Suzanne broken some couch . <eos>
+Eric went to those museums . <eos>
+Eric gone to those museums . <eos>
+Most glaciers froze . <eos>
+Most glaciers frozen . <eos>
+Walter woke up . <eos>
+Walter woken up . <eos>
+Heather came here . <eos>
+Heather come here . <eos>
+Every popsicle froze . <eos>
+Every popsicle frozen . <eos>
+Valerie broke a wheelbarrow . <eos>
+Valerie broken a wheelbarrow . <eos>
+Theresa hid away . <eos>
+Theresa hidden away . <eos>
+Boys hid . <eos>
+Boys hidden . <eos>
+Many teenagers hid . <eos>
+Many teenagers hidden . <eos>
+Some patient got a job . <eos>
+Some patient gotten a job . <eos>
+Every mushroom went bad . <eos>
+Every mushroom gone bad . <eos>
+Janet went fishing . <eos>
+Janet gone fishing . <eos>
+The Clintons wore some scarf . <eos>
+The Clintons worn some scarf . <eos>
+Donald went to hospitals . <eos>
+Donald gone to hospitals . <eos>
+Every dancer knew Colleen . <eos>
+Every dancer known Colleen . <eos>
+A lot of actors forgot Lori . <eos>
+A lot of actors forgotten Lori . <eos>
+These guys forgot that cashier . <eos>
+These guys forgotten that cashier . <eos>
+That library forgot the Clintons . <eos>
+That library forgotten the Clintons . <eos>
+The horse woke up . <eos>
+The horse woken up . <eos>
+All actresses wrote . <eos>
+All actresses written . <eos>
+All pedestrians hid Randolf . <eos>
+All pedestrians hidden Randolf . <eos>
+Those tomatoes went bad . <eos>
+Those tomatoes gone bad . <eos>
+Lisa wore that skirt . <eos>
+Lisa worn that skirt . <eos>
+Most children hid . <eos>
+Most children hidden . <eos>
+Sarah went to that art gallery . <eos>
+Sarah gone to that art gallery . <eos>
+Carolyn took some fish . <eos>
+Carolyn taken some fish . <eos>
+All shoes shrank . <eos>
+All shoes shrunk . <eos>
+Janet drank . <eos>
+Janet drunk . <eos>
+A driver took this vase . <eos>
+A driver taken this vase . <eos>
+Stacey drove to all banks . <eos>
+Stacey driven to all banks . <eos>
+The eggplants went bad . <eos>
+The eggplants gone bad . <eos>
+Valerie came here . <eos>
+Valerie come here . <eos>
+Vanessa wore some blouse . <eos>
+Vanessa worn some blouse . <eos>
+Jane went to the bank . <eos>
+Jane gone to the bank . <eos>
+Rodney went to the museum . <eos>
+Rodney gone to the museum . <eos>
+Beth hid . <eos>
+Beth hidden . <eos>
+Some customers hid Joel . <eos>
+Some customers hidden Joel . <eos>
+Keith hid away . <eos>
+Keith hidden away . <eos>
+Dancers hid a lady . <eos>
+Dancers hidden a lady . <eos>
+Nancy hid these skirts . <eos>
+Nancy hidden these skirts . <eos>
+Kathleen forgot Bill . <eos>
+Kathleen forgotten Bill . <eos>
+Noah hid . <eos>
+Noah hidden . <eos>
+Some women hid this waitress . <eos>
+Some women hidden this waitress . <eos>
+Some pedestrians drank . <eos>
+Some pedestrians drunk . <eos>
+Guy forgot a lot of women . <eos>
+Guy forgotten a lot of women . <eos>
+Leslie hid away . <eos>
+Leslie hidden away . <eos>
+Amanda went to every closet . <eos>
+Amanda gone to every closet . <eos>
+Carla came here . <eos>
+Carla come here . <eos>
+Holly forgot every girl . <eos>
+Holly forgotten every girl . <eos>
+Raymond drank . <eos>
+Raymond drunk . <eos>
+Some guests hid . <eos>
+Some guests hidden . <eos>
+Kristen hid away . <eos>
+Kristen hidden away . <eos>
+Maria hid . <eos>
+Maria hidden . <eos>
+All senators came here . <eos>
+All senators come here . <eos>
+Some women hid away . <eos>
+Some women hidden away . <eos>
+Tomatoes went bad . <eos>
+Tomatoes gone bad . <eos>
+Some associations knew Gregory . <eos>
+Some associations known Gregory . <eos>
+Jacqueline spoke up . <eos>
+Jacqueline spoken up . <eos>
+Many women hid all pants . <eos>
+Many women hidden all pants . <eos>
+Most men knew every actress . <eos>
+Most men known every actress . <eos>
+Many teenagers wrote . <eos>
+Many teenagers written . <eos>
+A lot of socks shrank . <eos>
+A lot of socks shrunk . <eos>
+Janet hid away . <eos>
+Janet hidden away . <eos>
+Michael knew every child . <eos>
+Michael known every child . <eos>
+That adult drove to this mountain . <eos>
+That adult driven to this mountain . <eos>
+Teachers hid . <eos>
+Teachers hidden . <eos>
+Sabrina forgot Suzanne . <eos>
+Sabrina forgotten Suzanne . <eos>
+Maria broke a unicycle . <eos>
+Maria broken a unicycle . <eos>
+The Lutherans wore every hat . <eos>
+The Lutherans worn every hat . <eos>
+Beth got a job . <eos>
+Beth gotten a job . <eos>
+Most students hid away . <eos>
+Most students hidden away . <eos>
+The pedestrian got fired . <eos>
+The pedestrian gotten fired . <eos>
+The cat woke up . <eos>
+The cat woken up . <eos>
+Marla got fired . <eos>
+Marla gotten fired . <eos>
+Those girls forgot Derek . <eos>
+Those girls forgotten Derek . <eos>
+Barbara woke up . <eos>
+Barbara woken up . <eos>
+Many adults hid that cilantro . <eos>
+Many adults hidden that cilantro . <eos>
+Andrew ate . <eos>
+Andrew eaten . <eos>
+A mushroom went bad . <eos>
+A mushroom gone bad . <eos>
+The Clintons drank . <eos>
+The Clintons drunk . <eos>
+Gregory went to this high school . <eos>
+Gregory gone to this high school . <eos>
+Tanya knew this person . <eos>
+Tanya known this person . <eos>
+Some boy got fired . <eos>
+Some boy gotten fired . <eos>
+Some pants shrank . <eos>
+Some pants shrunk . <eos>
+Susan hid . <eos>
+Susan hidden . <eos>
+James spoke up . <eos>
+James spoken up . <eos>
+Pamela took a lot of couches . <eos>
+Pamela taken a lot of couches . <eos>
+Some mushrooms went bad . <eos>
+Some mushrooms gone bad . <eos>
+Cynthia got a job . <eos>
+Cynthia gotten a job . <eos>
+All women broke a carriage . <eos>
+All women broken a carriage . <eos>
+Tanya got a job . <eos>
+Tanya gotten a job . <eos>
+Maria spoke up . <eos>
+Maria spoken up . <eos>
+Suzanne spoke up . <eos>
+Suzanne spoken up . <eos>
+Those snakes came here . <eos>
+Those snakes come here . <eos>
+Becca took the bird . <eos>
+Becca taken the bird . <eos>
+Ella broke those forks . <eos>
+Ella broken those forks . <eos>
+Debra hid away . <eos>
+Debra hidden away . <eos>
+All fish broke a unicycle . <eos>
+All fish broken a unicycle . <eos>
+Laura hid Frank . <eos>
+Laura hidden Frank . <eos>
+Todd hid Tiffany . <eos>
+Todd hidden Tiffany . <eos>
+Timothy ate . <eos>
+Timothy eaten . <eos>
+Tamara went fishing . <eos>
+Tamara gone fishing . <eos>
+Bill hid Kendra . <eos>
+Bill hidden Kendra . <eos>
+Most pedestrians broke all skateboards . <eos>
+Most pedestrians broken all skateboards . <eos>
+Amelia went to most mountains . <eos>
+Amelia gone to most mountains . <eos>
+Nina broke these trucks . <eos>
+Nina broken these trucks . <eos>
+A lot of doctors got fired . <eos>
+A lot of doctors gotten fired . <eos>
+Joseph hid away . <eos>
+Joseph hidden away . <eos>
+That apple went bad . <eos>
+That apple gone bad . <eos>
+Phillip forgot Martha . <eos>
+Phillip forgotten Martha . <eos>
+Rachelle sang . <eos>
+Rachelle sung . <eos>
+A lot of adults got fired . <eos>
+A lot of adults gotten fired . <eos>
+The apples went bad . <eos>
+The apples gone bad . <eos>
+Victoria knew most people . <eos>
+Victoria known most people . <eos>
+Diana broke the skateboard . <eos>
+Diana broken the skateboard . <eos>
+This adult ate . <eos>
+This adult eaten . <eos>
+A girl wrote . <eos>
+A girl written . <eos>
+Russell went to Harvard University . <eos>
+Russell gone to Harvard University . <eos>
+Guy drove to these museums . <eos>
+Guy driven to these museums . <eos>
+Kristin knew these guests . <eos>
+Kristin known these guests . <eos>
+Sonia hid . <eos>
+Sonia hidden . <eos>
+Brian knew Todd . <eos>
+Brian known Todd . <eos>
+Russell got a job . <eos>
+Russell gotten a job . <eos>
+These pedestrians got a job . <eos>
+These pedestrians gotten a job . <eos>
+Many drivers spoke up . <eos>
+Many drivers spoken up . <eos>
+Paul came here . <eos>
+Paul come here . <eos>
+Winston Churchill broke most trucks . <eos>
+Winston Churchill broken most trucks . <eos>
+Many cashiers broke the dish . <eos>
+Many cashiers broken the dish . <eos>
+That teenager took that report . <eos>
+That teenager taken that report . <eos>
+Cindy knew Brenda . <eos>
+Cindy known Brenda . <eos>
+Catherine went to the high school . <eos>
+Catherine gone to the high school . <eos>
+Marla hid away . <eos>
+Marla hidden away . <eos>
+Robert wore these gloves . <eos>
+Robert worn these gloves . <eos>
+Homer drove to this college campus . <eos>
+Homer driven to this college campus . <eos>
+Liam went fishing . <eos>
+Liam gone fishing . <eos>
+Alicia ate . <eos>
+Alicia eaten . <eos>
+Lucille broke some skateboard . <eos>
+Lucille broken some skateboard . <eos>
+Monet hid . <eos>
+Monet hidden . <eos>
+The cilantro went bad . <eos>
+The cilantro gone bad . <eos>
+Senators drank . <eos>
+Senators drunk . <eos>
+Some school knew Martha . <eos>
+Some school known Martha . <eos>
+Many dancers hid a teenager . <eos>
+Many dancers hidden a teenager . <eos>
+That hamster hid . <eos>
+That hamster hidden . <eos>
+That horse woke up . <eos>
+That horse woken up . <eos>
+Some jackets shrank . <eos>
+Some jackets shrunk . <eos>
+This lady hid Tara . <eos>
+This lady hidden Tara . <eos>
+Many boys wore those glasses . <eos>
+Many boys worn those glasses . <eos>
+Every pepper went bad . <eos>
+Every pepper gone bad . <eos>
+These lakes froze . <eos>
+These lakes frozen . <eos>
+Stacy went fishing . <eos>
+Stacy gone fishing . <eos>
+The tomato went bad . <eos>
+The tomato gone bad . <eos>
+All adults ate . <eos>
+All adults eaten . <eos>
+Alan hid away . <eos>
+Alan hidden away . <eos>
+That child broke every carriage . <eos>
+That child broken every carriage . <eos>
+The lady got a job . <eos>
+The lady gotten a job . <eos>
+Noah hid away . <eos>
+Noah hidden away . <eos>
+Liam got a job . <eos>
+Liam gotten a job . <eos>
+Boys drove to the art galleries . <eos>
+Boys driven to the art galleries . <eos>
+Paula went fishing . <eos>
+Paula gone fishing . <eos>
+This association forgot Christopher . <eos>
+This association forgotten Christopher . <eos>
+Becky drove to Harvard University . <eos>
+Becky driven to Harvard University . <eos>
+Some committees forgot Bill . <eos>
+Some committees forgotten Bill . <eos>
+Patrick drank . <eos>
+Patrick drunk . <eos>
+Jerry got fired . <eos>
+Jerry gotten fired . <eos>
+Some spinach went bad . <eos>
+Some spinach gone bad . <eos>
+Bethany wore the hat . <eos>
+Bethany worn the hat . <eos>
+This doctor knew Beverly . <eos>
+This doctor known Beverly . <eos>
+The actresses woke up . <eos>
+The actresses woken up . <eos>
+Most ladies broke some plane . <eos>
+Most ladies broken some plane . <eos>
+This driver hid . <eos>
+This driver hidden . <eos>
+Vincent took this turtle . <eos>
+Vincent taken this turtle . <eos>
+A lot of actresses got a job . <eos>
+A lot of actresses gotten a job . <eos>
+David forgot Wayne . <eos>
+David forgotten Wayne . <eos>
+Erin sang . <eos>
+Erin sung . <eos>
+Benjamin broke every plane . <eos>
+Benjamin broken every plane . <eos>
+Bruce broke this unicycle . <eos>
+Bruce broken this unicycle . <eos>
+Galileo broke a cup . <eos>
+Galileo broken a cup . <eos>
+That tomato went bad . <eos>
+That tomato gone bad . <eos>
+Carl wrote . <eos>
+Carl written . <eos>
+Many guys wore some sweater . <eos>
+Many guys worn some sweater . <eos>
+Snakes came here . <eos>
+Snakes come here . <eos>
+Stacey wrote . <eos>
+Stacey written . <eos>
+Clyde woke up . <eos>
+Clyde woken up . <eos>
+All patients broke this carriage . <eos>
+All patients broken this carriage . <eos>
+Brett went to Harvard University . <eos>
+Brett gone to Harvard University . <eos>
+Brett went fishing . <eos>
+Brett gone fishing . <eos>
+All dresses shrank . <eos>
+All dresses shrunk . <eos>
+All tomatoes went bad . <eos>
+All tomatoes gone bad . <eos>
+The woman got fired . <eos>
+The woman gotten fired . <eos>
+A lot of women forgot Regina . <eos>
+A lot of women forgotten Regina . <eos>
+Most senators drove to most cafes . <eos>
+Most senators driven to most cafes . <eos>
+These children sang . <eos>
+These children sung . <eos>
+Laurie drank . <eos>
+Laurie drunk . <eos>
+Jessica spoke up . <eos>
+Jessica spoken up . <eos>
+The Borgias came here . <eos>
+The Borgias come here . <eos>
+Theresa hid Rebecca . <eos>
+Theresa hidden Rebecca . <eos>
+Brenda got a job . <eos>
+Brenda gotten a job . <eos>
+Gary went to the high schools . <eos>
+Gary gone to the high schools . <eos>
+Cynthia took the spotlight . <eos>
+Cynthia taken the spotlight . <eos>
+Edward spoke up . <eos>
+Edward spoken up . <eos>
+Joseph got fired . <eos>
+Joseph gotten fired . <eos>
+The Clintons went to that public park . <eos>
+The Clintons gone to that public park . <eos>
+Most boys sang . <eos>
+Most boys sung . <eos>
+A lot of women broke this mirror . <eos>
+A lot of women broken this mirror . <eos>
+Emily got fired . <eos>
+Emily gotten fired . <eos>
+Carlos got fired . <eos>
+Carlos gotten fired . <eos>
+Martin wore most coats . <eos>
+Martin worn most coats . <eos>
+Cindy drove to a lot of rivers . <eos>
+Cindy driven to a lot of rivers . <eos>
+Nicole spoke up . <eos>
+Nicole spoken up . <eos>
+Those patients got fired . <eos>
+Those patients gotten fired . <eos>
+Steven knew Wendy . <eos>
+Steven known Wendy . <eos>
+Melissa spoke up . <eos>
+Melissa spoken up . <eos>
+That eggplant went bad . <eos>
+That eggplant gone bad . <eos>
+Some woman hid away . <eos>
+Some woman hidden away . <eos>
+Some girl went to that mountain . <eos>
+Some girl gone to that mountain . <eos>
+Beverly hid away . <eos>
+Beverly hidden away . <eos>
+Some eggplants went bad . <eos>
+Some eggplants gone bad . <eos>
+Some museum took that beef . <eos>
+Some museum taken that beef . <eos>
+Thomas hid glasses . <eos>
+Thomas hidden glasses . <eos>
+Helen took these hospitals . <eos>
+Helen taken these hospitals . <eos>
+Denise went fishing . <eos>
+Denise gone fishing . <eos>
+Timothy knew Angela . <eos>
+Timothy known Angela . <eos>
+Carmen hid Amelia . <eos>
+Carmen hidden Amelia . <eos>
+Gregory went fishing . <eos>
+Gregory gone fishing . <eos>
+Most universities took every print . <eos>
+Most universities taken every print . <eos>
+Angela went to this art gallery . <eos>
+Angela gone to this art gallery . <eos>
+The teenagers came here . <eos>
+The teenagers come here . <eos>
+A lot of senators ate . <eos>
+A lot of senators eaten . <eos>
+Heather wore these sweaters . <eos>
+Heather worn these sweaters . <eos>
+Every waitress got fired . <eos>
+Every waitress gotten fired . <eos>
+Erin wore all scarves . <eos>
+Erin worn all scarves . <eos>
+A lot of teenagers hid some unicycles . <eos>
+A lot of teenagers hidden some unicycles . <eos>
+The Lutherans took a shoe . <eos>
+The Lutherans taken a shoe . <eos>
+The Impressionists ate . <eos>
+The Impressionists eaten . <eos>
+This tomato went bad . <eos>
+This tomato gone bad . <eos>
+The dancer sang . <eos>
+The dancer sung . <eos>
+Those ladies broke the vases . <eos>
+Those ladies broken the vases . <eos>
+Every teenager hid . <eos>
+Every teenager hidden . <eos>
+The Borgias took many turtles . <eos>
+The Borgias taken many turtles . <eos>
+Aaron went fishing . <eos>
+Aaron gone fishing . <eos>
+A doctor hid Jill . <eos>
+A doctor hidden Jill . <eos>
+Most teenagers broke some bicycles . <eos>
+Most teenagers broken some bicycles . <eos>
+Many lakes froze . <eos>
+Many lakes frozen . <eos>
+All guests forgot the women . <eos>
+All guests forgotten the women . <eos>
+Ronald spoke up . <eos>
+Ronald spoken up . <eos>
+Joel went to that school . <eos>
+Joel gone to that school . <eos>
+Many women got a job . <eos>
+Many women gotten a job . <eos>
+Michael went to this river . <eos>
+Michael gone to this river . <eos>
+All dancers spoke up . <eos>
+All dancers spoken up . <eos>
+Every company forgot Brenda . <eos>
+Every company forgotten Brenda . <eos>
+Eva sang . <eos>
+Eva sung . <eos>
+Janice ate . <eos>
+Janice eaten . <eos>
+All people drove to many closets . <eos>
+All people driven to many closets . <eos>
+Craig went to some grocery stores . <eos>
+Craig gone to some grocery stores . <eos>
+Some boy wrote . <eos>
+Some boy written . <eos>
+Gary sang . <eos>
+Gary sung . <eos>
+Some doctors hid away . <eos>
+Some doctors hidden away . <eos>
+The teacher wore the hat . <eos>
+The teacher worn the hat . <eos>
+Holly drank . <eos>
+Holly drunk . <eos>
+Caroline drove to this restaurant . <eos>
+Caroline driven to this restaurant . <eos>
+Elizabeth hid the cilantro . <eos>
+Elizabeth hidden the cilantro . <eos>
+Robert broke that bicycle . <eos>
+Robert broken that bicycle . <eos>
+Adam got a job . <eos>
+Adam gotten a job . <eos>
+Lucille wore the shoe . <eos>
+Lucille worn the shoe . <eos>
+Monet knew Curtis . <eos>
+Monet known Curtis . <eos>
+Girls ate . <eos>
+Girls eaten . <eos>
+Carl went fishing . <eos>
+Carl gone fishing . <eos>
+Alan got a job . <eos>
+Alan gotten a job . <eos>
+Bill drank . <eos>
+Bill drunk . <eos>
+Kendra drank . <eos>
+Kendra drunk . <eos>
+Samantha wrote . <eos>
+Samantha written . <eos>
+Monet drove to this movie theater . <eos>
+Monet driven to this movie theater . <eos>
+Noah knew Sandra . <eos>
+Noah known Sandra . <eos>
+These cashiers drank . <eos>
+These cashiers drunk . <eos>
+All customers broke cups . <eos>
+All customers broken cups . <eos>
+Denise sang . <eos>
+Denise sung . <eos>
+A lot of bananas went bad . <eos>
+A lot of bananas gone bad . <eos>
+Bruce hid Tina . <eos>
+Bruce hidden Tina . <eos>
+The senators hid this bike . <eos>
+The senators hidden this bike . <eos>
+Bradley knew Katherine . <eos>
+Bradley known Katherine . <eos>
+Guy broke mirrors . <eos>
+Guy broken mirrors . <eos>
+Dancers hid away . <eos>
+Dancers hidden away . <eos>
+Peter took this pork . <eos>
+Peter taken this pork . <eos>
+Some associations knew Gary . <eos>
+Some associations known Gary . <eos>
+Monet got a job . <eos>
+Monet gotten a job . <eos>
+Derek broke this wheelbarrow . <eos>
+Derek broken this wheelbarrow . <eos>
+Stacey knew every guest . <eos>
+Stacey known every guest . <eos>
+Monica took all fish . <eos>
+Monica taken all fish . <eos>
+Mitchell hid James . <eos>
+Mitchell hidden James . <eos>
+Barbara went to these schools . <eos>
+Barbara gone to these schools . <eos>
+Paul wore those pants . <eos>
+Paul worn those pants . <eos>
+That cucumber went bad . <eos>
+That cucumber gone bad . <eos>
+Andrea sang . <eos>
+Andrea sung . <eos>
+Kenneth broke some vases . <eos>
+Kenneth broken some vases . <eos>
+Dawn went to the museum . <eos>
+Dawn gone to the museum . <eos>
+Kimberley wore some skirts . <eos>
+Kimberley worn some skirts . <eos>
+This water froze . <eos>
+This water frozen . <eos>
+Maria got fired . <eos>
+Maria gotten fired . <eos>
+Those horses woke up . <eos>
+Those horses woken up . <eos>
+That waiter went fishing . <eos>
+That waiter gone fishing . <eos>
+That banana went bad . <eos>
+That banana gone bad . <eos>
+Many fish woke up . <eos>
+Many fish woken up . <eos>
+Teresa drank . <eos>
+Teresa drunk . <eos>
+Melinda forgot Bruce . <eos>
+Melinda forgotten Bruce . <eos>
+A lot of people came here . <eos>
+A lot of people come here . <eos>
+Derek hid . <eos>
+Derek hidden . <eos>
+The adult hid away . <eos>
+The adult hidden away . <eos>
+Thomas went to a lot of public parks . <eos>
+Thomas gone to a lot of public parks . <eos>
+Sabrina hid Mitchell . <eos>
+Sabrina hidden Mitchell . <eos>
+All children went to some restaurants . <eos>
+All children gone to some restaurants . <eos>
+Andrew forgot Becky . <eos>
+Andrew forgotten Becky . <eos>
+Those actresses wrote . <eos>
+Those actresses written . <eos>
+Jason sang . <eos>
+Jason sung . <eos>
+Heidi took a box . <eos>
+Heidi taken a box . <eos>
+Meredith got a job . <eos>
+Meredith gotten a job . <eos>
+Julia drove to most malls . <eos>
+Julia driven to most malls . <eos>
+Keith broke all couches . <eos>
+Keith broken all couches . <eos>
+Dancers hid Tammy . <eos>
+Dancers hidden Tammy . <eos>
+The drivers went to the cafe . <eos>
+The drivers gone to the cafe . <eos>
+All adults hid away . <eos>
+All adults hidden away . <eos>
+Amanda broke some wheelbarrow . <eos>
+Amanda broken some wheelbarrow . <eos>
+All eggplants went bad . <eos>
+All eggplants gone bad . <eos>
+Dan drove to this hill . <eos>
+Dan driven to this hill . <eos>
+Amanda came here . <eos>
+Amanda come here . <eos>
+Carla ate . <eos>
+Carla eaten . <eos>
+Andrea broke the bicycles . <eos>
+Andrea broken the bicycles . <eos>
+George went fishing . <eos>
+George gone fishing . <eos>
+Omar hid away . <eos>
+Omar hidden away . <eos>
+Douglas ate . <eos>
+Douglas eaten . <eos>
+Bradley spoke up . <eos>
+Bradley spoken up . <eos>
+Janice broke dishes . <eos>
+Janice broken dishes . <eos>
+Eva went to a hill . <eos>
+Eva gone to a hill . <eos>
+Jennifer hid . <eos>
+Jennifer hidden . <eos>
+A cucumber went bad . <eos>
+A cucumber gone bad . <eos>
+Vincent drank . <eos>
+Vincent drunk . <eos>
+Michael hid some hospitals . <eos>
+Michael hidden some hospitals . <eos>
+Ella broke a lot of mirrors . <eos>
+Ella broken a lot of mirrors . <eos>
+Liam broke vases . <eos>
+Liam broken vases . <eos>
+Cindy ate . <eos>
+Cindy eaten . <eos>
+These schools knew Florence . <eos>
+These schools known Florence . <eos>
+Elizabeth hid away . <eos>
+Elizabeth hidden away . <eos>
+Amanda hid . <eos>
+Amanda hidden . <eos>
+Stephen woke up . <eos>
+Stephen woken up . <eos>
+Vincent knew all boys . <eos>
+Vincent known all boys . <eos>
+Most men broke some skateboards . <eos>
+Most men broken some skateboards . <eos>
+Carmen broke some dishes . <eos>
+Carmen broken some dishes . <eos>
+Bethany hid . <eos>
+Bethany hidden . <eos>
+Elaine got a job . <eos>
+Elaine gotten a job . <eos>
+Cynthia hid Grace . <eos>
+Cynthia hidden Grace . <eos>
+Some sweater shrank . <eos>
+Some sweater shrunk . <eos>
+Jerry hid . <eos>
+Jerry hidden . <eos>
+Many associations forgot Denise . <eos>
+Many associations forgotten Denise . <eos>
+Some hospitals forgot Tanya . <eos>
+Some hospitals forgotten Tanya . <eos>
+Eva got a job . <eos>
+Eva gotten a job . <eos>
+James hid . <eos>
+James hidden . <eos>
+Guys went to every school . <eos>
+Guys gone to every school . <eos>
+The Impressionists broke the car . <eos>
+The Impressionists broken the car . <eos>
+Dana knew Andrea . <eos>
+Dana known Andrea . <eos>
+Stephen got fired . <eos>
+Stephen gotten fired . <eos>
+Jesus knew some waitress . <eos>
+Jesus known some waitress . <eos>
+Alan took this turtle . <eos>
+Alan taken this turtle . <eos>
+That teacher broke this carriage . <eos>
+That teacher broken this carriage . <eos>
+Dan broke every window . <eos>
+Dan broken every window . <eos>
+Brett went to the river . <eos>
+Brett gone to the river . <eos>
+Carl woke up . <eos>
+Carl woken up . <eos>
+Every lake froze . <eos>
+Every lake frozen . <eos>
+The water froze . <eos>
+The water frozen . <eos>
+Joseph hid every dancer . <eos>
+Joseph hidden every dancer . <eos>
+Brian forgot Judy . <eos>
+Brian forgotten Judy . <eos>
+Douglas came here . <eos>
+Douglas come here . <eos>
+Christopher spoke up . <eos>
+Christopher spoken up . <eos>
+The shirts shrank . <eos>
+The shirts shrunk . <eos>
+This guy got a job . <eos>
+This guy gotten a job . <eos>
+This adult woke up . <eos>
+This adult woken up . <eos>
+Patricia wore all pants . <eos>
+Patricia worn all pants . <eos>
+Roger took this beef . <eos>
+Roger taken this beef . <eos>
+Steve went fishing . <eos>
+Steve gone fishing . <eos>
+Patricia wore a lot of hats . <eos>
+Patricia worn a lot of hats . <eos>
+Cindy wore many pants . <eos>
+Cindy worn many pants . <eos>
+Those pedestrians drove to that library . <eos>
+Those pedestrians driven to that library . <eos>
+All horses hid . <eos>
+All horses hidden . <eos>
+Tonya knew Angela . <eos>
+Tonya known Angela . <eos>
+Many guys woke up . <eos>
+Many guys woken up . <eos>
+Marla forgot Naomi . <eos>
+Marla forgotten Naomi . <eos>
+Noah took some cafe . <eos>
+Noah taken some cafe . <eos>
+Bethany got fired . <eos>
+Bethany gotten fired . <eos>
+The Lutherans forgot Jessica . <eos>
+The Lutherans forgotten Jessica . <eos>
+Theodore knew Steven . <eos>
+Theodore known Steven . <eos>
+These pedestrians spoke up . <eos>
+These pedestrians spoken up . <eos>
+Roger forgot Heather . <eos>
+Roger forgotten Heather . <eos>
+Lissa wore a lot of pants . <eos>
+Lissa worn a lot of pants . <eos>
+Mark hid . <eos>
+Mark hidden . <eos>
+Monet wore some glove . <eos>
+Monet worn some glove . <eos>
+Suzanne woke up . <eos>
+Suzanne woken up . <eos>
+Donna got a job . <eos>
+Donna gotten a job . <eos>
+The Borgias ate . <eos>
+The Borgias eaten . <eos>
+Travis wore a dress . <eos>
+Travis worn a dress . <eos>
+Stacey drove to some college campus . <eos>
+Stacey driven to some college campus . <eos>
+Kevin wore shirts . <eos>
+Kevin worn shirts . <eos>
+Kimberley went fishing . <eos>
+Kimberley gone fishing . <eos>
+Mark drove to a movie theater . <eos>
+Mark driven to a movie theater . <eos>
+Those pants shrank . <eos>
+Those pants shrunk . <eos>
+All patients forgot Stacey . <eos>
+All patients forgotten Stacey . <eos>
+All guests broke some forks . <eos>
+All guests broken some forks . <eos>
+Tiffany broke this skateboard . <eos>
+Tiffany broken this skateboard . <eos>
+The women got a job . <eos>
+The women gotten a job . <eos>
+Pedestrians wrote . <eos>
+Pedestrians written . <eos>
+Vincent ate . <eos>
+Vincent eaten . <eos>
+Monica broke planes . <eos>
+Monica broken planes . <eos>
+Some eggplant went bad . <eos>
+Some eggplant gone bad . <eos>
+Those ladies got fired . <eos>
+Those ladies gotten fired . <eos>
+Steven wore a scarf . <eos>
+Steven worn a scarf . <eos>
+Nancy spoke up . <eos>
+Nancy spoken up . <eos>
+Deborah took the carriage . <eos>
+Deborah taken the carriage . <eos>
+Chad hid some cashiers . <eos>
+Chad hidden some cashiers . <eos>
+Gregory got fired . <eos>
+Gregory gotten fired . <eos>
+John wrote . <eos>
+John written . <eos>
+Elaine got fired . <eos>
+Elaine gotten fired . <eos>
+Rose spoke up . <eos>
+Rose spoken up . <eos>
+All horses came here . <eos>
+All horses come here . <eos>
+Diana broke a lot of bikes . <eos>
+Diana broken a lot of bikes . <eos>
+Most senators wore a lot of gloves . <eos>
+Most senators worn a lot of gloves . <eos>
+The glaciers froze . <eos>
+The glaciers frozen . <eos>
+Adam broke that screen . <eos>
+Adam broken that screen . <eos>
+Todd sang . <eos>
+Todd sung . <eos>
+Donald broke a dish . <eos>
+Donald broken a dish . <eos>
+Diane spoke up . <eos>
+Diane spoken up . <eos>
+Paula came here . <eos>
+Paula come here . <eos>
+Gerald hid away . <eos>
+Gerald hidden away . <eos>
+Tammy drove to this hill . <eos>
+Tammy driven to this hill . <eos>
+Florence went fishing . <eos>
+Florence gone fishing . <eos>
+Diane sang . <eos>
+Diane sung . <eos>
+Alexander broke the windows . <eos>
+Alexander broken the windows . <eos>
+Veronica broke that unicycle . <eos>
+Veronica broken that unicycle . <eos>
+Those teachers hid away . <eos>
+Those teachers hidden away . <eos>
+Pants shrank . <eos>
+Pants shrunk . <eos>
+A lot of boys wore the jacket . <eos>
+A lot of boys worn the jacket . <eos>
+That spinach went bad . <eos>
+That spinach gone bad . <eos>
+Andrew broke this mirror . <eos>
+Andrew broken this mirror . <eos>
+Most socks shrank . <eos>
+Most socks shrunk . <eos>
+Monet knew many people . <eos>
+Monet known many people . <eos>
+All lakes froze . <eos>
+All lakes frozen . <eos>
+Adam wore that shoe . <eos>
+Adam worn that shoe . <eos>
+Karla drove to some college campus . <eos>
+Karla driven to some college campus . <eos>
+Harvard University took many movie theaters . <eos>
+Harvard University taken many movie theaters . <eos>
+A lot of pants shrank . <eos>
+A lot of pants shrunk . <eos>
+A jacket shrank . <eos>
+A jacket shrunk . <eos>
+Most shoes shrank . <eos>
+Most shoes shrunk . <eos>
+Every cucumber went bad . <eos>
+Every cucumber gone bad . <eos>
+Those waiters spoke up . <eos>
+Those waiters spoken up . <eos>
+A hospital forgot some women . <eos>
+A hospital forgotten some women . <eos>
+Gregory forgot Christina . <eos>
+Gregory forgotten Christina . <eos>
+Those waiters hid away . <eos>
+Those waiters hidden away . <eos>
+Lissa wore that blouse . <eos>
+Lissa worn that blouse . <eos>
+Kristin hid most vases . <eos>
+Kristin hidden most vases . <eos>
+This man woke up . <eos>
+This man woken up . <eos>
+Some drivers knew Julie . <eos>
+Some drivers known Julie . <eos>
+Bruce sang . <eos>
+Bruce sung . <eos>
+Most tomatoes went bad . <eos>
+Most tomatoes gone bad . <eos>
+Many cats woke up . <eos>
+Many cats woken up . <eos>
+Kristen wore these pants . <eos>
+Kristen worn these pants . <eos>
+Catherine wrote . <eos>
+Catherine written . <eos>
+That blouse shrank . <eos>
+That blouse shrunk . <eos>
+Melinda broke those bikes . <eos>
+Melinda broken those bikes . <eos>
+David got a job . <eos>
+David gotten a job . <eos>
+Beverly drove to these college campuses . <eos>
+Beverly driven to these college campuses . <eos>
+The Lutherans wore this sweater . <eos>
+The Lutherans worn this sweater . <eos>
+Claire broke a carriage . <eos>
+Claire broken a carriage . <eos>
+Jesus got a job . <eos>
+Jesus gotten a job . <eos>
+Florence broke every carriage . <eos>
+Florence broken every carriage . <eos>
+These ladies hid Tina . <eos>
+These ladies hidden Tina . <eos>
+Galileo drank . <eos>
+Galileo drunk . <eos>
+Eva ate . <eos>
+Eva eaten . <eos>
+Mary wrote . <eos>
+Mary written . <eos>
+Russell hid that vase . <eos>
+Russell hidden that vase . <eos>
+These guys got a job . <eos>
+These guys gotten a job . <eos>
+Todd came here . <eos>
+Todd come here . <eos>
+Sara hid . <eos>
+Sara hidden . <eos>
+Tanya knew every actress . <eos>
+Tanya known every actress . <eos>
+Margaret wrote . <eos>
+Margaret written . <eos>
+Amy hid all lights . <eos>
+Amy hidden all lights . <eos>
+Naomi drove to the Great Lakes . <eos>
+Naomi driven to the Great Lakes . <eos>
+Many teachers broke those dishes . <eos>
+Many teachers broken those dishes . <eos>
+William hid Grace . <eos>
+William hidden Grace . <eos>
+Those peppers went bad . <eos>
+Those peppers gone bad . <eos>
+Marie drank . <eos>
+Marie drunk . <eos>
+Charles knew Kirsten . <eos>
+Charles known Kirsten . <eos>
+These girls woke up . <eos>
+These girls woken up . <eos>
+Carrie hid a lot of shawls . <eos>
+Carrie hidden a lot of shawls . <eos>
+Every driver got a job . <eos>
+Every driver gotten a job . <eos>
+Carolyn hid Veronica . <eos>
+Carolyn hidden Veronica . <eos>
+The actresses hid Cindy . <eos>
+The actresses hidden Cindy . <eos>
+Every woman knew Dana . <eos>
+Every woman known Dana . <eos>
+Carl knew Adam . <eos>
+Carl known Adam . <eos>
+Amy woke up . <eos>
+Amy woken up . <eos>
+Eva forgot Kevin . <eos>
+Eva forgotten Kevin . <eos>
+Carl came here . <eos>
+Carl come here . <eos>
+Some actresses knew Homer . <eos>
+Some actresses known Homer . <eos>
+These cashiers broke all chairs . <eos>
+These cashiers broken all chairs . <eos>
+Heidi ate . <eos>
+Heidi eaten . <eos>
+Carrie took this plate . <eos>
+Carrie taken this plate . <eos>
+Margaret hid away . <eos>
+Margaret hidden away . <eos>
+Jodi sang . <eos>
+Jodi sung . <eos>
+Galileo went fishing . <eos>
+Galileo gone fishing . <eos>
+The library took most banks . <eos>
+The library taken most banks . <eos>
+Sandra came here . <eos>
+Sandra come here . <eos>
+Diana drove to all lakes . <eos>
+Diana driven to all lakes . <eos>
+Ronald went fishing . <eos>
+Ronald gone fishing . <eos>
+Becky hid . <eos>
+Becky hidden . <eos>
+Most pants shrank . <eos>
+Most pants shrunk . <eos>
+Beverly wrote . <eos>
+Beverly written . <eos>
+Heidi went to a lot of libraries . <eos>
+Heidi gone to a lot of libraries . <eos>
+These schools knew Derek . <eos>
+These schools known Derek . <eos>
+Patricia took this window . <eos>
+Patricia taken this window . <eos>
+April ate . <eos>
+April eaten . <eos>
+Liam wrote . <eos>
+Liam written . <eos>
+Mark broke every window . <eos>
+Mark broken every window . <eos>
+These girls wore glasses . <eos>
+These girls worn glasses . <eos>
+Walter got fired . <eos>
+Walter gotten fired . <eos>
+The Impressionists came here . <eos>
+The Impressionists come here . <eos>
+Girls went to every public park . <eos>
+Girls gone to every public park . <eos>
+Those waitresses broke some fork . <eos>
+Those waitresses broken some fork . <eos>
+The teenager went fishing . <eos>
+The teenager gone fishing . <eos>
+Dana broke the plates . <eos>
+Dana broken the plates . <eos>
+All students drove to some schools . <eos>
+All students driven to some schools . <eos>
+Amanda sang . <eos>
+Amanda sung . <eos>
+Lissa drove to Harvard University . <eos>
+Lissa driven to Harvard University . <eos>
+Kendra broke that wheelbarrow . <eos>
+Kendra broken that wheelbarrow . <eos>
+Some teenagers got fired . <eos>
+Some teenagers gotten fired . <eos>
+Doctors wore some dresses . <eos>
+Doctors worn some dresses . <eos>
+Rabbits broke all chairs . <eos>
+Rabbits broken all chairs . <eos>
+These tomatoes went bad . <eos>
+These tomatoes gone bad . <eos>
+Stacy went to many public parks . <eos>
+Stacy gone to many public parks . <eos>
+All people ate . <eos>
+All people eaten . <eos>
+Andrew hid away . <eos>
+Andrew hidden away . <eos>
+Paula wrote . <eos>
+Paula written . <eos>
+George hid away . <eos>
+George hidden away . <eos>
+Christopher drove to Spain . <eos>
+Christopher driven to Spain . <eos>
+Bruce came here . <eos>
+Bruce come here . <eos>
+Bruce got a job . <eos>
+Bruce gotten a job . <eos>
+These governments forgot Sally . <eos>
+These governments forgotten Sally . <eos>
+Eva broke these unicycles . <eos>
+Eva broken these unicycles . <eos>
+Helen got a job . <eos>
+Helen gotten a job . <eos>
+Caroline forgot Pamela . <eos>
+Caroline forgotten Pamela . <eos>
+Clyde got fired . <eos>
+Clyde gotten fired . <eos>
+April woke up . <eos>
+April woken up . <eos>
+Denise drank . <eos>
+Denise drunk . <eos>
+Kayla went to many movie theaters . <eos>
+Kayla gone to many movie theaters . <eos>
+Those pedestrians knew Bill . <eos>
+Those pedestrians known Bill . <eos>
+Most waiters got fired . <eos>
+Most waiters gotten fired . <eos>
+Larry hid Sarah . <eos>
+Larry hidden Sarah . <eos>
+Chad ate . <eos>
+Chad eaten . <eos>
+Martha woke up . <eos>
+Martha woken up . <eos>
+Emily wore those sweaters . <eos>
+Emily worn those sweaters . <eos>
+Mark spoke up . <eos>
+Mark spoken up . <eos>
+Alice forgot most guests . <eos>
+Alice forgotten most guests . <eos>
+Dana sang . <eos>
+Dana sung . <eos>
+Candice broke every couch . <eos>
+Candice broken every couch . <eos>
+Some waitresses broke a mirror . <eos>
+Some waitresses broken a mirror . <eos>
+Most waitresses got fired . <eos>
+Most waitresses gotten fired . <eos>
+This sock shrank . <eos>
+This sock shrunk . <eos>
+Anne hid many banks . <eos>
+Anne hidden many banks . <eos>
+Danielle drove to those hills . <eos>
+Danielle driven to those hills . <eos>
+Nina wore a shoe . <eos>
+Nina worn a shoe . <eos>
+Laura went to a cafe . <eos>
+Laura gone to a cafe . <eos>
+Alice hid this book . <eos>
+Alice hidden this book . <eos>
+Galileo wrote . <eos>
+Galileo written . <eos>
+Holly got fired . <eos>
+Holly gotten fired . <eos>
+Regina came here . <eos>
+Regina come here . <eos>
+The Lutherans sang . <eos>
+The Lutherans sung . <eos>
+Some rivers froze . <eos>
+Some rivers frozen . <eos>
+That broccoli went bad . <eos>
+That broccoli gone bad . <eos>
+Frank wore the socks . <eos>
+Frank worn the socks . <eos>
+Most senators knew Scott . <eos>
+Most senators known Scott . <eos>
+Some rabbit woke up . <eos>
+Some rabbit woken up . <eos>
+Some scarf shrank . <eos>
+Some scarf shrunk . <eos>
+Kristin went to an art gallery . <eos>
+Kristin gone to an art gallery . <eos>
+Sharon took the windows . <eos>
+Sharon taken the windows . <eos>
+Monet sang . <eos>
+Monet sung . <eos>
+Eva wore the coats . <eos>
+Eva worn the coats . <eos>
+Aaron went to Harvard University . <eos>
+Aaron gone to Harvard University . <eos>
+This pedestrian came here . <eos>
+This pedestrian come here . <eos>
+Rose sang . <eos>
+Rose sung . <eos>
+Connie went to Spain . <eos>
+Connie gone to Spain . <eos>
+Caroline broke most vases . <eos>
+Caroline broken most vases . <eos>
+Alan went to Harvard University . <eos>
+Alan gone to Harvard University . <eos>
+Some drivers hid Cindy . <eos>
+Some drivers hidden Cindy . <eos>
+Katherine went fishing . <eos>
+Katherine gone fishing . <eos>
+Andrew broke that plate . <eos>
+Andrew broken that plate . <eos>
+Phillip went fishing . <eos>
+Phillip gone fishing . <eos>
+Some glaciers froze . <eos>
+Some glaciers frozen . <eos>
+Catherine ate . <eos>
+Catherine eaten . <eos>
+Douglas sang . <eos>
+Douglas sung . <eos>
+Debra broke those skateboards . <eos>
+Debra broken those skateboards . <eos>
+The pedestrians wore some coat . <eos>
+The pedestrians worn some coat . <eos>
+Some drivers hid . <eos>
+Some drivers hidden . <eos>
+Pedestrians wore that glove . <eos>
+Pedestrians worn that glove . <eos>
+The glasses shrank . <eos>
+The glasses shrunk . <eos>
+Suzanne hid the Borgias . <eos>
+Suzanne hidden the Borgias . <eos>
+Caroline hid . <eos>
+Caroline hidden . <eos>
+Richard took that projector . <eos>
+Richard taken that projector . <eos>
+Kenneth drove to most rivers . <eos>
+Kenneth driven to most rivers . <eos>
+Jeffrey broke the truck . <eos>
+Jeffrey broken the truck . <eos>
+That person broke this window . <eos>
+That person broken this window . <eos>
+Patrick forgot the ladies . <eos>
+Patrick forgotten the ladies . <eos>
+Kirsten knew this customer . <eos>
+Kirsten known this customer . <eos>
+Tonya went fishing . <eos>
+Tonya gone fishing . <eos>
+Anne hid away . <eos>
+Anne hidden away . <eos>
+Martin drank . <eos>
+Martin drunk . <eos>
+Holly got a job . <eos>
+Holly gotten a job . <eos>
+The Impressionists drove to Harvard University . <eos>
+The Impressionists driven to Harvard University . <eos>
+A hat shrank . <eos>
+A hat shrunk . <eos>
+Tonya got a job . <eos>
+Tonya gotten a job . <eos>
+Kendra knew Martha . <eos>
+Kendra known Martha . <eos>
+A lot of glaciers froze . <eos>
+A lot of glaciers frozen . <eos>
+Some glacier froze . <eos>
+Some glacier frozen . <eos>
+Deborah hid Lisa . <eos>
+Deborah hidden Lisa . <eos>
+Walter drank . <eos>
+Walter drunk . <eos>
+Kristin drove to Spain . <eos>
+Kristin driven to Spain . <eos>
+George spoke up . <eos>
+George spoken up . <eos>
+Phillip wrote . <eos>
+Phillip written . <eos>
+Samuel wrote . <eos>
+Samuel written . <eos>
+Tina took some school . <eos>
+Tina taken some school . <eos>
+Diana ate . <eos>
+Diana eaten . <eos>
+Marie came here . <eos>
+Marie come here . <eos>
+Those cashiers ate . <eos>
+Those cashiers eaten . <eos>
+A sweater shrank . <eos>
+A sweater shrunk . <eos>
+Leslie got fired . <eos>
+Leslie gotten fired . <eos>
+William went to a lot of lakes . <eos>
+William gone to a lot of lakes . <eos>
+These scarves shrank . <eos>
+These scarves shrunk . <eos>
+Nancy took some pasta . <eos>
+Nancy taken some pasta . <eos>
+Irene wrote . <eos>
+Irene written . <eos>
+Eva forgot those essays . <eos>
+Eva forgotten those essays . <eos>
+Guy hid Marcus . <eos>
+Guy hidden Marcus . <eos>
+Some sweaters shrank . <eos>
+Some sweaters shrunk . <eos>
+Sally went to every lake . <eos>
+Sally gone to every lake . <eos>
+Keith got fired . <eos>
+Keith gotten fired . <eos>
+Brian drank . <eos>
+Brian drunk . <eos>
+Every person took some planes . <eos>
+Every person taken some planes . <eos>
+Every sock shrank . <eos>
+Every sock shrunk . <eos>
+Some actresses hid some pictures . <eos>
+Some actresses hidden some pictures . <eos>
+Every customer went fishing . <eos>
+Every customer gone fishing . <eos>
+Vincent wrote . <eos>
+Vincent written . <eos>
+Irene sang . <eos>
+Irene sung . <eos>
+Judy hid . <eos>
+Judy hidden . <eos>
+Most cucumbers went bad . <eos>
+Most cucumbers gone bad . <eos>
+Renee went to rivers . <eos>
+Renee gone to rivers . <eos>
+The dancers hid this beef . <eos>
+The dancers hidden this beef . <eos>
+An adult hid a jacket . <eos>
+An adult hidden a jacket . <eos>
+Christine ate . <eos>
+Christine eaten . <eos>
+The hats shrank . <eos>
+The hats shrunk . <eos>
+Mary broke this mirror . <eos>
+Mary broken this mirror . <eos>
+Connie forgot Ellen . <eos>
+Connie forgotten Ellen . <eos>
+A lot of senators spoke up . <eos>
+A lot of senators spoken up . <eos>
+Every child forgot many drivers . <eos>
+Every child forgotten many drivers . <eos>
+These guests forgot Teresa . <eos>
+These guests forgotten Teresa . <eos>
+Daniel drank . <eos>
+Daniel drunk . <eos>
+Stephanie went to the library . <eos>
+Stephanie gone to the library . <eos>
+Pamela sang . <eos>
+Pamela sung . <eos>
+Linda knew Donald . <eos>
+Linda known Donald . <eos>
+Kathleen broke skateboards . <eos>
+Kathleen broken skateboards . <eos>
+Frank broke dishes . <eos>
+Frank broken dishes . <eos>
+These senators drove to Spain . <eos>
+These senators driven to Spain . <eos>
+Diana went to some hills . <eos>
+Diana gone to some hills . <eos>
+Julie woke up . <eos>
+Julie woken up . <eos>
+Cats broke some chairs . <eos>
+Cats broken some chairs . <eos>
+Valerie forgot many customers . <eos>
+Valerie forgotten many customers . <eos>
+Julia got a job . <eos>
+Julia gotten a job . <eos>
+These cashiers hid a chair . <eos>
+These cashiers hidden a chair . <eos>
+Tina woke up . <eos>
+Tina woken up . <eos>
+Scott drank . <eos>
+Scott drunk . <eos>
+Nicole drove to the movie theaters . <eos>
+Nicole driven to the movie theaters . <eos>
+The legislature forgot Eric . <eos>
+The legislature forgotten Eric . <eos>
+William wore every sock . <eos>
+William worn every sock . <eos>
+Girls wore the jacket . <eos>
+Girls worn the jacket . <eos>
+Rebecca hid away . <eos>
+Rebecca hidden away . <eos>
+Alexander ate . <eos>
+Alexander eaten . <eos>
+Jodi broke some skateboard . <eos>
+Jodi broken some skateboard . <eos>
+Elizabeth knew the senators . <eos>
+Elizabeth known the senators . <eos>
+Emily woke up . <eos>
+Emily woken up . <eos>
+Winston Churchill wore this glove . <eos>
+Winston Churchill worn this glove . <eos>
+Some person wore the pants . <eos>
+Some person worn the pants . <eos>
+Marie wrote . <eos>
+Marie written . <eos>
+Frank forgot drivers . <eos>
+Frank forgotten drivers . <eos>
+Stacey took some doors . <eos>
+Stacey taken some doors . <eos>
+Carmen spoke up . <eos>
+Carmen spoken up . <eos>
+Most girls wrote . <eos>
+Most girls written . <eos>
+Adam broke planes . <eos>
+Adam broken planes . <eos>
+Sharon broke a chair . <eos>
+Sharon broken a chair . <eos>
+Those adults wore the shawl . <eos>
+Those adults worn the shawl . <eos>
+Keith wore some skirt . <eos>
+Keith worn some skirt . <eos>
+Marie spoke up . <eos>
+Marie spoken up . <eos>
+The horses hid . <eos>
+The horses hidden . <eos>
+Some men got a job . <eos>
+Some men gotten a job . <eos>
+Adults went to that art gallery . <eos>
+Adults gone to that art gallery . <eos>
+Peter hid away . <eos>
+Peter hidden away . <eos>
+These guests broke some truck . <eos>
+These guests broken some truck . <eos>
+Daniel broke the unicycle . <eos>
+Daniel broken the unicycle . <eos>
+Kevin got a job . <eos>
+Kevin gotten a job . <eos>
+Jason hid every dog . <eos>
+Jason hidden every dog . <eos>
+This cashier broke the mirrors . <eos>
+This cashier broken the mirrors . <eos>
+Most girls hid . <eos>
+Most girls hidden . <eos>
+Matt knew Patrick . <eos>
+Matt known Patrick . <eos>
+Stacey drove to many grocery stores . <eos>
+Stacey driven to many grocery stores . <eos>
+Amanda got fired . <eos>
+Amanda gotten fired . <eos>
+Every legislature knew Rebecca . <eos>
+Every legislature known Rebecca . <eos>
+Some lake froze . <eos>
+Some lake frozen . <eos>
+A woman drove to closets . <eos>
+A woman driven to closets . <eos>
+Those waitresses wore many shirts . <eos>
+Those waitresses worn many shirts . <eos>
+The Impressionists went to a hill . <eos>
+The Impressionists gone to a hill . <eos>
+Claire sang . <eos>
+Claire sung . <eos>
+Rose drove to that bank . <eos>
+Rose driven to that bank . <eos>
+The adults hid Marcus . <eos>
+The adults hidden Marcus . <eos>
+Natalie came here . <eos>
+Natalie come here . <eos>
+Pamela got fired . <eos>
+Pamela gotten fired . <eos>
+Teresa forgot Allison . <eos>
+Teresa forgotten Allison . <eos>
+Caroline wore some sweater . <eos>
+Caroline worn some sweater . <eos>
+Many children knew Tara . <eos>
+Many children known Tara . <eos>
+Sally woke up . <eos>
+Sally woken up . <eos>
+Rachel went fishing . <eos>
+Rachel gone fishing . <eos>
+Candice went to museums . <eos>
+Candice gone to museums . <eos>
+Steve wrote . <eos>
+Steve written . <eos>
+The guy ate . <eos>
+The guy eaten . <eos>
+Elizabeth ate . <eos>
+Elizabeth eaten . <eos>
+Many teenagers broke that bicycle . <eos>
+Many teenagers broken that bicycle . <eos>
+A fish woke up . <eos>
+A fish woken up . <eos>
+Rachelle forgot Melanie . <eos>
+Rachelle forgotten Melanie . <eos>
+Keith spoke up . <eos>
+Keith spoken up . <eos>
+Michael drove to some restaurants . <eos>
+Michael driven to some restaurants . <eos>
+Monica went fishing . <eos>
+Monica gone fishing . <eos>
+Charles woke up . <eos>
+Charles woken up . <eos>
+All pedestrians broke all wheelbarrows . <eos>
+All pedestrians broken all wheelbarrows . <eos>
+All boys hid . <eos>
+All boys hidden . <eos>
+Samantha wore most shawls . <eos>
+Samantha worn most shawls . <eos>
+Guy broke most vases . <eos>
+Guy broken most vases . <eos>
+This broccoli went bad . <eos>
+This broccoli gone bad . <eos>
+Those ladies broke this bike . <eos>
+Those ladies broken this bike . <eos>
+Marcus came here . <eos>
+Marcus come here . <eos>
+Kristen spoke up . <eos>
+Kristen spoken up . <eos>
+Sarah got a job . <eos>
+Sarah gotten a job . <eos>
+Barbara went to a restaurant . <eos>
+Barbara gone to a restaurant . <eos>
+Deborah broke many convertibles . <eos>
+Deborah broken many convertibles . <eos>
+The girls wore many dresses . <eos>
+The girls worn many dresses . <eos>
+Barbara spoke up . <eos>
+Barbara spoken up . <eos>
+Many actors broke those chairs . <eos>
+Many actors broken those chairs . <eos>
+All waiters wore the socks . <eos>
+All waiters worn the socks . <eos>
+The shawl shrank . <eos>
+The shawl shrunk . <eos>
+Adam forgot Angela . <eos>
+Adam forgotten Angela . <eos>
+Jacqueline broke the cart . <eos>
+Jacqueline broken the cart . <eos>
+Julia woke up . <eos>
+Julia woken up . <eos>
+The actresses sang . <eos>
+The actresses sung . <eos>
+Some cucumber went bad . <eos>
+Some cucumber gone bad . <eos>
+Bradley got fired . <eos>
+Bradley gotten fired . <eos>
+Gregory broke many bicycles . <eos>
+Gregory broken many bicycles . <eos>
+Some actor hid Laura . <eos>
+Some actor hidden Laura . <eos>
+Amelia sang . <eos>
+Amelia sung . <eos>
+That driver broke every convertible . <eos>
+That driver broken every convertible . <eos>
+This driver woke up . <eos>
+This driver woken up . <eos>
+Lissa got fired . <eos>
+Lissa gotten fired . <eos>
+Samantha broke most couches . <eos>
+Samantha broken most couches . <eos>
+Melissa came here . <eos>
+Melissa come here . <eos>
+Many pants shrank . <eos>
+Many pants shrunk . <eos>
+Many teenagers went to this grocery store . <eos>
+Many teenagers gone to this grocery store . <eos>
+Most men knew Florence . <eos>
+Most men known Florence . <eos>
+Some hospitals forgot Omar . <eos>
+Some hospitals forgotten Omar . <eos>
+Tina sang . <eos>
+Tina sung . <eos>
+A lot of people hid many eyes . <eos>
+A lot of people hidden many eyes . <eos>
+These drivers spoke up . <eos>
+These drivers spoken up . <eos>
+Kevin came here . <eos>
+Kevin come here . <eos>
+Every skirt shrank . <eos>
+Every skirt shrunk . <eos>
+A glove shrank . <eos>
+A glove shrunk . <eos>
+The bananas went bad . <eos>
+The bananas gone bad . <eos>
+Many dogs woke up . <eos>
+Many dogs woken up . <eos>
+Maria drank . <eos>
+Maria drunk . <eos>
+Tonya drove to some grocery stores . <eos>
+Tonya driven to some grocery stores . <eos>
+Clyde went to the public park . <eos>
+Clyde gone to the public park . <eos>
+Patricia spoke up . <eos>
+Patricia spoken up . <eos>
+The cashier spoke up . <eos>
+The cashier spoken up . <eos>
+Clyde went to some art gallery . <eos>
+Clyde gone to some art gallery . <eos>
+Some bananas went bad . <eos>
+Some bananas gone bad . <eos>
+Melanie got fired . <eos>
+Melanie gotten fired . <eos>
+Kenneth broke the cup . <eos>
+Kenneth broken the cup . <eos>
+Sharon wore a lot of scarves . <eos>
+Sharon worn a lot of scarves . <eos>
+Carlos woke up . <eos>
+Carlos woken up . <eos>
+Valerie knew Ann . <eos>
+Valerie known Ann . <eos>
+Liam hid Rose . <eos>
+Liam hidden Rose . <eos>
+Jason took that screen . <eos>
+Jason taken that screen . <eos>
+All guys got fired . <eos>
+All guys gotten fired . <eos>
+Cynthia wrote . <eos>
+Cynthia written . <eos>
+Kimberley took a hat . <eos>
+Kimberley taken a hat . <eos>
+Tara broke most bicycles . <eos>
+Tara broken most bicycles . <eos>
+Kirsten broke all forks . <eos>
+Kirsten broken all forks . <eos>
+Carl broke those chairs . <eos>
+Carl broken those chairs . <eos>
+A lot of waitresses broke a lot of screens . <eos>
+A lot of waitresses broken a lot of screens . <eos>
+Carl spoke up . <eos>
+Carl spoken up . <eos>
+Many children broke the vase . <eos>
+Many children broken the vase . <eos>
+Edward went to a library . <eos>
+Edward gone to a library . <eos>
+Every sweater shrank . <eos>
+Every sweater shrunk . <eos>
+All customers went fishing . <eos>
+All customers gone fishing . <eos>
+That customer hid away . <eos>
+That customer hidden away . <eos>
+This person got a job . <eos>
+This person gotten a job . <eos>
+Kayla broke all dishes . <eos>
+Kayla broken all dishes . <eos>
+Most girls woke up . <eos>
+Most girls woken up . <eos>
+Some doctor drove to these college campuses . <eos>
+Some doctor driven to these college campuses . <eos>
+Tara woke up . <eos>
+Tara woken up . <eos>
+Derek wore that dress . <eos>
+Derek worn that dress . <eos>
+Pamela wore every glove . <eos>
+Pamela worn every glove . <eos>
+Alicia woke up . <eos>
+Alicia woken up . <eos>
+Most drivers hid every snake . <eos>
+Most drivers hidden every snake . <eos>
+That actress wrote . <eos>
+That actress written . <eos>
+Caroline knew Tonya . <eos>
+Caroline known Tonya . <eos>
+Some ice froze . <eos>
+Some ice frozen . <eos>
+A lot of waiters knew those doctors . <eos>
+A lot of waiters known those doctors . <eos>
+Heidi drank . <eos>
+Heidi drunk . <eos>
+The icicles froze . <eos>
+The icicles frozen . <eos>
+Sarah hid . <eos>
+Sarah hidden . <eos>
+Dawn forgot Carlos . <eos>
+Dawn forgotten Carlos . <eos>
+A lot of waiters wore gloves . <eos>
+A lot of waiters worn gloves . <eos>
+Kevin drove to every river . <eos>
+Kevin driven to every river . <eos>
+Larry drove to these art galleries . <eos>
+Larry driven to these art galleries . <eos>
+Melissa got fired . <eos>
+Melissa gotten fired . <eos>
+Julie took ladders . <eos>
+Julie taken ladders . <eos>
+Those children broke a wheelbarrow . <eos>
+Those children broken a wheelbarrow . <eos>
+Martha took the boxes . <eos>
+Martha taken the boxes . <eos>
+Jane woke up . <eos>
+Jane woken up . <eos>
+Connie went to some high school . <eos>
+Connie gone to some high school . <eos>
+Mary took these high schools . <eos>
+Mary taken these high schools . <eos>
+Sheila broke that car . <eos>
+Sheila broken that car . <eos>
+Janice hid . <eos>
+Janice hidden . <eos>
+Mitchell wore a jacket . <eos>
+Mitchell worn a jacket . <eos>
+Lisa took most forks . <eos>
+Lisa taken most forks . <eos>
+The blouses shrank . <eos>
+The blouses shrunk . <eos>
+Most boys drove to every mountain . <eos>
+Most boys driven to every mountain . <eos>

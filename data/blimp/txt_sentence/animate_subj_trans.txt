@@ -1,0 +1,2000 @@
+Keith watches Carrie . <eos>
+The university watches Carrie . <eos>
+Aaron could mess up some restaurant . <eos>
+Every book could mess up some restaurant . <eos>
+Mary lifts the wheelbarrows . <eos>
+Every dress lifts the wheelbarrows . <eos>
+Sandra fled from Homer . <eos>
+An apple fled from Homer . <eos>
+Bill fired Sandra . <eos>
+The steak fired Sandra . <eos>
+Larry does n't ascend the mountain . <eos>
+Some apple does n't ascend the mountain . <eos>
+Emily is n't researching that picture . <eos>
+This commentary is n't researching that picture . <eos>
+Dana had worked with every waiter . <eos>
+That bicycle had worked with every waiter . <eos>
+Stacy tours that mall . <eos>
+Every gate tours that mall . <eos>
+Tanya could visit Barbara . <eos>
+That story could visit Barbara . <eos>
+Becky had n't arrived at all grocery stores . <eos>
+That ice had n't arrived at all grocery stores . <eos>
+Christopher does n't scan that essay . <eos>
+Some museum does n't scan that essay . <eos>
+Larry admires many couches . <eos>
+That bike admires many couches . <eos>
+Amanda was dropping by most college campuses . <eos>
+Some steak was dropping by most college campuses . <eos>
+Renee has n't broken plates . <eos>
+Every dish has n't broken plates . <eos>
+Dennis has n't arrived at some malls . <eos>
+A truck has n't arrived at some malls . <eos>
+Jodi talked to Vincent . <eos>
+Some bike talked to Vincent . <eos>
+Caroline observed Diane . <eos>
+The picture observed Diane . <eos>
+Edward criticizes the Great Lakes . <eos>
+The story criticizes the Great Lakes . <eos>
+Lori escapes from Anna . <eos>
+That association escapes from Anna . <eos>
+Kendra should observe the Clintons . <eos>
+The carriage should observe the Clintons . <eos>
+Heather conceals Diana . <eos>
+That tomato conceals Diana . <eos>
+Anna cleans some painting . <eos>
+Some rug cleans some painting . <eos>
+Christina has criticized every public park . <eos>
+The restaurant has criticized every public park . <eos>
+Carol would climb down this slope . <eos>
+That hospital would climb down this slope . <eos>
+This patient ran around a closet . <eos>
+This museum ran around a closet . <eos>
+A cashier is n't boycotting the cafe . <eos>
+Every skateboard is n't boycotting the cafe . <eos>
+William breaks many carriages . <eos>
+The light breaks many carriages . <eos>
+Alexander healed Diane . <eos>
+That organization healed Diane . <eos>
+The doctor has appreciated April . <eos>
+The hospital has appreciated April . <eos>
+Wendy climbed down the hills . <eos>
+Travel climbed down the hills . <eos>
+Debra ca n't approach Bill . <eos>
+The high school ca n't approach Bill . <eos>
+Angela is n't talking to these actresses . <eos>
+Every casserole is n't talking to these actresses . <eos>
+Susan ca n't flee from the pedestrian . <eos>
+A unicycle ca n't flee from the pedestrian . <eos>
+Holly scans some report . <eos>
+That mall scans some report . <eos>
+Jerry messes up some school . <eos>
+An art gallery messes up some school . <eos>
+Rodney did n't think about Theresa . <eos>
+Every book did n't think about Theresa . <eos>
+Monet will insult Julie . <eos>
+The movie theater will insult Julie . <eos>
+Phillip references Stacey . <eos>
+A mall references Stacey . <eos>
+Bruce explores grocery stores . <eos>
+A pepper explores grocery stores . <eos>
+A woman arrived at all malls . <eos>
+The museum arrived at all malls . <eos>
+Jeffrey talked about Raymond . <eos>
+A shoe talked about Raymond . <eos>
+Irene is noticing some dancer . <eos>
+A mountain is noticing some dancer . <eos>
+Some dancers ca n't bring a horse . <eos>
+A lot of high schools ca n't bring a horse . <eos>
+Andrew scares Rebecca . <eos>
+A sweater scares Rebecca . <eos>
+Grace has n't broken that screen . <eos>
+A candle has n't broken that screen . <eos>
+Adam watches Veronica . <eos>
+Every glove watches Veronica . <eos>
+Rachelle climbs down the hill . <eos>
+The face climbs down the hill . <eos>
+Russell examines that book . <eos>
+The hair examines that book . <eos>
+A lot of guys had criticized Carmen . <eos>
+A lot of glasses had criticized Carmen . <eos>
+Carolyn was n't finding Mark . <eos>
+That play was n't finding Mark . <eos>
+A man has talked to Tammy . <eos>
+Every essay has talked to Tammy . <eos>
+Brett descends a lot of steps . <eos>
+This cucumber descends a lot of steps . <eos>
+Anne had n't returned to Melinda . <eos>
+The jacket had n't returned to Melinda . <eos>
+Cindy disagrees with Wendy . <eos>
+The eggplant disagrees with Wendy . <eos>
+Galileo does n't ascend the hill . <eos>
+A hill does n't ascend the hill . <eos>
+Sarah heals Meredith . <eos>
+Every high school heals Meredith . <eos>
+Amelia discovers Bill . <eos>
+This computer discovers Bill . <eos>
+Peter attacked Galileo . <eos>
+Every documentary attacked Galileo . <eos>
+The pedestrian wore these scarves . <eos>
+This broccoli wore these scarves . <eos>
+Many guys ca n't complain about Pamela . <eos>
+Most drawings ca n't complain about Pamela . <eos>
+Tina is n't visiting some patients . <eos>
+The shirt is n't visiting some patients . <eos>
+Steve should boast about Nancy . <eos>
+A restaurant should boast about Nancy . <eos>
+Susan has n't researched associations . <eos>
+This hair has n't researched associations . <eos>
+Sara does attack Andrea . <eos>
+That documentary does attack Andrea . <eos>
+Some waiter scans this essay . <eos>
+That blouse scans this essay . <eos>
+All doctors were escaping from a guest . <eos>
+A lot of dogs were escaping from a guest . <eos>
+Nancy climbed up a ladder . <eos>
+Some photograph climbed up a ladder . <eos>
+Karen skated around the Great Lakes . <eos>
+That glass skated around the Great Lakes . <eos>
+Candice attacked Lori . <eos>
+That hill attacked Lori . <eos>
+Russell was n't descending these steps . <eos>
+This movie was n't descending these steps . <eos>
+Sabrina was examining every newspaper article . <eos>
+This fish was examining every newspaper article . <eos>
+Barbara attacks Becky . <eos>
+A computer attacks Becky . <eos>
+Jennifer flees from that cafe . <eos>
+Some bird flees from that cafe . <eos>
+Some organization might praise Marcus . <eos>
+Some rabbit might praise Marcus . <eos>
+All boys had driven to Harvard University . <eos>
+The glasses had driven to Harvard University . <eos>
+Frank can take a mirror . <eos>
+An icicle can take a mirror . <eos>
+This driver finds Ronald . <eos>
+A jacket finds Ronald . <eos>
+Catherine wo n't run around many lakes . <eos>
+This pasta wo n't run around many lakes . <eos>
+Patricia helps a lot of men . <eos>
+This cart helps a lot of men . <eos>
+The Clintons researches all essays . <eos>
+Most pants researches all essays . <eos>
+Sara resembled a lot of sketches . <eos>
+That door resembled a lot of sketches . <eos>
+Some companies have n't hated Matt . <eos>
+Projectors have n't hated Matt . <eos>
+Many teachers had broken this bicycle . <eos>
+Hills had broken this bicycle . <eos>
+Galileo worked with the actors . <eos>
+This pork worked with the actors . <eos>
+Those students have complained about Rodney . <eos>
+These restaurants have complained about Rodney . <eos>
+Donald discovers some peppers . <eos>
+Some muffin discovers some peppers . <eos>
+Leslie appreciates the people . <eos>
+A car appreciates the people . <eos>
+Tammy conceals this documentary . <eos>
+The vase conceals this documentary . <eos>
+The hamsters could climb up these hills . <eos>
+All banks could climb up these hills . <eos>
+Alicia knows Jennifer . <eos>
+This story knows Jennifer . <eos>
+The doctor remembered Lissa . <eos>
+A hill remembered Lissa . <eos>
+Sandra should n't question every man . <eos>
+Every mushroom should n't question every man . <eos>
+Todd wo n't run around this movie theater . <eos>
+A pie wo n't run around this movie theater . <eos>
+The guys will drive to some mountains . <eos>
+Some carriages will drive to some mountains . <eos>
+Every actress resembles the paintings . <eos>
+Harvard University resembles the paintings . <eos>
+Brian arrives at most schools . <eos>
+This ice arrives at most schools . <eos>
+Tammy has resembled a lot of sketches . <eos>
+This movie has resembled a lot of sketches . <eos>
+Sherry was n't ascending some stairs . <eos>
+That skirt was n't ascending some stairs . <eos>
+A guest climbs up all slopes . <eos>
+The spotlight climbs up all slopes . <eos>
+Julia insults Homer . <eos>
+This glacier insults Homer . <eos>
+That teacher has n't thought about Alicia . <eos>
+Some pepper has n't thought about Alicia . <eos>
+Florence is n't dropping by a lot of grocery stores . <eos>
+That fork is n't dropping by a lot of grocery stores . <eos>
+The Lutherans passed some libraries . <eos>
+Some carts passed some libraries . <eos>
+Kenneth bought that muffin . <eos>
+The eye bought that muffin . <eos>
+Linda can observe David . <eos>
+Science can observe David . <eos>
+Vanessa will see Gregory . <eos>
+Every skateboard will see Gregory . <eos>
+David was n't lifting some gate . <eos>
+This fish was n't lifting some gate . <eos>
+Raymond would n't talk to a pedestrian . <eos>
+The computer would n't talk to a pedestrian . <eos>
+Elaine praises Sabrina . <eos>
+A public park praises Sabrina . <eos>
+Karen has worked with this man . <eos>
+Some rice has worked with this man . <eos>
+Tiffany conceals Helen . <eos>
+The rice conceals Helen . <eos>
+April does mess up some school . <eos>
+Every cake does mess up some school . <eos>
+Lori lifts some trucks . <eos>
+Every hamster lifts some trucks . <eos>
+Elizabeth is n't arriving at some lakes . <eos>
+That picture is n't arriving at some lakes . <eos>
+That library was n't boasting about Charles . <eos>
+A drawing was n't boasting about Charles . <eos>
+Rose was hiding a customer . <eos>
+That beef was hiding a customer . <eos>
+Mark is n't scanning commentaries . <eos>
+Every college campus is n't scanning commentaries . <eos>
+Some women thought about that ice cream . <eos>
+Many eyes thought about that ice cream . <eos>
+Diana has n't visited Florence . <eos>
+A rug has n't visited Florence . <eos>
+Travis has admired Bruce . <eos>
+Some painting has admired Bruce . <eos>
+Jennifer should argue about Benjamin . <eos>
+This painting should argue about Benjamin . <eos>
+Heather has worked with Timothy . <eos>
+The skirt has worked with Timothy . <eos>
+Ellen runs around a hill . <eos>
+Some convertible runs around a hill . <eos>
+Robert left David . <eos>
+Some grocery store left David . <eos>
+Becca should n't boycott those committees . <eos>
+This shawl should n't boycott those committees . <eos>
+Regina has n't cured Meredith . <eos>
+A shoe has n't cured Meredith . <eos>
+Stephen reveals Noah . <eos>
+Every jacket reveals Noah . <eos>
+Elaine has n't found Debra . <eos>
+Every print has n't found Debra . <eos>
+Kristin cleans the lamp . <eos>
+This painting cleans the lamp . <eos>
+Eva had n't looked like all pictures . <eos>
+The eye had n't looked like all pictures . <eos>
+Tammy should leave a girl . <eos>
+The slope should leave a girl . <eos>
+Pamela was exiting malls . <eos>
+Some cilantro was exiting malls . <eos>
+Every dancer had n't listened to Kevin . <eos>
+Every face had n't listened to Kevin . <eos>
+Jane returns to Karla . <eos>
+The pork returns to Karla . <eos>
+Wendy cares for Noah . <eos>
+A ladder cares for Noah . <eos>
+Erin climbed up hills . <eos>
+Harvard University climbed up hills . <eos>
+All guys scanned a newspaper article . <eos>
+Some shirts scanned a newspaper article . <eos>
+Rhonda bought most lamps . <eos>
+This committee bought most lamps . <eos>
+Monet was touring every art gallery . <eos>
+Some play was touring every art gallery . <eos>
+David has loved the Lutherans . <eos>
+Every hospital has loved the Lutherans . <eos>
+Tracy has investigated Ruth . <eos>
+This bread has investigated Ruth . <eos>
+Claire kissed Amelia . <eos>
+Fish kissed Amelia . <eos>
+Caroline wears many shirts . <eos>
+The casserole wears many shirts . <eos>
+Catherine revealed that turtle . <eos>
+This jacket revealed that turtle . <eos>
+Florence returned to Laura . <eos>
+A banana returned to Laura . <eos>
+Kenneth would n't complain about Brenda . <eos>
+That mushroom would n't complain about Brenda . <eos>
+Stacey is n't escaping from Omar . <eos>
+A door is n't escaping from Omar . <eos>
+Steve is talking about Kenneth . <eos>
+Some banana is talking about Kenneth . <eos>
+Every museum should n't respect most malls . <eos>
+That horse should n't respect most malls . <eos>
+That casserole could n't resemble every sketch . <eos>
+That banana could n't resemble every sketch . <eos>
+Randolf talked to Nancy . <eos>
+An organization talked to Nancy . <eos>
+Helen talks to many women . <eos>
+Art talks to many women . <eos>
+James was n't researching the grocery store . <eos>
+A horse was n't researching the grocery store . <eos>
+Clyde is leaving Kendra . <eos>
+Bread is leaving Kendra . <eos>
+Michael went to the college campuses . <eos>
+This picture went to the college campuses . <eos>
+Jill argued about cashiers . <eos>
+A screen argued about cashiers . <eos>
+Melissa has n't observed Bradley . <eos>
+That convertible has n't observed Bradley . <eos>
+Martha had n't examined this essay . <eos>
+The apple had n't examined this essay . <eos>
+Veronica healed this horse . <eos>
+A sock healed this horse . <eos>
+Galileo is n't boasting about the Clintons . <eos>
+That rug is n't boasting about the Clintons . <eos>
+Elizabeth had skated around banks . <eos>
+Every screen had skated around banks . <eos>
+Russell does work with Tracy . <eos>
+The sketch does work with Tracy . <eos>
+Frank is insulting that girl . <eos>
+The spinach is insulting that girl . <eos>
+Catherine will boycott the Clintons . <eos>
+This banana will boycott the Clintons . <eos>
+A lot of doctors have n't thought about those hats . <eos>
+Those drawings have n't thought about those hats . <eos>
+Travis lifts those windows . <eos>
+This book lifts those windows . <eos>
+That girl had revealed Valerie . <eos>
+The report had revealed Valerie . <eos>
+Leslie criticized Phillip . <eos>
+A chair criticized Phillip . <eos>
+Travis was n't biking to many hills . <eos>
+A cat was n't biking to many hills . <eos>
+Bradley had n't known Beverly . <eos>
+That couch had n't known Beverly . <eos>
+Galileo could n't argue about Leslie . <eos>
+Some picture could n't argue about Leslie . <eos>
+The patients have n't forgotten Paul . <eos>
+Sweaters have n't forgotten Paul . <eos>
+Ann researched a hill . <eos>
+That high school researched a hill . <eos>
+Joseph messed up some cup . <eos>
+Ice messed up some cup . <eos>
+That waiter ca n't listen to Rachel . <eos>
+This dress ca n't listen to Rachel . <eos>
+That customer was lifting some apples . <eos>
+That glass was lifting some apples . <eos>
+Teresa had n't returned to Jennifer . <eos>
+Every fork had n't returned to Jennifer . <eos>
+Samantha discovered stairs . <eos>
+That dish discovered stairs . <eos>
+A pepper is n't looking like a picture . <eos>
+A wheelbarrow is n't looking like a picture . <eos>
+Nicole forgot Rodney . <eos>
+Literature forgot Rodney . <eos>
+Teresa had disliked Andrea . <eos>
+Some truck had disliked Andrea . <eos>
+Heidi is insulting those college campuses . <eos>
+This eggplant is insulting those college campuses . <eos>
+Thomas heals all hamsters . <eos>
+A committee heals all hamsters . <eos>
+That teacher arrives at those museums . <eos>
+Music arrives at those museums . <eos>
+William could run around those glaciers . <eos>
+Every pie could run around those glaciers . <eos>
+Edward described Sheila . <eos>
+Every plate described Sheila . <eos>
+Charles had biked to all cafes . <eos>
+Every report had biked to all cafes . <eos>
+Charles was n't wearing these sweaters . <eos>
+Every painting was n't wearing these sweaters . <eos>
+Most people could ascend many hills . <eos>
+Many cups could ascend many hills . <eos>
+Christina will conceal Sherry . <eos>
+Every government will conceal Sherry . <eos>
+Becky descended some mountain . <eos>
+A book descended some mountain . <eos>
+Kristen is skated around the Great Lakes . <eos>
+The book is skated around the Great Lakes . <eos>
+Ella argued about some doctor . <eos>
+An eggplant argued about some doctor . <eos>
+Ruth should n't care for Gerald . <eos>
+The coat should n't care for Gerald . <eos>
+Robert would know some woman . <eos>
+Every painting would know some woman . <eos>
+Jennifer had left Wayne . <eos>
+This cucumber had left Wayne . <eos>
+Pamela helps Aaron . <eos>
+Some eye helps Aaron . <eos>
+Julia investigates Patricia . <eos>
+The couch investigates Patricia . <eos>
+Marie was n't ascending some slope . <eos>
+This screen was n't ascending some slope . <eos>
+A man bikes to some hill . <eos>
+Every association bikes to some hill . <eos>
+Alexander had n't worked with some senator . <eos>
+An association had n't worked with some senator . <eos>
+Rachelle cleans all malls . <eos>
+Every closet cleans all malls . <eos>
+The cashier is leaving Ruth . <eos>
+This tomato is leaving Ruth . <eos>
+Leslie could n't visit Dawn . <eos>
+This computer could n't visit Dawn . <eos>
+Travis lifted these mushrooms . <eos>
+Every casserole lifted these mushrooms . <eos>
+Janice finds Mary . <eos>
+Every lamp finds Mary . <eos>
+Kendra visited Scott . <eos>
+A mountain visited Scott . <eos>
+Marla runs around Spain . <eos>
+A mall runs around Spain . <eos>
+Martin would n't leave all movie theaters . <eos>
+The mountain would n't leave all movie theaters . <eos>
+Mary had n't known Vanessa . <eos>
+The hamster had n't known Vanessa . <eos>
+James investigates Laurie . <eos>
+That unicycle investigates Laurie . <eos>
+Natalie does n't hug the adults . <eos>
+That cilantro does n't hug the adults . <eos>
+Raymond was n't looking like some photograph . <eos>
+The documentary was n't looking like some photograph . <eos>
+A committee hired Patricia . <eos>
+Every eye hired Patricia . <eos>
+Stacy returns to the mall . <eos>
+That couch returns to the mall . <eos>
+Lucille criticized Anne . <eos>
+This photograph criticized Anne . <eos>
+Karla does tour these movie theaters . <eos>
+The cat does tour these movie theaters . <eos>
+Brenda saw the doctors . <eos>
+Harvard University saw the doctors . <eos>
+A woman talks to Heather . <eos>
+Music talks to Heather . <eos>
+Harvard University boasted about Mark . <eos>
+The school boasted about Mark . <eos>
+Marie can discover a government . <eos>
+Some shawl can discover a government . <eos>
+Paul scares Carmen . <eos>
+This cafe scares Carmen . <eos>
+The girl criticized these pedestrians . <eos>
+Every scarf criticized these pedestrians . <eos>
+All books resembled that print . <eos>
+Most windows resembled that print . <eos>
+These patients did explore a high school . <eos>
+Those hats did explore a high school . <eos>
+Every actress was n't appreciating April . <eos>
+This pepper was n't appreciating April . <eos>
+A museum dislikes Kayla . <eos>
+Some candle dislikes Kayla . <eos>
+Regina hired the girls . <eos>
+The cart hired the girls . <eos>
+Benjamin was praising Rachelle . <eos>
+A turtle was praising Rachelle . <eos>
+Sara questions Melanie . <eos>
+That snake questions Melanie . <eos>
+Dawn examines some commentaries . <eos>
+Some slope examines some commentaries . <eos>
+Catherine runs around the hospital . <eos>
+A gate runs around the hospital . <eos>
+Aaron listened to Sheila . <eos>
+Some jacket listened to Sheila . <eos>
+Charles had arrived at every school . <eos>
+An icicle had arrived at every school . <eos>
+Those museums were criticizing this glacier . <eos>
+These documentaries were criticizing this glacier . <eos>
+Becky could lift a lot of books . <eos>
+That steak could lift a lot of books . <eos>
+Cindy was n't concealing Gerald . <eos>
+Politics was n't concealing Gerald . <eos>
+The student is returning to Tonya . <eos>
+An organization is returning to Tonya . <eos>
+Tonya complained about Gregory . <eos>
+A sweater complained about Gregory . <eos>
+Michelle hires Elizabeth . <eos>
+This photograph hires Elizabeth . <eos>
+Every cat looks like many paintings . <eos>
+That wheelbarrow looks like many paintings . <eos>
+Maria drops by many rivers . <eos>
+The chair drops by many rivers . <eos>
+Brenda has n't discovered Mitchell . <eos>
+Some mountain has n't discovered Mitchell . <eos>
+Some men are looking like the painting . <eos>
+Those skateboards are looking like the painting . <eos>
+Katherine drove to that hill . <eos>
+The horse drove to that hill . <eos>
+Samuel had n't toured some libraries . <eos>
+A shirt had n't toured some libraries . <eos>
+Steve could n't discuss Gregory . <eos>
+Some print could n't discuss Gregory . <eos>
+Kristin has toured those libraries . <eos>
+That box has toured those libraries . <eos>
+Rhonda was n't arriving at a glacier . <eos>
+That hat was n't arriving at a glacier . <eos>
+Tina could n't question Gerald . <eos>
+This rug could n't question Gerald . <eos>
+Some actor was n't questioning Robert . <eos>
+The mirror was n't questioning Robert . <eos>
+Julie climbs up this slope . <eos>
+Some car climbs up this slope . <eos>
+Waitresses were n't helping Cheryl . <eos>
+Some organizations were n't helping Cheryl . <eos>
+Russell is n't arguing about Rhonda . <eos>
+This library is n't arguing about Rhonda . <eos>
+Those boys have n't biked to the art gallery . <eos>
+Malls have n't biked to the art gallery . <eos>
+Alexander works with Tina . <eos>
+That screen works with Tina . <eos>
+Edward approaches Kathleen . <eos>
+This library approaches Kathleen . <eos>
+Boys are n't buying the socks . <eos>
+Those hamsters are n't buying the socks . <eos>
+Lucille had scanned a lot of movies . <eos>
+This beef had scanned a lot of movies . <eos>
+Chad could fire Tamara . <eos>
+The fish could fire Tamara . <eos>
+All guys respected Omar . <eos>
+Some universities respected Omar . <eos>
+Patrick is n't curing those adults . <eos>
+That organization is n't curing those adults . <eos>
+Chad has discussed Winston Churchill . <eos>
+Politics has discussed Winston Churchill . <eos>
+The Borgias have n't broken most computers . <eos>
+The Balkans have n't broken most computers . <eos>
+Ella arrives at all hospitals . <eos>
+That school arrives at all hospitals . <eos>
+Every government praises Kayla . <eos>
+This art gallery praises Kayla . <eos>
+Rebecca would watch Irene . <eos>
+This cat would watch Irene . <eos>
+The man has n't described a newspaper article . <eos>
+Every print has n't described a newspaper article . <eos>
+Suzanne listens to every driver . <eos>
+The lamp listens to every driver . <eos>
+Marie is n't observing Tiffany . <eos>
+Some cake is n't observing Tiffany . <eos>
+Winston Churchill was n't talking to Barbara . <eos>
+Some glove was n't talking to Barbara . <eos>
+Those adults questioned this man . <eos>
+The fish questioned this man . <eos>
+Diane scans every essay . <eos>
+Every cat scans every essay . <eos>
+Galileo will visit Melanie . <eos>
+The book will visit Melanie . <eos>
+Daniel insulted Jason . <eos>
+A box insulted Jason . <eos>
+Sally was n't exploring the Great Lakes . <eos>
+Harvard University was n't exploring the Great Lakes . <eos>
+Thomas had n't admired the teenager . <eos>
+A bike had n't admired the teenager . <eos>
+Carl did n't lift a popsicle . <eos>
+Some carriage did n't lift a popsicle . <eos>
+Meredith described this movie . <eos>
+Every carriage described this movie . <eos>
+A committee ca n't remember Candice . <eos>
+Some sock ca n't remember Candice . <eos>
+Benjamin is arguing about the Lutherans . <eos>
+An essay is arguing about the Lutherans . <eos>
+Omar had referenced Margaret . <eos>
+A movie theater had referenced Margaret . <eos>
+Kenneth listens to some customer . <eos>
+That school listens to some customer . <eos>
+This waiter references Michael . <eos>
+Some car references Michael . <eos>
+George dropped by some college campuses . <eos>
+This beef dropped by some college campuses . <eos>
+That cup was looking like the picture . <eos>
+Every shawl was looking like the picture . <eos>
+Those drivers could escape from Becca . <eos>
+A lot of legislatures could escape from Becca . <eos>
+Sabrina hugged most actresses . <eos>
+That steak hugged most actresses . <eos>
+Kendra has taken drawings . <eos>
+Some college campus has taken drawings . <eos>
+Sabrina returns to Guy . <eos>
+Every high school returns to Guy . <eos>
+Many skateboards are n't looking like some painting . <eos>
+The Balkans are n't looking like some painting . <eos>
+Holly was n't arriving at these grocery stores . <eos>
+Some school was n't arriving at these grocery stores . <eos>
+Bill looks like that print . <eos>
+The turtle looks like that print . <eos>
+Anne had n't respected Tonya . <eos>
+The museum had n't respected Tonya . <eos>
+Sabrina wore all pants . <eos>
+This closet wore all pants . <eos>
+Marla was working with Ann . <eos>
+The dress was working with Ann . <eos>
+Teresa messed up malls . <eos>
+That high school messed up malls . <eos>
+Michael liked patients . <eos>
+A chair liked patients . <eos>
+Peter would n't flee from Julia . <eos>
+This snake would n't flee from Julia . <eos>
+David was leaving all women . <eos>
+Music was leaving all women . <eos>
+All teachers have n't explored some grocery store . <eos>
+Many hospitals have n't explored some grocery store . <eos>
+Connie had the cilantro . <eos>
+A fork had the cilantro . <eos>
+Randolf was n't returning to Heather . <eos>
+That unicycle was n't returning to Heather . <eos>
+Bethany had n't loved Timothy . <eos>
+This bank had n't loved Timothy . <eos>
+Marla scanned the newspaper articles . <eos>
+Some fish scanned the newspaper articles . <eos>
+Elizabeth had sold that eggplant . <eos>
+A pepper had sold that eggplant . <eos>
+April appreciates Veronica . <eos>
+That icicle appreciates Veronica . <eos>
+Christine brought some chairs . <eos>
+Some glass brought some chairs . <eos>
+Most guys would question all women . <eos>
+A lot of bikes would question all women . <eos>
+Stacy visited Wendy . <eos>
+That horse visited Wendy . <eos>
+Marie noticed broccoli . <eos>
+The sweater noticed broccoli . <eos>
+Every cat could n't look like a picture . <eos>
+This sketch could n't look like a picture . <eos>
+Scott should n't hug the teenager . <eos>
+A lamp should n't hug the teenager . <eos>
+Deanna scanned the report . <eos>
+The car scanned the report . <eos>
+Craig could n't cure Anne . <eos>
+A scarf could n't cure Anne . <eos>
+A pedestrian was n't kissing Lissa . <eos>
+That newspaper article was n't kissing Lissa . <eos>
+Larry complained about Laura . <eos>
+An eggplant complained about Laura . <eos>
+Ruth has n't worn some pants . <eos>
+Water has n't worn some pants . <eos>
+Allison explored a lot of malls . <eos>
+That glove explored a lot of malls . <eos>
+Alan argued about Dan . <eos>
+That mountain argued about Dan . <eos>
+This dancer should n't leave Beth . <eos>
+A slope should n't leave Beth . <eos>
+Sarah discussed the Clintons . <eos>
+Every projector discussed the Clintons . <eos>
+All pedestrians were n't discussing Frank . <eos>
+Those mirrors were n't discussing Frank . <eos>
+Valerie revealed Nina . <eos>
+Every sock revealed Nina . <eos>
+The lady was n't boycotting the library . <eos>
+Some cat was n't boycotting the library . <eos>
+Peter is n't referencing some commentary . <eos>
+A glacier is n't referencing some commentary . <eos>
+Gina fires Wayne . <eos>
+A skirt fires Wayne . <eos>
+Matt fixed most skateboards . <eos>
+The lake fixed most skateboards . <eos>
+Beth hugs Laura . <eos>
+Every spotlight hugs Laura . <eos>
+Catherine could have all plates . <eos>
+This cat could have all plates . <eos>
+Guy lifted projectors . <eos>
+The coat lifted projectors . <eos>
+Wayne cared for Omar . <eos>
+The movie cared for Omar . <eos>
+Joel was researching Galileo . <eos>
+Every door was researching Galileo . <eos>
+Bethany does fire Holly . <eos>
+A company does fire Holly . <eos>
+Phillip had appreciated a lot of hills . <eos>
+Every chair had appreciated a lot of hills . <eos>
+Nicole liked this teenager . <eos>
+A pie liked this teenager . <eos>
+That couch looks like this sketch . <eos>
+Cilantro looks like this sketch . <eos>
+That doctor biked to many museums . <eos>
+The blouse biked to many museums . <eos>
+Christopher hides many children . <eos>
+Some lamp hides many children . <eos>
+Gina had described Laurie . <eos>
+A carriage had described Laurie . <eos>
+Barbara would n't watch Alan . <eos>
+Every cat would n't watch Alan . <eos>
+Veronica sounds like Carol . <eos>
+Some window sounds like Carol . <eos>
+Samantha has listened to Elaine . <eos>
+Every pepper has listened to Elaine . <eos>
+Charles remembers those art galleries . <eos>
+The ladder remembers those art galleries . <eos>
+All museums were n't hiring Emily . <eos>
+Those mirrors were n't hiring Emily . <eos>
+Tara conceals Victoria . <eos>
+This couch conceals Victoria . <eos>
+Students examined that report . <eos>
+Some slopes examined that report . <eos>
+Mary kisses Scott . <eos>
+The fish kisses Scott . <eos>
+Sherry is thinking about that university . <eos>
+Some lamp is thinking about that university . <eos>
+Bethany references a lot of books . <eos>
+That sock references a lot of books . <eos>
+A lot of senators had kissed Catherine . <eos>
+Some forks had kissed Catherine . <eos>
+Jacqueline is criticizing Grace . <eos>
+That jacket is criticizing Grace . <eos>
+Carla would n't forget Nancy . <eos>
+A truck would n't forget Nancy . <eos>
+David has n't respected Stephen . <eos>
+This cart has n't respected Stephen . <eos>
+Amanda walks through a lake . <eos>
+Every mouth walks through a lake . <eos>
+Holly is n't fixing a lot of carriages . <eos>
+A legislature is n't fixing a lot of carriages . <eos>
+Many universities helped Heidi . <eos>
+All lakes helped Heidi . <eos>
+The Impressionists had n't boasted about all dancers . <eos>
+Those fish had n't boasted about all dancers . <eos>
+The Impressionists might escape from Thomas . <eos>
+All rabbits might escape from Thomas . <eos>
+Chad is n't ascending every mountain . <eos>
+Every vase is n't ascending every mountain . <eos>
+Nina had n't climbed down some hills . <eos>
+This water had n't climbed down some hills . <eos>
+Janice walked through Harvard University . <eos>
+That blouse walked through Harvard University . <eos>
+Joel drives to high schools . <eos>
+This sketch drives to high schools . <eos>
+Michael ascends steps . <eos>
+Every mountain ascends steps . <eos>
+Carlos reveals Todd . <eos>
+That projector reveals Todd . <eos>
+Brenda was working with David . <eos>
+Every mountain was working with David . <eos>
+Julie might descend that ladder . <eos>
+Every blouse might descend that ladder . <eos>
+The Clintons examined that commentary . <eos>
+Those closets examined that commentary . <eos>
+Carmen is n't climbing down some mountain . <eos>
+This mushroom is n't climbing down some mountain . <eos>
+Amelia drives to this school . <eos>
+This pasta drives to this school . <eos>
+Ladies concealed Keith . <eos>
+Some vases concealed Keith . <eos>
+Harvard University praised Omar . <eos>
+A pepper praised Omar . <eos>
+Theodore discovers Becky . <eos>
+That school discovers Becky . <eos>
+Frank had n't worn every scarf . <eos>
+This museum had n't worn every scarf . <eos>
+Ellen has n't loved Paul . <eos>
+A hamster has n't loved Paul . <eos>
+Vanessa visited Pamela . <eos>
+The wheelbarrow visited Pamela . <eos>
+Diane climbs down most slopes . <eos>
+This drawing climbs down most slopes . <eos>
+Lisa insults every teenager . <eos>
+The rabbit insults every teenager . <eos>
+Holly should n't exit a closet . <eos>
+The association should n't exit a closet . <eos>
+David drives to every lake . <eos>
+The skirt drives to every lake . <eos>
+Carolyn has n't researched the public park . <eos>
+This mouth has n't researched the public park . <eos>
+Ella broke that window . <eos>
+Some chair broke that window . <eos>
+Lucille did discuss the Impressionists . <eos>
+The coat did discuss the Impressionists . <eos>
+Monet insulted Tanya . <eos>
+Some cat insulted Tanya . <eos>
+Dan has investigated Lisa . <eos>
+That spinach has investigated Lisa . <eos>
+Theresa has n't insulted Todd . <eos>
+Some dog has n't insulted Todd . <eos>
+Steve had cleaned every cup . <eos>
+That wheelbarrow had cleaned every cup . <eos>
+Claire messes up couches . <eos>
+Every window messes up couches . <eos>
+Jodi ca n't go to Harvard University . <eos>
+Some door ca n't go to Harvard University . <eos>
+Linda questioned Kimberley . <eos>
+Beef questioned Kimberley . <eos>
+Every patient broke that unicycle . <eos>
+This popsicle broke that unicycle . <eos>
+Sonia passed this hospital . <eos>
+Spain passed this hospital . <eos>
+Rachelle lifts many books . <eos>
+A window lifts many books . <eos>
+Some man should buy some steps . <eos>
+The couch should buy some steps . <eos>
+Michael should n't explore most restaurants . <eos>
+A turtle should n't explore most restaurants . <eos>
+Irene wears most pants . <eos>
+This broccoli wears most pants . <eos>
+A man should n't respect Scott . <eos>
+That bread should n't respect Scott . <eos>
+Bradley does bike to that mountain . <eos>
+That picture does bike to that mountain . <eos>
+Kimberley had n't noticed Kenneth . <eos>
+That glacier had n't noticed Kenneth . <eos>
+Michael has n't praised Dan . <eos>
+A gate has n't praised Dan . <eos>
+Bradley was researching science . <eos>
+That newspaper article was researching science . <eos>
+Carolyn could cure Carla . <eos>
+That bicycle could cure Carla . <eos>
+Samantha hates Tamara . <eos>
+Every nose hates Tamara . <eos>
+Chad has n't questioned Donald . <eos>
+That screen has n't questioned Donald . <eos>
+Meredith is n't criticizing Diana . <eos>
+A truck is n't criticizing Diana . <eos>
+Brett lifts that candle . <eos>
+Every shawl lifts that candle . <eos>
+Claire has n't known some woman . <eos>
+A dish has n't known some woman . <eos>
+Marcus should think about a lot of men . <eos>
+That cake should think about a lot of men . <eos>
+Helen had n't worked with Keith . <eos>
+Every screen had n't worked with Keith . <eos>
+Bethany is n't watching Rodney . <eos>
+The snake is n't watching Rodney . <eos>
+Catherine lifted some peppers . <eos>
+Every apple lifted some peppers . <eos>
+Linda was selling every eggplant . <eos>
+Some picture was selling every eggplant . <eos>
+William visits Florence . <eos>
+Some chair visits Florence . <eos>
+Tiffany should n't praise Nicole . <eos>
+The casserole should n't praise Nicole . <eos>
+Kendra would n't work with all guys . <eos>
+This bank would n't work with all guys . <eos>
+Joel argued about some pedestrian . <eos>
+A casserole argued about some pedestrian . <eos>
+Tina will appreciate Russell . <eos>
+Some college campus will appreciate Russell . <eos>
+Bradley has remembered Melanie . <eos>
+A wheelbarrow has remembered Melanie . <eos>
+Tanya criticizes that person . <eos>
+Some sketch criticizes that person . <eos>
+Edward passed most college campuses . <eos>
+The hat passed most college campuses . <eos>
+Mitchell should n't descend steps . <eos>
+Some carriage should n't descend steps . <eos>
+Samuel did reveal Bethany . <eos>
+Some bike did reveal Bethany . <eos>
+Rodney has climbed down these steps . <eos>
+That sock has climbed down these steps . <eos>
+Melanie does bring the light . <eos>
+The movie theater does bring the light . <eos>
+Samantha was biking to most college campuses . <eos>
+That dish was biking to most college campuses . <eos>
+Christine sold every tomato . <eos>
+Every light sold every tomato . <eos>
+Tammy attacked Beth . <eos>
+That turtle attacked Beth . <eos>
+Ruth has n't fired Heather . <eos>
+A mirror has n't fired Heather . <eos>
+Harvard University might argue about Jennifer . <eos>
+This pepper might argue about Jennifer . <eos>
+Mary cured Donna . <eos>
+This bread cured Donna . <eos>
+Bruce might praise Tina . <eos>
+The legislature might praise Tina . <eos>
+Melinda is n't running around some lake . <eos>
+That organization is n't running around some lake . <eos>
+Rose passed every public park . <eos>
+Every gate passed every public park . <eos>
+Alice respects Joseph . <eos>
+The hamster respects Joseph . <eos>
+Andrew had n't dropped by hills . <eos>
+Some library had n't dropped by hills . <eos>
+Joel hid that pasta . <eos>
+Some college campus hid that pasta . <eos>
+Catherine respected many ladies . <eos>
+A muffin respected many ladies . <eos>
+Holly does see Jane . <eos>
+That candle does see Jane . <eos>
+Carla has n't hugged Tammy . <eos>
+Every glass has n't hugged Tammy . <eos>
+All associations were n't praising John . <eos>
+The cafes were n't praising John . <eos>
+The actors have biked to a lot of malls . <eos>
+These chairs have biked to a lot of malls . <eos>
+Some customers do notice Roger . <eos>
+Many pants do notice Roger . <eos>
+Janice had ascended a lot of mountains . <eos>
+The spotlight had ascended a lot of mountains . <eos>
+Peter had boasted about Tanya . <eos>
+The pasta had boasted about Tanya . <eos>
+Kristen climbed up some hill . <eos>
+The commentary climbed up some hill . <eos>
+Julia has n't scanned all essays . <eos>
+A shawl has n't scanned all essays . <eos>
+Rebecca boycotts every grocery store . <eos>
+That window boycotts every grocery store . <eos>
+Tara could n't arrive at Spain . <eos>
+The pepper could n't arrive at Spain . <eos>
+Derek was returning to the man . <eos>
+The art gallery was returning to the man . <eos>
+Susan describes Charles . <eos>
+Some shoe describes Charles . <eos>
+Kimberley discussed every art gallery . <eos>
+Chicken discussed every art gallery . <eos>
+Edward hugs Laura . <eos>
+Some cucumber hugs Laura . <eos>
+Joel should sell these sweaters . <eos>
+The documentary should sell these sweaters . <eos>
+Meredith likes the pedestrian . <eos>
+That ladder likes the pedestrian . <eos>
+George concealed Helen . <eos>
+Spain concealed Helen . <eos>
+Marla will investigate Homer . <eos>
+A coat will investigate Homer . <eos>
+Companies would n't criticize Joel . <eos>
+Many lakes would n't criticize Joel . <eos>
+Sarah is cleaning some horse . <eos>
+A blouse is cleaning some horse . <eos>
+Sara explored the river . <eos>
+That book explored the river . <eos>
+Amanda fixed carts . <eos>
+The mirror fixed carts . <eos>
+Andrea was referencing Alice . <eos>
+The beef was referencing Alice . <eos>
+Every waitress walked through every school . <eos>
+The beef walked through every school . <eos>
+Paula was returning to Rebecca . <eos>
+The bicycle was returning to Rebecca . <eos>
+Lawrence has n't thought about Russell . <eos>
+Every library has n't thought about Russell . <eos>
+Rachelle appreciated every college campus . <eos>
+Every mall appreciated every college campus . <eos>
+Beverly had bought the cups . <eos>
+That cucumber had bought the cups . <eos>
+Tamara conceals Nancy . <eos>
+This bike conceals Nancy . <eos>
+Kristin would watch Christopher . <eos>
+A gate would watch Christopher . <eos>
+That waiter remembered some library . <eos>
+A photograph remembered some library . <eos>
+Jessica had n't run around some cafe . <eos>
+The lake had n't run around some cafe . <eos>
+Charles watched Sandra . <eos>
+The glacier watched Sandra . <eos>
+Winston Churchill attacks Anna . <eos>
+A mushroom attacks Anna . <eos>
+Regina has n't approached that adult . <eos>
+This door has n't approached that adult . <eos>
+Matt cleaned that door . <eos>
+A screen cleaned that door . <eos>
+Jill would resemble some drawing . <eos>
+Every projector would resemble some drawing . <eos>
+Renee does n't break a skateboard . <eos>
+Some high school does n't break a skateboard . <eos>
+Tracy is n't cleaning some tomato . <eos>
+This mall is n't cleaning some tomato . <eos>
+These senators observed Marie . <eos>
+Planes observed Marie . <eos>
+This teenager would n't buy some cafe . <eos>
+A museum would n't buy some cafe . <eos>
+Sabrina praised those people . <eos>
+Some essay praised those people . <eos>
+Jill has n't watched Adam . <eos>
+A carriage has n't watched Adam . <eos>
+Some child is touring many college campuses . <eos>
+That cafe is touring many college campuses . <eos>
+Samuel should n't clean a door . <eos>
+Some newspaper article should n't clean a door . <eos>
+Kristin was climbing down all stairs . <eos>
+That college campus was climbing down all stairs . <eos>
+That glacier discovers Steve . <eos>
+This cart discovers Steve . <eos>
+These snakes were n't climbing up steps . <eos>
+All lamps were n't climbing up steps . <eos>
+Todd was n't discussing every glacier . <eos>
+That skirt was n't discussing every glacier . <eos>
+Denise was attacking students . <eos>
+The book was attacking students . <eos>
+Those patients criticized the closets . <eos>
+Many cucumbers criticized the closets . <eos>
+Ronald skates around the hill . <eos>
+Some nose skates around the hill . <eos>
+Janet disliked those teachers . <eos>
+The school disliked those teachers . <eos>
+Wendy lifts all gloves . <eos>
+Every vase lifts all gloves . <eos>
+This adult should n't wear the jacket . <eos>
+This unicycle should n't wear the jacket . <eos>
+Julia approaches Brad . <eos>
+The tomato approaches Brad . <eos>
+Diane had toured all schools . <eos>
+This plane had toured all schools . <eos>
+Adam has concealed every picture . <eos>
+That sweater has concealed every picture . <eos>
+Rodney could hug Aaron . <eos>
+Every hat could hug Aaron . <eos>
+Aaron bikes to those cafes . <eos>
+Some apple bikes to those cafes . <eos>
+Sonia has n't left the movie theater . <eos>
+A cat has n't left the movie theater . <eos>
+Theresa lifts this grocery store . <eos>
+The coat lifts this grocery store . <eos>
+A guy could n't respect all grocery stores . <eos>
+The window could n't respect all grocery stores . <eos>
+Karen was n't researching a story . <eos>
+That dress was n't researching a story . <eos>
+Florence did n't know a lot of waitresses . <eos>
+Some hamster did n't know a lot of waitresses . <eos>
+Colleen descends slopes . <eos>
+Some window descends slopes . <eos>
+Brad was firing Beth . <eos>
+An association was firing Beth . <eos>
+Alan remembers Keith . <eos>
+That rabbit remembers Keith . <eos>
+Those libraries were n't helping Sheila . <eos>
+The boxes were n't helping Sheila . <eos>
+Every cashier has n't fired Heather . <eos>
+An association has n't fired Heather . <eos>
+This child appreciates Sheila . <eos>
+That hair appreciates Sheila . <eos>
+Jesus criticizes those doctors . <eos>
+A hill criticizes those doctors . <eos>
+The actresses ca n't go to the malls . <eos>
+A lot of photographs ca n't go to the malls . <eos>
+Sharon can investigate Timothy . <eos>
+Broccoli can investigate Timothy . <eos>
+This driver conceals Nina . <eos>
+That restaurant conceals Nina . <eos>
+Guy hid Brenda . <eos>
+That ice cream hid Brenda . <eos>
+Stephanie ca n't kiss Samantha . <eos>
+The documentary ca n't kiss Samantha . <eos>
+The doctors resembled most paintings . <eos>
+Most birds resembled most paintings . <eos>
+Some library helped Allison . <eos>
+Water helped Allison . <eos>
+Douglas might talk to some waitress . <eos>
+The lamp might talk to some waitress . <eos>
+Omar argued about Raymond . <eos>
+A photograph argued about Raymond . <eos>
+Jason will insult Paula . <eos>
+A mall will insult Paula . <eos>
+Christopher cleans every muffin . <eos>
+A hamster cleans every muffin . <eos>
+Florence was n't running around all mountains . <eos>
+Music was n't running around all mountains . <eos>
+Guy cleans every cart . <eos>
+Some movie theater cleans every cart . <eos>
+Lissa fires Marla . <eos>
+That ice cream fires Marla . <eos>
+Teresa can reference the essays . <eos>
+This museum can reference the essays . <eos>
+Brian boycotted all malls . <eos>
+The hamster boycotted all malls . <eos>
+Allison had respected George . <eos>
+That essay had respected George . <eos>
+Christine reveals this dress . <eos>
+Harvard University reveals this dress . <eos>
+Martin is ascending a ladder . <eos>
+This slope is ascending a ladder . <eos>
+Some child does break some unicycles . <eos>
+Some skateboard does break some unicycles . <eos>
+Some dancer is watching these senators . <eos>
+Some ice is watching these senators . <eos>
+Patients had n't respected Curtis . <eos>
+Some candles had n't respected Curtis . <eos>
+Keith cares for Amanda . <eos>
+A ladder cares for Amanda . <eos>
+Clyde ca n't approach Scott . <eos>
+A newspaper article ca n't approach Scott . <eos>
+Companies had n't discussed Heidi . <eos>
+Many documentaries had n't discussed Heidi . <eos>
+Christina visited all children . <eos>
+This book visited all children . <eos>
+Lori had n't argued about Sherry . <eos>
+Some water had n't argued about Sherry . <eos>
+The adult was visiting Marcus . <eos>
+Every print was visiting Marcus . <eos>
+Sheila broke these vases . <eos>
+The light broke these vases . <eos>
+The cashiers had n't praised Linda . <eos>
+These boxes had n't praised Linda . <eos>
+Sonia was boasting about Anne . <eos>
+Some tomato was boasting about Anne . <eos>
+George forgot Allison . <eos>
+Some hamster forgot Allison . <eos>
+Nina is n't bringing this banana . <eos>
+That hamster is n't bringing this banana . <eos>
+Lucille observes a lot of doctors . <eos>
+That tomato observes a lot of doctors . <eos>
+Eva was n't complaining about Mark . <eos>
+The sketch was n't complaining about Mark . <eos>
+Holly does scan these books . <eos>
+Every lamp does scan these books . <eos>
+Matt has broken every dish . <eos>
+This car has broken every dish . <eos>
+Janet kisses Russell . <eos>
+Literature kisses Russell . <eos>
+Many children thought about Homer . <eos>
+Books thought about Homer . <eos>
+Anne should return to Gina . <eos>
+That coat should return to Gina . <eos>
+Every guy cares for Kristin . <eos>
+That banana cares for Kristin . <eos>
+Jodi had fixed the plates . <eos>
+Spain had fixed the plates . <eos>
+Marla is concealing Brett . <eos>
+That dish is concealing Brett . <eos>
+Stacey went to a bank . <eos>
+Some hamster went to a bank . <eos>
+Travis loved Jane . <eos>
+The vase loved Jane . <eos>
+Bradley had observed the Borgias . <eos>
+The drawing had observed the Borgias . <eos>
+Jason wo n't examine many essays . <eos>
+Some mountain wo n't examine many essays . <eos>
+Andrew could like all vases . <eos>
+Science could like all vases . <eos>
+Eva has discussed Raymond . <eos>
+A college campus has discussed Raymond . <eos>
+Laurie finds Jason . <eos>
+An apple finds Jason . <eos>
+Victoria has n't biked to the banks . <eos>
+Every cup has n't biked to the banks . <eos>
+Nicole climbs down a lot of slopes . <eos>
+A shoe climbs down a lot of slopes . <eos>
+Patrick had arrived at the Great Lakes . <eos>
+Some eye had arrived at the Great Lakes . <eos>
+Alicia explores the Great Lakes . <eos>
+Every blouse explores the Great Lakes . <eos>
+Connie is n't hiring Sherry . <eos>
+That library is n't hiring Sherry . <eos>
+Ann left most hospitals . <eos>
+A glove left most hospitals . <eos>
+Many guests researches a print . <eos>
+Those committees researches a print . <eos>
+The legislature should n't conceal Tonya . <eos>
+This candle should n't conceal Tonya . <eos>
+Harvard University has n't admired those dishes . <eos>
+Some wheelbarrow has n't admired those dishes . <eos>
+Kevin was running around those cafes . <eos>
+This coat was running around those cafes . <eos>
+Debra is n't revealing Alan . <eos>
+This bicycle is n't revealing Alan . <eos>
+Rachel researched a lake . <eos>
+A popsicle researched a lake . <eos>
+Tonya had broken the unicycle . <eos>
+The jacket had broken the unicycle . <eos>
+Valerie would n't care for those senators . <eos>
+Every glove would n't care for those senators . <eos>
+Veronica cured Jennifer . <eos>
+A cafe cured Jennifer . <eos>
+Sherry had n't thought about that rice . <eos>
+That truck had n't thought about that rice . <eos>
+Rose could discuss many doctors . <eos>
+That spotlight could discuss many doctors . <eos>
+Some man disliked the doctors . <eos>
+Every truck disliked the doctors . <eos>
+Some museum has n't appreciated that closet . <eos>
+The skirt has n't appreciated that closet . <eos>
+Jesus cleaned these high schools . <eos>
+Literature cleaned these high schools . <eos>
+Karen fixes some windows . <eos>
+That skirt fixes some windows . <eos>
+Carolyn ca n't hide a lot of adults . <eos>
+The spotlight ca n't hide a lot of adults . <eos>
+Helen is buying some shawl . <eos>
+Some icicle is buying some shawl . <eos>
+Gregory was n't talking about these children . <eos>
+A vase was n't talking about these children . <eos>
+Karla concealed those windows . <eos>
+Some drawing concealed those windows . <eos>
+Sheila has hugged a waitress . <eos>
+Every cafe has hugged a waitress . <eos>
+Carla arrived at these art galleries . <eos>
+Every chair arrived at these art galleries . <eos>
+Theodore discusses the waitresses . <eos>
+The unicycle discusses the waitresses . <eos>
+Colleen could n't know every senator . <eos>
+That ice could n't know every senator . <eos>
+This actor has n't descended some stairs . <eos>
+That casserole has n't descended some stairs . <eos>
+Stephen had scanned many books . <eos>
+That mouth had scanned many books . <eos>
+Tiffany wo n't drop by a lot of art galleries . <eos>
+This school wo n't drop by a lot of art galleries . <eos>
+Carl has brought a lot of libraries . <eos>
+That association has brought a lot of libraries . <eos>
+Ellen has the glacier . <eos>
+Some dog has the glacier . <eos>
+Randolf is driving to these schools . <eos>
+Every cat is driving to these schools . <eos>
+Mary hates those teachers . <eos>
+Some truck hates those teachers . <eos>
+Carol would n't run around those mountains . <eos>
+A government would n't run around those mountains . <eos>
+Mark could help the Impressionists . <eos>
+That plane could help the Impressionists . <eos>
+Sonia was n't discovering every skirt . <eos>
+That movie was n't discovering every skirt . <eos>
+Monet had n't praised some adults . <eos>
+Every screen had n't praised some adults . <eos>
+Tara fired that woman . <eos>
+Some casserole fired that woman . <eos>
+Holly had revealed Veronica . <eos>
+Chicken had revealed Veronica . <eos>
+Cheryl was lifting these gates . <eos>
+Every popsicle was lifting these gates . <eos>
+Every slope scares Helen . <eos>
+This mushroom scares Helen . <eos>
+Bill could complain about Lori . <eos>
+Some plane could complain about Lori . <eos>
+Every teacher ran around all college campuses . <eos>
+A documentary ran around all college campuses . <eos>
+Every driver is revealing the hospitals . <eos>
+That vase is revealing the hospitals . <eos>
+Andrew had n't described these restaurants . <eos>
+That pork had n't described these restaurants . <eos>
+Jennifer ascends most steps . <eos>
+Every eggplant ascends most steps . <eos>
+Jacqueline has some lake . <eos>
+A river has some lake . <eos>
+Michelle does n't love Kirsten . <eos>
+Every essay does n't love Kirsten . <eos>
+Robert is n't fleeing from Matt . <eos>
+That legislature is n't fleeing from Matt . <eos>
+Kathleen ascended the slope . <eos>
+That coat ascended the slope . <eos>
+Every lady was concealing Sandra . <eos>
+Every convertible was concealing Sandra . <eos>
+Lisa is exiting the Great Lakes . <eos>
+That cake is exiting the Great Lakes . <eos>
+Carolyn climbed down some slopes . <eos>
+This legislature climbed down some slopes . <eos>
+Most children would n't clean the dress . <eos>
+Many fish would n't clean the dress . <eos>
+Holly has criticized that report . <eos>
+This high school has criticized that report . <eos>
+Helen goes to every movie theater . <eos>
+This newspaper article goes to every movie theater . <eos>
+The Clintons revealed every tomato . <eos>
+Those eyes revealed every tomato . <eos>
+An actor wo n't hate James . <eos>
+A mouth wo n't hate James . <eos>
+Some waitress should n't hate Becca . <eos>
+A turtle should n't hate Becca . <eos>
+Angela is n't discovering Andrew . <eos>
+That ladder is n't discovering Andrew . <eos>
+Martha buys all hills . <eos>
+Some cat buys all hills . <eos>
+Liam has thought about steak . <eos>
+Some shawl has thought about steak . <eos>
+The Borgias could walk through this art gallery . <eos>
+The glaciers could walk through this art gallery . <eos>
+Robert complains about Carla . <eos>
+Some mouth complains about Carla . <eos>
+Naomi is firing Diane . <eos>
+This candle is firing Diane . <eos>
+Dawn is n't scanning all books . <eos>
+This carriage is n't scanning all books . <eos>
+Martin has hated Jane . <eos>
+A sock has hated Jane . <eos>
+Nicole would resemble the picture . <eos>
+Some bank would resemble the picture . <eos>
+Cheryl has hidden many icicles . <eos>
+A carriage has hidden many icicles . <eos>
+Amelia had n't remembered that hill . <eos>
+Every bicycle had n't remembered that hill . <eos>
+Jennifer was exiting many grocery stores . <eos>
+This skirt was exiting many grocery stores . <eos>
+Adam complained about Nicole . <eos>
+Politics complained about Nicole . <eos>
+The Impressionists have returned to the driver . <eos>
+Most carriages have returned to the driver . <eos>
+Pedestrians had cleaned this cup . <eos>
+The photographs had cleaned this cup . <eos>
+Tonya returned to Eva . <eos>
+This organization returned to Eva . <eos>
+This pedestrian discusses this mall . <eos>
+The book discusses this mall . <eos>
+Laura has n't arrived at a cafe . <eos>
+This bike has n't arrived at a cafe . <eos>
+Tiffany was n't scanning the commentaries . <eos>
+The cafe was n't scanning the commentaries . <eos>
+Brian had talked about those people . <eos>
+This glacier had talked about those people . <eos>
+Gerald remembered Mark . <eos>
+That newspaper article remembered Mark . <eos>
+Mary should n't mess up a lot of glasses . <eos>
+Some snake should n't mess up a lot of glasses . <eos>
+These ladies have n't cleaned many glasses . <eos>
+Most organizations have n't cleaned many glasses . <eos>
+Matt has n't cleaned that sweater . <eos>
+Some rabbit has n't cleaned that sweater . <eos>
+Richard could cure Ella . <eos>
+A bird could cure Ella . <eos>
+Richard might resemble sketches . <eos>
+Some pie might resemble sketches . <eos>
+Helen has some sweater . <eos>
+The mirror has some sweater . <eos>
+Some guest has descended many stairs . <eos>
+Every glacier has descended many stairs . <eos>
+Amelia goes to this mountain . <eos>
+The slope goes to this mountain . <eos>
+The driver is n't wearing every dress . <eos>
+The sketch is n't wearing every dress . <eos>
+Joel should n't discover Naomi . <eos>
+A mouth should n't discover Naomi . <eos>
+Matt had n't hidden the mouth . <eos>
+Every glove had n't hidden the mouth . <eos>
+Naomi sold that chair . <eos>
+Art sold that chair . <eos>
+That doctor respects Bethany . <eos>
+A pepper respects Bethany . <eos>
+A hat resembles the print . <eos>
+Some book resembles the print . <eos>
+Lisa cleans all pants . <eos>
+A drawing cleans all pants . <eos>
+The Clintons are hiring Marcus . <eos>
+Some sketches are hiring Marcus . <eos>
+Ruth could explore the lake . <eos>
+That pie could explore the lake . <eos>
+Kirsten was n't watching Travis . <eos>
+A shoe was n't watching Travis . <eos>
+Tammy hid Paul . <eos>
+That shawl hid Paul . <eos>
+All waitresses had n't hidden this bank . <eos>
+A lot of libraries had n't hidden this bank . <eos>
+Steve should talk about Tina . <eos>
+Every school should talk about Tina . <eos>
+Liam is n't going to a grocery store . <eos>
+This essay is n't going to a grocery store . <eos>
+Tonya scans the book . <eos>
+Travel scans the book . <eos>
+Katherine descended all slopes . <eos>
+That sweater descended all slopes . <eos>
+Allison sells most horses . <eos>
+A report sells most horses . <eos>
+Amanda notices this banana . <eos>
+The high school notices this banana . <eos>
+Holly had arrived at those rivers . <eos>
+A door had arrived at those rivers . <eos>
+Samuel was wearing a coat . <eos>
+Some bicycle was wearing a coat . <eos>
+This government would n't discuss Sarah . <eos>
+The cucumber would n't discuss Sarah . <eos>
+Donna will pass most college campuses . <eos>
+The couch will pass most college campuses . <eos>
+Matt tours the closets . <eos>
+The casserole tours the closets . <eos>
+Erin could question Tonya . <eos>
+A cake could question Tonya . <eos>
+Adam was n't hiding Brad . <eos>
+Every coat was n't hiding Brad . <eos>
+Mary cured Todd . <eos>
+This cilantro cured Todd . <eos>
+Walter did find Guy . <eos>
+That window did find Guy . <eos>
+Cindy had broken the forks . <eos>
+The steak had broken the forks . <eos>
+Maria loved Charles . <eos>
+A grocery store loved Charles . <eos>
+Sandra does find pedestrians . <eos>
+Music does find pedestrians . <eos>
+Becky discusses Benjamin . <eos>
+Some ice cream discusses Benjamin . <eos>
+Deborah is hiding Chad . <eos>
+That cucumber is hiding Chad . <eos>
+Margaret has respected Sally . <eos>
+Every lake has respected Sally . <eos>
+Craig is thinking about Maria . <eos>
+This coat is thinking about Maria . <eos>
+Randolf hated a lot of plays . <eos>
+The cart hated a lot of plays . <eos>
+Edward complains about Elizabeth . <eos>
+A mirror complains about Elizabeth . <eos>
+Kendra describes that girl . <eos>
+Travel describes that girl . <eos>
+Elizabeth did n't break that skateboard . <eos>
+Some cafe did n't break that skateboard . <eos>
+Charles noticed this jacket . <eos>
+The rice noticed this jacket . <eos>
+Karen would n't hate the dancer . <eos>
+The pie would n't hate the dancer . <eos>
+Laurie should n't sell those carts . <eos>
+A lamp should n't sell those carts . <eos>
+Joseph had n't insulted Monica . <eos>
+Art had n't insulted Monica . <eos>
+That story thinks about Carla . <eos>
+This computer thinks about Carla . <eos>
+Angela is n't admiring some gate . <eos>
+Some shoe is n't admiring some gate . <eos>
+That person would n't observe Rachelle . <eos>
+A cafe would n't observe Rachelle . <eos>
+Alicia is n't praising Bill . <eos>
+The candle is n't praising Bill . <eos>
+Marla was n't hiding the nose . <eos>
+Some popsicle was n't hiding the nose . <eos>
+Michelle hid most mirrors . <eos>
+Rice hid most mirrors . <eos>
+Frank was n't running around Harvard University . <eos>
+Every picture was n't running around Harvard University . <eos>
+Monet knows Gregory . <eos>
+Every eye knows Gregory . <eos>
+Noah is questioning the teachers . <eos>
+A shirt is questioning the teachers . <eos>
+Peter was running around the public park . <eos>
+The hat was running around the public park . <eos>
+Dawn had noticed this guest . <eos>
+A screen had noticed this guest . <eos>
+Marie sells shawls . <eos>
+The cafe sells shawls . <eos>
+Eric would n't escape from Guy . <eos>
+This beef would n't escape from Guy . <eos>
+The Lutherans were n't hugging Erin . <eos>
+Those photographs were n't hugging Erin . <eos>
+Steve watches Lori . <eos>
+The painting watches Lori . <eos>
+Alice was investigating Patricia . <eos>
+The dress was investigating Patricia . <eos>
+Veronica is leaving Jerry . <eos>
+Some beef is leaving Jerry . <eos>
+Dancers were n't leaving Cheryl . <eos>
+All cars were n't leaving Cheryl . <eos>
+Katherine referenced Janet . <eos>
+Every mushroom referenced Janet . <eos>
+Carrie disagrees with Steve . <eos>
+The beef disagrees with Steve . <eos>
+Roger is returning to Donna . <eos>
+Every book is returning to Donna . <eos>
+Patricia disagrees with Ronald . <eos>
+The door disagrees with Ronald . <eos>
+Gregory ca n't mess up some fork . <eos>
+This truck ca n't mess up some fork . <eos>
+Natalie flees from these hospitals . <eos>
+The hair flees from these hospitals . <eos>
+Jessica dislikes all boys . <eos>
+Every horse dislikes all boys . <eos>
+Alexander had n't taken many glasses . <eos>
+An art gallery had n't taken many glasses . <eos>
+Those associations were working with the child . <eos>
+Many snakes were working with the child . <eos>
+Jesus was discussing Sharon . <eos>
+Every grocery store was discussing Sharon . <eos>
+Carla walked through these museums . <eos>
+That shawl walked through these museums . <eos>
+The companies would n't forget Becca . <eos>
+These lamps would n't forget Becca . <eos>
+Donald climbs down a slope . <eos>
+Some closet climbs down a slope . <eos>
+Amelia lifts some eye . <eos>
+Every skateboard lifts some eye . <eos>
+Anne praises David . <eos>
+Every sketch praises David . <eos>
+Rebecca approaches Veronica . <eos>
+Every mushroom approaches Veronica . <eos>
+Elaine did n't wear shoes . <eos>
+This library did n't wear shoes . <eos>
+Amy is n't buying some car . <eos>
+Every closet is n't buying some car . <eos>
+Randolf was n't arguing about Liam . <eos>
+Every print was n't arguing about Liam . <eos>
+Jeffrey will criticize Douglas . <eos>
+Travel will criticize Douglas . <eos>
+Rhonda had worked with every teacher . <eos>
+The box had worked with every teacher . <eos>
+Julia talks about some bank . <eos>
+The eggplant talks about some bank . <eos>
+Amanda was descending some mountain . <eos>
+Every skateboard was descending some mountain . <eos>
+Steve hides Jacqueline . <eos>
+This book hides Jacqueline . <eos>
+Carolyn has known the Lutherans . <eos>
+Every restaurant has known the Lutherans . <eos>
+A lot of guys insulted Kirsten . <eos>
+The turtles insulted Kirsten . <eos>
+Laurie messed up a lot of pants . <eos>
+This college campus messed up a lot of pants . <eos>
+William bought this drawing . <eos>
+Every college campus bought this drawing . <eos>
+Jason had n't lifted those convertibles . <eos>
+Every screen had n't lifted those convertibles . <eos>
+This school scares Alicia . <eos>
+The lake scares Alicia . <eos>
+The women will drive to the Great Lakes . <eos>
+Some rabbits will drive to the Great Lakes . <eos>
+Regina admires Sharon . <eos>
+That movie admires Sharon . <eos>
+Noah notices Helen . <eos>
+That story notices Helen . <eos>
+Bethany is n't taking a lot of rugs . <eos>
+Every hospital is n't taking a lot of rugs . <eos>
+Carla is n't boasting about most boys . <eos>
+The muffin is n't boasting about most boys . <eos>
+Patricia has toured this mall . <eos>
+This water has toured this mall . <eos>
+Becca has n't praised the teacher . <eos>
+Some hospital has n't praised the teacher . <eos>
+Many cashiers were approaching Becky . <eos>
+Some hamsters were approaching Becky . <eos>
+Caroline ca n't hide John . <eos>
+Every organization ca n't hide John . <eos>
+Brett is finding Heidi . <eos>
+That tomato is finding Heidi . <eos>
+Gerald criticized that guest . <eos>
+Some cup criticized that guest . <eos>
+Gerald was n't noticing Meredith . <eos>
+Some cucumber was n't noticing Meredith . <eos>
+The girl had n't praised Gina . <eos>
+Art had n't praised Gina . <eos>
+Diane had dogs . <eos>
+A dish had dogs . <eos>
+Linda ca n't talk to Rose . <eos>
+Some spotlight ca n't talk to Rose . <eos>
+The association admires Janice . <eos>
+That screen admires Janice . <eos>
+Danielle should boycott the Great Lakes . <eos>
+This banana should boycott the Great Lakes . <eos>
+Janice messes up these cups . <eos>
+Some sock messes up these cups . <eos>
+Nicole conceals Linda . <eos>
+Every mirror conceals Linda . <eos>
+Angela listened to Donna . <eos>
+That shawl listened to Donna . <eos>
+Julie was n't listening to some cashier . <eos>
+That hamster was n't listening to some cashier . <eos>
+Carrie could discuss Holly . <eos>
+A cat could discuss Holly . <eos>
+Janice has cured Margaret . <eos>
+The hat has cured Margaret . <eos>
+Lucille visited a college campus . <eos>
+Every icicle visited a college campus . <eos>
+Erin climbed down a lot of ladders . <eos>
+Some plate climbed down a lot of ladders . <eos>
+Kristen wo n't talk about Lucille . <eos>
+A fork wo n't talk about Lucille . <eos>
+Joel has lifted this pork . <eos>
+Every hill has lifted this pork . <eos>
+Edward is n't lifting these plates . <eos>
+That candle is n't lifting these plates . <eos>
+Tiffany helps the lady . <eos>
+This coat helps the lady . <eos>
+A waiter was n't approaching Winston Churchill . <eos>
+Some candle was n't approaching Winston Churchill . <eos>
+Larry has argued about these senators . <eos>
+The pie has argued about these senators . <eos>
+Kenneth has n't discovered this glass . <eos>
+A committee has n't discovered this glass . <eos>
+Michelle can respect Samuel . <eos>
+Every scarf can respect Samuel . <eos>
+Rebecca has n't toured all museums . <eos>
+A museum has n't toured all museums . <eos>
+Vincent attacked Randolf . <eos>
+Every dog attacked Randolf . <eos>
+Sharon helped this driver . <eos>
+A documentary helped this driver . <eos>
+Becky criticizes Samantha . <eos>
+This window criticizes Samantha . <eos>
+That museum boasted about Stephen . <eos>
+The spotlight boasted about Stephen . <eos>
+Donna disagrees with Gary . <eos>
+Every glacier disagrees with Gary . <eos>
+Dennis cared for Laurie . <eos>
+Some book cared for Laurie . <eos>
+Bill listens to a lot of adults . <eos>
+A carriage listens to a lot of adults . <eos>
+Gary cleans every bank . <eos>
+The glacier cleans every bank . <eos>
+Ruth flees from Lawrence . <eos>
+That pork flees from Lawrence . <eos>
+Marla praises those waitresses . <eos>
+A nose praises those waitresses . <eos>
+Allison was n't boycotting every grocery store . <eos>
+Some closet was n't boycotting every grocery store . <eos>
+Sonia passed some public parks . <eos>
+Some tomato passed some public parks . <eos>
+Ellen cured Tonya . <eos>
+The grocery store cured Tonya . <eos>
+Nicole does praise the Clintons . <eos>
+This nose does praise the Clintons . <eos>
+Marla climbs up some ladders . <eos>
+This vase climbs up some ladders . <eos>
+Claire was n't approaching all students . <eos>
+The rabbit was n't approaching all students . <eos>
+Maria respected Joseph . <eos>
+This river respected Joseph . <eos>
+Katherine questions Debra . <eos>
+That plate questions Debra . <eos>
+Theodore is kissing Paula . <eos>
+A shawl is kissing Paula . <eos>
+Clyde researched a painting . <eos>
+Every cafe researched a painting . <eos>
+Tonya criticized Liam . <eos>
+A public park criticized Liam . <eos>
+Emily praised every teenager . <eos>
+This door praised every teenager . <eos>
+That waiter has escaped from Dan . <eos>
+Some high school has escaped from Dan . <eos>
+Stephen is n't appreciating Phillip . <eos>
+Every glacier is n't appreciating Phillip . <eos>
+Bruce is returning to Kristen . <eos>
+This painting is returning to Kristen . <eos>
+Sara talked about Valerie . <eos>
+A mall talked about Valerie . <eos>
+Ella had researched some newspaper article . <eos>
+The movie had researched some newspaper article . <eos>
+Beverly should clean a casserole . <eos>
+Some pork should clean a casserole . <eos>
+Kristen has run around Spain . <eos>
+The cat has run around Spain . <eos>
+Brian has n't examined a documentary . <eos>
+A coat has n't examined a documentary . <eos>
+Elaine has messed up this plate . <eos>
+That bike has messed up this plate . <eos>
+Actors have n't argued about Natalie . <eos>
+Some pictures have n't argued about Natalie . <eos>
+Carlos criticizes that grocery store . <eos>
+Some projector criticizes that grocery store . <eos>
+Meredith worked with teachers . <eos>
+That box worked with teachers . <eos>
+Sonia had noticed many ladies . <eos>
+Every unicycle had noticed many ladies . <eos>
+Jane should n't see that cart . <eos>
+The pepper should n't see that cart . <eos>
+Julia should n't break some car . <eos>
+Some hospital should n't break some car . <eos>
+Sabrina fired Nicole . <eos>
+The light fired Nicole . <eos>
+Carol was n't touring Spain . <eos>
+Politics was n't touring Spain . <eos>
+Many patients took these spotlights . <eos>
+Some birds took these spotlights . <eos>
+Dennis does n't talk about Heidi . <eos>
+Some dish does n't talk about Heidi . <eos>
+Kathleen tours the library . <eos>
+The mouth tours the library . <eos>
+Dennis has fixed every convertible . <eos>
+The car has fixed every convertible . <eos>
+Some guy has n't forgotten that driver . <eos>
+That skateboard has n't forgotten that driver . <eos>
+Keith was n't cleaning a lot of computers . <eos>
+This water was n't cleaning a lot of computers . <eos>
+Monet talked to Laurie . <eos>
+That spotlight talked to Laurie . <eos>
+Valerie watches George . <eos>
+The sock watches George . <eos>
+Clyde wo n't clean icicles . <eos>
+A photograph wo n't clean icicles . <eos>
+Every dish researches all newspaper articles . <eos>
+Every bank researches all newspaper articles . <eos>
+The Borgias drove to schools . <eos>
+Most cats drove to schools . <eos>
+Judy was boasting about these cashiers . <eos>
+The print was boasting about these cashiers . <eos>
+Tara listens to a lot of waitresses . <eos>
+Some carriage listens to a lot of waitresses . <eos>
+Suzanne was talking about Richard . <eos>
+That closet was talking about Richard . <eos>
+Meredith was approaching Stacy . <eos>
+That shawl was approaching Stacy . <eos>
+Emily discusses Robert . <eos>
+The turtle discusses Robert . <eos>
+Monica would approach David . <eos>
+The chicken would approach David . <eos>
+Colleen was n't concealing Roger . <eos>
+This window was n't concealing Roger . <eos>
+Winston Churchill should n't watch Kristen . <eos>
+The sweater should n't watch Kristen . <eos>
+Every doctor hired Bill . <eos>
+This play hired Bill . <eos>
+Allison argued about Brett . <eos>
+That movie argued about Brett . <eos>
+Phillip was n't discovering that association . <eos>
+The restaurant was n't discovering that association . <eos>
+A waitress is complaining about Cynthia . <eos>
+The water is complaining about Cynthia . <eos>
+That woman had n't passed a museum . <eos>
+Some organization had n't passed a museum . <eos>
+Joseph has gone to some public park . <eos>
+The grocery store has gone to some public park . <eos>
+Irene would walk through many grocery stores . <eos>
+A hamster would walk through many grocery stores . <eos>
+Martin is n't insulting Becky . <eos>
+The essay is n't insulting Becky . <eos>
+The senator has climbed up the ladders . <eos>
+The icicle has climbed up the ladders . <eos>
+Judy hugs some waiters . <eos>
+Every dish hugs some waiters . <eos>
+Carol ascended those ladders . <eos>
+The apple ascended those ladders . <eos>
+Gregory passed some movie theater . <eos>
+Music passed some movie theater . <eos>
+Harvard University knew Phillip . <eos>
+That pork knew Phillip . <eos>
+That patient did watch Sonia . <eos>
+A pie did watch Sonia . <eos>
+Denise helped Sonia . <eos>
+This window helped Sonia . <eos>
+Rhonda skates around a lot of movie theaters . <eos>
+That pepper skates around a lot of movie theaters . <eos>
+Emily would fix some mirror . <eos>
+That museum would fix some mirror . <eos>
+Roger had fixed some convertibles . <eos>
+That screen had fixed some convertibles . <eos>
+Some driver would flee from Carol . <eos>
+That cafe would flee from Carol . <eos>
+Karen disagrees with Tracy . <eos>
+Some documentary disagrees with Tracy . <eos>
+Liam messes up some bank . <eos>
+This pie messes up some bank . <eos>
+Deanna is questioning Colleen . <eos>
+A report is questioning Colleen . <eos>
+Emily is messing up the mall . <eos>
+A shirt is messing up the mall . <eos>
+Bruce has those reports . <eos>
+Some documentary has those reports . <eos>
+Galileo did talk about Jane . <eos>
+Every apple did talk about Jane . <eos>
+Peter leaves Theodore . <eos>
+That eggplant leaves Theodore . <eos>
+Rachel is n't arguing about this customer . <eos>
+Some river is n't arguing about this customer . <eos>
+Kayla found Heather . <eos>
+Art found Heather . <eos>
+These dancers were taking some bird . <eos>
+Most universities were taking some bird . <eos>
+Tiffany should n't attack Anne . <eos>
+This fish should n't attack Anne . <eos>
+All actors researched Monet . <eos>
+Most stories researched Monet . <eos>
+Joel praised Dana . <eos>
+Science praised Dana . <eos>
+Erin ascended this mountain . <eos>
+That shawl ascended this mountain . <eos>
+Anne could leave Cindy . <eos>
+This play could leave Cindy . <eos>
+Paula has healed Cynthia . <eos>
+Some ice cream has healed Cynthia . <eos>
+Renee notices a lot of coats . <eos>
+Some window notices a lot of coats . <eos>
+Many guys had n't cleaned some spotlight . <eos>
+These birds had n't cleaned some spotlight . <eos>
+A library thinks about the mirror . <eos>
+Some mall thinks about the mirror . <eos>
+The man saw Renee . <eos>
+Travel saw Renee . <eos>
+Bradley is skated around these public parks . <eos>
+A cucumber is skated around these public parks . <eos>
+Gary was n't walking through these cafes . <eos>
+Some cucumber was n't walking through these cafes . <eos>
+Heather boycotted that restaurant . <eos>
+That closet boycotted that restaurant . <eos>
+Sally breaks this cart . <eos>
+Some nose breaks this cart . <eos>
+Homer arrives at every grocery store . <eos>
+A banana arrives at every grocery store . <eos>
+This customer has cleaned this closet . <eos>
+The unicycle has cleaned this closet . <eos>
+Chad was n't touring college campuses . <eos>
+A mirror was n't touring college campuses . <eos>
+The bank would n't dislike Mark . <eos>
+Some museum would n't dislike Mark . <eos>
+Carolyn was n't scanning that essay . <eos>
+Some screen was n't scanning that essay . <eos>
+Sally had broken most carriages . <eos>
+Some carriage had broken most carriages . <eos>
+Mark did n't pass some movie theater . <eos>
+This chicken did n't pass some movie theater . <eos>
+Jason should n't examine that commentary . <eos>
+Some window should n't examine that commentary . <eos>
+Todd was n't revealing Carolyn . <eos>
+The casserole was n't revealing Carolyn . <eos>
+James was criticizing Connie . <eos>
+This jacket was criticizing Connie . <eos>
+Irene is n't discussing the lake . <eos>
+A dish is n't discussing the lake . <eos>
+This man is messing up those museums . <eos>
+The spotlight is messing up those museums . <eos>
+Rebecca wo n't escape from Lori . <eos>
+Every computer wo n't escape from Lori . <eos>
+Bradley bikes to some hospital . <eos>
+That car bikes to some hospital . <eos>
+Bethany would insult all girls . <eos>
+Some couch would insult all girls . <eos>
+Sally left Dennis . <eos>
+Rice left Dennis . <eos>
+Every driver was arriving at these malls . <eos>
+This beef was arriving at these malls . <eos>
+Tammy could n't hug these guys . <eos>
+This ice could n't hug these guys . <eos>
+Donald climbed up that slope . <eos>
+The sketch climbed up that slope . <eos>
+Debra had bought those peppers . <eos>
+Some box had bought those peppers . <eos>
+Debra noticed some lights . <eos>
+A door noticed some lights . <eos>
+Peter tours those glaciers . <eos>
+Some box tours those glaciers . <eos>
+Mary has dropped by a lot of closets . <eos>
+Every print has dropped by a lot of closets . <eos>
+Martha could walk through all restaurants . <eos>
+The carriage could walk through all restaurants . <eos>
+Janet fixes a lot of convertibles . <eos>
+Every print fixes a lot of convertibles . <eos>
+Julia is n't exiting the cafes . <eos>
+That ice cream is n't exiting the cafes . <eos>
+The muffin looks like most sketches . <eos>
+A snake looks like most sketches . <eos>
+Jill has n't cleaned all hats . <eos>
+That carriage has n't cleaned all hats . <eos>
+Phillip is n't describing Jill . <eos>
+Every rug is n't describing Jill . <eos>
+Connie descends the slopes . <eos>
+That screen descends the slopes . <eos>
+Some child does go to all lakes . <eos>
+Some couch does go to all lakes . <eos>
+Dawn could n't visit Peter . <eos>
+Every hat could n't visit Peter . <eos>
+Matt had arrived at a river . <eos>
+Some picture had arrived at a river . <eos>
+Laurie is n't hiding Steven . <eos>
+The dish is n't hiding Steven . <eos>
+Beth is wearing some coats . <eos>
+This hamster is wearing some coats . <eos>
+Thomas flees from every college campus . <eos>
+That commentary flees from every college campus . <eos>
+Mary could care for Jacqueline . <eos>
+Ice could care for Jacqueline . <eos>
+Gina was bringing a lot of jackets . <eos>
+Travel was bringing a lot of jackets . <eos>
+These guys are n't lifting every sock . <eos>
+Some companies are n't lifting every sock . <eos>
+Galileo was n't firing Naomi . <eos>
+The bird was n't firing Naomi . <eos>
+That waiter messes up that dish . <eos>
+Some pasta messes up that dish . <eos>
+Bill argued about some student . <eos>
+Some drawing argued about some student . <eos>
+Chad was going to many lakes . <eos>
+Spinach was going to many lakes . <eos>
+Scott hired Nancy . <eos>
+A print hired Nancy . <eos>
+Todd lifts this rabbit . <eos>
+This window lifts this rabbit . <eos>
+Many children would take that vase . <eos>
+These drawings would take that vase . <eos>
+Charles would n't forget Monica . <eos>
+This eye would n't forget Monica . <eos>
+A driver is appreciating Jacqueline . <eos>
+Music is appreciating Jacqueline . <eos>
+Erin walks through many malls . <eos>
+This shoe walks through many malls . <eos>
+Many ladies had n't resembled many photographs . <eos>
+All lights had n't resembled many photographs . <eos>
+Marcus had n't talked about James . <eos>
+The bread had n't talked about James . <eos>
+Amy has observed the actor . <eos>
+A dish has observed the actor . <eos>
+Christine loved Tina . <eos>
+This river loved Tina . <eos>
+Some shawl looks like these photographs . <eos>
+A movie looks like these photographs . <eos>
+Michael has worked with this doctor . <eos>
+This coat has worked with this doctor . <eos>
+Pamela loves Sally . <eos>
+Every icicle loves Sally . <eos>
+Amanda wo n't argue about Donald . <eos>
+The cat wo n't argue about Donald . <eos>
+Walter has left Connie . <eos>
+A movie has left Connie . <eos>
+Regina hates Daniel . <eos>
+That pie hates Daniel . <eos>
+Many women had toured many museums . <eos>
+Many horses had toured many museums . <eos>
+That dancer is concealing Carlos . <eos>
+Every plane is concealing Carlos . <eos>
+Aaron likes Donna . <eos>
+The ice cream likes Donna . <eos>
+An actress can fix the bike . <eos>
+The school can fix the bike . <eos>
+This woman is criticizing some teacher . <eos>
+The cart is criticizing some teacher . <eos>
+Tonya criticized a lot of hospitals . <eos>
+This candle criticized a lot of hospitals . <eos>
+Some senator will discover this glacier . <eos>
+Some bike will discover this glacier . <eos>
+Some waiters broke a plate . <eos>
+Many cakes broke a plate . <eos>
+Jane finds Brad . <eos>
+The movie finds Brad . <eos>
+Diana had hidden the glove . <eos>
+This government had hidden the glove . <eos>
+Melinda attacked Colleen . <eos>
+Every banana attacked Colleen . <eos>
+Kenneth cares for this student . <eos>
+The spinach cares for this student . <eos>
+Tammy had listened to the cashiers . <eos>
+This couch had listened to the cashiers . <eos>
+This student loves Catherine . <eos>
+Some turtle loves Catherine . <eos>
+Drivers insulted Tracy . <eos>
+Those associations insulted Tracy . <eos>
+Julia did discuss some public park . <eos>
+A government did discuss some public park . <eos>
+Sarah noticed some chicken . <eos>
+This banana noticed some chicken . <eos>
+Irene admires hair . <eos>
+Every movie theater admires hair . <eos>
+Some man has questioned Sarah . <eos>
+That rabbit has questioned Sarah . <eos>
+The waiter discusses Alan . <eos>
+This photograph discusses Alan . <eos>
+Debra does n't exit some cafe . <eos>
+Some plate does n't exit some cafe . <eos>
+Kayla has n't boasted about Rodney . <eos>
+Travel has n't boasted about Rodney . <eos>
+Brian has cleaned many malls . <eos>
+Every shawl has cleaned many malls . <eos>
+Ladies were n't healing every man . <eos>
+These peppers were n't healing every man . <eos>
+Many shoes might look like a drawing . <eos>
+The Balkans might look like a drawing . <eos>
+Every guy has n't found most chairs . <eos>
+Every glove has n't found most chairs . <eos>
+Joseph breaks a unicycle . <eos>
+Politics breaks a unicycle . <eos>
+Amy might describe every woman . <eos>
+Ice might describe every woman . <eos>
+The customers scanned newspaper articles . <eos>
+All chairs scanned newspaper articles . <eos>
+Mark did n't appreciate Laura . <eos>
+That mouth did n't appreciate Laura . <eos>
+Randolf has n't concealed a lot of pedestrians . <eos>
+Some museum has n't concealed a lot of pedestrians . <eos>
+Carl criticizes college campuses . <eos>
+This movie criticizes college campuses . <eos>
+This bread researches the Borgias . <eos>
+The cilantro researches the Borgias . <eos>
+Kristin would complain about Walter . <eos>
+This coat would complain about Walter . <eos>
+Margaret discovered Kimberley . <eos>
+Some screen discovered Kimberley . <eos>
+Florence has referenced Eric . <eos>
+Some mountain has referenced Eric . <eos>
+David admired a driver . <eos>
+A plane admired a driver . <eos>
+Ellen notices Michael . <eos>
+This hospital notices Michael . <eos>
+Samantha can return to Victoria . <eos>
+Some documentary can return to Victoria . <eos>
+The Lutherans could approach some ladies . <eos>
+Shawls could approach some ladies . <eos>
+Paul is n't leaving Tonya . <eos>
+A tomato is n't leaving Tonya . <eos>
+Karla was n't leaving Kristen . <eos>
+Every chair was n't leaving Kristen . <eos>
+Jessica went to every school . <eos>
+That grocery store went to every school . <eos>
+Christine visited Paul . <eos>
+Every association visited Paul . <eos>
+Daniel dropped by that school . <eos>
+Every mall dropped by that school . <eos>
+Florence is n't lifting the skirt . <eos>
+The glove is n't lifting the skirt . <eos>
+Christine hated Craig . <eos>
+Some high school hated Craig . <eos>
+Michelle explores these glaciers . <eos>
+Some sweater explores these glaciers . <eos>
+Craig would n't care for Marcus . <eos>
+The water would n't care for Marcus . <eos>
+Paul was n't exploring this closet . <eos>
+This casserole was n't exploring this closet . <eos>
+Donald should n't listen to the waitresses . <eos>
+This photograph should n't listen to the waitresses . <eos>
+All pedestrians investigated Janice . <eos>
+Closets investigated Janice . <eos>
+Bill resembles all prints . <eos>
+This cucumber resembles all prints . <eos>
+Raymond thinks about travel . <eos>
+The cilantro thinks about travel . <eos>
+Julie is n't working with Nancy . <eos>
+Some cucumber is n't working with Nancy . <eos>
+Rachelle flees from Curtis . <eos>
+Every movie theater flees from Curtis . <eos>
+Donald was n't arguing about some essay . <eos>
+The casserole was n't arguing about some essay . <eos>
+Lisa has n't approached Kayla . <eos>
+This grocery store has n't approached Kayla . <eos>
+Gary forgot Jodi . <eos>
+Every glove forgot Jodi . <eos>
+That driver had n't loved Alexander . <eos>
+This vase had n't loved Alexander . <eos>
+Margaret complained about this commentary . <eos>
+This light complained about this commentary . <eos>
+Alan had forgotten Eva . <eos>
+Some convertible had forgotten Eva . <eos>
+Ann reveals some sweater . <eos>
+Every play reveals some sweater . <eos>
+Anne runs around most glaciers . <eos>
+Politics runs around most glaciers . <eos>

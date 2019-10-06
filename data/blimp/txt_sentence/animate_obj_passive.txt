@@ -1,0 +1,2000 @@
+The lady is discussed . <eos>
+Those associations are n't discussed . <eos>
+The cashiers were n't appreciated . <eos>
+All nuclei are appreciated . <eos>
+Those children were upset . <eos>
+Some cats were upset . <eos>
+That actor was n't respected . <eos>
+A lot of blouses are respected . <eos>
+That doctor is annoyed . <eos>
+That ox is n't annoyed . <eos>
+This woman was n't hugged . <eos>
+This eggplant was hugged . <eos>
+Teenagers were escaped from . <eos>
+These movies were escaped from . <eos>
+Some children are n't investigated . <eos>
+Most birds are investigated . <eos>
+All people are questioned . <eos>
+Many apples were questioned . <eos>
+Some girl was fled from . <eos>
+Those fish were n't fled from . <eos>
+The boy is n't known . <eos>
+Some glove is n't known . <eos>
+Many adults are criticized . <eos>
+These gloves are criticized . <eos>
+The boy was fled from . <eos>
+The icicles were fled from . <eos>
+Cashiers are n't distracted . <eos>
+Some light is n't distracted . <eos>
+That offspring was n't aggravated . <eos>
+Some sketch was aggravated . <eos>
+These girls are n't disgusted . <eos>
+That tooth was n't disgusted . <eos>
+Many alumni were kissed . <eos>
+The thesis is n't kissed . <eos>
+The boys were n't known . <eos>
+Many cacti were known . <eos>
+The alumnus was n't praised . <eos>
+A lot of couches were n't praised . <eos>
+Some child is loved . <eos>
+Trucks were n't loved . <eos>
+Some actors were hurt . <eos>
+Every mouth was n't hurt . <eos>
+A pedestrian is returned to . <eos>
+A movie theater is returned to . <eos>
+A lot of offspring are n't irritated . <eos>
+All oxen are n't irritated . <eos>
+A waitress is questioned . <eos>
+Some eye was questioned . <eos>
+That alumnus was scared . <eos>
+Every skirt was n't scared . <eos>
+Some adult is n't observed . <eos>
+That association was n't observed . <eos>
+Every offspring was n't worked with . <eos>
+Some steak is worked with . <eos>
+The customer is referenced . <eos>
+Pasta was n't referenced . <eos>
+Waitresses were talked about . <eos>
+Some legislatures are n't talked about . <eos>
+The actress was n't embarrassed . <eos>
+Many candles are n't embarrassed . <eos>
+Every boy is n't stunned . <eos>
+Most books were n't stunned . <eos>
+Most boys were praised . <eos>
+Those plays were n't praised . <eos>
+The dancers were talked to . <eos>
+Every chair is n't talked to . <eos>
+That woman is alarmed . <eos>
+A lot of schools are alarmed . <eos>
+A dancer is n't criticized . <eos>
+A glacier is n't criticized . <eos>
+Every boy was forgotten . <eos>
+Some rabbits are n't forgotten . <eos>
+All guys are left . <eos>
+Apples are left . <eos>
+Most teenagers are n't confused . <eos>
+Those drawings are confused . <eos>
+All actresses were argued about . <eos>
+Those stories are n't argued about . <eos>
+These students were n't bothered . <eos>
+That spinach was n't bothered . <eos>
+Some guy was discussed . <eos>
+A blouse was n't discussed . <eos>
+All teachers are astounded . <eos>
+This cart is n't astounded . <eos>
+Some guest is n't boasted about . <eos>
+Every cucumber is boasted about . <eos>
+Some woman is kissed . <eos>
+Every shawl is n't kissed . <eos>
+Some cashier was n't complained about . <eos>
+This ox is n't complained about . <eos>
+Most men are n't criticized . <eos>
+Those cars were n't criticized . <eos>
+A senator is n't criticized . <eos>
+This fish are n't criticized . <eos>
+This man is n't praised . <eos>
+These trucks were n't praised . <eos>
+A patient is n't disliked . <eos>
+Every river is disliked . <eos>
+The pedestrians are n't alarmed . <eos>
+These companies were n't alarmed . <eos>
+That girl is n't listened to . <eos>
+The media were n't listened to . <eos>
+A lot of people were listened to . <eos>
+The cars were listened to . <eos>
+Some alumni were n't complained about . <eos>
+A lot of mirrors were n't complained about . <eos>
+Most adults are n't argued about . <eos>
+Some brochures are n't argued about . <eos>
+All men were n't loved . <eos>
+Many reports were n't loved . <eos>
+These customers are hated . <eos>
+These governments were hated . <eos>
+That lady is observed . <eos>
+Fish was n't observed . <eos>
+Every guy is bothered . <eos>
+This grocery store is bothered . <eos>
+Patients are n't hated . <eos>
+The association is n't hated . <eos>
+Guests are n't astounded . <eos>
+All unicycles were astounded . <eos>
+Every actress was boasted about . <eos>
+This shoe is n't boasted about . <eos>
+This child is scared . <eos>
+Most stimuli are n't scared . <eos>
+The driver was talked to . <eos>
+That ladder is n't talked to . <eos>
+These dancers are n't escaped from . <eos>
+That fish is n't escaped from . <eos>
+The child is n't praised . <eos>
+The closet is n't praised . <eos>
+Many cashiers were confused . <eos>
+Every crisis was confused . <eos>
+An actor was cared for . <eos>
+Every public park is n't cared for . <eos>
+A lot of drivers are n't impressed . <eos>
+Some bicycles were n't impressed . <eos>
+This cashier was insulted . <eos>
+All feet are insulted . <eos>
+Many customers were insulted . <eos>
+Most slopes were n't insulted . <eos>
+Every guy is concealed . <eos>
+Those sheep were n't concealed . <eos>
+Some woman is n't respected . <eos>
+All college campuses were respected . <eos>
+This adult was appreciated . <eos>
+Horses are n't appreciated . <eos>
+The cashiers are alarmed . <eos>
+Those mountains were n't alarmed . <eos>
+A senator is n't kissed . <eos>
+Some shoe is n't kissed . <eos>
+The alumnus was described . <eos>
+That rug is described . <eos>
+All pedestrians were n't shocked . <eos>
+This means was shocked . <eos>
+Some teacher is hurt . <eos>
+A lot of phenomena were n't hurt . <eos>
+Some student is n't aggravated . <eos>
+Most scarves are aggravated . <eos>
+That patient was n't appreciated . <eos>
+This broccoli was n't appreciated . <eos>
+These actresses were n't disagreed with . <eos>
+Some turtles are disagreed with . <eos>
+Some guy is bothered . <eos>
+Some ladders were bothered . <eos>
+This woman is questioned . <eos>
+Some cars are questioned . <eos>
+A guest is talked to . <eos>
+Some cars are n't talked to . <eos>
+Some man was appreciated . <eos>
+Many gloves are n't appreciated . <eos>
+Most waitresses are n't boasted about . <eos>
+Many mushrooms were n't boasted about . <eos>
+Some offspring are n't referenced . <eos>
+Movie theaters were n't referenced . <eos>
+These students were n't worried . <eos>
+The forks are n't worried . <eos>
+Those patients were stunned . <eos>
+Many sketches were stunned . <eos>
+A lot of pedestrians are n't investigated . <eos>
+Those commentaries are investigated . <eos>
+This girl was argued about . <eos>
+Most stories were n't argued about . <eos>
+Every lady is n't kissed . <eos>
+Most art galleries were n't kissed . <eos>
+Those men are hurt . <eos>
+Some jackets were n't hurt . <eos>
+This pedestrian is alarmed . <eos>
+Many mice were alarmed . <eos>
+The man is n't hurt . <eos>
+Many apples are hurt . <eos>
+That woman was annoyed . <eos>
+A cafe was annoyed . <eos>
+Every waiter is n't disliked . <eos>
+These mountains were disliked . <eos>
+That guy was distracted . <eos>
+Every goose is n't distracted . <eos>
+Those men are disturbed . <eos>
+Some slope was disturbed . <eos>
+Some customer is distracted . <eos>
+Those bikes were n't distracted . <eos>
+The alumnus was n't attacked . <eos>
+Steak was attacked . <eos>
+Those dancers were n't investigated . <eos>
+The scarves are investigated . <eos>
+Drivers are listened to . <eos>
+Wheelbarrows were n't listened to . <eos>
+This guest is aggravated . <eos>
+Many candles were n't aggravated . <eos>
+Some guy was listened to . <eos>
+Some stairs are n't listened to . <eos>
+The student was remembered . <eos>
+These cakes were remembered . <eos>
+Some senator was sounded like . <eos>
+Some bikes are sounded like . <eos>
+The customers were fired . <eos>
+Those eggplants were n't fired . <eos>
+All women were disgusted . <eos>
+These reports are n't disgusted . <eos>
+The customer was n't fired . <eos>
+Restaurants were fired . <eos>
+That student was n't astounded . <eos>
+Most malls were n't astounded . <eos>
+Children were worked with . <eos>
+The libraries were worked with . <eos>
+A lot of people are n't appreciated . <eos>
+These teeth are appreciated . <eos>
+A lot of teenagers are n't forgotten . <eos>
+The horses are forgotten . <eos>
+Those drivers are attacked . <eos>
+This college campus was attacked . <eos>
+The adults are n't hugged . <eos>
+The college campus was n't hugged . <eos>
+That waitress is aggravated . <eos>
+Those mirrors were n't aggravated . <eos>
+Many waiters are n't impressed . <eos>
+Most hypotheses are n't impressed . <eos>
+Every actress was n't kissed . <eos>
+Some brochures were n't kissed . <eos>
+Those people were attacked . <eos>
+Every brochure is attacked . <eos>
+Some actor is n't kissed . <eos>
+All spotlights were n't kissed . <eos>
+The actor was n't worked with . <eos>
+The prints were n't worked with . <eos>
+That guest is confused . <eos>
+Pies were n't confused . <eos>
+This driver was n't scared . <eos>
+This fungus is n't scared . <eos>
+The patients are hurt . <eos>
+The crisis was hurt . <eos>
+Every man is impressed . <eos>
+All companies were n't impressed . <eos>
+Most children are n't confused . <eos>
+These synopses were confused . <eos>
+Students were talked to . <eos>
+Every paralysis is n't talked to . <eos>
+Most actors are shocked . <eos>
+Some car was shocked . <eos>
+Some senator was worried . <eos>
+A newspaper article is n't worried . <eos>
+All offspring were astounded . <eos>
+Some book was n't astounded . <eos>
+Some waitresses were n't talked to . <eos>
+This newspaper article is talked to . <eos>
+That guy was impressed . <eos>
+A face is n't impressed . <eos>
+That patient is n't insulted . <eos>
+These doors were n't insulted . <eos>
+A girl was n't forgotten . <eos>
+Many rivers were forgotten . <eos>
+People are n't insulted . <eos>
+Every bike was n't insulted . <eos>
+This dancer is astounded . <eos>
+The face is astounded . <eos>
+A lot of dancers are watched . <eos>
+Those shoes were n't watched . <eos>
+Every student was n't forgotten . <eos>
+A college campus is forgotten . <eos>
+Those alumni are n't irritated . <eos>
+An icicle is n't irritated . <eos>
+Those boys were fired . <eos>
+A grocery store was n't fired . <eos>
+A dancer is n't talked about . <eos>
+A grocery store is talked about . <eos>
+A man is complained about . <eos>
+Many newspaper articles are complained about . <eos>
+People were n't attacked . <eos>
+This tomato is attacked . <eos>
+The girl is embarrassed . <eos>
+Some crises were embarrassed . <eos>
+A lot of guests were helped . <eos>
+Many theses are n't helped . <eos>
+That patient was fired . <eos>
+Some eggplant was n't fired . <eos>
+Waiters were n't returned to . <eos>
+Some candle is returned to . <eos>
+Some boys are aggravated . <eos>
+A lot of fungi are aggravated . <eos>
+Most actors are n't disagreed with . <eos>
+Some paralysis is n't disagreed with . <eos>
+Most actresses were approached . <eos>
+A lot of socks are approached . <eos>
+The boy is n't hired . <eos>
+Eyes were hired . <eos>
+These dancers are talked about . <eos>
+Some crises are n't talked about . <eos>
+That actress is n't talked about . <eos>
+Those cars were n't talked about . <eos>
+Every doctor is n't bothered . <eos>
+Every cafe is bothered . <eos>
+Every teacher is known . <eos>
+Those college campuses were known . <eos>
+Every waiter was n't escaped from . <eos>
+The book was escaped from . <eos>
+Those pedestrians were n't discussed . <eos>
+A lot of candles are n't discussed . <eos>
+Some customers are talked about . <eos>
+Newspaper articles were talked about . <eos>
+These girls were investigated . <eos>
+That public park was n't investigated . <eos>
+Many children are n't alarmed . <eos>
+Some rice was alarmed . <eos>
+A guest was returned to . <eos>
+That spinach is n't returned to . <eos>
+That doctor is n't talked about . <eos>
+All media are n't talked about . <eos>
+This dancer was watched . <eos>
+The projector is n't watched . <eos>
+The guests were n't cared for . <eos>
+Mountains were cared for . <eos>
+The children are listened to . <eos>
+These mice were n't listened to . <eos>
+Senators are n't sounded like . <eos>
+The windows are sounded like . <eos>
+A waiter is upset . <eos>
+Some cart was n't upset . <eos>
+The alumnus was n't distracted . <eos>
+A tomato is distracted . <eos>
+Some senator is n't discussed . <eos>
+The diagnosis is n't discussed . <eos>
+All children are n't kissed . <eos>
+A blouse is n't kissed . <eos>
+These children are watched . <eos>
+All screens are watched . <eos>
+All guys are n't observed . <eos>
+All eyes were n't observed . <eos>
+The boy is n't bored . <eos>
+The unicycle is n't bored . <eos>
+The alumnus was loved . <eos>
+Some slope is loved . <eos>
+That teenager was annoyed . <eos>
+Many dogs were n't annoyed . <eos>
+This doctor is escaped from . <eos>
+All books were n't escaped from . <eos>
+A man was watched . <eos>
+Some vase was watched . <eos>
+This actress is fired . <eos>
+A committee is n't fired . <eos>
+Some waiter was n't talked to . <eos>
+This deer is talked to . <eos>
+A lot of alumni are upset . <eos>
+Every box is n't upset . <eos>
+The cashiers are n't astounded . <eos>
+Most mouths were astounded . <eos>
+Those dancers were astounded . <eos>
+Some reports are astounded . <eos>
+This waiter was n't complained about . <eos>
+Some dish was n't complained about . <eos>
+A lot of girls are fired . <eos>
+Some pamphlets are fired . <eos>
+A waiter was n't cared for . <eos>
+The tomato is cared for . <eos>
+Doctors are scared . <eos>
+The thesis was n't scared . <eos>
+All guests are returned to . <eos>
+A computer is returned to . <eos>
+This pedestrian is upset . <eos>
+The picture was n't upset . <eos>
+Those students were n't shocked . <eos>
+Those screens are n't shocked . <eos>
+Every woman is concealed . <eos>
+The phenomena are concealed . <eos>
+A senator is n't hired . <eos>
+This fish is n't hired . <eos>
+This dancer is n't astounded . <eos>
+Some eyes are n't astounded . <eos>
+The student is returned to . <eos>
+Some phenomenon is returned to . <eos>
+This alumnus is confused . <eos>
+Most college campuses were n't confused . <eos>
+A customer is fired . <eos>
+A lot of prints were n't fired . <eos>
+The boy was stunned . <eos>
+A series was n't stunned . <eos>
+Every waiter was n't stunned . <eos>
+Some cucumber was n't stunned . <eos>
+These men were n't hired . <eos>
+The foot is n't hired . <eos>
+Some adult was fired . <eos>
+A lot of cakes are n't fired . <eos>
+Every waitress is alarmed . <eos>
+A movie theater is alarmed . <eos>
+Those actors were n't escaped from . <eos>
+A lot of parentheses were escaped from . <eos>
+Most actors are n't distracted . <eos>
+Essays were distracted . <eos>
+The driver was n't helped . <eos>
+Some hypothesis was n't helped . <eos>
+All people are watched . <eos>
+A radius is watched . <eos>
+Every guest was insulted . <eos>
+This goose was n't insulted . <eos>
+The dancers are n't fired . <eos>
+Most committees were n't fired . <eos>
+Most pedestrians are remembered . <eos>
+Every louse was n't remembered . <eos>
+The offspring are disgusted . <eos>
+Every candle was disgusted . <eos>
+This dancer was talked about . <eos>
+Rabbits were talked about . <eos>
+Some actress was hurt . <eos>
+The legislatures are n't hurt . <eos>
+This teenager was n't hated . <eos>
+The oases were n't hated . <eos>
+That waiter was n't scared . <eos>
+A grocery store is scared . <eos>
+Some driver is observed . <eos>
+These stimuli are n't observed . <eos>
+These actresses were n't distracted . <eos>
+Some fish are distracted . <eos>
+That child is n't hated . <eos>
+Pants were n't hated . <eos>
+Those children are n't stunned . <eos>
+Most couches were stunned . <eos>
+Most children are n't approached . <eos>
+The sweaters were approached . <eos>
+Customers were n't loved . <eos>
+Every rug was n't loved . <eos>
+Many men were confused . <eos>
+This report is confused . <eos>
+Most adults were n't returned to . <eos>
+Many restaurants are n't returned to . <eos>
+Some child was remembered . <eos>
+The stimuli were n't remembered . <eos>
+A man is listened to . <eos>
+Some fish is n't listened to . <eos>
+Some patient was approached . <eos>
+Most bases are n't approached . <eos>
+The guest is attacked . <eos>
+This book is attacked . <eos>
+A teenager is appreciated . <eos>
+The screen is appreciated . <eos>
+A waiter was stunned . <eos>
+A muffin was stunned . <eos>
+A child was hated . <eos>
+These books were n't hated . <eos>
+Some guy was disgusted . <eos>
+These skateboards were n't disgusted . <eos>
+A child is n't approached . <eos>
+Cats were n't approached . <eos>
+Pedestrians were appreciated . <eos>
+The bicycles were appreciated . <eos>
+Every student was n't confused . <eos>
+The parenthesis is confused . <eos>
+The actor is observed . <eos>
+Socks were observed . <eos>
+Every lady was approached . <eos>
+The broccoli was approached . <eos>
+This person is n't boasted about . <eos>
+An oasis is boasted about . <eos>
+All waitresses are annoyed . <eos>
+Most cafes are n't annoyed . <eos>
+Every driver was n't upset . <eos>
+A hypothesis was upset . <eos>
+That woman was talked about . <eos>
+The chicken was n't talked about . <eos>
+Many ladies are confused . <eos>
+Some companies are n't confused . <eos>
+The senator was n't kissed . <eos>
+Some books are n't kissed . <eos>
+Some cashier is stunned . <eos>
+A muffin is n't stunned . <eos>
+The dancer was n't hated . <eos>
+The car was hated . <eos>
+This doctor is appreciated . <eos>
+This sweater is appreciated . <eos>
+Waiters were n't worked with . <eos>
+Some public parks were n't worked with . <eos>
+Those women were n't attacked . <eos>
+Some screen is n't attacked . <eos>
+These children are left . <eos>
+Those boxes were n't left . <eos>
+Many guys were discussed . <eos>
+Every dress is discussed . <eos>
+This pedestrian is disgusted . <eos>
+Those apples are disgusted . <eos>
+The cashier was helped . <eos>
+Some pepper was n't helped . <eos>
+The patient is praised . <eos>
+Many governments are praised . <eos>
+A lot of customers are n't kissed . <eos>
+This species was n't kissed . <eos>
+These men are worried . <eos>
+This glacier is worried . <eos>
+The doctor was stunned . <eos>
+These commentaries were stunned . <eos>
+A teacher was n't attacked . <eos>
+Ice is n't attacked . <eos>
+This patient is investigated . <eos>
+A lot of octopi are investigated . <eos>
+These alumni were n't listened to . <eos>
+Some pasta is listened to . <eos>
+The waiters are upset . <eos>
+The bases were upset . <eos>
+Those cashiers were remembered . <eos>
+This mouse is remembered . <eos>
+This guest was praised . <eos>
+A lot of jackets were n't praised . <eos>
+Most waiters were described . <eos>
+Every lake was described . <eos>
+A senator is n't argued about . <eos>
+Some glacier was argued about . <eos>
+The teacher was n't argued about . <eos>
+A fungus was argued about . <eos>
+This alumnus is fired . <eos>
+The bicycle was fired . <eos>
+This child was fled from . <eos>
+Those steps were n't fled from . <eos>
+Some boy was n't left . <eos>
+A bird is left . <eos>
+Those girls are observed . <eos>
+The mushrooms are observed . <eos>
+Every woman is helped . <eos>
+Pictures were helped . <eos>
+Most waiters were n't attacked . <eos>
+Most eyes were n't attacked . <eos>
+The guy was n't irritated . <eos>
+Those movies are irritated . <eos>
+Most alumni are n't referenced . <eos>
+All stimuli were referenced . <eos>
+Many teenagers are n't sounded like . <eos>
+A lot of peppers are n't sounded like . <eos>
+This girl was n't hired . <eos>
+The teeth are n't hired . <eos>
+That boy is n't talked to . <eos>
+The rug is talked to . <eos>
+Most patients were n't irritated . <eos>
+This movie theater was irritated . <eos>
+This pedestrian is worked with . <eos>
+These plays are worked with . <eos>
+Some cashier was n't concealed . <eos>
+Those nuclei are concealed . <eos>
+The men were stunned . <eos>
+That icicle is n't stunned . <eos>
+This cashier is n't alarmed . <eos>
+Deer are alarmed . <eos>
+Every lady was irritated . <eos>
+Many mouths were irritated . <eos>
+A lot of boys were watched . <eos>
+Some drawings were watched . <eos>
+That driver was talked to . <eos>
+Some means was n't talked to . <eos>
+Some adult is n't argued about . <eos>
+That horse is argued about . <eos>
+The waiters are distracted . <eos>
+Associations were distracted . <eos>
+These drivers were n't loved . <eos>
+The governments are loved . <eos>
+Many offspring are n't fled from . <eos>
+This parenthesis is fled from . <eos>
+Some senators are embarrassed . <eos>
+Some syntheses were n't embarrassed . <eos>
+Most patients were bored . <eos>
+A lot of bikes were n't bored . <eos>
+Those children were n't concealed . <eos>
+The light was concealed . <eos>
+These dancers are praised . <eos>
+All lamps were praised . <eos>
+These alumni were forgotten . <eos>
+This tomato was n't forgotten . <eos>
+That woman is investigated . <eos>
+Many coats were investigated . <eos>
+A lot of waiters are n't fled from . <eos>
+These pies were n't fled from . <eos>
+A woman is n't worried . <eos>
+Some coat was n't worried . <eos>
+Most children were n't annoyed . <eos>
+Some screen is n't annoyed . <eos>
+Those actors were n't questioned . <eos>
+Most drawings are n't questioned . <eos>
+Children were n't stunned . <eos>
+Some play is n't stunned . <eos>
+A lot of boys are n't talked about . <eos>
+All universities were talked about . <eos>
+The waiter is n't argued about . <eos>
+Cilantro is n't argued about . <eos>
+Most drivers were upset . <eos>
+The sweater is n't upset . <eos>
+Some girl is astounded . <eos>
+All cacti are astounded . <eos>
+That teacher was n't disturbed . <eos>
+That fork is disturbed . <eos>
+Most boys are n't disagreed with . <eos>
+This crisis is disagreed with . <eos>
+The ladies were n't appreciated . <eos>
+Some crisis was n't appreciated . <eos>
+Every pedestrian was n't shocked . <eos>
+That beef is n't shocked . <eos>
+Most cashiers are n't helped . <eos>
+These newspaper articles were helped . <eos>
+A lot of waitresses were escaped from . <eos>
+The grocery stores were n't escaped from . <eos>
+Every man was n't kissed . <eos>
+Malls are kissed . <eos>
+Many cashiers are n't confused . <eos>
+Stimuli were n't confused . <eos>
+That guest was scared . <eos>
+A lot of gates were scared . <eos>
+That guest was n't worried . <eos>
+The university is n't worried . <eos>
+The child was concealed . <eos>
+These phenomena are concealed . <eos>
+Most teachers were n't talked to . <eos>
+A lot of planes were talked to . <eos>
+A student is disliked . <eos>
+That hill was disliked . <eos>
+A woman was n't shocked . <eos>
+This documentary was n't shocked . <eos>
+Those teachers are n't escaped from . <eos>
+An association is n't escaped from . <eos>
+A woman is helped . <eos>
+Many skateboards are helped . <eos>
+Some child was talked about . <eos>
+The book is n't talked about . <eos>
+Many women are embarrassed . <eos>
+Some icicles are n't embarrassed . <eos>
+All customers are praised . <eos>
+Every icicle is praised . <eos>
+This student is disgusted . <eos>
+This computer was disgusted . <eos>
+Most doctors were n't forgotten . <eos>
+The vase is forgotten . <eos>
+Every guest is n't annoyed . <eos>
+Every fish is n't annoyed . <eos>
+The doctor is referenced . <eos>
+An ellipsis is referenced . <eos>
+A lot of customers are n't complained about . <eos>
+The mouse was complained about . <eos>
+This teenager was n't appreciated . <eos>
+That nose is n't appreciated . <eos>
+That teenager was talked to . <eos>
+That mountain was n't talked to . <eos>
+That alumnus is hugged . <eos>
+That glacier is n't hugged . <eos>
+Some alumnus was forgotten . <eos>
+The essays were n't forgotten . <eos>
+The doctor is n't distracted . <eos>
+This medium was n't distracted . <eos>
+These teenagers are worked with . <eos>
+Some snake was worked with . <eos>
+Every customer is n't disturbed . <eos>
+All prints are disturbed . <eos>
+All students were n't hugged . <eos>
+A lot of movies are n't hugged . <eos>
+The cashier was n't complained about . <eos>
+This association was n't complained about . <eos>
+That person is n't disagreed with . <eos>
+That rabbit was n't disagreed with . <eos>
+The man was discussed . <eos>
+Those dresses are discussed . <eos>
+Actors are n't watched . <eos>
+This fish was n't watched . <eos>
+The actress was embarrassed . <eos>
+The university is embarrassed . <eos>
+Some child is talked about . <eos>
+The rugs were n't talked about . <eos>
+That student was fled from . <eos>
+The gate was fled from . <eos>
+These waiters are n't remembered . <eos>
+Some rug was n't remembered . <eos>
+This girl was approached . <eos>
+Most plays were n't approached . <eos>
+That child is sounded like . <eos>
+A lot of planes are n't sounded like . <eos>
+The person was n't left . <eos>
+That medium is n't left . <eos>
+Many girls are criticized . <eos>
+These chairs were n't criticized . <eos>
+The woman was concealed . <eos>
+The glacier was concealed . <eos>
+A lot of boys were approached . <eos>
+Some photograph was n't approached . <eos>
+These children are stunned . <eos>
+Malls were n't stunned . <eos>
+Those guests are concealed . <eos>
+That cart was concealed . <eos>
+The person is disliked . <eos>
+The rivers were disliked . <eos>
+The cashiers are argued about . <eos>
+Some ellipses were n't argued about . <eos>
+Some teachers are n't bored . <eos>
+Some chairs were bored . <eos>
+The girl was n't aggravated . <eos>
+Those hypotheses are n't aggravated . <eos>
+This girl was shocked . <eos>
+The associations are n't shocked . <eos>
+The actress is n't listened to . <eos>
+That bread is n't listened to . <eos>
+Guys were observed . <eos>
+All cacti were n't observed . <eos>
+Some driver was distracted . <eos>
+A print was n't distracted . <eos>
+Some offspring is praised . <eos>
+All plates were praised . <eos>
+The students are n't insulted . <eos>
+That axis was n't insulted . <eos>
+Every pedestrian was attacked . <eos>
+Every blouse is n't attacked . <eos>
+Those waitresses were impressed . <eos>
+A screen was n't impressed . <eos>
+Most alumni were n't disliked . <eos>
+Most movies are n't disliked . <eos>
+That woman was n't stunned . <eos>
+That sock is stunned . <eos>
+Some patient was loved . <eos>
+That dish is loved . <eos>
+The offspring were hated . <eos>
+Most universities were n't hated . <eos>
+Some child was alarmed . <eos>
+Some banks were alarmed . <eos>
+The senator is irritated . <eos>
+Some library is n't irritated . <eos>
+A lot of children were aggravated . <eos>
+Some axes were aggravated . <eos>
+All people were n't distracted . <eos>
+Some fungus was distracted . <eos>
+Those guys are complained about . <eos>
+Some oxen were complained about . <eos>
+All men were n't argued about . <eos>
+Every nucleus was argued about . <eos>
+Many alumni were boasted about . <eos>
+The foot was n't boasted about . <eos>
+A lot of boys were n't confused . <eos>
+The commentaries are n't confused . <eos>
+Some pedestrians are n't confused . <eos>
+Chicken is n't confused . <eos>
+The driver is n't investigated . <eos>
+The sketch was investigated . <eos>
+Many patients were approached . <eos>
+Most hills are approached . <eos>
+Some customer is embarrassed . <eos>
+This goose is embarrassed . <eos>
+All children are irritated . <eos>
+Many banks are irritated . <eos>
+Some waitresses are n't upset . <eos>
+Reports were upset . <eos>
+These pedestrians are n't bothered . <eos>
+These glaciers were n't bothered . <eos>
+Many teenagers are fired . <eos>
+That sock was fired . <eos>
+Some teacher is scared . <eos>
+The icicle was scared . <eos>
+Actors are n't listened to . <eos>
+Those feet are listened to . <eos>
+Some boy is kissed . <eos>
+Every closet is kissed . <eos>
+That woman is n't boasted about . <eos>
+Every lamp was n't boasted about . <eos>
+That waiter was stunned . <eos>
+A newspaper article was n't stunned . <eos>
+Some actor is praised . <eos>
+All theses are n't praised . <eos>
+That woman is kissed . <eos>
+These cars are n't kissed . <eos>
+Every child was referenced . <eos>
+A blouse was referenced . <eos>
+An actress was n't approached . <eos>
+Companies are approached . <eos>
+The waitress was n't loved . <eos>
+All deer were n't loved . <eos>
+Some customer was worried . <eos>
+This coat was worried . <eos>
+That boy is n't bothered . <eos>
+Some sweater is n't bothered . <eos>
+This doctor was n't confused . <eos>
+This blouse was n't confused . <eos>
+This student was forgotten . <eos>
+Schools are n't forgotten . <eos>
+Most women were n't worried . <eos>
+The malls were worried . <eos>
+All children were n't fired . <eos>
+Mushrooms were fired . <eos>
+Some waiter is n't referenced . <eos>
+Many documentaries were n't referenced . <eos>
+Every person is annoyed . <eos>
+Oases are annoyed . <eos>
+Every patient was criticized . <eos>
+Some casseroles were criticized . <eos>
+These children were disliked . <eos>
+This museum was n't disliked . <eos>
+The waitresses were n't referenced . <eos>
+Every picture was referenced . <eos>
+Every boy was praised . <eos>
+Some cactus is n't praised . <eos>
+This waitress is bothered . <eos>
+Every couch was bothered . <eos>
+Some boy was listened to . <eos>
+Most species are listened to . <eos>
+Some pedestrians were n't left . <eos>
+Some ladder was left . <eos>
+An actress is approached . <eos>
+The organizations were approached . <eos>
+Many alumni were n't referenced . <eos>
+Those plates are n't referenced . <eos>
+Every man was n't helped . <eos>
+A lot of universities were helped . <eos>
+A doctor was n't sounded like . <eos>
+Many jackets were n't sounded like . <eos>
+Some lady is remembered . <eos>
+Some chairs were n't remembered . <eos>
+A senator is disturbed . <eos>
+Most shirts are n't disturbed . <eos>
+The offspring is n't criticized . <eos>
+Every art gallery was criticized . <eos>
+Some teacher was n't disgusted . <eos>
+Some stimulus was disgusted . <eos>
+Many dancers are n't left . <eos>
+That pasta was left . <eos>
+The man is n't disturbed . <eos>
+A lot of cars are disturbed . <eos>
+The patient is shocked . <eos>
+The company is shocked . <eos>
+Every doctor was worried . <eos>
+Some media are n't worried . <eos>
+Many actors are hated . <eos>
+This painting was hated . <eos>
+Some children are n't distracted . <eos>
+Some committees are n't distracted . <eos>
+All students were n't hurt . <eos>
+Most shoes were hurt . <eos>
+All offspring were impressed . <eos>
+The vase is impressed . <eos>
+Every child was n't embarrassed . <eos>
+The bananas were embarrassed . <eos>
+A man is praised . <eos>
+The chairs were n't praised . <eos>
+Many customers are forgotten . <eos>
+That pasta is n't forgotten . <eos>
+A lot of people are n't fled from . <eos>
+Some story is fled from . <eos>
+A teenager was complained about . <eos>
+Skirts are complained about . <eos>
+A child was n't hired . <eos>
+Most rugs are hired . <eos>
+That customer is visited . <eos>
+Every committee was visited . <eos>
+The doctors were n't astounded . <eos>
+Some couch was n't astounded . <eos>
+Every doctor was returned to . <eos>
+The basis is returned to . <eos>
+The guest was aggravated . <eos>
+All cats are n't aggravated . <eos>
+This person was fired . <eos>
+The spotlight is n't fired . <eos>
+These people were concealed . <eos>
+All bases were n't concealed . <eos>
+The alumni were n't left . <eos>
+Those dishes were left . <eos>
+A lot of children were talked about . <eos>
+The computers are talked about . <eos>
+Most cashiers are fired . <eos>
+Some skateboard was n't fired . <eos>
+The child is fled from . <eos>
+These sheep were n't fled from . <eos>
+Some offspring were n't remembered . <eos>
+Every synopsis is remembered . <eos>
+The driver is kissed . <eos>
+Some box was n't kissed . <eos>
+Those customers were forgotten . <eos>
+Glaciers were forgotten . <eos>
+A driver was hugged . <eos>
+Doors were hugged . <eos>
+The woman is n't argued about . <eos>
+This photograph was n't argued about . <eos>
+Some dancer is scared . <eos>
+Those movies were n't scared . <eos>
+Some student was shocked . <eos>
+Some legislature is n't shocked . <eos>
+The cashier was n't observed . <eos>
+Those muffins are observed . <eos>
+A dancer was n't criticized . <eos>
+A lot of organizations were criticized . <eos>
+Those customers were n't insulted . <eos>
+All cars are insulted . <eos>
+This waitress was complained about . <eos>
+Some foot is complained about . <eos>
+That woman is respected . <eos>
+The lamp is n't respected . <eos>
+A teacher is disliked . <eos>
+Those cars are disliked . <eos>
+Many drivers are n't observed . <eos>
+High schools are observed . <eos>
+Some patients were praised . <eos>
+That light is praised . <eos>
+Every woman was hated . <eos>
+Most sketches are n't hated . <eos>
+That dancer is n't returned to . <eos>
+A lot of apples were returned to . <eos>
+Many people were n't escaped from . <eos>
+A lot of rivers were n't escaped from . <eos>
+Cashiers were n't remembered . <eos>
+That cat was n't remembered . <eos>
+A lot of women are n't talked to . <eos>
+This book is talked to . <eos>
+All people were disgusted . <eos>
+Those screens are disgusted . <eos>
+Those boys were n't hugged . <eos>
+A door was n't hugged . <eos>
+The person is n't respected . <eos>
+Many coats are respected . <eos>
+The senators are talked to . <eos>
+A lot of lights were n't talked to . <eos>
+That doctor was astounded . <eos>
+A library was n't astounded . <eos>
+The patients are n't annoyed . <eos>
+Grocery stores are n't annoyed . <eos>
+A lot of teenagers are remembered . <eos>
+The dogs were n't remembered . <eos>
+The cashier was n't hurt . <eos>
+Glaciers are hurt . <eos>
+Some child was n't distracted . <eos>
+Most movies were distracted . <eos>
+Many actresses were n't annoyed . <eos>
+That college campus is annoyed . <eos>
+The boy is known . <eos>
+That nucleus is n't known . <eos>
+These offspring are disturbed . <eos>
+Some wheelbarrow is disturbed . <eos>
+A lot of actresses were disliked . <eos>
+The closets were n't disliked . <eos>
+Every woman is referenced . <eos>
+This dress was n't referenced . <eos>
+A woman was n't discussed . <eos>
+This blouse is discussed . <eos>
+The customer is n't argued about . <eos>
+The fungi are n't argued about . <eos>
+Some offspring was fled from . <eos>
+This spinach was n't fled from . <eos>
+The pedestrian was questioned . <eos>
+Some ox is questioned . <eos>
+Some teacher was n't escaped from . <eos>
+Every sock is escaped from . <eos>
+Most guys were n't disliked . <eos>
+This pamphlet is n't disliked . <eos>
+All teenagers were kissed . <eos>
+A lot of pictures are kissed . <eos>
+All waitresses are n't kissed . <eos>
+Every snake is kissed . <eos>
+Waitresses were alarmed . <eos>
+Many committees are alarmed . <eos>
+Some waitresses were n't annoyed . <eos>
+Some college campuses were n't annoyed . <eos>
+Some cashier was disliked . <eos>
+This ellipsis is disliked . <eos>
+Some doctor was n't disliked . <eos>
+Those glasses were disliked . <eos>
+Ladies were visited . <eos>
+That nose was n't visited . <eos>
+Actors are n't boasted about . <eos>
+The skateboards were n't boasted about . <eos>
+A lot of offspring are n't sounded like . <eos>
+Most geese were sounded like . <eos>
+A lot of women were n't discussed . <eos>
+Most coats were n't discussed . <eos>
+The customer was hired . <eos>
+Many mushrooms are hired . <eos>
+The waitress is discussed . <eos>
+Some species were n't discussed . <eos>
+Many waitresses were n't worried . <eos>
+A lot of gloves are n't worried . <eos>
+Many ladies were forgotten . <eos>
+That slope is n't forgotten . <eos>
+Offspring were forgotten . <eos>
+Some photograph is forgotten . <eos>
+Every teacher is n't investigated . <eos>
+Every restaurant is n't investigated . <eos>
+A lot of people were appreciated . <eos>
+Some stories are appreciated . <eos>
+All offspring are n't investigated . <eos>
+Every octopus was n't investigated . <eos>
+These cashiers are n't sounded like . <eos>
+That shirt is n't sounded like . <eos>
+Some waitress is n't disgusted . <eos>
+Many shoes are n't disgusted . <eos>
+The customers are n't insulted . <eos>
+That cactus was n't insulted . <eos>
+Many waiters were n't argued about . <eos>
+That muffin is n't argued about . <eos>
+That senator was fled from . <eos>
+Many lice are fled from . <eos>
+The senator is questioned . <eos>
+That parenthesis was n't questioned . <eos>
+A woman was n't stunned . <eos>
+A banana was n't stunned . <eos>
+Some teenager was n't annoyed . <eos>
+That skirt is annoyed . <eos>
+That offspring was n't remembered . <eos>
+A shirt was remembered . <eos>
+Some actress was n't argued about . <eos>
+Many teeth are n't argued about . <eos>
+Every adult was n't appreciated . <eos>
+Every hospital was n't appreciated . <eos>
+Waitresses were known . <eos>
+That bread was known . <eos>
+The boy was n't boasted about . <eos>
+A lot of stories are boasted about . <eos>
+These adults are n't respected . <eos>
+A lot of species are n't respected . <eos>
+This man is disgusted . <eos>
+A truck is disgusted . <eos>
+A woman is remembered . <eos>
+Prints were n't remembered . <eos>
+This lady was hugged . <eos>
+This casserole was n't hugged . <eos>
+Most guests were shocked . <eos>
+The cars were shocked . <eos>
+Some boy was irritated . <eos>
+A lot of cacti were irritated . <eos>
+This waiter is n't criticized . <eos>
+A lot of lamps are criticized . <eos>
+Some patients are n't investigated . <eos>
+A library is n't investigated . <eos>
+Every child is complained about . <eos>
+Every shoe is complained about . <eos>
+The waitress is respected . <eos>
+Most gloves are respected . <eos>
+Most ladies are n't hired . <eos>
+Many movies were hired . <eos>
+These waitresses were n't criticized . <eos>
+Most series were n't criticized . <eos>
+Every boy was n't disgusted . <eos>
+Water is n't disgusted . <eos>
+Some alumni were hugged . <eos>
+A deer was hugged . <eos>
+That man is escaped from . <eos>
+This car is n't escaped from . <eos>
+Some dancer is n't helped . <eos>
+That closet was helped . <eos>
+Some adult was investigated . <eos>
+The fungi are investigated . <eos>
+The people were n't talked about . <eos>
+Most paintings are n't talked about . <eos>
+Most women are n't distracted . <eos>
+A snake is n't distracted . <eos>
+The pedestrians are shocked . <eos>
+Those unicycles were shocked . <eos>
+Many women were n't distracted . <eos>
+Those public parks were distracted . <eos>
+Most customers were hired . <eos>
+These shoes were n't hired . <eos>
+A lot of dancers were n't disliked . <eos>
+The hospitals were disliked . <eos>
+Every child was n't astounded . <eos>
+Most windows were astounded . <eos>
+Every lady was watched . <eos>
+Most libraries are n't watched . <eos>
+The waiters are n't complained about . <eos>
+The hospital was complained about . <eos>
+The waitresses were helped . <eos>
+That couch is n't helped . <eos>
+Most girls were cared for . <eos>
+A plane is cared for . <eos>
+The doctor was n't upset . <eos>
+This coat is n't upset . <eos>
+The cashiers were bored . <eos>
+Most lakes were n't bored . <eos>
+The children were worried . <eos>
+That cactus is worried . <eos>
+Most doctors were insulted . <eos>
+Some committees were n't insulted . <eos>
+Every boy is n't argued about . <eos>
+Some university is n't argued about . <eos>
+Those guys were loved . <eos>
+The louse is loved . <eos>
+That adult was concealed . <eos>
+A lot of malls were n't concealed . <eos>
+Many pedestrians are insulted . <eos>
+The sketches are insulted . <eos>
+These waiters are distracted . <eos>
+That screen is n't distracted . <eos>
+A student was n't boasted about . <eos>
+This banana was n't boasted about . <eos>
+Most girls were known . <eos>
+Most closets were n't known . <eos>
+Most boys were fled from . <eos>
+Some apples are fled from . <eos>
+The actor is disagreed with . <eos>
+Most schools were disagreed with . <eos>
+The ladies were n't kissed . <eos>
+This cup was n't kissed . <eos>
+Many offspring are helped . <eos>
+That print was helped . <eos>
+The student is n't praised . <eos>
+Every muffin was n't praised . <eos>
+That driver was n't annoyed . <eos>
+The paralyses are annoyed . <eos>
+A patient is n't boasted about . <eos>
+These sweaters are n't boasted about . <eos>
+Some child is hated . <eos>
+A brochure was n't hated . <eos>
+Some pedestrian is n't concealed . <eos>
+This rug is n't concealed . <eos>
+Those doctors are shocked . <eos>
+This picture was n't shocked . <eos>
+These senators were n't bored . <eos>
+Every book was bored . <eos>
+This dancer is n't investigated . <eos>
+Some hat is n't investigated . <eos>
+Every waiter was n't visited . <eos>
+Those photographs are n't visited . <eos>
+The waitresses were n't discussed . <eos>
+A lot of reports were discussed . <eos>
+Most alumni were hurt . <eos>
+A jacket was n't hurt . <eos>
+The patient is appreciated . <eos>
+A lot of sheep are n't appreciated . <eos>
+All girls are n't disgusted . <eos>
+Some grocery store was disgusted . <eos>
+The actress is n't disagreed with . <eos>
+The lakes were n't disagreed with . <eos>
+That child is n't bothered . <eos>
+These skateboards are bothered . <eos>
+Some students are criticized . <eos>
+A story is n't criticized . <eos>
+Most children were concealed . <eos>
+Pork is concealed . <eos>
+The actress was n't insulted . <eos>
+This book is n't insulted . <eos>
+The people are left . <eos>
+Apples were left . <eos>
+Most alumni were scared . <eos>
+This bike was scared . <eos>
+Those students were n't listened to . <eos>
+This pasta was n't listened to . <eos>
+The driver is n't kissed . <eos>
+That computer is kissed . <eos>
+A lot of guests are alarmed . <eos>
+Paintings were n't alarmed . <eos>
+That guest was hated . <eos>
+Those shawls are n't hated . <eos>
+All senators were scared . <eos>
+Many commentaries were scared . <eos>
+The customer is confused . <eos>
+The plays were n't confused . <eos>
+This doctor was n't appreciated . <eos>
+Some restaurant was n't appreciated . <eos>
+Some children were insulted . <eos>
+The screens were n't insulted . <eos>
+Some driver was n't sounded like . <eos>
+These brochures were n't sounded like . <eos>
+Senators are bored . <eos>
+Those bananas are n't bored . <eos>
+Those actresses are n't aggravated . <eos>
+A lot of media are aggravated . <eos>
+Some guys were n't distracted . <eos>
+The glacier was n't distracted . <eos>
+That dancer is n't escaped from . <eos>
+This glove was n't escaped from . <eos>
+All teenagers are scared . <eos>
+A diagnosis is n't scared . <eos>
+A teenager is shocked . <eos>
+The spotlights are n't shocked . <eos>
+Some pedestrian was n't cared for . <eos>
+Every diagnosis was n't cared for . <eos>
+A lot of doctors were irritated . <eos>
+A lot of drawings were n't irritated . <eos>
+Some child is impressed . <eos>
+Shawls were n't impressed . <eos>
+A lady is visited . <eos>
+Most projectors were n't visited . <eos>
+A child was n't annoyed . <eos>
+A mirror is n't annoyed . <eos>
+The teacher is insulted . <eos>
+The jacket is n't insulted . <eos>
+Some guy is n't argued about . <eos>
+An octopus is n't argued about . <eos>
+That offspring was n't annoyed . <eos>
+All windows are annoyed . <eos>
+All dancers are questioned . <eos>
+This painting was n't questioned . <eos>
+The waitress is disagreed with . <eos>
+This rice was disagreed with . <eos>
+That senator is n't concealed . <eos>
+Many radii were concealed . <eos>
+Every man was n't appreciated . <eos>
+This ellipsis is appreciated . <eos>
+A lot of people are left . <eos>
+A skirt is left . <eos>
+That lady is left . <eos>
+Most teeth were n't left . <eos>
+Alumni are hired . <eos>
+This turtle was n't hired . <eos>
+Children were kissed . <eos>
+That sketch is n't kissed . <eos>
+Those students are n't hired . <eos>
+Most mountains are hired . <eos>
+Some patients were n't hated . <eos>
+A mushroom is hated . <eos>
+All teachers were visited . <eos>
+Those phenomena are n't visited . <eos>
+All children were hugged . <eos>
+The analysis was hugged . <eos>
+This lady is n't shocked . <eos>
+This phenomenon was shocked . <eos>
+Some adult was upset . <eos>
+A lot of candles are n't upset . <eos>
+All dancers were n't bored . <eos>
+The movies are bored . <eos>
+All cashiers were n't escaped from . <eos>
+A chair is n't escaped from . <eos>
+This lady was criticized . <eos>
+This university is criticized . <eos>
+Some woman is n't shocked . <eos>
+Many mouths were shocked . <eos>
+Men are n't appreciated . <eos>
+All malls are appreciated . <eos>
+An adult is returned to . <eos>
+Every cafe is n't returned to . <eos>
+These children were n't attacked . <eos>
+Cilantro was n't attacked . <eos>
+These doctors were n't astounded . <eos>
+Most windows are astounded . <eos>
+A pedestrian is n't visited . <eos>
+These grocery stores are n't visited . <eos>
+This dancer is n't bothered . <eos>
+That candle was bothered . <eos>
+A driver is n't sounded like . <eos>
+A glass is sounded like . <eos>
+The pedestrian is disturbed . <eos>
+Some report is disturbed . <eos>
+A driver is disagreed with . <eos>
+Every box was n't disagreed with . <eos>
+All teenagers were bothered . <eos>
+These books are n't bothered . <eos>
+Some teenager was n't cared for . <eos>
+All spotlights were n't cared for . <eos>
+Girls were known . <eos>
+A lot of pamphlets are known . <eos>
+Some waitress was forgotten . <eos>
+A rabbit was n't forgotten . <eos>
+Those offspring were n't described . <eos>
+All cafes are n't described . <eos>
+Men are shocked . <eos>
+The dishes are shocked . <eos>
+Senators are argued about . <eos>
+Those theses are n't argued about . <eos>
+That man is n't fired . <eos>
+All crises are fired . <eos>
+Many customers were n't returned to . <eos>
+That rice was n't returned to . <eos>
+Some cashiers are n't alarmed . <eos>
+Steak is n't alarmed . <eos>
+Many men were n't alarmed . <eos>
+All mirrors are alarmed . <eos>
+That man is n't helped . <eos>
+That deer was n't helped . <eos>
+All students were n't hired . <eos>
+A lot of skateboards were n't hired . <eos>
+Those adults were forgotten . <eos>
+Some cart was n't forgotten . <eos>
+Customers were n't known . <eos>
+That library was known . <eos>
+Every woman is n't hugged . <eos>
+Every candle is n't hugged . <eos>
+All waitresses are astounded . <eos>
+This pork is n't astounded . <eos>
+A teacher was appreciated . <eos>
+A door is n't appreciated . <eos>
+Some dancers are n't fled from . <eos>
+This college campus is fled from . <eos>
+Most guests are questioned . <eos>
+Every rug is n't questioned . <eos>
+The pedestrians were appreciated . <eos>
+The art gallery is appreciated . <eos>
+The boys were disagreed with . <eos>
+Those pictures were n't disagreed with . <eos>
+Some teacher was disturbed . <eos>
+Some shirts were n't disturbed . <eos>
+A lot of people were n't bothered . <eos>
+The window is n't bothered . <eos>
+Those doctors are watched . <eos>
+All candles are n't watched . <eos>
+Many children were n't upset . <eos>
+The chicken was upset . <eos>
+Those women are listened to . <eos>
+Some commentary is n't listened to . <eos>
+Some customers are listened to . <eos>
+Dishes are listened to . <eos>
+These teachers were n't respected . <eos>
+Beef is respected . <eos>
+Some alumnus was argued about . <eos>
+Those jackets were n't argued about . <eos>
+A boy was hired . <eos>
+The ice cream was n't hired . <eos>
+All alumni are talked to . <eos>
+A jacket was n't talked to . <eos>
+Actors were n't loved . <eos>
+This thesis was n't loved . <eos>
+Every doctor was praised . <eos>
+A river was n't praised . <eos>
+The lady is n't left . <eos>
+These cups were left . <eos>
+These patients were n't irritated . <eos>
+That committee is irritated . <eos>
+Many actresses are fired . <eos>
+The scarf is n't fired . <eos>
+Every offspring is n't criticized . <eos>
+This banana is criticized . <eos>
+The driver was n't upset . <eos>
+A cat was n't upset . <eos>
+The lady is n't alarmed . <eos>
+All cars are n't alarmed . <eos>
+People are annoyed . <eos>
+Many committees are annoyed . <eos>
+Some doctors were bothered . <eos>
+That closet is bothered . <eos>
+Some customer is watched . <eos>
+All computers are n't watched . <eos>
+A lot of girls are referenced . <eos>
+Some hill was referenced . <eos>
+The guys are loved . <eos>
+The dog was loved . <eos>
+A lot of boys were n't hurt . <eos>
+Pants are n't hurt . <eos>
+Some men are n't cared for . <eos>
+A lot of committees were n't cared for . <eos>
+That pedestrian is n't fled from . <eos>
+This sketch was n't fled from . <eos>
+Some guy is n't left . <eos>
+Those museums were n't left . <eos>
+That child is irritated . <eos>
+Some casserole was irritated . <eos>
+Some boys were n't hired . <eos>
+The paintings were hired . <eos>
+A teenager is fired . <eos>
+The hospitals are fired . <eos>
+Some ladies are worried . <eos>
+That eye is worried . <eos>
+Some guys were n't worried . <eos>
+The public park was n't worried . <eos>
+The women were n't watched . <eos>
+Some legislature is watched . <eos>
+All senators are complained about . <eos>
+That glacier is complained about . <eos>
+Every waitress is n't annoyed . <eos>
+A lot of planes were n't annoyed . <eos>
+Some teenagers were distracted . <eos>
+A lot of wheelbarrows are n't distracted . <eos>
+The customer was scared . <eos>
+Those college campuses are n't scared . <eos>
+Many offspring are irritated . <eos>
+A lot of rugs are irritated . <eos>
+Most offspring are appreciated . <eos>
+The play is n't appreciated . <eos>
+A lot of pedestrians are n't disturbed . <eos>
+These coats are n't disturbed . <eos>
+A lot of waitresses were upset . <eos>
+A drawing was upset . <eos>
+These actresses were n't forgotten . <eos>
+The pictures are n't forgotten . <eos>
+Many actors were n't concealed . <eos>
+The computer was n't concealed . <eos>
+Every guy is upset . <eos>
+A glove was upset . <eos>
+The dancer is n't argued about . <eos>
+That spotlight is argued about . <eos>
+The students are n't referenced . <eos>
+Most college campuses are referenced . <eos>
+Some teachers were left . <eos>
+Many birds were left . <eos>
+Many students were n't disgusted . <eos>
+The plays were n't disgusted . <eos>
+A driver was insulted . <eos>
+Some peppers are n't insulted . <eos>
+Most teachers were n't boasted about . <eos>
+Analyses were boasted about . <eos>
+These patients were n't investigated . <eos>
+A nucleus is investigated . <eos>
+Waitresses are irritated . <eos>
+A blouse is n't irritated . <eos>
+These pedestrians were argued about . <eos>
+All casseroles were argued about . <eos>
+Waiters are investigated . <eos>
+Some committee is n't investigated . <eos>
+Many patients are disliked . <eos>
+Most eggplants were n't disliked . <eos>
+These children are upset . <eos>
+The gate was upset . <eos>
+The cashiers are returned to . <eos>
+All synopses are n't returned to . <eos>
+Every doctor is forgotten . <eos>
+Every cake was forgotten . <eos>
+The pedestrian is n't bothered . <eos>
+Many cakes are n't bothered . <eos>
+A woman was hugged . <eos>
+The window is hugged . <eos>
+A child is cared for . <eos>
+This foot is cared for . <eos>
+Some drivers were n't escaped from . <eos>
+That pork is n't escaped from . <eos>
+The boy was n't worried . <eos>
+These legislatures are worried . <eos>
+That alumnus is n't criticized . <eos>
+Every cat is criticized . <eos>
+That man is n't insulted . <eos>
+This brochure is n't insulted . <eos>
+The man was n't listened to . <eos>
+Trucks were listened to . <eos>
+Some women were n't investigated . <eos>
+Most paintings are n't investigated . <eos>
+Some girl is annoyed . <eos>
+That sock was annoyed . <eos>
+Some boy is helped . <eos>
+This spotlight was helped . <eos>
+Some people were n't referenced . <eos>
+That glass was n't referenced . <eos>
+Customers were left . <eos>
+Art galleries are left . <eos>
+The waitress was loved . <eos>
+Gates are n't loved . <eos>
+A lot of customers are n't investigated . <eos>
+Every play was investigated . <eos>
+Some students were sounded like . <eos>
+Some parenthesis was sounded like . <eos>
+Some woman is n't bored . <eos>
+Every cactus was n't bored . <eos>
+The teenagers were n't appreciated . <eos>
+The foot is n't appreciated . <eos>
+The customers were shocked . <eos>
+These feet were n't shocked . <eos>
+That dancer was annoyed . <eos>
+Carriages are annoyed . <eos>
+A customer is talked to . <eos>
+Every coat is n't talked to . <eos>
+The boy was discussed . <eos>
+All mountains are discussed . <eos>
+Every woman was hugged . <eos>
+A museum was n't hugged . <eos>
+The patient is distracted . <eos>
+The newspaper article was n't distracted . <eos>
+All guys were n't praised . <eos>
+Many photographs are n't praised . <eos>
+The actor was n't shocked . <eos>
+That bank was shocked . <eos>
+Most women were distracted . <eos>
+A bird is distracted . <eos>
+Alumni were n't attacked . <eos>
+This dog was attacked . <eos>
+Every teacher was respected . <eos>
+These geese were respected . <eos>
+Those alumni were n't insulted . <eos>
+These carts are n't insulted . <eos>
+All teenagers are fled from . <eos>
+Some chicken is n't fled from . <eos>
+A lot of cashiers were boasted about . <eos>
+Most gates are boasted about . <eos>
+A man was n't talked about . <eos>
+All newspaper articles were n't talked about . <eos>
+Some children were n't confused . <eos>
+A popsicle was confused . <eos>
+These cashiers were complained about . <eos>
+Every crisis was n't complained about . <eos>
+A driver is n't stunned . <eos>
+Some bike was stunned . <eos>
+The waiters were n't upset . <eos>
+This couch is n't upset . <eos>
+Some student is questioned . <eos>
+That blouse was questioned . <eos>
+A lot of people were n't argued about . <eos>
+Sweaters were n't argued about . <eos>
+The drivers are n't worked with . <eos>
+This door was n't worked with . <eos>
+A guy is n't disagreed with . <eos>
+Some screen is n't disagreed with . <eos>
+That girl was n't attacked . <eos>
+A lot of rugs were attacked . <eos>
+Actresses are n't insulted . <eos>
+The spinach is n't insulted . <eos>
+A lot of actors are n't confused . <eos>
+A lot of slopes were confused . <eos>
+Some senators were described . <eos>
+Those carts are n't described . <eos>
+These children were concealed . <eos>
+Every cart was concealed . <eos>
+Waiters are returned to . <eos>
+A documentary was returned to . <eos>
+Guests are n't impressed . <eos>
+A truck was impressed . <eos>
+A child is n't disturbed . <eos>
+A computer was disturbed . <eos>
+Every alumnus is attacked . <eos>
+All snakes are n't attacked . <eos>
+These people are n't listened to . <eos>
+All glaciers are listened to . <eos>
+An offspring is n't annoyed . <eos>
+That turtle was annoyed . <eos>
+This teenager is n't sounded like . <eos>
+Every sketch is n't sounded like . <eos>
+These offspring are n't disliked . <eos>
+These libraries are disliked . <eos>
+A teacher was observed . <eos>
+Art galleries were observed . <eos>
+A woman is upset . <eos>
+Mouths were n't upset . <eos>
+Some guest is n't described . <eos>
+All plays are n't described . <eos>
+Many guests were bored . <eos>
+A hat is n't bored . <eos>
+Some dancer was concealed . <eos>
+Many glasses are n't concealed . <eos>
+A teacher is n't sounded like . <eos>
+Some bird is sounded like . <eos>
+Every lady is n't listened to . <eos>
+Those teeth were listened to . <eos>
+The ladies were n't disturbed . <eos>
+A fish is disturbed . <eos>
+That senator is argued about . <eos>
+A convertible is argued about . <eos>
+Many waiters are n't scared . <eos>
+This fish was scared . <eos>
+This adult is n't concealed . <eos>
+Many public parks were n't concealed . <eos>
+Some cashier was argued about . <eos>
+A vase was n't argued about . <eos>
+That adult was n't appreciated . <eos>
+That dog is n't appreciated . <eos>
+The adult is n't hurt . <eos>
+Those shirts are n't hurt . <eos>
+Every alumnus was returned to . <eos>
+These socks were n't returned to . <eos>
+A student was embarrassed . <eos>
+All newspaper articles are embarrassed . <eos>
+That man was n't distracted . <eos>
+A wheelbarrow was distracted . <eos>
+A customer is disgusted . <eos>
+Many fish were disgusted . <eos>
+Some waiter was stunned . <eos>
+A spotlight is n't stunned . <eos>
+The guest was confused . <eos>
+That bank was confused . <eos>
+These adults are n't worked with . <eos>
+Those stimuli were n't worked with . <eos>
+All teachers were observed . <eos>
+Most plays were n't observed . <eos>
+A dancer was returned to . <eos>
+That pepper was returned to . <eos>
+The people are n't criticized . <eos>
+That carriage was criticized . <eos>
+Some waitresses were escaped from . <eos>
+Those prints were n't escaped from . <eos>
+A lot of customers are stunned . <eos>
+This book is stunned . <eos>
+That boy was n't worked with . <eos>
+That ice cream was n't worked with . <eos>
+An actress was n't disgusted . <eos>
+Some box is disgusted . <eos>
+The teachers were n't listened to . <eos>
+Those essays were n't listened to . <eos>
+Some boy is n't fired . <eos>
+Most series are fired . <eos>
+These waitresses are impressed . <eos>
+That species was n't impressed . <eos>
+The teacher is n't fled from . <eos>
+A box was fled from . <eos>
+A lot of teachers are n't remembered . <eos>
+A photograph was remembered . <eos>
+The offspring was watched . <eos>
+This parenthesis was watched . <eos>
+Those waiters are remembered . <eos>
+Turtles are n't remembered . <eos>
+All people were n't escaped from . <eos>
+Every screen is n't escaped from . <eos>
+A child was n't embarrassed . <eos>
+A lot of organizations are embarrassed . <eos>
+Most men were shocked . <eos>
+That slope was n't shocked . <eos>
+Some woman was n't remembered . <eos>
+Some syntheses are n't remembered . <eos>
+That person was n't stunned . <eos>
+That species is n't stunned . <eos>
+Teachers were n't scared . <eos>
+The museum is n't scared . <eos>
+Some cashiers are n't watched . <eos>
+This coat was watched . <eos>
+The students are n't disagreed with . <eos>
+The legislature is disagreed with . <eos>
+The guys are n't disgusted . <eos>
+This coat is disgusted . <eos>
+Every driver is n't annoyed . <eos>
+That dog was n't annoyed . <eos>
+Those guys are n't embarrassed . <eos>
+Those brochures were embarrassed . <eos>
+Dancers are embarrassed . <eos>
+The apple is embarrassed . <eos>
+This waitress is n't disturbed . <eos>
+Every ellipsis was n't disturbed . <eos>
+This lady is respected . <eos>
+These chairs were n't respected . <eos>
+All men were questioned . <eos>
+A cat is questioned . <eos>
+Customers were escaped from . <eos>
+A species is n't escaped from . <eos>
+This teacher is n't distracted . <eos>
+The jacket was distracted . <eos>
+This waiter was scared . <eos>
+A lot of theses are scared . <eos>
+A child was n't complained about . <eos>
+Every tooth is n't complained about . <eos>
+This lady is n't investigated . <eos>
+All parentheses were n't investigated . <eos>
+Many drivers are impressed . <eos>
+Some hamsters are n't impressed . <eos>
+The cashiers are approached . <eos>
+That mountain is approached . <eos>
+Some boy is bothered . <eos>
+The rabbits were n't bothered . <eos>
+All doctors were n't stunned . <eos>
+Every crisis was stunned . <eos>
+Most actors are escaped from . <eos>
+The legislature is escaped from . <eos>
+The teacher was sounded like . <eos>
+Some painting was n't sounded like . <eos>
+Some alumni are n't confused . <eos>
+A picture is n't confused . <eos>
+Most alumni are talked about . <eos>
+All glasses are talked about . <eos>
+A lot of doctors were n't talked about . <eos>
+The radius is talked about . <eos>
+This student was n't concealed . <eos>
+That species was concealed . <eos>
+Some actress was n't watched . <eos>
+Every basis was n't watched . <eos>
+Some girls were n't boasted about . <eos>
+Muffins were n't boasted about . <eos>
+Those dancers were n't disliked . <eos>
+That analysis was disliked . <eos>
+Those boys were alarmed . <eos>
+The company is alarmed . <eos>
+Some child is astounded . <eos>
+Glaciers were astounded . <eos>
+The pedestrians were n't worried . <eos>
+All parentheses are n't worried . <eos>
+Children are n't helped . <eos>
+The company was helped . <eos>
+The man is stunned . <eos>
+These coats were n't stunned . <eos>
+That woman is astounded . <eos>
+All college campuses were n't astounded . <eos>
+All waitresses were confused . <eos>
+Some octopus was n't confused . <eos>
+That alumnus is n't remembered . <eos>
+Pictures are n't remembered . <eos>
+Students were escaped from . <eos>
+Some stimulus was n't escaped from . <eos>
+Every alumnus is known . <eos>
+Every oasis is known . <eos>
+That pedestrian is n't astounded . <eos>
+Every axis is n't astounded . <eos>
+This alumnus is left . <eos>
+This nucleus was n't left . <eos>
+Cashiers were n't escaped from . <eos>
+A pepper is n't escaped from . <eos>
+This waiter is forgotten . <eos>
+Most convertibles are n't forgotten . <eos>
+A boy is astounded . <eos>
+The oxen are astounded . <eos>
+A lot of cashiers are n't boasted about . <eos>
+The bread is n't boasted about . <eos>
+A lot of guests were hired . <eos>
+The medium is hired . <eos>
+Some men are respected . <eos>
+That rug is respected . <eos>
+These people are referenced . <eos>
+That jacket is n't referenced . <eos>
+A senator was disagreed with . <eos>
+Some basis is disagreed with . <eos>
+Some actor was n't disgusted . <eos>
+Cars are n't disgusted . <eos>
+Some girl is visited . <eos>
+Some birds were visited . <eos>
+The cashiers were sounded like . <eos>
+The mountains are n't sounded like . <eos>
+A man was n't disagreed with . <eos>
+That college campus was disagreed with . <eos>
+These dancers were n't visited . <eos>
+The muffins are visited . <eos>
+Many patients are insulted . <eos>
+That basis was insulted . <eos>
+That waiter is n't bored . <eos>
+That cilantro is bored . <eos>
+The guest was hired . <eos>
+These lice were hired . <eos>
+Girls were n't praised . <eos>
+A mouth was n't praised . <eos>
+These customers were watched . <eos>
+All oases were n't watched . <eos>
+A lot of guys were fled from . <eos>
+Those octopi are fled from . <eos>
+Most customers were n't hated . <eos>
+Some jackets are n't hated . <eos>
+That cashier was n't hurt . <eos>
+Ice cream is n't hurt . <eos>
+Some offspring are n't sounded like . <eos>
+Most sheep were sounded like . <eos>
+These dancers are n't remembered . <eos>
+A lot of gloves were remembered . <eos>
+This actor was n't stunned . <eos>
+That cake was n't stunned . <eos>
+A lot of waitresses are n't argued about . <eos>
+This octopus was argued about . <eos>
+A woman is stunned . <eos>
+A lot of cucumbers were stunned . <eos>
+Some actor is n't helped . <eos>
+Most glaciers were n't helped . <eos>
+Every alumnus was n't stunned . <eos>
+A shoe was stunned . <eos>
+Every waiter was n't referenced . <eos>
+A thesis is referenced . <eos>
+Many people were described . <eos>
+Most socks are described . <eos>
+That doctor was n't disturbed . <eos>
+Most ellipses were disturbed . <eos>
+A pedestrian was respected . <eos>
+Many mouths were respected . <eos>
+Alumni are n't discussed . <eos>
+Every shirt was discussed . <eos>
+The girls were n't hated . <eos>
+Most companies are hated . <eos>
+An adult is disliked . <eos>
+Some hamsters are n't disliked . <eos>
+This lady was disturbed . <eos>
+Most bicycles are disturbed . <eos>
+That guest is n't watched . <eos>
+This carriage is n't watched . <eos>
+That senator was investigated . <eos>
+Most projectors are investigated . <eos>
+Some woman was disgusted . <eos>
+Some computer is n't disgusted . <eos>
+Most students are hired . <eos>
+A lot of trucks were hired . <eos>
+Every actor was n't approached . <eos>
+The blouses were n't approached . <eos>
+A lady was n't distracted . <eos>
+Pasta is n't distracted . <eos>
+Most children were bothered . <eos>
+These candles were bothered . <eos>
+Some teachers were n't hurt . <eos>
+Some grocery store is n't hurt . <eos>
+The people were n't annoyed . <eos>
+Many convertibles are annoyed . <eos>
+That lady is appreciated . <eos>
+Most wheelbarrows were n't appreciated . <eos>
+The driver is n't referenced . <eos>
+Museums were referenced . <eos>
+That alumnus is hated . <eos>
+Some fish were n't hated . <eos>
+Many teachers are disgusted . <eos>
+This mouth was disgusted . <eos>
+These patients were n't approached . <eos>
+The screens were n't approached . <eos>
+The dancer was concealed . <eos>
+Many mouths were concealed . <eos>
+The guy is n't questioned . <eos>
+This drawing was questioned . <eos>
+An offspring was worried . <eos>
+A sweater is n't worried . <eos>
+Actresses are hugged . <eos>
+Every hypothesis is hugged . <eos>
+A lot of students were disagreed with . <eos>
+A series was disagreed with . <eos>
+A dancer is n't distracted . <eos>
+Many coats were n't distracted . <eos>
+This actress was n't worked with . <eos>
+Some movies are worked with . <eos>
+The doctors are n't fired . <eos>
+This eggplant is n't fired . <eos>
+This child was discussed . <eos>
+Some dish is discussed . <eos>
+A doctor was n't fled from . <eos>
+These prints were n't fled from . <eos>
+Every driver was impressed . <eos>
+A lot of hills were n't impressed . <eos>
+A lot of ladies were n't upset . <eos>
+These carts were n't upset . <eos>
+That girl was hired . <eos>
+A lot of paralyses are n't hired . <eos>
+These ladies are n't referenced . <eos>
+That car is referenced . <eos>
+A lot of boys were astounded . <eos>
+Most dishes were astounded . <eos>
+Those children are confused . <eos>
+This hair was confused . <eos>
+Many doctors are hired . <eos>
+The oxen were hired . <eos>
+That guy was hired . <eos>
+Those means were n't hired . <eos>
+Some dancers were n't disliked . <eos>
+Some bread is n't disliked . <eos>
+Every guy was talked about . <eos>
+All mice were talked about . <eos>
+Some senators are n't fired . <eos>
+This ice cream is n't fired . <eos>
+Most boys are n't talked about . <eos>
+Some book is talked about . <eos>
+A lot of ladies were visited . <eos>
+Many screens are n't visited . <eos>
+A woman is n't criticized . <eos>
+This university is criticized . <eos>
+That pedestrian is confused . <eos>
+Most eyes are confused . <eos>
+A customer was n't known . <eos>
+Many essays are n't known . <eos>
+Many actresses are attacked . <eos>
+Some bike is attacked . <eos>
+Dancers are worked with . <eos>
+The plays were worked with . <eos>
+All ladies were n't fled from . <eos>
+Nuclei were n't fled from . <eos>
+A lot of patients are n't left . <eos>
+Many snakes are n't left . <eos>
+Most women are n't discussed . <eos>
+A movie is discussed . <eos>
+The dancer is hated . <eos>
+All paintings are hated . <eos>
+These children are disturbed . <eos>
+A horse was disturbed . <eos>
+Some actor was n't attacked . <eos>
+Those legislatures were n't attacked . <eos>
+The man is disgusted . <eos>
+Some unicycle is disgusted . <eos>
+That man was disgusted . <eos>
+A lot of theses are disgusted . <eos>
+A lot of drivers were observed . <eos>
+Most rugs are n't observed . <eos>
+This man is referenced . <eos>
+That thesis is n't referenced . <eos>
+The guys were n't embarrassed . <eos>
+A lot of lice are embarrassed . <eos>
+Most pedestrians are n't forgotten . <eos>
+Those mirrors are forgotten . <eos>
+The children are n't referenced . <eos>
+A fish was n't referenced . <eos>
+Many men are hated . <eos>
+A lot of spotlights are hated . <eos>
+The dancer is aggravated . <eos>
+A lot of malls are aggravated . <eos>
+That offspring is sounded like . <eos>
+A mouth was sounded like . <eos>
+All ladies were insulted . <eos>
+All crises are n't insulted . <eos>
+All children were visited . <eos>
+That ox was visited . <eos>
+This boy was n't loved . <eos>
+Prints were loved . <eos>
+Many actors are discussed . <eos>
+This hospital was discussed . <eos>
+A lot of guests were n't irritated . <eos>
+A lot of hospitals were n't irritated . <eos>
+That alumnus is n't disgusted . <eos>
+Some axis is n't disgusted . <eos>
+That person is n't hired . <eos>
+Many photographs are n't hired . <eos>
+An actor was n't listened to . <eos>
+The company is n't listened to . <eos>
+Most people are n't embarrassed . <eos>
+Cars were n't embarrassed . <eos>
+Patients are escaped from . <eos>
+Reports were n't escaped from . <eos>
+Some alumni are forgotten . <eos>
+Every goose is forgotten . <eos>
+A waitress was scared . <eos>
+Some jackets were n't scared . <eos>
+The child is disgusted . <eos>
+This pepper was disgusted . <eos>
+This alumnus was n't appreciated . <eos>
+The closets were appreciated . <eos>
+Those adults are n't annoyed . <eos>
+The oases were n't annoyed . <eos>
+Some pedestrians are annoyed . <eos>
+A print was n't annoyed . <eos>
+Men are hugged . <eos>
+Some ice was hugged . <eos>
+Men are upset . <eos>
+The lights are upset . <eos>
+An adult was disliked . <eos>
+Most stimuli were n't disliked . <eos>
+The woman is n't talked about . <eos>
+This species was talked about . <eos>
+A lot of children were embarrassed . <eos>
+Most gloves were embarrassed . <eos>
+Teenagers are concealed . <eos>
+Every fork was concealed . <eos>
+That guy was n't scared . <eos>
+Every plane is n't scared . <eos>
+Those offspring are disliked . <eos>
+Every shoe is n't disliked . <eos>
+Most adults were n't attacked . <eos>
+The diagnosis is attacked . <eos>
+A teacher is n't respected . <eos>
+Those means were respected . <eos>
+A man was astounded . <eos>
+These oases are astounded . <eos>
+The guys were n't distracted . <eos>
+That couch is n't distracted . <eos>
+This waitress was n't kissed . <eos>
+The company is n't kissed . <eos>
+That adult was returned to . <eos>
+Teeth were n't returned to . <eos>
+The adult is discussed . <eos>
+Some rice was n't discussed . <eos>
+Those teachers are annoyed . <eos>
+The candle is n't annoyed . <eos>
+Every waiter is n't annoyed . <eos>
+These phenomena were annoyed . <eos>
+Some teacher is sounded like . <eos>
+The art galleries are n't sounded like . <eos>
+Alumni are n't escaped from . <eos>
+Projectors were escaped from . <eos>
+This student is n't aggravated . <eos>
+A synthesis was n't aggravated . <eos>
+The waiter was n't concealed . <eos>
+Many books were concealed . <eos>
+The dancers are fled from . <eos>
+Many plays are n't fled from . <eos>
+The adult is n't disliked . <eos>
+Most gates are disliked . <eos>
+This cashier is n't referenced . <eos>
+Boxes were referenced . <eos>
+Some adults are n't alarmed . <eos>
+Some museum was n't alarmed . <eos>
+A lot of actors were n't concealed . <eos>
+All paintings are n't concealed . <eos>
+Most children are praised . <eos>
+That ox is praised . <eos>
+Some pedestrian is left . <eos>
+Some commentary is n't left . <eos>
+Many men are n't bored . <eos>
+Every cart is n't bored . <eos>
+Every girl was n't criticized . <eos>
+Those birds are criticized . <eos>
+Some men were returned to . <eos>
+This bank was returned to . <eos>
+Some woman is n't irritated . <eos>
+All geese were n't irritated . <eos>
+These pedestrians were n't scared . <eos>
+Many gates are n't scared . <eos>
+Most dancers were n't cared for . <eos>
+This plate was cared for . <eos>
+Every actor is stunned . <eos>
+The chicken was n't stunned . <eos>
+The adult is n't hated . <eos>
+All dogs are n't hated . <eos>
+This pedestrian was n't impressed . <eos>
+Every cart was n't impressed . <eos>
+All children are impressed . <eos>
+That university is impressed . <eos>
+Some senators were n't remembered . <eos>
+The restaurants are remembered . <eos>
+All waiters were n't described . <eos>
+Some face was described . <eos>
+Some waitresses are n't annoyed . <eos>
+Some screen was n't annoyed . <eos>
+Those girls were irritated . <eos>
+These glasses are n't irritated . <eos>
+Many patients were hurt . <eos>
+Some cup is hurt . <eos>
+The alumnus is n't visited . <eos>
+Eyes are visited . <eos>
+The child was observed . <eos>
+The bread was n't observed . <eos>
+The children were n't sounded like . <eos>
+The shoes are n't sounded like . <eos>
+Waitresses are n't disliked . <eos>
+An analysis was n't disliked . <eos>
+Many ladies were aggravated . <eos>
+Every hamster is n't aggravated . <eos>
+A teacher is insulted . <eos>
+All ellipses are n't insulted . <eos>
+That alumnus was n't listened to . <eos>
+The dog is n't listened to . <eos>
+Cashiers are n't boasted about . <eos>
+Lights were n't boasted about . <eos>
+Every child was n't talked about . <eos>
+This wheelbarrow is talked about . <eos>
+A girl was sounded like . <eos>
+Some movies are n't sounded like . <eos>
+Many customers were bored . <eos>
+Ice cream is n't bored . <eos>
+That student is disturbed . <eos>
+A lot of fish were disturbed . <eos>
