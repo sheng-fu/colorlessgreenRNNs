@@ -14,9 +14,15 @@ python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/l
 
 python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/anaphor_gender_agreement --outfile ../results/blimp_by_token/anaphor_gender_agreement_output.tab
 
+python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/anaphor_number_agreement --outfile ../results/blimp_by_token/anaphor_number_agreement_output.tab
+
 python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/animate_obj_passive --outfile ../results/blimp_by_token/animate_obj_passive_output.tab
 
 python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/animate_obj_trans --outfile ../results/blimp_by_token/animate_obj_trans_output.tab
+
+python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/animate_subject_passive --outfile ../results/blimp_by_token/animate_subject_passive_output.tab
+
+python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/animate_subject_trans --outfile ../results/blimp_by_token/animate_subject_trans_output.tab
 
 python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/animate_subj_passive --outfile ../results/blimp_by_token/animate_subj_passive_output.tab
 
@@ -145,6 +151,8 @@ python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/l
 python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/wh_questions_subject_gap_long_distance --outfile ../results/blimp_by_token/wh_questions_subject_gap_long_distance_output.tab
 
 python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/wh_vs_that_no-gap --outfile ../results/blimp_by_token/wh_vs_that_no-gap_output.tab
+
+python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/wh_vs_that_no_gap --outfile ../results/blimp_by_token/wh_vs_that_no_gap_output.tab
 
 python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/wh_vs_that_no_gap_long_distance --outfile ../results/blimp_by_token/wh_vs_that_no_gap_long_distance_output.tab
 
