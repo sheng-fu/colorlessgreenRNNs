@@ -1,2000 +1,2000 @@
-Whose books had Craig hidden ? <eos>
-Whose had Craig hidden books ? <eos>
-What restaurant is Suzanne escaping from ? <eos>
-What is Suzanne escaping from restaurant ? <eos>
-Which teenager was Florence returning to ? <eos>
-Which was Florence returning to teenager ? <eos>
-What projectors would Anna see ? <eos>
-What would Anna see projectors ? <eos>
-Which teenagers might that student boast about ? <eos>
-Which might that student boast about teenagers ? <eos>
-What people did Kimberley talk about ? <eos>
-What did Kimberley talk about people ? <eos>
-What waiter had Cindy talked about ? <eos>
-What had Cindy talked about waiter ? <eos>
-What men can Melanie heal ? <eos>
-What can Melanie heal men ? <eos>
-Which shirts had Brenda worn ? <eos>
-Which had Brenda worn shirts ? <eos>
-What essays would every museum reference ? <eos>
-What would every museum reference essays ? <eos>
-Which boy had some students aggravated ? <eos>
-Which had some students aggravated boy ? <eos>
-Whose schools can most rivers worry ? <eos>
-Whose can most rivers worry schools ? <eos>
-Which teenagers is Benjamin returning to ? <eos>
-Which is Benjamin returning to teenagers ? <eos>
-What man was Deanna approaching ? <eos>
-What was Deanna approaching man ? <eos>
-What customer will the man know ? <eos>
-What will the man know customer ? <eos>
-What convertibles has Ellen hidden ? <eos>
-What has Ellen hidden convertibles ? <eos>
-Which analysis are these pedestrians disagreeing with ? <eos>
-Which are these pedestrians disagreeing with analysis ? <eos>
-Which guest has a book aggravated ? <eos>
-Which has a book aggravated guest ? <eos>
-Which coat could Melinda hide ? <eos>
-Which could Melinda hide coat ? <eos>
-Whose dresses has Lori brought ? <eos>
-Whose has Lori brought dresses ? <eos>
-What adult does Derek criticize ? <eos>
-What does Derek criticize adult ? <eos>
-Which window was Natalie hiding ? <eos>
-Which was Natalie hiding window ? <eos>
-Whose museums is Holly describing ? <eos>
-Whose is Holly describing museums ? <eos>
-Which cashiers would Winston Churchill hug ? <eos>
-Which would Winston Churchill hug cashiers ? <eos>
-Which guy could most senators observe ? <eos>
-Which could most senators observe guy ? <eos>
-Which offspring has Kenneth fired ? <eos>
-Which has Kenneth fired offspring ? <eos>
-Which projectors had Gina lifted ? <eos>
-Which had Gina lifted projectors ? <eos>
-What boy were current events astounding ? <eos>
-What were current events astounding boy ? <eos>
-What women could Carla hire ? <eos>
-What could Carla hire women ? <eos>
-What pedestrians has Susan thought about ? <eos>
-What has Susan thought about pedestrians ? <eos>
-What rivers is Samuel thinking about ? <eos>
-What is Samuel thinking about rivers ? <eos>
-What movies does Maria scan ? <eos>
-What does Maria scan movies ? <eos>
-Which mountain is Brenda climbing up ? <eos>
-Which is Brenda climbing up mountain ? <eos>
-Whose pictures was every cashier discovering ? <eos>
-Whose was every cashier discovering pictures ? <eos>
-Which lice has every drawing looked like ? <eos>
-Which has every drawing looked like lice ? <eos>
-What waitress is Monet attacking ? <eos>
-What is Monet attacking waitress ? <eos>
-What alumnus had Teresa referenced ? <eos>
-What had Teresa referenced alumnus ? <eos>
-Whose government was the plate irritating ? <eos>
-Whose was the plate irritating government ? <eos>
-Which bird was Tammy healing ? <eos>
-Which was Tammy healing bird ? <eos>
-What cafe did Diane walk through ? <eos>
-What did Diane walk through cafe ? <eos>
-What women had Kayla helped ? <eos>
-What had Kayla helped women ? <eos>
-What customers might Becca embarrass ? <eos>
-What might Becca embarrass customers ? <eos>
-What customers can Jason talk to ? <eos>
-What can Jason talk to customers ? <eos>
-What hills has Jane arrived at ? <eos>
-What has Jane arrived at hills ? <eos>
-Which patient is Anna insulting ? <eos>
-Which is Anna insulting patient ? <eos>
-Which offspring have the committees fired ? <eos>
-Which have the committees fired offspring ? <eos>
-Whose wheelbarrows will those actors fix ? <eos>
-Whose will those actors fix wheelbarrows ? <eos>
-Which teenager has Wendy discussed ? <eos>
-Which has Wendy discussed teenager ? <eos>
-Whose plays has Deborah examined ? <eos>
-Whose has Deborah examined plays ? <eos>
-Which high schools should Matt describe ? <eos>
-Which should Matt describe high schools ? <eos>
-What lakes has William walked through ? <eos>
-What has William walked through lakes ? <eos>
-Whose unicycle did some hospital sell ? <eos>
-Whose did some hospital sell unicycle ? <eos>
-Which alumnus have those people observed ? <eos>
-Which have those people observed alumnus ? <eos>
-Whose college campuses was Jane researching ? <eos>
-Whose was Jane researching college campuses ? <eos>
-Which drivers could Florence care for ? <eos>
-Which could Florence care for drivers ? <eos>
-What mountains had Melanie climbed up ? <eos>
-What had Melanie climbed up mountains ? <eos>
-What museum should Heidi explore ? <eos>
-What should Heidi explore museum ? <eos>
-What patient was Christine hurting ? <eos>
-What was Christine hurting patient ? <eos>
-Whose restaurants had Gary criticized ? <eos>
-Whose had Gary criticized restaurants ? <eos>
-Whose high school might Teresa explore ? <eos>
-Whose might Teresa explore high school ? <eos>
-Which guests can Frank question ? <eos>
-Which can Frank question guests ? <eos>
-Which lake was Carlos leaving ? <eos>
-Which was Carlos leaving lake ? <eos>
-Whose rabbits had Timothy brought ? <eos>
-Whose had Timothy brought rabbits ? <eos>
-Whose coats is Sheila wearing ? <eos>
-Whose is Sheila wearing coats ? <eos>
-Whose brochures has Michelle admired ? <eos>
-Whose has Michelle admired brochures ? <eos>
-What boys is Eric aggravating ? <eos>
-What is Eric aggravating boys ? <eos>
-What girl did Brenda hire ? <eos>
-What did Brenda hire girl ? <eos>
-Which restaurants can Samuel go to ? <eos>
-Which can Samuel go to restaurants ? <eos>
-What boy will this cashier know ? <eos>
-What will this cashier know boy ? <eos>
-What legislatures should the rice impress ? <eos>
-What should the rice impress legislatures ? <eos>
-What waiter was James discovering ? <eos>
-What was James discovering waiter ? <eos>
-What offspring is this river annoying ? <eos>
-What is this river annoying offspring ? <eos>
-What offspring would that sketch astound ? <eos>
-What would that sketch astound offspring ? <eos>
-Which slopes were those patients climbing up ? <eos>
-Which were those patients climbing up slopes ? <eos>
-What grocery store has Tara gone to ? <eos>
-What has Tara gone to grocery store ? <eos>
-Whose phenomenon has Vincent thought about ? <eos>
-Whose has Vincent thought about phenomenon ? <eos>
-What steps should Linda descend ? <eos>
-What should Linda descend steps ? <eos>
-What university is Tammy bothering ? <eos>
-What is Tammy bothering university ? <eos>
-Which steps could the Impressionists ascend ? <eos>
-Which could the Impressionists ascend steps ? <eos>
-Which lakes had most adults gone to ? <eos>
-Which had most adults gone to lakes ? <eos>
-What company were those coats impressing ? <eos>
-What were those coats impressing company ? <eos>
-Whose ladders had Kenneth descended ? <eos>
-Whose had Kenneth descended ladders ? <eos>
-What art galleries had Becca boycotted ? <eos>
-What had Becca boycotted art galleries ? <eos>
-Which guys might a truck scare ? <eos>
-Which might a truck scare guys ? <eos>
-What man has Nina returned to ? <eos>
-What has Nina returned to man ? <eos>
-Whose coat has some guy found ? <eos>
-Whose has some guy found coat ? <eos>
-What customer had these senators disagreed with ? <eos>
-What had these senators disagreed with customer ? <eos>
-What college campuses could Ann flee from ? <eos>
-What could Ann flee from college campuses ? <eos>
-What woman did Becky like ? <eos>
-What did Becky like woman ? <eos>
-What lakes is Carrie dropping by ? <eos>
-What is Carrie dropping by lakes ? <eos>
-Whose deer can Melissa hide ? <eos>
-Whose can Melissa hide deer ? <eos>
-What mall might Cynthia return to ? <eos>
-What might Cynthia return to mall ? <eos>
-Which lady has Marie admired ? <eos>
-Which has Marie admired lady ? <eos>
-Which offspring do some grocery stores disgust ? <eos>
-Which do some grocery stores disgust offspring ? <eos>
-What pedestrian was Brad bothering ? <eos>
-What was Brad bothering pedestrian ? <eos>
-What banks does Craig dislike ? <eos>
-What does Craig dislike banks ? <eos>
-Whose hospitals has Matt passed ? <eos>
-Whose has Matt passed hospitals ? <eos>
-What grocery stores would Ella tour ? <eos>
-What would Ella tour grocery stores ? <eos>
-Which theses is William scanning ? <eos>
-Which is William scanning theses ? <eos>
-Whose rabbit did Nicole find ? <eos>
-Whose did Nicole find rabbit ? <eos>
-What sketches did Amelia resemble ? <eos>
-What did Amelia resemble sketches ? <eos>
-What guy has Anna insulted ? <eos>
-What has Anna insulted guy ? <eos>
-What men can all teachers disagree with ? <eos>
-What can all teachers disagree with men ? <eos>
-What turtle had Helen healed ? <eos>
-What had Helen healed turtle ? <eos>
-Which slopes had Sandra climbed down ? <eos>
-Which had Sandra climbed down slopes ? <eos>
-What banks had all eggplants shocked ? <eos>
-What had all eggplants shocked banks ? <eos>
-What newspaper article did the Borgias discover ? <eos>
-What did the Borgias discover newspaper article ? <eos>
-Which people were a lot of guys disgusting ? <eos>
-Which were a lot of guys disgusting people ? <eos>
-Whose college campus has Richard criticized ? <eos>
-Whose has Richard criticized college campus ? <eos>
-Whose public parks had Ronald discussed ? <eos>
-Whose had Ronald discussed public parks ? <eos>
-What driver is the print worrying ? <eos>
-What is the print worrying driver ? <eos>
-What school was Homer visiting ? <eos>
-What was Homer visiting school ? <eos>
-What patients was some vase hurting ? <eos>
-What was some vase hurting patients ? <eos>
-Which shirts had these waitresses found ? <eos>
-Which had these waitresses found shirts ? <eos>
-What hills should many teachers drop by ? <eos>
-What should many teachers drop by hills ? <eos>
-What adults are a lot of teachers helping ? <eos>
-What are a lot of teachers helping adults ? <eos>
-Which brochure has Susan scanned ? <eos>
-Which has Susan scanned brochure ? <eos>
-What doctor would Irene investigate ? <eos>
-What would Irene investigate doctor ? <eos>
-What organization has Susan worried ? <eos>
-What has Susan worried organization ? <eos>
-What guys should Rhonda admire ? <eos>
-What should Rhonda admire guys ? <eos>
-What door had the Impressionists bought ? <eos>
-What had the Impressionists bought door ? <eos>
-What person has Mitchell annoyed ? <eos>
-What has Mitchell annoyed person ? <eos>
-Which child has Douglas talked about ? <eos>
-Which has Douglas talked about child ? <eos>
-What guests has a fish irritated ? <eos>
-What has a fish irritated guests ? <eos>
-Which spotlights did many ladies lift ? <eos>
-Which did many ladies lift spotlights ? <eos>
-What girls did Craig fire ? <eos>
-What did Craig fire girls ? <eos>
-Whose hospitals is Susan upsetting ? <eos>
-Whose is Susan upsetting hospitals ? <eos>
-Which women had Nicole returned to ? <eos>
-Which had Nicole returned to women ? <eos>
-Which reports can Amanda examine ? <eos>
-Which can Amanda examine reports ? <eos>
-What louse is some actress curing ? <eos>
-What is some actress curing louse ? <eos>
-Which man did Amy bore ? <eos>
-Which did Amy bore man ? <eos>
-What hill has Homer descended ? <eos>
-What has Homer descended hill ? <eos>
-Which documentary could Naomi scan ? <eos>
-Which could Naomi scan documentary ? <eos>
-Which shirt is Sandra cleaning ? <eos>
-Which is Sandra cleaning shirt ? <eos>
-What patient was Erin confusing ? <eos>
-What was Erin confusing patient ? <eos>
-What public park was this waiter touring ? <eos>
-What was this waiter touring public park ? <eos>
-What boys had Kathleen scared ? <eos>
-What had Kathleen scared boys ? <eos>
-Which schools did Amanda describe ? <eos>
-Which did Amanda describe schools ? <eos>
-Which doctors would Theresa dislike ? <eos>
-Which would Theresa dislike doctors ? <eos>
-Which government was Tara hurting ? <eos>
-Which was Tara hurting government ? <eos>
-Which teacher was Steve appreciating ? <eos>
-Which was Steve appreciating teacher ? <eos>
-What rivers had Travis passed ? <eos>
-What had Travis passed rivers ? <eos>
-What child was a projector disgusting ? <eos>
-What was a projector disgusting child ? <eos>
-Which commentary were most teenagers appreciating ? <eos>
-Which were most teenagers appreciating commentary ? <eos>
-Whose wheelbarrows does Galileo break ? <eos>
-Whose does Galileo break wheelbarrows ? <eos>
-Which dishes has Rebecca broken ? <eos>
-Which has Rebecca broken dishes ? <eos>
-What person can Sherry investigate ? <eos>
-What can Sherry investigate person ? <eos>
-Whose public parks might Denise like ? <eos>
-Whose might Denise like public parks ? <eos>
-Which girl is Scott helping ? <eos>
-Which is Scott helping girl ? <eos>
-Whose ice will Spain have ? <eos>
-Whose will Spain have ice ? <eos>
-Which dancers did that patient know ? <eos>
-Which did that patient know dancers ? <eos>
-What university were a lot of girls astounding ? <eos>
-What were a lot of girls astounding university ? <eos>
-What stories was Michael praising ? <eos>
-What was Michael praising stories ? <eos>
-Whose rivers will Phillip respect ? <eos>
-Whose will Phillip respect rivers ? <eos>
-What children has Teresa loved ? <eos>
-What has Teresa loved children ? <eos>
-What actor has Wendy sounded like ? <eos>
-What has Wendy sounded like actor ? <eos>
-Which glaciers will Kristen walk through ? <eos>
-Which will Kristen walk through glaciers ? <eos>
-What teenagers is Lawrence watching ? <eos>
-What is Lawrence watching teenagers ? <eos>
-Which dancer was Stephanie irritating ? <eos>
-Which was Stephanie irritating dancer ? <eos>
-Which hospital might a lot of guys insult ? <eos>
-Which might a lot of guys insult hospital ? <eos>
-What person does Charles care for ? <eos>
-What does Charles care for person ? <eos>
-What woman had Amy hired ? <eos>
-What had Amy hired woman ? <eos>
-What girl might a lot of photographs look like ? <eos>
-What might a lot of photographs look like girl ? <eos>
-Which bank has Kenneth passed ? <eos>
-Which has Kenneth passed bank ? <eos>
-Which restaurants had Marla visited ? <eos>
-Which had Marla visited restaurants ? <eos>
-Which adults is Larry astounding ? <eos>
-Which is Larry astounding adults ? <eos>
-What boy should David visit ? <eos>
-What should David visit boy ? <eos>
-What men could Keith watch ? <eos>
-What could Keith watch men ? <eos>
-What boy should Natalie care for ? <eos>
-What should Natalie care for boy ? <eos>
-Whose paralyses can Jessica boast about ? <eos>
-Whose can Jessica boast about paralyses ? <eos>
-What guests could Gina heal ? <eos>
-What could Gina heal guests ? <eos>
-What doctor might many college campuses impress ? <eos>
-What might many college campuses impress doctor ? <eos>
-Which dancer has Roger boasted about ? <eos>
-Which has Roger boasted about dancer ? <eos>
-What high schools will Katherine leave ? <eos>
-What will Katherine leave high schools ? <eos>
-Whose ladders might Galileo climb down ? <eos>
-Whose might Galileo climb down ladders ? <eos>
-Which deer will Carolyn discover ? <eos>
-Which will Carolyn discover deer ? <eos>
-Which doctor had some picture bored ? <eos>
-Which had some picture bored doctor ? <eos>
-What art gallery could Vincent drop by ? <eos>
-What could Vincent drop by art gallery ? <eos>
-Which hills had Bruce returned to ? <eos>
-Which had Bruce returned to hills ? <eos>
-Which patients was Gregory hiring ? <eos>
-Which was Gregory hiring patients ? <eos>
-What student had Diane shocked ? <eos>
-What had Diane shocked student ? <eos>
-Which men was Valerie questioning ? <eos>
-Which was Valerie questioning men ? <eos>
-What offspring could Anna bother ? <eos>
-What could Anna bother offspring ? <eos>
-Which dishes was Gerald noticing ? <eos>
-Which was Gerald noticing dishes ? <eos>
-What public parks would Roger tour ? <eos>
-What would Roger tour public parks ? <eos>
-Which sweater does Melanie buy ? <eos>
-Which does Melanie buy sweater ? <eos>
-Which cashiers was Maria returning to ? <eos>
-Which was Maria returning to cashiers ? <eos>
-Which actor can Ann confuse ? <eos>
-Which can Ann confuse actor ? <eos>
-Which offspring is the cashier praising ? <eos>
-Which is the cashier praising offspring ? <eos>
-Which waitresses are some ladies shocking ? <eos>
-Which are some ladies shocking waitresses ? <eos>
-Whose couch did Nina mess up ? <eos>
-Whose did Nina mess up couch ? <eos>
-Which boys would Melissa argue about ? <eos>
-Which would Melissa argue about boys ? <eos>
-Which series is Rachel researching ? <eos>
-Which is Rachel researching series ? <eos>
-Which alumni had Florence aggravated ? <eos>
-Which had Florence aggravated alumni ? <eos>
-Which child had Bradley investigated ? <eos>
-Which had Bradley investigated child ? <eos>
-Which doctor does Carolyn approach ? <eos>
-Which does Carolyn approach doctor ? <eos>
-Whose movie theaters could Wayne exit ? <eos>
-Whose could Wayne exit movie theaters ? <eos>
-Whose mouse was Marie thinking about ? <eos>
-Whose was Marie thinking about mouse ? <eos>
-What actors is every adult hiring ? <eos>
-What is every adult hiring actors ? <eos>
-Whose high school was Wendy describing ? <eos>
-Whose was Wendy describing high school ? <eos>
-What hamster was Gregory healing ? <eos>
-What was Gregory healing hamster ? <eos>
-What gate is Carl taking ? <eos>
-What is Carl taking gate ? <eos>
-Whose oases has every boy skated around ? <eos>
-Whose has every boy skated around oases ? <eos>
-Which pepper would the Lutherans lift ? <eos>
-Which would the Lutherans lift pepper ? <eos>
-Which books can those governments discuss ? <eos>
-Which can those governments discuss books ? <eos>
-Which patients is William working with ? <eos>
-Which is William working with patients ? <eos>
-Which girl was John praising ? <eos>
-Which was John praising girl ? <eos>
-What museums could Paul clean ? <eos>
-What could Paul clean museums ? <eos>
-What doctor might Stacey watch ? <eos>
-What might Stacey watch doctor ? <eos>
-What senator would Timothy kiss ? <eos>
-What would Timothy kiss senator ? <eos>
-What hospitals were students shocking ? <eos>
-What were students shocking hospitals ? <eos>
-What people has Edward referenced ? <eos>
-What has Edward referenced people ? <eos>
-Which waiter had Sheila confused ? <eos>
-Which had Sheila confused waiter ? <eos>
-What libraries is Teresa discussing ? <eos>
-What is Teresa discussing libraries ? <eos>
-Whose gate will Joel hide ? <eos>
-Whose will Joel hide gate ? <eos>
-Which prints could Leslie resemble ? <eos>
-Which could Leslie resemble prints ? <eos>
-Which cashier was some essay embarrassing ? <eos>
-Which was some essay embarrassing cashier ? <eos>
-Which spotlights should Irene reveal ? <eos>
-Which should Irene reveal spotlights ? <eos>
-Which patient have the drawings distracted ? <eos>
-Which have the drawings distracted patient ? <eos>
-What waitresses could Gina work with ? <eos>
-What could Gina work with waitresses ? <eos>
-Which pedestrians might all adults praise ? <eos>
-Which might all adults praise pedestrians ? <eos>
-Which college campuses were the Clintons dropping by ? <eos>
-Which were the Clintons dropping by college campuses ? <eos>
-Which alumnus is Stephen discussing ? <eos>
-Which is Stephen discussing alumnus ? <eos>
-Which fish might most cashiers cure ? <eos>
-Which might most cashiers cure fish ? <eos>
-What lady should a patient visit ? <eos>
-What should a patient visit lady ? <eos>
-What high schools had Phillip exited ? <eos>
-What had Phillip exited high schools ? <eos>
-What girl might senators disagree with ? <eos>
-What might senators disagree with girl ? <eos>
-What man was Martin working with ? <eos>
-What was Martin working with man ? <eos>
-What high school have those waitresses boycotted ? <eos>
-What have those waitresses boycotted high school ? <eos>
-What alumnus is Douglas appreciating ? <eos>
-What is Douglas appreciating alumnus ? <eos>
-What teacher could Valerie worry ? <eos>
-What could Valerie worry teacher ? <eos>
-What child might the Borgias complain about ? <eos>
-What might the Borgias complain about child ? <eos>
-Which customer can Mary upset ? <eos>
-Which can Mary upset customer ? <eos>
-What library will every doctor explore ? <eos>
-What will every doctor explore library ? <eos>
-Which guests was George escaping from ? <eos>
-Which was George escaping from guests ? <eos>
-Which person has Donna talked about ? <eos>
-Which has Donna talked about person ? <eos>
-What alumni was Sarah investigating ? <eos>
-What was Sarah investigating alumni ? <eos>
-Which high schools did Allison admire ? <eos>
-Which did Allison admire high schools ? <eos>
-What customer had Kevin investigated ? <eos>
-What had Kevin investigated customer ? <eos>
-Whose library was a skirt alarming ? <eos>
-Whose was a skirt alarming library ? <eos>
-Which dancer was Omar hurting ? <eos>
-Which was Omar hurting dancer ? <eos>
-Which scarves is a girl thinking about ? <eos>
-Which is a girl thinking about scarves ? <eos>
-Which guest has a woman healed ? <eos>
-Which has a woman healed guest ? <eos>
-Which hills will Patrick climb up ? <eos>
-Which will Patrick climb up hills ? <eos>
-What waiter had Sally remembered ? <eos>
-What had Sally remembered waiter ? <eos>
-What customer do the guests flee from ? <eos>
-What do the guests flee from customer ? <eos>
-Which cucumber might Jessica like ? <eos>
-Which might Jessica like cucumber ? <eos>
-Which customer would every car impress ? <eos>
-Which would every car impress customer ? <eos>
-Whose art galleries is some waiter going to ? <eos>
-Whose is some waiter going to art galleries ? <eos>
-Whose movie theaters should some girls discuss ? <eos>
-Whose should some girls discuss movie theaters ? <eos>
-Which university could this rabbit aggravate ? <eos>
-Which could this rabbit aggravate university ? <eos>
-Whose stories was Keith insulting ? <eos>
-Whose was Keith insulting stories ? <eos>
-Whose glacier is Adam discussing ? <eos>
-Whose is Adam discussing glacier ? <eos>
-Whose lakes might Sonia bike to ? <eos>
-Whose might Sonia bike to lakes ? <eos>
-Which waitresses was Cindy kissing ? <eos>
-Which was Cindy kissing waitresses ? <eos>
-Which girls should Cynthia work with ? <eos>
-Which should Cynthia work with girls ? <eos>
-What students has Tonya worked with ? <eos>
-What has Tonya worked with students ? <eos>
-Which cafe had Lori gone to ? <eos>
-Which had Lori gone to cafe ? <eos>
-Whose newspaper article was Paula scanning ? <eos>
-Whose was Paula scanning newspaper article ? <eos>
-Which libraries were many actresses investigating ? <eos>
-Which were many actresses investigating libraries ? <eos>
-What hospital had Karla hurt ? <eos>
-What had Karla hurt hospital ? <eos>
-Whose phenomenon are a lot of cashiers boasting about ? <eos>
-Whose are a lot of cashiers boasting about phenomenon ? <eos>
-What girls should Jodi flee from ? <eos>
-What should Jodi flee from girls ? <eos>
-Which stimulus might Alan argue about ? <eos>
-Which might Alan argue about stimulus ? <eos>
-What pedestrians is Amy healing ? <eos>
-What is Amy healing pedestrians ? <eos>
-Which offspring would a teacher admire ? <eos>
-Which would a teacher admire offspring ? <eos>
-What actors did some face disgust ? <eos>
-What did some face disgust actors ? <eos>
-What bank can many cashiers walk through ? <eos>
-What can many cashiers walk through bank ? <eos>
-Whose museums had all actresses aggravated ? <eos>
-Whose had all actresses aggravated museums ? <eos>
-Which convertibles is Tammy breaking ? <eos>
-Which is Tammy breaking convertibles ? <eos>
-What mountain will Lissa pass ? <eos>
-What will Lissa pass mountain ? <eos>
-What lake has Omar left ? <eos>
-What has Omar left lake ? <eos>
-Which newspaper articles can those guys talk about ? <eos>
-Which can those guys talk about newspaper articles ? <eos>
-Which shawl was Victoria lifting ? <eos>
-Which was Victoria lifting shawl ? <eos>
-What sketch would the high school look like ? <eos>
-What would the high school look like sketch ? <eos>
-Which steps had Sonia climbed up ? <eos>
-Which had Sonia climbed up steps ? <eos>
-Whose hills could Christine take ? <eos>
-Whose could Christine take hills ? <eos>
-What dog has Irene concealed ? <eos>
-What has Irene concealed dog ? <eos>
-What students will Randolf hug ? <eos>
-What will Randolf hug students ? <eos>
-Whose prints would Angela resemble ? <eos>
-Whose would Angela resemble prints ? <eos>
-What company was this wheelbarrow disgusting ? <eos>
-What was this wheelbarrow disgusting company ? <eos>
-What teenagers did Dan forget ? <eos>
-What did Dan forget teenagers ? <eos>
-Which woman does Ann attack ? <eos>
-Which does Ann attack woman ? <eos>
-What actress might Laura return to ? <eos>
-What might Laura return to actress ? <eos>
-What children have a lot of women concealed ? <eos>
-What have a lot of women concealed children ? <eos>
-Whose brochure does Regina reference ? <eos>
-Whose does Regina reference brochure ? <eos>
-What jackets had Christina discovered ? <eos>
-What had Christina discovered jackets ? <eos>
-Which cashier was Carmen noticing ? <eos>
-Which was Carmen noticing cashier ? <eos>
-What guests has Martin embarrassed ? <eos>
-What has Martin embarrassed guests ? <eos>
-What alumnus might every river irritate ? <eos>
-What might every river irritate alumnus ? <eos>
-Whose book could Mark sound like ? <eos>
-Whose could Mark sound like book ? <eos>
-What driver has Marla observed ? <eos>
-What has Marla observed driver ? <eos>
-Which customers have most glasses embarrassed ? <eos>
-Which have most glasses embarrassed customers ? <eos>
-Which museums should Margaret exit ? <eos>
-Which should Margaret exit museums ? <eos>
-What movies have a lot of actors boasted about ? <eos>
-What have a lot of actors boasted about movies ? <eos>
-Which analyses had Russell concealed ? <eos>
-Which had Russell concealed analyses ? <eos>
-What closet is Nicole exiting ? <eos>
-What is Nicole exiting closet ? <eos>
-Whose schools is Patrick cleaning ? <eos>
-Whose is Patrick cleaning schools ? <eos>
-What girl could Elizabeth forget ? <eos>
-What could Elizabeth forget girl ? <eos>
-What picture will these teenagers clean ? <eos>
-What will these teenagers clean picture ? <eos>
-What libraries should Helen pass ? <eos>
-What should Helen pass libraries ? <eos>
-What computers has Emily hidden ? <eos>
-What has Emily hidden computers ? <eos>
-Which men had Marcus visited ? <eos>
-Which had Marcus visited men ? <eos>
-What waiters had some pictures distracted ? <eos>
-What had some pictures distracted waiters ? <eos>
-What governments is politics bothering ? <eos>
-What is politics bothering governments ? <eos>
-What ladders would Janet ascend ? <eos>
-What would Janet ascend ladders ? <eos>
-What woman might Andrew work with ? <eos>
-What might Andrew work with woman ? <eos>
-Whose high schools is Janet leaving ? <eos>
-Whose is Janet leaving high schools ? <eos>
-Which paintings will Rachel resemble ? <eos>
-Which will Rachel resemble paintings ? <eos>
-Which hospitals is Richard criticizing ? <eos>
-Which is Richard criticizing hospitals ? <eos>
-What waiters is Matt returning to ? <eos>
-What is Matt returning to waiters ? <eos>
-Whose newspaper articles was Kimberley taking ? <eos>
-Whose was Kimberley taking newspaper articles ? <eos>
-Which public park is Cynthia dropping by ? <eos>
-Which is Cynthia dropping by public park ? <eos>
-What hills is Bill climbing up ? <eos>
-What is Bill climbing up hills ? <eos>
-Which art gallery had Brett exited ? <eos>
-Which had Brett exited art gallery ? <eos>
-Whose door does Lisa reveal ? <eos>
-Whose does Lisa reveal door ? <eos>
-Which school was Winston Churchill worrying ? <eos>
-Which was Winston Churchill worrying school ? <eos>
-What man had Timothy appreciated ? <eos>
-What had Timothy appreciated man ? <eos>
-Which oases will some doctor run around ? <eos>
-Which will some doctor run around oases ? <eos>
-What horses was Veronica bringing ? <eos>
-What was Veronica bringing horses ? <eos>
-Which hospital has Leslie returned to ? <eos>
-Which has Leslie returned to hospital ? <eos>
-Which print might the newspaper article resemble ? <eos>
-Which might the newspaper article resemble print ? <eos>
-Whose movie theater were the Impressionists discovering ? <eos>
-Whose were the Impressionists discovering movie theater ? <eos>
-What waitresses will Brett describe ? <eos>
-What will Brett describe waitresses ? <eos>
-Which actresses is Janice kissing ? <eos>
-Which is Janice kissing actresses ? <eos>
-Whose cat were many senators curing ? <eos>
-Whose were many senators curing cat ? <eos>
-Which lamp was Bill noticing ? <eos>
-Which was Bill noticing lamp ? <eos>
-Whose blouses has Galileo admired ? <eos>
-Whose has Galileo admired blouses ? <eos>
-Which adults can art disturb ? <eos>
-Which can art disturb adults ? <eos>
-Which waiters was Craig talking to ? <eos>
-Which was Craig talking to waiters ? <eos>
-What book are those newspaper articles disagreeing with ? <eos>
-What are those newspaper articles disagreeing with book ? <eos>
-Whose movie theater is Kimberley skated around ? <eos>
-Whose is Kimberley skated around movie theater ? <eos>
-What child was Tammy talking to ? <eos>
-What was Tammy talking to child ? <eos>
-Whose closet could Sarah bike to ? <eos>
-Whose could Sarah bike to closet ? <eos>
-What college campuses is Stephanie cleaning ? <eos>
-What is Stephanie cleaning college campuses ? <eos>
-What cashier had Kirsten stunned ? <eos>
-What had Kirsten stunned cashier ? <eos>
-What windows could Vanessa break ? <eos>
-What could Vanessa break windows ? <eos>
-Whose legislatures was Douglas confusing ? <eos>
-Whose was Douglas confusing legislatures ? <eos>
-Which guest should people watch ? <eos>
-Which should people watch guest ? <eos>
-Which brochures should Sheila examine ? <eos>
-Which should Sheila examine brochures ? <eos>
-Whose mall does Scott respect ? <eos>
-Whose does Scott respect mall ? <eos>
-What doctor does Claire hate ? <eos>
-What does Claire hate doctor ? <eos>
-Which mountains were some birds ascending ? <eos>
-Which were some birds ascending mountains ? <eos>
-Which couch has Sharon cleaned ? <eos>
-Which has Sharon cleaned couch ? <eos>
-Whose company has James questioned ? <eos>
-Whose has James questioned company ? <eos>
-What teacher was some association firing ? <eos>
-What was some association firing teacher ? <eos>
-What dancer had Galileo remembered ? <eos>
-What had Galileo remembered dancer ? <eos>
-What patients did Anne forget ? <eos>
-What did Anne forget patients ? <eos>
-Which child was Thomas firing ? <eos>
-Which was Thomas firing child ? <eos>
-What hill is Stacey climbing up ? <eos>
-What is Stacey climbing up hill ? <eos>
-What child are the dogs boring ? <eos>
-What are the dogs boring child ? <eos>
-Which public parks could Heidi drop by ? <eos>
-Which could Heidi drop by public parks ? <eos>
-Which oasis was Lissa exploring ? <eos>
-Which was Lissa exploring oasis ? <eos>
-Which customers does some essay impress ? <eos>
-Which does some essay impress customers ? <eos>
-Which offspring does Jerry notice ? <eos>
-Which does Jerry notice offspring ? <eos>
-Whose river should Deanna insult ? <eos>
-Whose should Deanna insult river ? <eos>
-Whose high schools has Karla toured ? <eos>
-Whose has Karla toured high schools ? <eos>
-Which restaurant could Sabrina arrive at ? <eos>
-Which could Sabrina arrive at restaurant ? <eos>
-What coat did Kristin clean ? <eos>
-What did Kristin clean coat ? <eos>
-What girl is Karen investigating ? <eos>
-What is Karen investigating girl ? <eos>
-Which organizations are most guests questioning ? <eos>
-Which are most guests questioning organizations ? <eos>
-What waiter has some college campus disturbed ? <eos>
-What has some college campus disturbed waiter ? <eos>
-Which actors had Alice bothered ? <eos>
-Which had Alice bothered actors ? <eos>
-Which phenomena will Sheila argue about ? <eos>
-Which will Sheila argue about phenomena ? <eos>
-Which museums is Scott running around ? <eos>
-Which is Scott running around museums ? <eos>
-What college campuses was Douglas fleeing from ? <eos>
-What was Douglas fleeing from college campuses ? <eos>
-Whose louse has Emily cured ? <eos>
-Whose has Emily cured louse ? <eos>
-Which cashier were those screens scaring ? <eos>
-Which were those screens scaring cashier ? <eos>
-What actress had all fish disturbed ? <eos>
-What had all fish disturbed actress ? <eos>
-Whose cafe could Beverly dislike ? <eos>
-Whose could Beverly dislike cafe ? <eos>
-Whose public parks might Diana walk through ? <eos>
-Whose might Diana walk through public parks ? <eos>
-What women has Winston Churchill disturbed ? <eos>
-What has Winston Churchill disturbed women ? <eos>
-Which actors was Andrew insulting ? <eos>
-Which was Andrew insulting actors ? <eos>
-Which drivers should Tanya work with ? <eos>
-Which should Tanya work with drivers ? <eos>
-Which turtle was that waitress finding ? <eos>
-Which was that waitress finding turtle ? <eos>
-What essays is Rachelle discovering ? <eos>
-What is Rachelle discovering essays ? <eos>
-Which hospitals was Steven bringing ? <eos>
-Which was Steven bringing hospitals ? <eos>
-Which customers had all drivers escaped from ? <eos>
-Which had all drivers escaped from customers ? <eos>
-Which driver should Tiffany watch ? <eos>
-Which should Tiffany watch driver ? <eos>
-What slopes did Jerry ascend ? <eos>
-What did Jerry ascend slopes ? <eos>
-Which oasis could Guy skate around ? <eos>
-Which could Guy skate around oasis ? <eos>
-What hill has Sarah researched ? <eos>
-What has Sarah researched hill ? <eos>
-Which child were most actors astounding ? <eos>
-Which were most actors astounding child ? <eos>
-What hospital has Walter run around ? <eos>
-What has Walter run around hospital ? <eos>
-Whose fork is Craig breaking ? <eos>
-Whose is Craig breaking fork ? <eos>
-What teacher has Carol known ? <eos>
-What has Carol known teacher ? <eos>
-Whose octopus was Becca taking ? <eos>
-Whose was Becca taking octopus ? <eos>
-Which mushrooms could Rose have ? <eos>
-Which could Rose have mushrooms ? <eos>
-What pamphlets had Deanna complained about ? <eos>
-What had Deanna complained about pamphlets ? <eos>
-Which documentaries can Jodi examine ? <eos>
-Which can Jodi examine documentaries ? <eos>
-Whose socks had Dennis worn ? <eos>
-Whose had Dennis worn socks ? <eos>
-Which ladder has Robert climbed up ? <eos>
-Which has Robert climbed up ladder ? <eos>
-What customer could that cart worry ? <eos>
-What could that cart worry customer ? <eos>
-What unicycles are drivers buying ? <eos>
-What are drivers buying unicycles ? <eos>
-Which waiter would some driver embarrass ? <eos>
-Which would some driver embarrass waiter ? <eos>
-Which apple had Theresa sold ? <eos>
-Which had Theresa sold apple ? <eos>
-Which guests had Susan loved ? <eos>
-Which had Susan loved guests ? <eos>
-What bases is Douglas researching ? <eos>
-What is Douglas researching bases ? <eos>
-What patients had Brett watched ? <eos>
-What had Brett watched patients ? <eos>
-Which sketches had the face resembled ? <eos>
-Which had the face resembled sketches ? <eos>
-What projector does the patient bring ? <eos>
-What does the patient bring projector ? <eos>
-Whose unicycles is that lady taking ? <eos>
-Whose is that lady taking unicycles ? <eos>
-Which students would Catherine bore ? <eos>
-Which would Catherine bore students ? <eos>
-What customer is some cat hurting ? <eos>
-What is some cat hurting customer ? <eos>
-Which doctors did Irene attack ? <eos>
-Which did Irene attack doctors ? <eos>
-Which student has Michael loved ? <eos>
-Which has Michael loved student ? <eos>
-Whose school had Marla arrived at ? <eos>
-Whose had Marla arrived at school ? <eos>
-What waitresses was that lady talking to ? <eos>
-What was that lady talking to waitresses ? <eos>
-Which cashiers would the ladder irritate ? <eos>
-Which would the ladder irritate cashiers ? <eos>
-Whose book did Charles clean ? <eos>
-Whose did Charles clean book ? <eos>
-What vases will Laurie find ? <eos>
-What will Laurie find vases ? <eos>
-Which reports is Teresa criticizing ? <eos>
-Which is Teresa criticizing reports ? <eos>
-Which woman is the adult healing ? <eos>
-Which is the adult healing woman ? <eos>
-Which screens could April break ? <eos>
-Which could April break screens ? <eos>
-Whose rivers should most teenagers pass ? <eos>
-Whose should most teenagers pass rivers ? <eos>
-Which student has Mitchell bored ? <eos>
-Which has Mitchell bored student ? <eos>
-What rabbit had a guy concealed ? <eos>
-What had a guy concealed rabbit ? <eos>
-What guest was Tiffany annoying ? <eos>
-What was Tiffany annoying guest ? <eos>
-What offspring is Heidi arguing about ? <eos>
-What is Heidi arguing about offspring ? <eos>
-Whose documentary has Janice scanned ? <eos>
-Whose has Janice scanned documentary ? <eos>
-What people will Marla distract ? <eos>
-What will Marla distract people ? <eos>
-What patient is Kristin insulting ? <eos>
-What is Kristin insulting patient ? <eos>
-Whose cafes is Timothy escaping from ? <eos>
-Whose is Timothy escaping from cafes ? <eos>
-What print have most actors seen ? <eos>
-What have most actors seen print ? <eos>
-What student are the Borgias disagreeing with ? <eos>
-What are the Borgias disagreeing with student ? <eos>
-Whose steps did George climb down ? <eos>
-Whose did George climb down steps ? <eos>
-What customer does Samuel dislike ? <eos>
-What does Samuel dislike customer ? <eos>
-What teachers is Cheryl returning to ? <eos>
-What is Cheryl returning to teachers ? <eos>
-Whose skateboard was Kristin fixing ? <eos>
-Whose was Kristin fixing skateboard ? <eos>
-What government could Amelia discover ? <eos>
-What could Amelia discover government ? <eos>
-Which person had Marcus disliked ? <eos>
-Which had Marcus disliked person ? <eos>
-What adults could Anne discover ? <eos>
-What could Anne discover adults ? <eos>
-Whose river will this lady see ? <eos>
-Whose will this lady see river ? <eos>
-What brochures had Julia boasted about ? <eos>
-What had Julia boasted about brochures ? <eos>
-What hospital was that guest boycotting ? <eos>
-What was that guest boycotting hospital ? <eos>
-Which lady is Roger concealing ? <eos>
-Which is Roger concealing lady ? <eos>
-What lakes was Carla going to ? <eos>
-What was Carla going to lakes ? <eos>
-What boys can the dancers hire ? <eos>
-What can the dancers hire boys ? <eos>
-Which teenagers is Michael criticizing ? <eos>
-Which is Michael criticizing teenagers ? <eos>
-What dancers had Elaine listened to ? <eos>
-What had Elaine listened to dancers ? <eos>
-Which alumni could Melanie care for ? <eos>
-Which could Melanie care for alumni ? <eos>
-What analysis was Naomi referencing ? <eos>
-What was Naomi referencing analysis ? <eos>
-Which companies would the doctor upset ? <eos>
-Which would the doctor upset companies ? <eos>
-Whose essay have the children boasted about ? <eos>
-Whose have the children boasted about essay ? <eos>
-What association had Anne annoyed ? <eos>
-What had Anne annoyed association ? <eos>
-What carriages had Carlos noticed ? <eos>
-What had Carlos noticed carriages ? <eos>
-Which hill was Florence walking through ? <eos>
-Which was Florence walking through hill ? <eos>
-Which guests could politics aggravate ? <eos>
-Which could politics aggravate guests ? <eos>
-What patients are the Lutherans concealing ? <eos>
-What are the Lutherans concealing patients ? <eos>
-Which children has Frank questioned ? <eos>
-Which has Frank questioned children ? <eos>
-What mall is Colleen biking to ? <eos>
-What is Colleen biking to mall ? <eos>
-What senator can some dancers listen to ? <eos>
-What can some dancers listen to senator ? <eos>
-What guest has Frank admired ? <eos>
-What has Frank admired guest ? <eos>
-Which lakes would those actresses criticize ? <eos>
-Which would those actresses criticize lakes ? <eos>
-Which fish is Stephanie discovering ? <eos>
-Which is Stephanie discovering fish ? <eos>
-What peppers are sketches looking like ? <eos>
-What are sketches looking like peppers ? <eos>
-What boys had Raymond known ? <eos>
-What had Raymond known boys ? <eos>
-What ladders was Mary revealing ? <eos>
-What was Mary revealing ladders ? <eos>
-What organizations has the skateboard impressed ? <eos>
-What has the skateboard impressed organizations ? <eos>
-What teachers did the Impressionists alarm ? <eos>
-What did the Impressionists alarm teachers ? <eos>
-Whose couch has Becca broken ? <eos>
-Whose has Becca broken couch ? <eos>
-Which women did Janet hire ? <eos>
-Which did Janet hire women ? <eos>
-Which girl should Rose heal ? <eos>
-Which should Rose heal girl ? <eos>
-Which grocery stores might Edward tour ? <eos>
-Which might Edward tour grocery stores ? <eos>
-What public park has some dancer gone to ? <eos>
-What has some dancer gone to public park ? <eos>
-Which pedestrians is Kathleen attacking ? <eos>
-Which is Kathleen attacking pedestrians ? <eos>
-What dancer had Laurie fled from ? <eos>
-What had Laurie fled from dancer ? <eos>
-What customers is Kayla watching ? <eos>
-What is Kayla watching customers ? <eos>
-Which waitresses is Diana hurting ? <eos>
-Which is Diana hurting waitresses ? <eos>
-Which cashier was Douglas working with ? <eos>
-Which was Douglas working with cashier ? <eos>
-Whose hills should Tracy dislike ? <eos>
-Whose should Tracy dislike hills ? <eos>
-Which waitress had that man watched ? <eos>
-Which had that man watched waitress ? <eos>
-Whose glasses was Carl concealing ? <eos>
-Whose was Carl concealing glasses ? <eos>
-Which governments had these mushrooms hurt ? <eos>
-Which had these mushrooms hurt governments ? <eos>
-Which actress do the Clintons attack ? <eos>
-Which do the Clintons attack actress ? <eos>
-Whose movie theaters is Naomi concealing ? <eos>
-Whose is Naomi concealing movie theaters ? <eos>
-Whose glacier is Andrea boycotting ? <eos>
-Whose is Andrea boycotting glacier ? <eos>
-Whose movie theater had some cashiers noticed ? <eos>
-Whose had some cashiers noticed movie theater ? <eos>
-Which prints were computers looking like ? <eos>
-Which were computers looking like prints ? <eos>
-Which customers has Julia hired ? <eos>
-Which has Julia hired customers ? <eos>
-Which brochure should Angela complain about ? <eos>
-Which should Angela complain about brochure ? <eos>
-What teacher has Ronald cured ? <eos>
-What has Ronald cured teacher ? <eos>
-What waiter were some drivers watching ? <eos>
-What were some drivers watching waiter ? <eos>
-Which high school had Tiffany explored ? <eos>
-Which had Tiffany explored high school ? <eos>
-What customer would a lot of guys cure ? <eos>
-What would a lot of guys cure customer ? <eos>
-Which closet has that guest exited ? <eos>
-Which has that guest exited closet ? <eos>
-What truck were some people lifting ? <eos>
-What were some people lifting truck ? <eos>
-What hospital were many blouses bothering ? <eos>
-What were many blouses bothering hospital ? <eos>
-Which mall has an adult dropped by ? <eos>
-Which has an adult dropped by mall ? <eos>
-What girls had Susan healed ? <eos>
-What had Susan healed girls ? <eos>
-Whose photograph had Keith looked like ? <eos>
-Whose had Keith looked like photograph ? <eos>
-What guests would the Clintons astound ? <eos>
-What would the Clintons astound guests ? <eos>
-Which sketches has Leslie brought ? <eos>
-Which has Leslie brought sketches ? <eos>
-Whose hats would Veronica buy ? <eos>
-Whose would Veronica buy hats ? <eos>
-Which guest had Adam healed ? <eos>
-Which had Adam healed guest ? <eos>
-What girls should Lawrence respect ? <eos>
-What should Lawrence respect girls ? <eos>
-What person was Ann attacking ? <eos>
-What was Ann attacking person ? <eos>
-What teeth was the company buying ? <eos>
-What was the company buying teeth ? <eos>
-Whose school has that restaurant bothered ? <eos>
-Whose has that restaurant bothered school ? <eos>
-What banks would some sketches look like ? <eos>
-What would some sketches look like banks ? <eos>
-Whose restaurants was Julia insulting ? <eos>
-Whose was Julia insulting restaurants ? <eos>
-Which synopses had Suzanne disliked ? <eos>
-Which had Suzanne disliked synopses ? <eos>
-Whose grocery store has Monica boycotted ? <eos>
-Whose has Monica boycotted grocery store ? <eos>
-What school did some actors distract ? <eos>
-What did some actors distract school ? <eos>
-Which book would Monica scan ? <eos>
-Which would Monica scan book ? <eos>
-Which drivers can Andrea know ? <eos>
-Which can Andrea know drivers ? <eos>
-What guy does Douglas fire ? <eos>
-What does Douglas fire guy ? <eos>
-Which hat is Jessica wearing ? <eos>
-Which is Jessica wearing hat ? <eos>
-Whose gloves was Patricia wearing ? <eos>
-Whose was Patricia wearing gloves ? <eos>
-What pamphlets is Alice referencing ? <eos>
-What is Alice referencing pamphlets ? <eos>
-What committee could that pie shock ? <eos>
-What could that pie shock committee ? <eos>
-What waiter were many organizations listening to ? <eos>
-What were many organizations listening to waiter ? <eos>
-What teenager should Diane distract ? <eos>
-What should Diane distract teenager ? <eos>
-Which movie theaters was Melissa passing ? <eos>
-Which was Melissa passing movie theaters ? <eos>
-Which man was Ella returning to ? <eos>
-Which was Ella returning to man ? <eos>
-Which actress had Peter complained about ? <eos>
-Which had Peter complained about actress ? <eos>
-Whose forks will Christopher notice ? <eos>
-Whose will Christopher notice forks ? <eos>
-Which slope might Dan climb down ? <eos>
-Which might Dan climb down slope ? <eos>
-What student do some cakes annoy ? <eos>
-What do some cakes annoy student ? <eos>
-Which grocery stores was Timothy escaping from ? <eos>
-Which was Timothy escaping from grocery stores ? <eos>
-Whose ladders has Cynthia climbed down ? <eos>
-Whose has Cynthia climbed down ladders ? <eos>
-Which museum had the Great Lakes hurt ? <eos>
-Which had the Great Lakes hurt museum ? <eos>
-Whose bananas is Nancy admiring ? <eos>
-Whose is Nancy admiring bananas ? <eos>
-What offspring has Michelle annoyed ? <eos>
-What has Michelle annoyed offspring ? <eos>
-Which children are all dancers observing ? <eos>
-Which are all dancers observing children ? <eos>
-Whose malls did all adults pass ? <eos>
-Whose did all adults pass malls ? <eos>
-What series has Sherry complained about ? <eos>
-What has Sherry complained about series ? <eos>
-What women had Wayne returned to ? <eos>
-What had Wayne returned to women ? <eos>
-Whose hats has Linda brought ? <eos>
-Whose has Linda brought hats ? <eos>
-Which waiter was Douglas referencing ? <eos>
-Which was Douglas referencing waiter ? <eos>
-What student has Dana praised ? <eos>
-What has Dana praised student ? <eos>
-Which ladder would Kevin conceal ? <eos>
-Which would Kevin conceal ladder ? <eos>
-Which public parks has Tiffany biked to ? <eos>
-Which has Tiffany biked to public parks ? <eos>
-Which drivers was Kenneth boasting about ? <eos>
-Which was Kenneth boasting about drivers ? <eos>
-Whose snake can Cynthia think about ? <eos>
-Whose can Cynthia think about snake ? <eos>
-What pedestrians has Marla approached ? <eos>
-What has Marla approached pedestrians ? <eos>
-Which patients should this pedestrian leave ? <eos>
-Which should this pedestrian leave patients ? <eos>
-Whose painting were some boxes looking like ? <eos>
-Whose were some boxes looking like painting ? <eos>
-What waiters had Eric cared for ? <eos>
-What had Eric cared for waiters ? <eos>
-Whose bicycles is Daniel breaking ? <eos>
-Whose is Daniel breaking bicycles ? <eos>
-Which women is Liam hugging ? <eos>
-Which is Liam hugging women ? <eos>
-What library can the senator appreciate ? <eos>
-What can the senator appreciate library ? <eos>
-Which actors will Sandra talk to ? <eos>
-Which will Sandra talk to actors ? <eos>
-Whose university should some ice cream distract ? <eos>
-Whose should some ice cream distract university ? <eos>
-What guest is Elaine revealing ? <eos>
-What is Elaine revealing guest ? <eos>
-Whose reports has Judy sold ? <eos>
-Whose has Judy sold reports ? <eos>
-What actress has that committee confused ? <eos>
-What has that committee confused actress ? <eos>
-Whose mirror is Daniel breaking ? <eos>
-Whose is Daniel breaking mirror ? <eos>
-Whose hills should some people tour ? <eos>
-Whose should some people tour hills ? <eos>
-Which mall might Jane research ? <eos>
-Which might Jane research mall ? <eos>
-Which malls might Samantha like ? <eos>
-Which might Samantha like malls ? <eos>
-Which doctors should Jacqueline return to ? <eos>
-Which should Jacqueline return to doctors ? <eos>
-Which cashier has that jacket irritated ? <eos>
-Which has that jacket irritated cashier ? <eos>
-What rice should Robert bring ? <eos>
-What should Robert bring rice ? <eos>
-Which ladder is Jeffrey descending ? <eos>
-Which is Jeffrey descending ladder ? <eos>
-Which dog had Rose thought about ? <eos>
-Which had Rose thought about dog ? <eos>
-Which restaurant had Stephanie gone to ? <eos>
-Which had Stephanie gone to restaurant ? <eos>
-What doctor should Anne criticize ? <eos>
-What should Anne criticize doctor ? <eos>
-What man was Michael curing ? <eos>
-What was Michael curing man ? <eos>
-What offspring have the girls scared ? <eos>
-What have the girls scared offspring ? <eos>
-Which play has every child forgotten ? <eos>
-Which has every child forgotten play ? <eos>
-Which oasis had Alicia complained about ? <eos>
-Which had Alicia complained about oasis ? <eos>
-What patient were some pedestrians disagreeing with ? <eos>
-What were some pedestrians disagreeing with patient ? <eos>
-Whose brochures does Florence hate ? <eos>
-Whose does Florence hate brochures ? <eos>
-What guests had Lucille annoyed ? <eos>
-What had Lucille annoyed guests ? <eos>
-What adults has Robert left ? <eos>
-What has Robert left adults ? <eos>
-Which waiters had Karla hated ? <eos>
-Which had Karla hated waiters ? <eos>
-Whose shirts was Sabrina wearing ? <eos>
-Whose was Sabrina wearing shirts ? <eos>
-Whose pants was a waiter messing up ? <eos>
-Whose was a waiter messing up pants ? <eos>
-Which woman was Alicia helping ? <eos>
-Which was Alicia helping woman ? <eos>
-Which public park had the Impressionists remembered ? <eos>
-Which had the Impressionists remembered public park ? <eos>
-Whose college campuses has Melanie respected ? <eos>
-Whose has Melanie respected college campuses ? <eos>
-Which trucks does Mary break ? <eos>
-Which does Mary break trucks ? <eos>
-What woman has Victoria respected ? <eos>
-What has Victoria respected woman ? <eos>
-What hospitals might Becky drop by ? <eos>
-What might Becky drop by hospitals ? <eos>
-Which waiters have most children fired ? <eos>
-Which have most children fired waiters ? <eos>
-Whose river has Ruth left ? <eos>
-Whose has Ruth left river ? <eos>
-What customer could some guys talk to ? <eos>
-What could some guys talk to customer ? <eos>
-Which guy had Raymond hugged ? <eos>
-Which had Raymond hugged guy ? <eos>
-What sketches is Tara revealing ? <eos>
-What is Tara revealing sketches ? <eos>
-What cashiers was Christopher arguing about ? <eos>
-What was Christopher arguing about cashiers ? <eos>
-Whose spinach has Tina brought ? <eos>
-Whose has Tina brought spinach ? <eos>
-What men can Daniel approach ? <eos>
-What can Daniel approach men ? <eos>
-Which water does Kayla like ? <eos>
-Which does Kayla like water ? <eos>
-What government has Victoria hurt ? <eos>
-What has Victoria hurt government ? <eos>
-Which guys has this doctor escaped from ? <eos>
-Which has this doctor escaped from guys ? <eos>
-What student can the man think about ? <eos>
-What can the man think about student ? <eos>
-What teenager did Alice respect ? <eos>
-What did Alice respect teenager ? <eos>
-Which plates had a lot of waitresses broken ? <eos>
-Which had a lot of waitresses broken plates ? <eos>
-Which report are these drivers disagreeing with ? <eos>
-Which are these drivers disagreeing with report ? <eos>
-What man has Jerry fired ? <eos>
-What has Jerry fired man ? <eos>
-What reports can Brad examine ? <eos>
-What can Brad examine reports ? <eos>
-What vases would Teresa break ? <eos>
-What would Teresa break vases ? <eos>
-Which closets was Mark passing ? <eos>
-Which was Mark passing closets ? <eos>
-Which students is Sharon hiring ? <eos>
-Which is Sharon hiring students ? <eos>
-Whose associations had Alan scared ? <eos>
-Whose had Alan scared associations ? <eos>
-Which woman had Margaret upset ? <eos>
-Which had Margaret upset woman ? <eos>
-Which hospital has Richard remembered ? <eos>
-Which has Richard remembered hospital ? <eos>
-What waiters is Cheryl talking to ? <eos>
-What is Cheryl talking to waiters ? <eos>
-Whose lake does Raymond drop by ? <eos>
-Whose does Raymond drop by lake ? <eos>
-Which teenager can Laura respect ? <eos>
-Which can Laura respect teenager ? <eos>
-Whose analysis has some guest scanned ? <eos>
-Whose has some guest scanned analysis ? <eos>
-Which child had this waitress distracted ? <eos>
-Which had this waitress distracted child ? <eos>
-Which hospitals was the lady upsetting ? <eos>
-Which was the lady upsetting hospitals ? <eos>
-What student were most waitresses astounding ? <eos>
-What were most waitresses astounding student ? <eos>
-Whose reports have most museums admired ? <eos>
-Whose have most museums admired reports ? <eos>
-What children had Heather watched ? <eos>
-What had Heather watched children ? <eos>
-Which senators could all senators disagree with ? <eos>
-Which could all senators disagree with senators ? <eos>
-Whose university had Tara annoyed ? <eos>
-Whose had Tara annoyed university ? <eos>
-What lake had Jill cleaned ? <eos>
-What had Jill cleaned lake ? <eos>
-Which glacier would Teresa research ? <eos>
-Which would Teresa research glacier ? <eos>
-Which unicycle was Dana taking ? <eos>
-Which was Dana taking unicycle ? <eos>
-What teenager might Douglas investigate ? <eos>
-What might Douglas investigate teenager ? <eos>
-What teachers could Donna argue about ? <eos>
-What could Donna argue about teachers ? <eos>
-What guests was Dana praising ? <eos>
-What was Dana praising guests ? <eos>
-Which alumnus can Karla heal ? <eos>
-Which can Karla heal alumnus ? <eos>
-Which drivers is Tara boasting about ? <eos>
-Which is Tara boasting about drivers ? <eos>
-Whose slope is Bruce lifting ? <eos>
-Whose is Bruce lifting slope ? <eos>
-What guests had Christina left ? <eos>
-What had Christina left guests ? <eos>
-Which glacier had Dennis explored ? <eos>
-Which had Dennis explored glacier ? <eos>
-Which doctors should some turtle impress ? <eos>
-Which should some turtle impress doctors ? <eos>
-Which guests is Charles kissing ? <eos>
-Which is Charles kissing guests ? <eos>
-Which dancer might some museum know ? <eos>
-Which might some museum know dancer ? <eos>
-Which teachers could David talk about ? <eos>
-Which could David talk about teachers ? <eos>
-Whose brochures were many pedestrians scanning ? <eos>
-Whose were many pedestrians scanning brochures ? <eos>
-What guys was Nancy kissing ? <eos>
-What was Nancy kissing guys ? <eos>
-What man had a lot of guests cared for ? <eos>
-What had a lot of guests cared for man ? <eos>
-Which oases had Joel biked to ? <eos>
-Which had Joel biked to oases ? <eos>
-Which dancer could the bicycle embarrass ? <eos>
-Which could the bicycle embarrass dancer ? <eos>
-Which actresses can Theresa escape from ? <eos>
-Which can Theresa escape from actresses ? <eos>
-Which student should Craig watch ? <eos>
-Which should Craig watch student ? <eos>
-Which wheelbarrows has Lissa broken ? <eos>
-Which has Lissa broken wheelbarrows ? <eos>
-What adults was Kathleen approaching ? <eos>
-What was Kathleen approaching adults ? <eos>
-What teachers has this broccoli stunned ? <eos>
-What has this broccoli stunned teachers ? <eos>
-What pamphlet is Vanessa discussing ? <eos>
-What is Vanessa discussing pamphlet ? <eos>
-What alumni was the water bothering ? <eos>
-What was the water bothering alumni ? <eos>
-Whose hospital does Linda bike to ? <eos>
-Whose does Linda bike to hospital ? <eos>
-Which report did Edward examine ? <eos>
-Which did Edward examine report ? <eos>
-What lice is Brian admiring ? <eos>
-What is Brian admiring lice ? <eos>
-Which woman have many sketches bored ? <eos>
-Which have many sketches bored woman ? <eos>
-Whose museum have cucumbers bothered ? <eos>
-Whose have cucumbers bothered museum ? <eos>
-Which senators will many libraries boast about ? <eos>
-Which will many libraries boast about senators ? <eos>
-What octopi can Frank buy ? <eos>
-What can Frank buy octopi ? <eos>
-Which art galleries will Lissa explore ? <eos>
-Which will Lissa explore art galleries ? <eos>
-Whose pepper has Theodore found ? <eos>
-Whose has Theodore found pepper ? <eos>
-Which art galleries had Sandra passed ? <eos>
-Which had Sandra passed art galleries ? <eos>
-Which girl had Rachel fired ? <eos>
-Which had Rachel fired girl ? <eos>
-Which patient was Melissa referencing ? <eos>
-Which was Melissa referencing patient ? <eos>
-What book does Alan scan ? <eos>
-What does Alan scan book ? <eos>
-Which art gallery is this teenager biking to ? <eos>
-Which is this teenager biking to art gallery ? <eos>
-Whose glaciers could Martin exit ? <eos>
-Whose could Martin exit glaciers ? <eos>
-What guests had Katherine distracted ? <eos>
-What had Katherine distracted guests ? <eos>
-What closets had a lot of drivers arrived at ? <eos>
-What had a lot of drivers arrived at closets ? <eos>
-Which stairs has Melissa discovered ? <eos>
-Which has Melissa discovered stairs ? <eos>
-What blouse should Colleen wear ? <eos>
-What should Colleen wear blouse ? <eos>
-What drivers have those associations argued about ? <eos>
-What have those associations argued about drivers ? <eos>
-Whose commentaries were those guys disagreeing with ? <eos>
-Whose were those guys disagreeing with commentaries ? <eos>
-What men could Joseph help ? <eos>
-What could Joseph help men ? <eos>
-Whose mountains had a woman gone to ? <eos>
-Whose had a woman gone to mountains ? <eos>
-What students might the girl question ? <eos>
-What might the girl question students ? <eos>
-What committees might Deanna scare ? <eos>
-What might Deanna scare committees ? <eos>
-Whose college campus can George take ? <eos>
-Whose can George take college campus ? <eos>
-What hospitals had this cucumber disturbed ? <eos>
-What had this cucumber disturbed hospitals ? <eos>
-Which company can Benjamin research ? <eos>
-Which can Benjamin research company ? <eos>
-Which legislatures is Martha irritating ? <eos>
-Which is Martha irritating legislatures ? <eos>
-Which ladies is Stacey approaching ? <eos>
-Which is Stacey approaching ladies ? <eos>
-Whose closet can Pamela exit ? <eos>
-Whose can Pamela exit closet ? <eos>
-Which patients is Sherry approaching ? <eos>
-Which is Sherry approaching patients ? <eos>
-Whose wheelbarrows has Keith admired ? <eos>
-Whose has Keith admired wheelbarrows ? <eos>
-Which teenager has Raymond disturbed ? <eos>
-Which has Raymond disturbed teenager ? <eos>
-Which girls are the Impressionists visiting ? <eos>
-Which are the Impressionists visiting girls ? <eos>
-What teeth had Sonia fixed ? <eos>
-What had Sonia fixed teeth ? <eos>
-What cafe has Stephen dropped by ? <eos>
-What has Stephen dropped by cafe ? <eos>
-Which patients can Martha forget ? <eos>
-Which can Martha forget patients ? <eos>
-Whose grocery stores is Kevin returning to ? <eos>
-Whose is Kevin returning to grocery stores ? <eos>
-Whose shawl was that company buying ? <eos>
-Whose was that company buying shawl ? <eos>
-Whose college campuses has Alicia run around ? <eos>
-Whose has Alicia run around college campuses ? <eos>
-Which lakes is Becca driving to ? <eos>
-Which is Becca driving to lakes ? <eos>
-What lakes had Rodney driven to ? <eos>
-What had Rodney driven to lakes ? <eos>
-Which hat would the pedestrians notice ? <eos>
-Which would the pedestrians notice hat ? <eos>
-Which banks had Teresa gone to ? <eos>
-Which had Teresa gone to banks ? <eos>
-Which actor is some legislature annoying ? <eos>
-Which is some legislature annoying actor ? <eos>
-Which foot will Homer break ? <eos>
-Which will Homer break foot ? <eos>
-Which guys should Melissa investigate ? <eos>
-Which should Melissa investigate guys ? <eos>
-Which wheelbarrow were those guys selling ? <eos>
-Which were those guys selling wheelbarrow ? <eos>
-Which government might Paul bother ? <eos>
-Which might Paul bother government ? <eos>
-Which alumni have all people remembered ? <eos>
-Which have all people remembered alumni ? <eos>
-What waiter has Jason approached ? <eos>
-What has Jason approached waiter ? <eos>
-Which cafes was Brett biking to ? <eos>
-Which was Brett biking to cafes ? <eos>
-Which unicycles will an actress break ? <eos>
-Which will an actress break unicycles ? <eos>
-Which cacti is Jodi hiding ? <eos>
-Which is Jodi hiding cacti ? <eos>
-What adults can a hospital talk to ? <eos>
-What can a hospital talk to adults ? <eos>
-Whose mountains might a customer ascend ? <eos>
-Whose might a customer ascend mountains ? <eos>
-Which women has the cat irritated ? <eos>
-Which has the cat irritated women ? <eos>
-What glacier has every waiter described ? <eos>
-What has every waiter described glacier ? <eos>
-What child were most actresses alarming ? <eos>
-What were most actresses alarming child ? <eos>
-What rivers had Emily explored ? <eos>
-What had Emily explored rivers ? <eos>
-What screens had Chad cleaned ? <eos>
-What had Chad cleaned screens ? <eos>
-Whose movie theaters was Tiffany touring ? <eos>
-Whose was Tiffany touring movie theaters ? <eos>
-What ladders was Carmen climbing down ? <eos>
-What was Carmen climbing down ladders ? <eos>
-Whose window could Daniel sell ? <eos>
-Whose could Daniel sell window ? <eos>
-Whose organizations could these senators impress ? <eos>
-Whose could these senators impress organizations ? <eos>
-What child does this fork disturb ? <eos>
-What does this fork disturb child ? <eos>
-What pedestrians could these dancers fire ? <eos>
-What could these dancers fire pedestrians ? <eos>
-Whose restaurant had Margaret arrived at ? <eos>
-Whose had Margaret arrived at restaurant ? <eos>
-Which patients have some computers upset ? <eos>
-Which have some computers upset patients ? <eos>
-Whose couches has Mark messed up ? <eos>
-Whose has Mark messed up couches ? <eos>
-Which children had the child fired ? <eos>
-Which had the child fired children ? <eos>
-Which mall had many senators escaped from ? <eos>
-Which had many senators escaped from mall ? <eos>
-Which museums was Vanessa worrying ? <eos>
-Which was Vanessa worrying museums ? <eos>
-Whose movie theater is Melissa messing up ? <eos>
-Whose is Melissa messing up movie theater ? <eos>
-Whose college campus had the Borgias arrived at ? <eos>
-Whose had the Borgias arrived at college campus ? <eos>
-Whose museum is Walter questioning ? <eos>
-Whose is Walter questioning museum ? <eos>
-What guy had some bike bothered ? <eos>
-What had some bike bothered guy ? <eos>
-Which actresses should Winston Churchill care for ? <eos>
-Which should Winston Churchill care for actresses ? <eos>
-What hospitals has Carl driven to ? <eos>
-What has Carl driven to hospitals ? <eos>
-Whose banks was Noah dropping by ? <eos>
-Whose was Noah dropping by banks ? <eos>
-What guys could a lot of libraries annoy ? <eos>
-What could a lot of libraries annoy guys ? <eos>
-What pedestrian does Alexander argue about ? <eos>
-What does Alexander argue about pedestrian ? <eos>
-Which cafe will Patricia clean ? <eos>
-Which will Patricia clean cafe ? <eos>
-What drivers had Rebecca cared for ? <eos>
-What had Rebecca cared for drivers ? <eos>
-What children was some boy approaching ? <eos>
-What was some boy approaching children ? <eos>
-Which bicycles did Susan lift ? <eos>
-Which did Susan lift bicycles ? <eos>
-Whose hills is the student exiting ? <eos>
-Whose is the student exiting hills ? <eos>
-Which dancer is the company talking to ? <eos>
-Which is the company talking to dancer ? <eos>
-What cafes could Rodney talk about ? <eos>
-What could Rodney talk about cafes ? <eos>
-Which hospitals did Kristen tour ? <eos>
-Which did Kristen tour hospitals ? <eos>
-Which men is Mary finding ? <eos>
-Which is Mary finding men ? <eos>
-Which boys has Ellen visited ? <eos>
-Which has Ellen visited boys ? <eos>
-What rivers was Brad boycotting ? <eos>
-What was Brad boycotting rivers ? <eos>
-Whose medium is Emily boasting about ? <eos>
-Whose is Emily boasting about medium ? <eos>
-What associations has Nicole hurt ? <eos>
-What has Nicole hurt associations ? <eos>
-Whose broccoli has Deanna revealed ? <eos>
-Whose has Deanna revealed broccoli ? <eos>
-What women had many people concealed ? <eos>
-What had many people concealed women ? <eos>
-What mountain is some guest climbing down ? <eos>
-What is some guest climbing down mountain ? <eos>
-Which association does Kathleen think about ? <eos>
-Which does Kathleen think about association ? <eos>
-Whose commentaries was Amanda insulting ? <eos>
-Whose was Amanda insulting commentaries ? <eos>
-What girls does Laurie question ? <eos>
-What does Laurie question girls ? <eos>
-What high schools was Rodney running around ? <eos>
-What was Rodney running around high schools ? <eos>
-Which restaurants had Aaron toured ? <eos>
-Which had Aaron toured restaurants ? <eos>
-What men had Sonia disliked ? <eos>
-What had Sonia disliked men ? <eos>
-Which banks was Kayla exploring ? <eos>
-Which was Kayla exploring banks ? <eos>
-Which ladder are the Impressionists climbing up ? <eos>
-Which are the Impressionists climbing up ladder ? <eos>
-Whose closets had Larry talked about ? <eos>
-Whose had Larry talked about closets ? <eos>
-Which bank should David bike to ? <eos>
-Which should David bike to bank ? <eos>
-Whose slopes had a patient descended ? <eos>
-Whose had a patient descended slopes ? <eos>
-Which woman would all boxes worry ? <eos>
-Which would all boxes worry woman ? <eos>
-What jacket might a lot of cashiers take ? <eos>
-What might a lot of cashiers take jacket ? <eos>
-What guests are the companies talking to ? <eos>
-What are the companies talking to guests ? <eos>
-Which ladder can Tamara climb up ? <eos>
-Which can Tamara climb up ladder ? <eos>
-Which college campuses has Christopher arrived at ? <eos>
-Which has Christopher arrived at college campuses ? <eos>
-Which women will Linda flee from ? <eos>
-Which will Linda flee from women ? <eos>
-What ladders was Alexander climbing up ? <eos>
-What was Alexander climbing up ladders ? <eos>
-What river should Tamara escape from ? <eos>
-What should Tamara escape from river ? <eos>
-Whose pamphlets is Jerry arguing about ? <eos>
-Whose is Jerry arguing about pamphlets ? <eos>
-Which child can Tara know ? <eos>
-Which can Tara know child ? <eos>
-Which art gallery can Alan escape from ? <eos>
-Which can Alan escape from art gallery ? <eos>
-Which goose did Phillip sell ? <eos>
-Which did Phillip sell goose ? <eos>
-Which lake does Erin walk through ? <eos>
-Which does Erin walk through lake ? <eos>
-Which skateboard is Guy cleaning ? <eos>
-Which is Guy cleaning skateboard ? <eos>
-Which patient is Emily aggravating ? <eos>
-Which is Emily aggravating patient ? <eos>
-Which person was every adult boasting about ? <eos>
-Which was every adult boasting about person ? <eos>
-Whose pamphlets can Anna reference ? <eos>
-Whose can Anna reference pamphlets ? <eos>
-Which waitresses could that government fire ? <eos>
-Which could that government fire waitresses ? <eos>
-What movie theater was Linda taking ? <eos>
-What was Linda taking movie theater ? <eos>
-What adult was Sharon questioning ? <eos>
-What was Sharon questioning adult ? <eos>
-What documentary is Christine scanning ? <eos>
-What is Christine scanning documentary ? <eos>
-Whose pamphlets has Erin disliked ? <eos>
-Whose has Erin disliked pamphlets ? <eos>
-Whose college campus was Ronald arriving at ? <eos>
-Whose was Ronald arriving at college campus ? <eos>
-What restaurants is this committee insulting ? <eos>
-What is this committee insulting restaurants ? <eos>
-Which guy had the dancers returned to ? <eos>
-Which had the dancers returned to guy ? <eos>
-What mall are those waiters discovering ? <eos>
-What are those waiters discovering mall ? <eos>
-What teachers would Diane conceal ? <eos>
-What would Diane conceal teachers ? <eos>
-What eggplant did Stephanie bring ? <eos>
-What did Stephanie bring eggplant ? <eos>
-What children had Kayla insulted ? <eos>
-What had Kayla insulted children ? <eos>
-Which girls was Martin visiting ? <eos>
-Which was Martin visiting girls ? <eos>
-Whose closet has Jane left ? <eos>
-Whose has Jane left closet ? <eos>
-Whose government would Wendy aggravate ? <eos>
-Whose would Wendy aggravate government ? <eos>
-Which child will all shoes shock ? <eos>
-Which will all shoes shock child ? <eos>
-What waiter has Omar confused ? <eos>
-What has Omar confused waiter ? <eos>
-Whose bread has James sold ? <eos>
-Whose has James sold bread ? <eos>
-Which boys would Wayne talk to ? <eos>
-Which would Wayne talk to boys ? <eos>
-Which boy was Raymond firing ? <eos>
-Which was Raymond firing boy ? <eos>
-Which patient had Patrick discussed ? <eos>
-Which had Patrick discussed patient ? <eos>
-Which guy was Carl approaching ? <eos>
-Which was Carl approaching guy ? <eos>
-Whose university are the newspaper articles hurting ? <eos>
-Whose are the newspaper articles hurting university ? <eos>
-What actor might the unicycles disturb ? <eos>
-What might the unicycles disturb actor ? <eos>
-What glacier was Jill escaping from ? <eos>
-What was Jill escaping from glacier ? <eos>
-Which hills should Claire explore ? <eos>
-Which should Claire explore hills ? <eos>
-Which guest was Amy working with ? <eos>
-Which was Amy working with guest ? <eos>
-What student had this girl worried ? <eos>
-What had this girl worried student ? <eos>
-Whose trucks might Homer break ? <eos>
-Whose might Homer break trucks ? <eos>
-What children might Christopher question ? <eos>
-What might Christopher question children ? <eos>
-Which offspring does Carol approach ? <eos>
-Which does Carol approach offspring ? <eos>
-What schools was the grocery store stunning ? <eos>
-What was the grocery store stunning schools ? <eos>
-What drivers had Alan investigated ? <eos>
-What had Alan investigated drivers ? <eos>
-Whose grocery stores is Heather dropping by ? <eos>
-Whose is Heather dropping by grocery stores ? <eos>
-Which brochure could those waitresses like ? <eos>
-Which could those waitresses like brochure ? <eos>
-Which waitress was Naomi astounding ? <eos>
-Which was Naomi astounding waitress ? <eos>
-Which doctors had a teenager visited ? <eos>
-Which had a teenager visited doctors ? <eos>
-Which pasta might Sonia lift ? <eos>
-Which might Sonia lift pasta ? <eos>
-Whose hills have women climbed down ? <eos>
-Whose have women climbed down hills ? <eos>
-What actor will Christine notice ? <eos>
-What will Christine notice actor ? <eos>
-Which senator had Melissa cared for ? <eos>
-Which had Melissa cared for senator ? <eos>
-Which oases did Rhonda explore ? <eos>
-Which did Rhonda explore oases ? <eos>
-Which senator are a lot of actresses annoying ? <eos>
-Which are a lot of actresses annoying senator ? <eos>
-Which cafes had Paul visited ? <eos>
-Which had Paul visited cafes ? <eos>
-Whose wheelbarrows had Bill broken ? <eos>
-Whose had Bill broken wheelbarrows ? <eos>
-Which children is Martha bothering ? <eos>
-Which is Martha bothering children ? <eos>
-Whose bank is Jerry talking about ? <eos>
-Whose is Jerry talking about bank ? <eos>
-Which cashier are drivers finding ? <eos>
-Which are drivers finding cashier ? <eos>
-Which adults would Deborah talk to ? <eos>
-Which would Deborah talk to adults ? <eos>
-Which doctors has Theodore disliked ? <eos>
-Which has Theodore disliked doctors ? <eos>
-Whose hats is Beth thinking about ? <eos>
-Whose is Beth thinking about hats ? <eos>
-What movie theaters does Tracy go to ? <eos>
-What does Tracy go to movie theaters ? <eos>
-What woman has this commentary alarmed ? <eos>
-What has this commentary alarmed woman ? <eos>
-Which actresses has Beth healed ? <eos>
-Which has Beth healed actresses ? <eos>
-Whose mountain will Katherine climb up ? <eos>
-Whose will Katherine climb up mountain ? <eos>
-What cashiers did Kristen return to ? <eos>
-What did Kristen return to cashiers ? <eos>
-What ladders was Julie climbing up ? <eos>
-What was Julie climbing up ladders ? <eos>
-What synopses might Allison examine ? <eos>
-What might Allison examine synopses ? <eos>
-Which girl is Renee hiring ? <eos>
-Which is Renee hiring girl ? <eos>
-What alumnus is Wayne leaving ? <eos>
-What is Wayne leaving alumnus ? <eos>
-What adults could Elizabeth listen to ? <eos>
-What could Elizabeth listen to adults ? <eos>
-What offspring does that student approach ? <eos>
-What does that student approach offspring ? <eos>
-Whose glove will Grace find ? <eos>
-Whose will Grace find glove ? <eos>
-Which drawing can a lot of gloves look like ? <eos>
-Which can a lot of gloves look like drawing ? <eos>
-What hill did these adults return to ? <eos>
-What did these adults return to hill ? <eos>
-Which children was Omar distracting ? <eos>
-Which was Omar distracting children ? <eos>
-What customers was Anne listening to ? <eos>
-What was Anne listening to customers ? <eos>
-Whose analyses is Gary describing ? <eos>
-Whose is Gary describing analyses ? <eos>
-Which patient was Gerald complaining about ? <eos>
-Which was Gerald complaining about patient ? <eos>
-Which cafes should Stephen criticize ? <eos>
-Which should Stephen criticize cafes ? <eos>
-Which glass was Deanna breaking ? <eos>
-Which was Deanna breaking glass ? <eos>
-Whose associations does Veronica question ? <eos>
-Whose does Veronica question associations ? <eos>
-Which restaurant was Robert skated around ? <eos>
-Which was Robert skated around restaurant ? <eos>
-Whose fish should Danielle have ? <eos>
-Whose should Danielle have fish ? <eos>
-Whose book did Deborah praise ? <eos>
-Whose did Deborah praise book ? <eos>
-Whose photographs was Natalie looking like ? <eos>
-Whose was Natalie looking like photographs ? <eos>
-Whose vase is Judy breaking ? <eos>
-Whose is Judy breaking vase ? <eos>
-What senator has Claire fired ? <eos>
-What has Claire fired senator ? <eos>
-Which photographs had some picture looked like ? <eos>
-Which had some picture looked like photographs ? <eos>
-What boys has Benjamin cared for ? <eos>
-What has Benjamin cared for boys ? <eos>
-Which oases was Marie cleaning ? <eos>
-Which was Marie cleaning oases ? <eos>
-Whose ladders had Ann descended ? <eos>
-Whose had Ann descended ladders ? <eos>
-What shirt did Jodi buy ? <eos>
-What did Jodi buy shirt ? <eos>
-What man had Candice questioned ? <eos>
-What had Candice questioned man ? <eos>
-What oases did Kristen see ? <eos>
-What did Kristen see oases ? <eos>
-Whose cafe might Tonya buy ? <eos>
-Whose might Tonya buy cafe ? <eos>
-Which man had a spotlight aggravated ? <eos>
-Which had a spotlight aggravated man ? <eos>
-Whose cafes is Lucille arriving at ? <eos>
-Whose is Lucille arriving at cafes ? <eos>
-What scarves did the sketches look like ? <eos>
-What did the sketches look like scarves ? <eos>
-What books has Eric sounded like ? <eos>
-What has Eric sounded like books ? <eos>
-What alumni did that student sound like ? <eos>
-What did that student sound like alumni ? <eos>
-What guys might Matt approach ? <eos>
-What might Matt approach guys ? <eos>
-What actors can these doctors question ? <eos>
-What can these doctors question actors ? <eos>
-Which story had Sandra examined ? <eos>
-Which had Sandra examined story ? <eos>
-What teacher should Carolyn flee from ? <eos>
-What should Carolyn flee from teacher ? <eos>
-What actor has Colleen praised ? <eos>
-What has Colleen praised actor ? <eos>
-What sock had actors taken ? <eos>
-What had actors taken sock ? <eos>
-What brochure might Kayla hide ? <eos>
-What might Kayla hide brochure ? <eos>
-What screens had this guest revealed ? <eos>
-What had this guest revealed screens ? <eos>
-What dancer was Carolyn alarming ? <eos>
-What was Carolyn alarming dancer ? <eos>
-What public park had Debra researched ? <eos>
-What had Debra researched public park ? <eos>
-Which child had Kenneth kissed ? <eos>
-Which had Kenneth kissed child ? <eos>
-Whose pants had Harvard University admired ? <eos>
-Whose had Harvard University admired pants ? <eos>
-Which student had Marie praised ? <eos>
-Which had Marie praised student ? <eos>
-What girl did most people hate ? <eos>
-What did most people hate girl ? <eos>
-Whose computer had Amanda lifted ? <eos>
-Whose had Amanda lifted computer ? <eos>
-Which pictures is Clyde bringing ? <eos>
-Which is Clyde bringing pictures ? <eos>
-Which hill had this guy descended ? <eos>
-Which had this guy descended hill ? <eos>
-Whose school is Jodi running around ? <eos>
-Whose is Jodi running around school ? <eos>
-Which hospitals is every patient exploring ? <eos>
-Which is every patient exploring hospitals ? <eos>
-Which lady has Liam bored ? <eos>
-Which has Liam bored lady ? <eos>
-Which person was this actress concealing ? <eos>
-Which was this actress concealing person ? <eos>
-What lady was Melissa leaving ? <eos>
-What was Melissa leaving lady ? <eos>
-Which movie had Andrew concealed ? <eos>
-Which had Andrew concealed movie ? <eos>
-Which art gallery was Jesus insulting ? <eos>
-Which was Jesus insulting art gallery ? <eos>
-Whose high school is Jesus criticizing ? <eos>
-Whose is Jesus criticizing high school ? <eos>
-What students are many doctors attacking ? <eos>
-What are many doctors attacking students ? <eos>
-Which mountain has Douglas climbed down ? <eos>
-Which has Douglas climbed down mountain ? <eos>
-Which water had most sketches looked like ? <eos>
-Which had most sketches looked like water ? <eos>
-Whose malls should Sally clean ? <eos>
-Whose should Sally clean malls ? <eos>
-Which waiter will some children kiss ? <eos>
-Which will some children kiss waiter ? <eos>
-Which mushrooms would Kendra buy ? <eos>
-Which would Kendra buy mushrooms ? <eos>
-Which guests should Kevin care for ? <eos>
-Which should Kevin care for guests ? <eos>
-What association is this senator alarming ? <eos>
-What is this senator alarming association ? <eos>
-Whose malls have people driven to ? <eos>
-Whose have people driven to malls ? <eos>
-Which lady would all teachers fire ? <eos>
-Which would all teachers fire lady ? <eos>
-Which cashiers had Lisa returned to ? <eos>
-Which had Lisa returned to cashiers ? <eos>
-Which cashier were some dancers astounding ? <eos>
-Which were some dancers astounding cashier ? <eos>
-Which guests can Diana love ? <eos>
-Which can Diana love guests ? <eos>
-Whose museums had Sabrina toured ? <eos>
-Whose had Sabrina toured museums ? <eos>
-What actress was Suzanne boring ? <eos>
-What was Suzanne boring actress ? <eos>
-Which pedestrians will these students disagree with ? <eos>
-Which will these students disagree with pedestrians ? <eos>
-What restaurant had all guests revealed ? <eos>
-What had all guests revealed restaurant ? <eos>
-Whose sketch have some pictures resembled ? <eos>
-Whose have some pictures resembled sketch ? <eos>
-Which lady had some commentary disagreed with ? <eos>
-Which had some commentary disagreed with lady ? <eos>
-Which mall is Ronald biking to ? <eos>
-Which is Ronald biking to mall ? <eos>
-What play can Galileo forget ? <eos>
-What can Galileo forget play ? <eos>
-Which glass was a teenager breaking ? <eos>
-Which was a teenager breaking glass ? <eos>
-What students can Julia heal ? <eos>
-What can Julia heal students ? <eos>
-What sock is Grace wearing ? <eos>
-What is Grace wearing sock ? <eos>
-Whose mountain was Emily climbing down ? <eos>
-Whose was Emily climbing down mountain ? <eos>
-What mountains is Dawn climbing up ? <eos>
-What is Dawn climbing up mountains ? <eos>
-What essay is Kevin concealing ? <eos>
-What is Kevin concealing essay ? <eos>
-Whose grocery stores had Helen dropped by ? <eos>
-Whose had Helen dropped by grocery stores ? <eos>
-What doctor is Becca watching ? <eos>
-What is Becca watching doctor ? <eos>
-Which associations is Gary impressing ? <eos>
-Which is Gary impressing associations ? <eos>
-Which fish has Kayla cured ? <eos>
-Which has Kayla cured fish ? <eos>
-Which nose will Alexander have ? <eos>
-Which will Alexander have nose ? <eos>
-What boys was Homer visiting ? <eos>
-What was Homer visiting boys ? <eos>
-Which waitress is Tammy visiting ? <eos>
-Which is Tammy visiting waitress ? <eos>
-What man are girls bothering ? <eos>
-What are girls bothering man ? <eos>
-Which patients might Sabrina hug ? <eos>
-Which might Sabrina hug patients ? <eos>
-Whose restaurant had Tara driven to ? <eos>
-Whose had Tara driven to restaurant ? <eos>
-Which river is Theodore lifting ? <eos>
-Which is Theodore lifting river ? <eos>
-What guys is Elizabeth discovering ? <eos>
-What is Elizabeth discovering guys ? <eos>
-Which actress had Charles hurt ? <eos>
-Which had Charles hurt actress ? <eos>
-What sweaters was Stephen wearing ? <eos>
-What was Stephen wearing sweaters ? <eos>
-Whose companies is Rachelle upsetting ? <eos>
-Whose is Rachelle upsetting companies ? <eos>
-Which students was Kenneth praising ? <eos>
-Which was Kenneth praising students ? <eos>
-Which dog might Valerie bring ? <eos>
-Which might Valerie bring dog ? <eos>
-What guy has every wheelbarrow embarrassed ? <eos>
-What has every wheelbarrow embarrassed guy ? <eos>
-What committee was Homer confusing ? <eos>
-What was Homer confusing committee ? <eos>
-Whose legislature had these public parks disgusted ? <eos>
-Whose had these public parks disgusted legislature ? <eos>
-What mall were some actresses selling ? <eos>
-What were some actresses selling mall ? <eos>
-Whose banks were a lot of people biking to ? <eos>
-Whose were a lot of people biking to banks ? <eos>
-Which patients had the boy criticized ? <eos>
-Which had the boy criticized patients ? <eos>
-Which alumni had many girls healed ? <eos>
-Which had many girls healed alumni ? <eos>
-Which pictures has Dan looked like ? <eos>
-Which has Dan looked like pictures ? <eos>
-What art gallery should Dan tour ? <eos>
-What should Dan tour art gallery ? <eos>
-What waitresses were many companies working with ? <eos>
-What were many companies working with waitresses ? <eos>
-What actors are many pedestrians fleeing from ? <eos>
-What are many pedestrians fleeing from actors ? <eos>
-What deer has Galileo revealed ? <eos>
-What has Galileo revealed deer ? <eos>
-What essays had James argued about ? <eos>
-What had James argued about essays ? <eos>
-What teacher should Carol work with ? <eos>
-What should Carol work with teacher ? <eos>
-Which child had Stephanie forgotten ? <eos>
-Which had Stephanie forgotten child ? <eos>
-What wheelbarrows would that doctor break ? <eos>
-What would that doctor break wheelbarrows ? <eos>
-Which offspring have waiters investigated ? <eos>
-Which have waiters investigated offspring ? <eos>
-What women can this child hate ? <eos>
-What can this child hate women ? <eos>
-What student has Thomas cared for ? <eos>
-What has Thomas cared for student ? <eos>
-Which customers have these schools argued about ? <eos>
-Which have these schools argued about customers ? <eos>
-Whose mice had Curtis seen ? <eos>
-Whose had Curtis seen mice ? <eos>
-What report might Lawrence scan ? <eos>
-What might Lawrence scan report ? <eos>
-Whose mountain will Gary explore ? <eos>
-Whose will Gary explore mountain ? <eos>
-What oasis would Carmen go to ? <eos>
-What would Carmen go to oasis ? <eos>
-Whose slope can this guest climb up ? <eos>
-Whose can this guest climb up slope ? <eos>
-Whose schools is Naomi dropping by ? <eos>
-Whose is Naomi dropping by schools ? <eos>
-Which print had the actresses looked like ? <eos>
-Which had the actresses looked like print ? <eos>
-Which synopsis has Jason referenced ? <eos>
-Which has Jason referenced synopsis ? <eos>
-Which hill is every senator fleeing from ? <eos>
-Which is every senator fleeing from hill ? <eos>
-What children can Candice know ? <eos>
-What can Candice know children ? <eos>
-Whose universities would Janice alarm ? <eos>
-Whose would Janice alarm universities ? <eos>
-What sweaters can that cashier wear ? <eos>
-What can that cashier wear sweaters ? <eos>
-Which guests does Rose heal ? <eos>
-Which does Rose heal guests ? <eos>
-What patient can Carol return to ? <eos>
-What can Carol return to patient ? <eos>
-Whose river would Carrie remember ? <eos>
-Whose would Carrie remember river ? <eos>
-What stimulus do those patients research ? <eos>
-What do those patients research stimulus ? <eos>
-Whose windows could this guy see ? <eos>
-Whose could this guy see windows ? <eos>
-Which river did Steven arrive at ? <eos>
-Which did Steven arrive at river ? <eos>
-Which guys can many banks disturb ? <eos>
-Which can many banks disturb guys ? <eos>
-What stories was this guest criticizing ? <eos>
-What was this guest criticizing stories ? <eos>
-What wheelbarrow has Peter fixed ? <eos>
-What has Peter fixed wheelbarrow ? <eos>
-Which pedestrian is Kenneth hurting ? <eos>
-Which is Kenneth hurting pedestrian ? <eos>
-Which students should Bruce distract ? <eos>
-Which should Bruce distract students ? <eos>
-What doctors does Tamara listen to ? <eos>
-What does Tamara listen to doctors ? <eos>
-What guest would Cindy flee from ? <eos>
-What would Cindy flee from guest ? <eos>
-Which sweaters will Tracy see ? <eos>
-Which will Tracy see sweaters ? <eos>
-What waiters was Steven firing ? <eos>
-What was Steven firing waiters ? <eos>
-Whose schools might Judy alarm ? <eos>
-Whose might Judy alarm schools ? <eos>
-Which cashier do some stories disagree with ? <eos>
-Which do some stories disagree with cashier ? <eos>
-What museum had Dawn fled from ? <eos>
-What had Dawn fled from museum ? <eos>
-What hat does Richard wear ? <eos>
-What does Richard wear hat ? <eos>
-What truck could Suzanne take ? <eos>
-What could Suzanne take truck ? <eos>
-What malls had Carlos messed up ? <eos>
-What had Carlos messed up malls ? <eos>
-Which actresses is Sabrina visiting ? <eos>
-Which is Sabrina visiting actresses ? <eos>
-What dancer is Tina approaching ? <eos>
-What is Tina approaching dancer ? <eos>
-Which banks was a girl admiring ? <eos>
-Which was a girl admiring banks ? <eos>
-What teeth was Brett selling ? <eos>
-What was Brett selling teeth ? <eos>
-Which planes is Ella fixing ? <eos>
-Which is Ella fixing planes ? <eos>
-Whose hospital are a lot of customers walking through ? <eos>
-Whose are a lot of customers walking through hospital ? <eos>
-Which chair was Emily lifting ? <eos>
-Which was Emily lifting chair ? <eos>
-What dancer had Larry cured ? <eos>
-What had Larry cured dancer ? <eos>
-Which patient have these governments hated ? <eos>
-Which have these governments hated patient ? <eos>
-What mountain had Candice toured ? <eos>
-What had Candice toured mountain ? <eos>
-What adult could Rachel visit ? <eos>
-What could Rachel visit adult ? <eos>
-What rugs might a lot of drawings look like ? <eos>
-What might a lot of drawings look like rugs ? <eos>
-What cafe has this doctor walked through ? <eos>
-What has this doctor walked through cafe ? <eos>
-Whose mountains will Carla climb up ? <eos>
-Whose will Carla climb up mountains ? <eos>
-What synopsis have those cashiers disagreed with ? <eos>
-What have those cashiers disagreed with synopsis ? <eos>
-What essays does Tanya examine ? <eos>
-What does Tanya examine essays ? <eos>
-Which woman might Karen respect ? <eos>
-Which might Karen respect woman ? <eos>
-Which blouses did Elaine wear ? <eos>
-Which did Elaine wear blouses ? <eos>
-Which stairs will Raymond hide ? <eos>
-Which will Raymond hide stairs ? <eos>
-Whose malls might all legislatures talk about ? <eos>
-Whose might all legislatures talk about malls ? <eos>
-Which mountain will Raymond climb up ? <eos>
-Which will Raymond climb up mountain ? <eos>
-Which senators had Victoria healed ? <eos>
-Which had Victoria healed senators ? <eos>
-Which alumni was this customer kissing ? <eos>
-Which was this customer kissing alumni ? <eos>
-Which people can Veronica know ? <eos>
-Which can Veronica know people ? <eos>
+Whose museums had Dana alarmed ? <eos>
+Whose had Dana alarmed museums ? <eos>
+Whose hat should Tonya wear ? <eos>
+Whose should Tonya wear hat ? <eos>
+What movies is Renee concealing ? <eos>
+What is Renee concealing movies ? <eos>
+What bicycle was Rebecca noticing ? <eos>
+What was Rebecca noticing bicycle ? <eos>
+Which senator should Jesus visit ? <eos>
+Which should Jesus visit senator ? <eos>
+What fish is a person healing ? <eos>
+What is a person healing fish ? <eos>
+What dancers should Kristen respect ? <eos>
+What should Kristen respect dancers ? <eos>
+What waiter has James hurt ? <eos>
+What has James hurt waiter ? <eos>
+Which adult was Larry distracting ? <eos>
+Which was Larry distracting adult ? <eos>
+What waitresses has Monica approached ? <eos>
+What has Monica approached waitresses ? <eos>
+Which waiters has Thomas disliked ? <eos>
+Which has Thomas disliked waiters ? <eos>
+What senator is a truck hurting ? <eos>
+What is a truck hurting senator ? <eos>
+Which carriages might Alice break ? <eos>
+Which might Alice break carriages ? <eos>
+Which newspaper articles can the student dislike ? <eos>
+Which can the student dislike newspaper articles ? <eos>
+Which oasis has Diane dropped by ? <eos>
+Which has Diane dropped by oasis ? <eos>
+Which senators has Deborah observed ? <eos>
+Which has Deborah observed senators ? <eos>
+What doctors will Chad kiss ? <eos>
+What will Chad kiss doctors ? <eos>
+Whose thesis was Donna appreciating ? <eos>
+Whose was Donna appreciating thesis ? <eos>
+What unicycles would Galileo take ? <eos>
+What would Galileo take unicycles ? <eos>
+What paralysis will Amy discover ? <eos>
+What will Amy discover paralysis ? <eos>
+Which woman could Jesus heal ? <eos>
+Which could Jesus heal woman ? <eos>
+What patient can this guest reference ? <eos>
+What can this guest reference patient ? <eos>
+Which waiter could Amelia talk about ? <eos>
+Which could Amelia talk about waiter ? <eos>
+Which library is Kristen thinking about ? <eos>
+Which is Kristen thinking about library ? <eos>
+Which book could John bring ? <eos>
+Which could John bring book ? <eos>
+What actress could Adam argue about ? <eos>
+What could Adam argue about actress ? <eos>
+Which pedestrians had a lot of teachers forgotten ? <eos>
+Which had a lot of teachers forgotten pedestrians ? <eos>
+Which horses does Marcus hide ? <eos>
+Which does Marcus hide horses ? <eos>
+What adults do many drawings embarrass ? <eos>
+What do many drawings embarrass adults ? <eos>
+Which guys has Colleen cared for ? <eos>
+Which has Colleen cared for guys ? <eos>
+Which bikes is John fixing ? <eos>
+Which is John fixing bikes ? <eos>
+Which movies would Laura hate ? <eos>
+Which would Laura hate movies ? <eos>
+Which mountains has Jodi ascended ? <eos>
+Which has Jodi ascended mountains ? <eos>
+What carriage is Steve fixing ? <eos>
+What is Steve fixing carriage ? <eos>
+Whose car is Gregory buying ? <eos>
+Whose is Gregory buying car ? <eos>
+Which doctor had Timothy escaped from ? <eos>
+Which had Timothy escaped from doctor ? <eos>
+Which glove had an adult concealed ? <eos>
+Which had an adult concealed glove ? <eos>
+Which mall had Gina dropped by ? <eos>
+Which had Gina dropped by mall ? <eos>
+What girl was Clyde boasting about ? <eos>
+What was Clyde boasting about girl ? <eos>
+Which closets should Colleen appreciate ? <eos>
+Which should Colleen appreciate closets ? <eos>
+Which children had George revealed ? <eos>
+Which had George revealed children ? <eos>
+What customers does Martin flee from ? <eos>
+What does Martin flee from customers ? <eos>
+Which hill is Roger climbing down ? <eos>
+Which is Roger climbing down hill ? <eos>
+Which men has George questioned ? <eos>
+Which has George questioned men ? <eos>
+What teenagers was Monet visiting ? <eos>
+What was Monet visiting teenagers ? <eos>
+Which cashier is Richard approaching ? <eos>
+Which is Richard approaching cashier ? <eos>
+What teenager had Elaine complained about ? <eos>
+What had Elaine complained about teenager ? <eos>
+What customers might Benjamin work with ? <eos>
+What might Benjamin work with customers ? <eos>
+What river had David passed ? <eos>
+What had David passed river ? <eos>
+Which organizations has Laura upset ? <eos>
+Which has Laura upset organizations ? <eos>
+Whose hats was Sally wearing ? <eos>
+Whose was Sally wearing hats ? <eos>
+Which women has Harvard University fired ? <eos>
+Which has Harvard University fired women ? <eos>
+What waitress will Christopher listen to ? <eos>
+What will Christopher listen to waitress ? <eos>
+Which trucks has a guest concealed ? <eos>
+Which has a guest concealed trucks ? <eos>
+Which alumnus has this screen shocked ? <eos>
+Which has this screen shocked alumnus ? <eos>
+Which dancers did that skirt annoy ? <eos>
+Which did that skirt annoy dancers ? <eos>
+Which eyes might Jacqueline clean ? <eos>
+Which might Jacqueline clean eyes ? <eos>
+What high school does Melissa walk through ? <eos>
+What does Melissa walk through high school ? <eos>
+What student could Karen argue about ? <eos>
+What could Karen argue about student ? <eos>
+Which child would Samantha confuse ? <eos>
+Which would Samantha confuse child ? <eos>
+What museum can Theodore skate around ? <eos>
+What can Theodore skate around museum ? <eos>
+What senators could those newspaper articles scare ? <eos>
+What could those newspaper articles scare senators ? <eos>
+What patients have all chairs embarrassed ? <eos>
+What have all chairs embarrassed patients ? <eos>
+What malls has Dawn driven to ? <eos>
+What has Dawn driven to malls ? <eos>
+Which college campuses had Paula walked through ? <eos>
+Which had Paula walked through college campuses ? <eos>
+What offspring should all girls dislike ? <eos>
+What should all girls dislike offspring ? <eos>
+Whose art gallery were the Impressionists cleaning ? <eos>
+Whose were the Impressionists cleaning art gallery ? <eos>
+What glove will Walter sell ? <eos>
+What will Walter sell glove ? <eos>
+What pedestrian was Ronald observing ? <eos>
+What was Ronald observing pedestrian ? <eos>
+Whose tooth is Candice noticing ? <eos>
+Whose is Candice noticing tooth ? <eos>
+Whose ladders is Paul descending ? <eos>
+Whose is Paul descending ladders ? <eos>
+What woman had some bird annoyed ? <eos>
+What had some bird annoyed woman ? <eos>
+What drivers did this actor fire ? <eos>
+What did this actor fire drivers ? <eos>
+Which senator could Samuel return to ? <eos>
+Which could Samuel return to senator ? <eos>
+Which hospital were cars bothering ? <eos>
+Which were cars bothering hospital ? <eos>
+What dancer could Donna work with ? <eos>
+What could Donna work with dancer ? <eos>
+Which banks might most people visit ? <eos>
+Which might most people visit banks ? <eos>
+Whose lakes could Benjamin drive to ? <eos>
+Whose could Benjamin drive to lakes ? <eos>
+Which bank has some lake distracted ? <eos>
+Which has some lake distracted bank ? <eos>
+Which synopses was Russell complaining about ? <eos>
+Which was Russell complaining about synopses ? <eos>
+Which closet should Alexander run around ? <eos>
+Which should Alexander run around closet ? <eos>
+Which legislature might that waitress embarrass ? <eos>
+Which might that waitress embarrass legislature ? <eos>
+What dancer could Lori watch ? <eos>
+What could Lori watch dancer ? <eos>
+Which art galleries is Winston Churchill visiting ? <eos>
+Which is Winston Churchill visiting art galleries ? <eos>
+Which adult has Brad loved ? <eos>
+Which has Brad loved adult ? <eos>
+Which boys could Gerald cure ? <eos>
+Which could Gerald cure boys ? <eos>
+What nose had Theresa revealed ? <eos>
+What had Theresa revealed nose ? <eos>
+Which steps had Christine ascended ? <eos>
+Which had Christine ascended steps ? <eos>
+Whose steps can Bill climb down ? <eos>
+Whose can Bill climb down steps ? <eos>
+What theses might this student scan ? <eos>
+What might this student scan theses ? <eos>
+Whose high school had Michelle walked through ? <eos>
+Whose had Michelle walked through high school ? <eos>
+Which men is Ellen distracting ? <eos>
+Which is Ellen distracting men ? <eos>
+Which students has Russell praised ? <eos>
+Which has Russell praised students ? <eos>
+Which adults has Alice helped ? <eos>
+Which has Alice helped adults ? <eos>
+What waiters has the vase astounded ? <eos>
+What has the vase astounded waiters ? <eos>
+Which museums has Ruth toured ? <eos>
+Which has Ruth toured museums ? <eos>
+Whose screens can a man break ? <eos>
+Whose can a man break screens ? <eos>
+Which organization was Helen questioning ? <eos>
+Which was Helen questioning organization ? <eos>
+Which guys is Sonia kissing ? <eos>
+Which is Sonia kissing guys ? <eos>
+Whose stairs might Galileo descend ? <eos>
+Whose might Galileo descend stairs ? <eos>
+What libraries had Stephen cleaned ? <eos>
+What had Stephen cleaned libraries ? <eos>
+Which child should many guests annoy ? <eos>
+Which should many guests annoy child ? <eos>
+Which newspaper article has Ellen researched ? <eos>
+Which has Ellen researched newspaper article ? <eos>
+What cashiers has Keith attacked ? <eos>
+What has Keith attacked cashiers ? <eos>
+What lady did Tonya bother ? <eos>
+What did Tonya bother lady ? <eos>
+Which mountains were these women fleeing from ? <eos>
+Which were these women fleeing from mountains ? <eos>
+Which actresses does Marla question ? <eos>
+Which does Marla question actresses ? <eos>
+What cashiers does Sharon question ? <eos>
+What does Sharon question cashiers ? <eos>
+Which mountain might all birds descend ? <eos>
+Which might all birds descend mountain ? <eos>
+What shirts has Wendy worn ? <eos>
+What has Wendy worn shirts ? <eos>
+Which girl were some boys disagreeing with ? <eos>
+Which were some boys disagreeing with girl ? <eos>
+Which movies is Alan scanning ? <eos>
+Which is Alan scanning movies ? <eos>
+Whose car does a committee take ? <eos>
+Whose does a committee take car ? <eos>
+Whose restaurants had Susan gone to ? <eos>
+Whose had Susan gone to restaurants ? <eos>
+What alumnus had Carla approached ? <eos>
+What had Carla approached alumnus ? <eos>
+What hills should Kristen climb up ? <eos>
+What should Kristen climb up hills ? <eos>
+Which hospital is Rebecca cleaning ? <eos>
+Which is Rebecca cleaning hospital ? <eos>
+Which children has Scott questioned ? <eos>
+Which has Scott questioned children ? <eos>
+Whose museums has Mary explored ? <eos>
+Whose has Mary explored museums ? <eos>
+Which children might Chad investigate ? <eos>
+Which might Chad investigate children ? <eos>
+Which boys was Jodi talking about ? <eos>
+Which was Jodi talking about boys ? <eos>
+What boys are a lot of legislatures helping ? <eos>
+What are a lot of legislatures helping boys ? <eos>
+What men was Alan confusing ? <eos>
+What was Alan confusing men ? <eos>
+What ox can Dawn heal ? <eos>
+What can Dawn heal ox ? <eos>
+What skirt was the guy thinking about ? <eos>
+What was the guy thinking about skirt ? <eos>
+Whose library was every driver going to ? <eos>
+Whose was every driver going to library ? <eos>
+Which children can Craig investigate ? <eos>
+Which can Craig investigate children ? <eos>
+Whose public park will Winston Churchill go to ? <eos>
+Whose will Winston Churchill go to public park ? <eos>
+What teacher should most schools listen to ? <eos>
+What should most schools listen to teacher ? <eos>
+Which hats might Sonia see ? <eos>
+Which might Sonia see hats ? <eos>
+What adults could Galileo hate ? <eos>
+What could Galileo hate adults ? <eos>
+Whose restaurants might some woman dislike ? <eos>
+Whose might some woman dislike restaurants ? <eos>
+Whose hills could Kirsten discuss ? <eos>
+Whose could Kirsten discuss hills ? <eos>
+Whose movie theaters has Galileo arrived at ? <eos>
+Whose has Galileo arrived at movie theaters ? <eos>
+Whose hair had Derek seen ? <eos>
+Whose had Derek seen hair ? <eos>
+Which doctors is Meredith arguing about ? <eos>
+Which is Meredith arguing about doctors ? <eos>
+What driver does Mark help ? <eos>
+What does Mark help driver ? <eos>
+What senator had Margaret astounded ? <eos>
+What had Margaret astounded senator ? <eos>
+What girl has Stephanie observed ? <eos>
+What has Stephanie observed girl ? <eos>
+What man was Spain boring ? <eos>
+What was Spain boring man ? <eos>
+What jackets was Walter wearing ? <eos>
+What was Walter wearing jackets ? <eos>
+What adult might Becky dislike ? <eos>
+What might Becky dislike adult ? <eos>
+Whose library is Adam bringing ? <eos>
+Whose is Adam bringing library ? <eos>
+What ladies was Helen curing ? <eos>
+What was Helen curing ladies ? <eos>
+What guys has Tara upset ? <eos>
+What has Tara upset guys ? <eos>
+What teacher was this river distracting ? <eos>
+What was this river distracting teacher ? <eos>
+What cashier does Carlos hug ? <eos>
+What does Carlos hug cashier ? <eos>
+Which guests were a lot of guests disturbing ? <eos>
+Which were a lot of guests disturbing guests ? <eos>
+Which book is Natalie selling ? <eos>
+Which is Natalie selling book ? <eos>
+Whose movie theaters had the drawing looked like ? <eos>
+Whose had the drawing looked like movie theaters ? <eos>
+What girl have the Lutherans hurt ? <eos>
+What have the Lutherans hurt girl ? <eos>
+Whose cars had some drawing looked like ? <eos>
+Whose had some drawing looked like cars ? <eos>
+What paintings is Maria revealing ? <eos>
+What is Maria revealing paintings ? <eos>
+Whose photographs might those apples resemble ? <eos>
+Whose might those apples resemble photographs ? <eos>
+What teenager is Liam talking about ? <eos>
+What is Liam talking about teenager ? <eos>
+Which lady has Claire seen ? <eos>
+Which has Claire seen lady ? <eos>
+What rivers has Nina left ? <eos>
+What has Nina left rivers ? <eos>
+What waiters is the newspaper article disagreeing with ? <eos>
+What is the newspaper article disagreeing with waiters ? <eos>
+What broccoli has Amanda brought ? <eos>
+What has Amanda brought broccoli ? <eos>
+Whose hospital was Karen visiting ? <eos>
+Whose was Karen visiting hospital ? <eos>
+Which high schools was Carol exiting ? <eos>
+Which was Carol exiting high schools ? <eos>
+Whose horses would Margaret cure ? <eos>
+Whose would Margaret cure horses ? <eos>
+Which sheep had every dancer healed ? <eos>
+Which had every dancer healed sheep ? <eos>
+Which guests is Ella hiring ? <eos>
+Which is Ella hiring guests ? <eos>
+Whose hospitals did Galileo walk through ? <eos>
+Whose did Galileo walk through hospitals ? <eos>
+Which lake has Julia toured ? <eos>
+Which has Julia toured lake ? <eos>
+What women is this commentary disagreeing with ? <eos>
+What is this commentary disagreeing with women ? <eos>
+Which cashier is that painting shocking ? <eos>
+Which is that painting shocking cashier ? <eos>
+What cafes would most cashiers drop by ? <eos>
+What would most cashiers drop by cafes ? <eos>
+Whose lakes has Bruce fled from ? <eos>
+Whose has Bruce fled from lakes ? <eos>
+Which waitresses had those companies disgusted ? <eos>
+Which had those companies disgusted waitresses ? <eos>
+What women could Kimberley discuss ? <eos>
+What could Kimberley discuss women ? <eos>
+Which patients was Mark attacking ? <eos>
+Which was Mark attacking patients ? <eos>
+Which offspring will Bruce forget ? <eos>
+Which will Bruce forget offspring ? <eos>
+What library could Kenneth sound like ? <eos>
+What could Kenneth sound like library ? <eos>
+What prints had Eric found ? <eos>
+What had Eric found prints ? <eos>
+What women should Mary hire ? <eos>
+What should Mary hire women ? <eos>
+What steps have all birds ascended ? <eos>
+What have all birds ascended steps ? <eos>
+Which waiter was the movie theater worrying ? <eos>
+Which was the movie theater worrying waiter ? <eos>
+Which patient were these movies alarming ? <eos>
+Which were these movies alarming patient ? <eos>
+Whose river can Laura pass ? <eos>
+Whose can Laura pass river ? <eos>
+Which guys was Chad talking to ? <eos>
+Which was Chad talking to guys ? <eos>
+What woman does Jacqueline investigate ? <eos>
+What does Jacqueline investigate woman ? <eos>
+Whose newspaper articles has the child referenced ? <eos>
+Whose has the child referenced newspaper articles ? <eos>
+What offspring had Lori appreciated ? <eos>
+What had Lori appreciated offspring ? <eos>
+What pedestrian had museums worked with ? <eos>
+What had museums worked with pedestrian ? <eos>
+Which paralysis has Curtis researched ? <eos>
+Which has Curtis researched paralysis ? <eos>
+Which guest has Nancy listened to ? <eos>
+Which has Nancy listened to guest ? <eos>
+What waitress can the Borgias shock ? <eos>
+What can the Borgias shock waitress ? <eos>
+What customers has David investigated ? <eos>
+What has David investigated customers ? <eos>
+Which peppers could Jill admire ? <eos>
+Which could Jill admire peppers ? <eos>
+Whose government would Karen disturb ? <eos>
+Whose would Karen disturb government ? <eos>
+What offspring has George loved ? <eos>
+What has George loved offspring ? <eos>
+What glove did Paul wear ? <eos>
+What did Paul wear glove ? <eos>
+What glacier has Marcus explored ? <eos>
+What has Marcus explored glacier ? <eos>
+Whose windows are all pedestrians finding ? <eos>
+Whose are all pedestrians finding windows ? <eos>
+Which libraries had Julia described ? <eos>
+Which had Julia described libraries ? <eos>
+What scarf were a lot of photographs looking like ? <eos>
+What were a lot of photographs looking like scarf ? <eos>
+Which teenagers can Tonya annoy ? <eos>
+Which can Tonya annoy teenagers ? <eos>
+Which adults might some teacher think about ? <eos>
+Which might some teacher think about adults ? <eos>
+Which movie theaters will Ann arrive at ? <eos>
+Which will Ann arrive at movie theaters ? <eos>
+Which school should a lot of senators leave ? <eos>
+Which should a lot of senators leave school ? <eos>
+Which guests did Carrie boast about ? <eos>
+Which did Carrie boast about guests ? <eos>
+Which stimuli has Alan argued about ? <eos>
+Which has Alan argued about stimuli ? <eos>
+What person had Veronica confused ? <eos>
+What had Veronica confused person ? <eos>
+Which art gallery has Paul visited ? <eos>
+Which has Paul visited art gallery ? <eos>
+Which pedestrians might some customers criticize ? <eos>
+Which might some customers criticize pedestrians ? <eos>
+Whose libraries had every bank alarmed ? <eos>
+Whose had every bank alarmed libraries ? <eos>
+Which books was Jennifer appreciating ? <eos>
+Which was Jennifer appreciating books ? <eos>
+Which cart has Sandra taken ? <eos>
+Which has Sandra taken cart ? <eos>
+Which drivers has Mary healed ? <eos>
+Which has Mary healed drivers ? <eos>
+Which mountain could Donald climb up ? <eos>
+Which could Donald climb up mountain ? <eos>
+Whose skateboards was Stacey taking ? <eos>
+Whose was Stacey taking skateboards ? <eos>
+What cart did George fix ? <eos>
+What did George fix cart ? <eos>
+Whose skateboard will Derek bring ? <eos>
+Whose will Derek bring skateboard ? <eos>
+Which photographs have a lot of wheelbarrows looked like ? <eos>
+Which have a lot of wheelbarrows looked like photographs ? <eos>
+Whose book were the Impressionists concealing ? <eos>
+Whose were the Impressionists concealing book ? <eos>
+What malls has Ella biked to ? <eos>
+What has Ella biked to malls ? <eos>
+Whose museum had this actress run around ? <eos>
+Whose had this actress run around museum ? <eos>
+Whose steps is Jerry discovering ? <eos>
+Whose is Jerry discovering steps ? <eos>
+Which teacher is Grace arguing about ? <eos>
+Which is Grace arguing about teacher ? <eos>
+Which ladies is Brenda shocking ? <eos>
+Which is Brenda shocking ladies ? <eos>
+Which man had Paul insulted ? <eos>
+Which had Paul insulted man ? <eos>
+Which ice is Michael concealing ? <eos>
+Which is Michael concealing ice ? <eos>
+What alumnus might Cynthia fire ? <eos>
+What might Cynthia fire alumnus ? <eos>
+Whose thesis has Linda described ? <eos>
+Whose has Linda described thesis ? <eos>
+Which commentary was Ruth boasting about ? <eos>
+Which was Ruth boasting about commentary ? <eos>
+What customers will many cashiers talk about ? <eos>
+What will many cashiers talk about customers ? <eos>
+Which organizations is a dish stunning ? <eos>
+Which is a dish stunning organizations ? <eos>
+Which legislatures is some man confusing ? <eos>
+Which is some man confusing legislatures ? <eos>
+Which lady were some banks talking to ? <eos>
+Which were some banks talking to lady ? <eos>
+Whose hospitals can most art galleries shock ? <eos>
+Whose can most art galleries shock hospitals ? <eos>
+What oasis might Mark drive to ? <eos>
+What might Mark drive to oasis ? <eos>
+What glacier can Amanda find ? <eos>
+What can Amanda find glacier ? <eos>
+Which mushroom is Rachel finding ? <eos>
+Which is Rachel finding mushroom ? <eos>
+Whose slope did Cindy ascend ? <eos>
+Whose did Cindy ascend slope ? <eos>
+Whose glaciers is Christopher arriving at ? <eos>
+Whose is Christopher arriving at glaciers ? <eos>
+Whose bicycle had Sabrina broken ? <eos>
+Whose had Sabrina broken bicycle ? <eos>
+Which teenager was David investigating ? <eos>
+Which was David investigating teenager ? <eos>
+Which theses is Candice boasting about ? <eos>
+Which is Candice boasting about theses ? <eos>
+Which truck had Rachelle broken ? <eos>
+Which had Rachelle broken truck ? <eos>
+Whose glaciers had Kendra passed ? <eos>
+Whose had Kendra passed glaciers ? <eos>
+Whose hospitals were some stories astounding ? <eos>
+Whose were some stories astounding hospitals ? <eos>
+What waiter would Martha listen to ? <eos>
+What would Martha listen to waiter ? <eos>
+Which movie has Dennis talked about ? <eos>
+Which has Dennis talked about movie ? <eos>
+Which restaurant is Alexander boycotting ? <eos>
+Which is Alexander boycotting restaurant ? <eos>
+Whose committee will Veronica boycott ? <eos>
+Whose will Veronica boycott committee ? <eos>
+Which lady was Bruce shocking ? <eos>
+Which was Bruce shocking lady ? <eos>
+Whose fish had those women bought ? <eos>
+Whose had those women bought fish ? <eos>
+Which nucleus has this actor brought ? <eos>
+Which has this actor brought nucleus ? <eos>
+What child could Paula hug ? <eos>
+What could Paula hug child ? <eos>
+Which alumnus had Carl questioned ? <eos>
+Which had Carl questioned alumnus ? <eos>
+What alumnus will Michael visit ? <eos>
+What will Michael visit alumnus ? <eos>
+Which students has some essay embarrassed ? <eos>
+Which has some essay embarrassed students ? <eos>
+What actor had David admired ? <eos>
+What had David admired actor ? <eos>
+Which waitresses might Sharon flee from ? <eos>
+Which might Sharon flee from waitresses ? <eos>
+Which slope is Catherine descending ? <eos>
+Which is Catherine descending slope ? <eos>
+Which children should Monica listen to ? <eos>
+Which should Monica listen to children ? <eos>
+What man will Carmen kiss ? <eos>
+What will Carmen kiss man ? <eos>
+What offspring was Lawrence watching ? <eos>
+What was Lawrence watching offspring ? <eos>
+Which oases had Randolf run around ? <eos>
+Which had Randolf run around oases ? <eos>
+Which hill can Wayne return to ? <eos>
+Which can Wayne return to hill ? <eos>
+Which oasis might those photographs look like ? <eos>
+Which might those photographs look like oasis ? <eos>
+Which shoes was Craig thinking about ? <eos>
+Which was Craig thinking about shoes ? <eos>
+Which spotlights should most pictures look like ? <eos>
+Which should most pictures look like spotlights ? <eos>
+What patients would Christine attack ? <eos>
+What would Christine attack patients ? <eos>
+Whose hypotheses has Jesus complained about ? <eos>
+Whose has Jesus complained about hypotheses ? <eos>
+Whose unicycle has Lori broken ? <eos>
+Whose has Lori broken unicycle ? <eos>
+What senator was this driver curing ? <eos>
+What was this driver curing senator ? <eos>
+Which offspring had most adults disagreed with ? <eos>
+Which had most adults disagreed with offspring ? <eos>
+Whose mountains were all actors climbing up ? <eos>
+Whose were all actors climbing up mountains ? <eos>
+What waiter had some students attacked ? <eos>
+What had some students attacked waiter ? <eos>
+What cashiers did Paul disgust ? <eos>
+What did Paul disgust cashiers ? <eos>
+What book was Alice finding ? <eos>
+What was Alice finding book ? <eos>
+What documentary is Dennis researching ? <eos>
+What is Dennis researching documentary ? <eos>
+Which girls does Winston Churchill irritate ? <eos>
+Which does Winston Churchill irritate girls ? <eos>
+Which girls had Suzanne returned to ? <eos>
+Which had Suzanne returned to girls ? <eos>
+What pedestrian did Beverly insult ? <eos>
+What did Beverly insult pedestrian ? <eos>
+Whose closets would Elaine tour ? <eos>
+Whose would Elaine tour closets ? <eos>
+Which dancers has literature aggravated ? <eos>
+Which has literature aggravated dancers ? <eos>
+Which oasis should Emily criticize ? <eos>
+Which should Emily criticize oasis ? <eos>
+What patient was Alicia hugging ? <eos>
+What was Alicia hugging patient ? <eos>
+What cashier will some college campuses shock ? <eos>
+What will some college campuses shock cashier ? <eos>
+What girl is every box stunning ? <eos>
+What is every box stunning girl ? <eos>
+Whose commentary might this boy examine ? <eos>
+Whose might this boy examine commentary ? <eos>
+What teacher had Vincent cared for ? <eos>
+What had Vincent cared for teacher ? <eos>
+Which photograph will customers resemble ? <eos>
+Which will customers resemble photograph ? <eos>
+What ladder might Raymond descend ? <eos>
+What might Raymond descend ladder ? <eos>
+Which boys is Paula escaping from ? <eos>
+Which is Paula escaping from boys ? <eos>
+What libraries had Valerie taken ? <eos>
+What had Valerie taken libraries ? <eos>
+What malls has James walked through ? <eos>
+What has James walked through malls ? <eos>
+Whose species would Sharon like ? <eos>
+Whose would Sharon like species ? <eos>
+What alumnus has Dennis bothered ? <eos>
+What has Dennis bothered alumnus ? <eos>
+What men was Rose distracting ? <eos>
+What was Rose distracting men ? <eos>
+What teenagers has Amelia watched ? <eos>
+What has Amelia watched teenagers ? <eos>
+Whose thesis is this lady examining ? <eos>
+Whose is this lady examining thesis ? <eos>
+What universities would Victoria investigate ? <eos>
+What would Victoria investigate universities ? <eos>
+Which movie do those adults sound like ? <eos>
+Which do those adults sound like movie ? <eos>
+Whose glacier might Larry talk about ? <eos>
+Whose might Larry talk about glacier ? <eos>
+What photographs would some school look like ? <eos>
+What would some school look like photographs ? <eos>
+Which cashiers can Michelle listen to ? <eos>
+Which can Michelle listen to cashiers ? <eos>
+What actors has every guy worked with ? <eos>
+What has every guy worked with actors ? <eos>
+Whose steps is Elaine climbing up ? <eos>
+Whose is Elaine climbing up steps ? <eos>
+Whose glacier was Debra skated around ? <eos>
+Whose was Debra skated around glacier ? <eos>
+What malls had Paul visited ? <eos>
+What had Paul visited malls ? <eos>
+Whose libraries had those shirts astounded ? <eos>
+Whose had those shirts astounded libraries ? <eos>
+Which doctor had these actors attacked ? <eos>
+Which had these actors attacked doctor ? <eos>
+Which dancer had these teenagers annoyed ? <eos>
+Which had these teenagers annoyed dancer ? <eos>
+Which bread had most adults bought ? <eos>
+Which had most adults bought bread ? <eos>
+What college campus might Homer explore ? <eos>
+What might Homer explore college campus ? <eos>
+Which museum will a lot of waitresses insult ? <eos>
+Which will a lot of waitresses insult museum ? <eos>
+What adult does Sheila kiss ? <eos>
+What does Sheila kiss adult ? <eos>
+Which slope would Sandra climb up ? <eos>
+Which would Sandra climb up slope ? <eos>
+Which drivers was a skateboard disturbing ? <eos>
+Which was a skateboard disturbing drivers ? <eos>
+Which documentary might Dan talk about ? <eos>
+Which might Dan talk about documentary ? <eos>
+Whose series can Mary argue about ? <eos>
+Whose can Mary argue about series ? <eos>
+Whose bank could waitresses sound like ? <eos>
+Whose could waitresses sound like bank ? <eos>
+What blouses would Irene wear ? <eos>
+What would Irene wear blouses ? <eos>
+What lady will Lucille leave ? <eos>
+What will Lucille leave lady ? <eos>
+What reports did Ann scan ? <eos>
+What did Ann scan reports ? <eos>
+Whose foot had that teacher seen ? <eos>
+Whose had that teacher seen foot ? <eos>
+What teacher had Robert known ? <eos>
+What had Robert known teacher ? <eos>
+What closets has Stephen escaped from ? <eos>
+What has Stephen escaped from closets ? <eos>
+What woman have students hurt ? <eos>
+What have students hurt woman ? <eos>
+Which waitress can Tara confuse ? <eos>
+Which can Tara confuse waitress ? <eos>
+Whose unicycle should Tamara break ? <eos>
+Whose should Tamara break unicycle ? <eos>
+What drivers might Dana hurt ? <eos>
+What might Dana hurt drivers ? <eos>
+Which actor will Mary disgust ? <eos>
+Which will Mary disgust actor ? <eos>
+Which students has Nicole insulted ? <eos>
+Which has Nicole insulted students ? <eos>
+Which synopses was Helen boasting about ? <eos>
+Which was Helen boasting about synopses ? <eos>
+Which planes might Melanie like ? <eos>
+Which might Melanie like planes ? <eos>
+Whose lakes was Sabrina exiting ? <eos>
+Whose was Sabrina exiting lakes ? <eos>
+Which restaurants was Carrie dropping by ? <eos>
+Which was Carrie dropping by restaurants ? <eos>
+What boys had Derek attacked ? <eos>
+What had Derek attacked boys ? <eos>
+What driver was Amy observing ? <eos>
+What was Amy observing driver ? <eos>
+Whose print had Marcus resembled ? <eos>
+Whose had Marcus resembled print ? <eos>
+Which goose might Mitchell find ? <eos>
+Which might Mitchell find goose ? <eos>
+What actors has Julia healed ? <eos>
+What has Julia healed actors ? <eos>
+Which driver is some icicle scaring ? <eos>
+Which is some icicle scaring driver ? <eos>
+Which senators was Matt finding ? <eos>
+Which was Matt finding senators ? <eos>
+Which boy has Danielle fled from ? <eos>
+Which has Danielle fled from boy ? <eos>
+Which governments had Helen questioned ? <eos>
+Which had Helen questioned governments ? <eos>
+What men is a teacher discussing ? <eos>
+What is a teacher discussing men ? <eos>
+What people were patients referencing ? <eos>
+What were patients referencing people ? <eos>
+What public parks has Holly arrived at ? <eos>
+What has Holly arrived at public parks ? <eos>
+Whose books is Meredith examining ? <eos>
+Whose is Meredith examining books ? <eos>
+Whose sweaters does Ronald sell ? <eos>
+Whose does Ronald sell sweaters ? <eos>
+What customers has Nicole worried ? <eos>
+What has Nicole worried customers ? <eos>
+What committees can Scott disturb ? <eos>
+What can Scott disturb committees ? <eos>
+Which plane does Mary admire ? <eos>
+Which does Mary admire plane ? <eos>
+Which movie theaters had many boys respected ? <eos>
+Which had many boys respected movie theaters ? <eos>
+Whose brochure has Denise appreciated ? <eos>
+Whose has Denise appreciated brochure ? <eos>
+Whose steps was Colleen descending ? <eos>
+Whose was Colleen descending steps ? <eos>
+What cafe was Derek exiting ? <eos>
+What was Derek exiting cafe ? <eos>
+What banks is Danielle going to ? <eos>
+What is Danielle going to banks ? <eos>
+What person had Eric approached ? <eos>
+What had Eric approached person ? <eos>
+What beef is every person discovering ? <eos>
+What is every person discovering beef ? <eos>
+What ladders has Stacy climbed down ? <eos>
+What has Stacy climbed down ladders ? <eos>
+What waiter had Raymond observed ? <eos>
+What had Raymond observed waiter ? <eos>
+What actors has Tiffany bored ? <eos>
+What has Tiffany bored actors ? <eos>
+Which women has this ice cream alarmed ? <eos>
+Which has this ice cream alarmed women ? <eos>
+Whose mountains are a lot of cashiers ascending ? <eos>
+Whose are a lot of cashiers ascending mountains ? <eos>
+Whose eyes has Theodore sold ? <eos>
+Whose has Theodore sold eyes ? <eos>
+What child does Ella argue about ? <eos>
+What does Ella argue about child ? <eos>
+What guests was Tiffany appreciating ? <eos>
+What was Tiffany appreciating guests ? <eos>
+What gate does Patricia take ? <eos>
+What does Patricia take gate ? <eos>
+What glaciers had Donna sounded like ? <eos>
+What had Donna sounded like glaciers ? <eos>
+What stimuli has Sherry lifted ? <eos>
+What has Sherry lifted stimuli ? <eos>
+Whose ladders will Naomi ascend ? <eos>
+Whose will Naomi ascend ladders ? <eos>
+Which glass has Martin broken ? <eos>
+Which has Martin broken glass ? <eos>
+What guy would those lakes embarrass ? <eos>
+What would those lakes embarrass guy ? <eos>
+Which mountains is Denise climbing up ? <eos>
+Which is Denise climbing up mountains ? <eos>
+Which adults were those organizations firing ? <eos>
+Which were those organizations firing adults ? <eos>
+Which girls has Adam investigated ? <eos>
+Which has Adam investigated girls ? <eos>
+Whose coat was every photograph looking like ? <eos>
+Whose was every photograph looking like coat ? <eos>
+Which men will this unicycle alarm ? <eos>
+Which will this unicycle alarm men ? <eos>
+Which doctor did most universities dislike ? <eos>
+Which did most universities dislike doctor ? <eos>
+Which guests is Martha discussing ? <eos>
+Which is Martha discussing guests ? <eos>
+Which skirt was Dana revealing ? <eos>
+Which was Dana revealing skirt ? <eos>
+What actresses has Kristen concealed ? <eos>
+What has Kristen concealed actresses ? <eos>
+Which pedestrian had some icicle embarrassed ? <eos>
+Which had some icicle embarrassed pedestrian ? <eos>
+What waiter would some doctor observe ? <eos>
+What would some doctor observe waiter ? <eos>
+Whose plates has Kenneth cleaned ? <eos>
+Whose has Kenneth cleaned plates ? <eos>
+What means did Raymond boast about ? <eos>
+What did Raymond boast about means ? <eos>
+What school will Adam respect ? <eos>
+What will Adam respect school ? <eos>
+What picture has Melinda looked like ? <eos>
+What has Melinda looked like picture ? <eos>
+Which people had Angela disgusted ? <eos>
+Which had Angela disgusted people ? <eos>
+Which chairs had Patricia messed up ? <eos>
+Which had Patricia messed up chairs ? <eos>
+Which waitresses had Ellen watched ? <eos>
+Which had Ellen watched waitresses ? <eos>
+Whose scarf has Naomi seen ? <eos>
+Whose has Naomi seen scarf ? <eos>
+What senators were many legislatures insulting ? <eos>
+What were many legislatures insulting senators ? <eos>
+What banks was Grace escaping from ? <eos>
+What was Grace escaping from banks ? <eos>
+Whose deer had Brian lifted ? <eos>
+Whose had Brian lifted deer ? <eos>
+What child had Brett upset ? <eos>
+What had Brett upset child ? <eos>
+Which children has a senator worked with ? <eos>
+Which has a senator worked with children ? <eos>
+What art gallery might Emily clean ? <eos>
+What might Emily clean art gallery ? <eos>
+Whose essay had Dawn talked about ? <eos>
+Whose had Dawn talked about essay ? <eos>
+What closets will Caroline conceal ? <eos>
+What will Caroline conceal closets ? <eos>
+Whose oases was Deanna exiting ? <eos>
+Whose was Deanna exiting oases ? <eos>
+What sweater has Elizabeth discovered ? <eos>
+What has Elizabeth discovered sweater ? <eos>
+What men has Martin hired ? <eos>
+What has Martin hired men ? <eos>
+Which woman will these guests aggravate ? <eos>
+Which will these guests aggravate woman ? <eos>
+Which bank had some museums annoyed ? <eos>
+Which had some museums annoyed bank ? <eos>
+Whose dish has Samantha fixed ? <eos>
+Whose has Samantha fixed dish ? <eos>
+Whose shawls does Bradley take ? <eos>
+Whose does Bradley take shawls ? <eos>
+Which student can Caroline observe ? <eos>
+Which can Caroline observe student ? <eos>
+Which teachers was Carl impressing ? <eos>
+Which was Carl impressing teachers ? <eos>
+Which guys does Eric discover ? <eos>
+Which does Eric discover guys ? <eos>
+Whose college campuses can Andrea research ? <eos>
+Whose can Andrea research college campuses ? <eos>
+Which adult could Patricia talk about ? <eos>
+Which could Patricia talk about adult ? <eos>
+What children did Marie kiss ? <eos>
+What did Marie kiss children ? <eos>
+Which grocery stores is Sarah dropping by ? <eos>
+Which is Sarah dropping by grocery stores ? <eos>
+Which banks is the teacher exiting ? <eos>
+Which is the teacher exiting banks ? <eos>
+Whose ladders had Diana climbed up ? <eos>
+Whose had Diana climbed up ladders ? <eos>
+What bank was some cucumber bothering ? <eos>
+What was some cucumber bothering bank ? <eos>
+What thesis was Ronald lifting ? <eos>
+What was Ronald lifting thesis ? <eos>
+Which men had that legislature shocked ? <eos>
+Which had that legislature shocked men ? <eos>
+Which pamphlets would Alicia criticize ? <eos>
+Which would Alicia criticize pamphlets ? <eos>
+What patients can most girls disagree with ? <eos>
+What can most girls disagree with patients ? <eos>
+Whose movie might these movies disagree with ? <eos>
+Whose might these movies disagree with movie ? <eos>
+Which guest should Veronica heal ? <eos>
+Which should Veronica heal guest ? <eos>
+What adult will Lissa kiss ? <eos>
+What will Lissa kiss adult ? <eos>
+Whose restaurants can Emily tour ? <eos>
+Whose can Emily tour restaurants ? <eos>
+Whose octopus was a hospital taking ? <eos>
+Whose was a hospital taking octopus ? <eos>
+What teachers is Jennifer fleeing from ? <eos>
+What is Jennifer fleeing from teachers ? <eos>
+Which pedestrian was Carolyn discovering ? <eos>
+Which was Carolyn discovering pedestrian ? <eos>
+Whose mountain should Vanessa ascend ? <eos>
+Whose should Vanessa ascend mountain ? <eos>
+Which adults was a cashier praising ? <eos>
+Which was a cashier praising adults ? <eos>
+Which actress have these schools forgotten ? <eos>
+Which have these schools forgotten actress ? <eos>
+What movie theaters had Renee explored ? <eos>
+What had Renee explored movie theaters ? <eos>
+What dancer had Frank boasted about ? <eos>
+What had Frank boasted about dancer ? <eos>
+What essay is Samuel boasting about ? <eos>
+What is Samuel boasting about essay ? <eos>
+What apple will Irene buy ? <eos>
+What will Irene buy apple ? <eos>
+What hill had Ann dropped by ? <eos>
+What had Ann dropped by hill ? <eos>
+What hospital was Heather appreciating ? <eos>
+What was Heather appreciating hospital ? <eos>
+What library was Frank impressing ? <eos>
+What was Frank impressing library ? <eos>
+Which steps are those teenagers climbing down ? <eos>
+Which are those teenagers climbing down steps ? <eos>
+Whose pamphlets might Larry scan ? <eos>
+Whose might Larry scan pamphlets ? <eos>
+Whose movie is a dancer concealing ? <eos>
+Whose is a dancer concealing movie ? <eos>
+Whose hospital has Sabrina cleaned ? <eos>
+Whose has Sabrina cleaned hospital ? <eos>
+Which associations would some truck upset ? <eos>
+Which would some truck upset associations ? <eos>
+Which ladies has Erin observed ? <eos>
+Which has Erin observed ladies ? <eos>
+What paintings are most forks looking like ? <eos>
+What are most forks looking like paintings ? <eos>
+Whose gates had Rhonda seen ? <eos>
+Whose had Rhonda seen gates ? <eos>
+What hospital has a turtle astounded ? <eos>
+What has a turtle astounded hospital ? <eos>
+Which man had Robert approached ? <eos>
+Which had Robert approached man ? <eos>
+Which children could Margaret question ? <eos>
+Which could Margaret question children ? <eos>
+Which adults had Roger bothered ? <eos>
+Which had Roger bothered adults ? <eos>
+Whose lamps did Sheila see ? <eos>
+Whose did Sheila see lamps ? <eos>
+What children do these women cure ? <eos>
+What do these women cure children ? <eos>
+Which pamphlet will Martin see ? <eos>
+Which will Martin see pamphlet ? <eos>
+Which teachers was Kevin hugging ? <eos>
+Which was Kevin hugging teachers ? <eos>
+What actresses have some people watched ? <eos>
+What have some people watched actresses ? <eos>
+Which ladders has Sally ascended ? <eos>
+Which has Sally ascended ladders ? <eos>
+Which dancers have some dancers sounded like ? <eos>
+Which have some dancers sounded like dancers ? <eos>
+Whose thesis has Barbara appreciated ? <eos>
+Whose has Barbara appreciated thesis ? <eos>
+Which convertibles would Diana break ? <eos>
+Which would Diana break convertibles ? <eos>
+What waitress has some actor bored ? <eos>
+What has some actor bored waitress ? <eos>
+Whose shirts had Barbara revealed ? <eos>
+Whose had Barbara revealed shirts ? <eos>
+What student was Vincent stunning ? <eos>
+What was Vincent stunning student ? <eos>
+Whose commentary have some waitresses discovered ? <eos>
+Whose have some waitresses discovered commentary ? <eos>
+What dress had Emily sold ? <eos>
+What had Emily sold dress ? <eos>
+What eggplant was Sara noticing ? <eos>
+What was Sara noticing eggplant ? <eos>
+Which doctors can Veronica hug ? <eos>
+Which can Veronica hug doctors ? <eos>
+What cafes is Dennis appreciating ? <eos>
+What is Dennis appreciating cafes ? <eos>
+Whose banks has Jane biked to ? <eos>
+Whose has Jane biked to banks ? <eos>
+Whose cafe is Dawn cleaning ? <eos>
+Whose is Dawn cleaning cafe ? <eos>
+What teenagers is Patricia hiring ? <eos>
+What is Patricia hiring teenagers ? <eos>
+Whose movie theaters had Lisa explored ? <eos>
+Whose had Lisa explored movie theaters ? <eos>
+Which hospital is Sarah boycotting ? <eos>
+Which is Sarah boycotting hospital ? <eos>
+Whose cup does Emily fix ? <eos>
+Whose does Emily fix cup ? <eos>
+What bank was Martin returning to ? <eos>
+What was Martin returning to bank ? <eos>
+Whose pamphlets had Randolf disliked ? <eos>
+Whose had Randolf disliked pamphlets ? <eos>
+What men is Christopher scaring ? <eos>
+What is Christopher scaring men ? <eos>
+What patients has Danielle noticed ? <eos>
+What has Danielle noticed patients ? <eos>
+Which art gallery was Wayne touring ? <eos>
+Which was Wayne touring art gallery ? <eos>
+What men would those guests insult ? <eos>
+What would those guests insult men ? <eos>
+Which mouths has Stacey concealed ? <eos>
+Which has Stacey concealed mouths ? <eos>
+Which offspring did Florence leave ? <eos>
+Which did Florence leave offspring ? <eos>
+What hills is Holly descending ? <eos>
+What is Holly descending hills ? <eos>
+Which public parks is some customer going to ? <eos>
+Which is some customer going to public parks ? <eos>
+What cakes was Larry selling ? <eos>
+What was Larry selling cakes ? <eos>
+What company can Carmen stun ? <eos>
+What can Carmen stun company ? <eos>
+Which student had Heidi observed ? <eos>
+Which had Heidi observed student ? <eos>
+Whose pictures will Mark hide ? <eos>
+Whose will Mark hide pictures ? <eos>
+Which dancer has Walter discussed ? <eos>
+Which has Walter discussed dancer ? <eos>
+Which museums was Ellen exiting ? <eos>
+Which was Ellen exiting museums ? <eos>
+What dogs can Martha lift ? <eos>
+What can Martha lift dogs ? <eos>
+What shirt is Michelle wearing ? <eos>
+What is Michelle wearing shirt ? <eos>
+Whose art gallery was Kirsten fleeing from ? <eos>
+Whose was Kirsten fleeing from art gallery ? <eos>
+What ladies has Bethany discussed ? <eos>
+What has Bethany discussed ladies ? <eos>
+Which essays could Alexander examine ? <eos>
+Which could Alexander examine essays ? <eos>
+Whose high school had Brian skated around ? <eos>
+Whose had Brian skated around high school ? <eos>
+What lady can Steve care for ? <eos>
+What can Steve care for lady ? <eos>
+What skateboards has Ann fixed ? <eos>
+What has Ann fixed skateboards ? <eos>
+What photograph is the grocery store looking like ? <eos>
+What is the grocery store looking like photograph ? <eos>
+Which man will these men watch ? <eos>
+Which will these men watch man ? <eos>
+What cafes was Derek skated around ? <eos>
+What was Derek skated around cafes ? <eos>
+What guys had Melissa criticized ? <eos>
+What had Melissa criticized guys ? <eos>
+Whose college campuses is Gregory passing ? <eos>
+Whose is Gregory passing college campuses ? <eos>
+Which birds is Emily lifting ? <eos>
+Which is Emily lifting birds ? <eos>
+Which senators was Carolyn healing ? <eos>
+Which was Carolyn healing senators ? <eos>
+Whose teeth can Phillip clean ? <eos>
+Whose can Phillip clean teeth ? <eos>
+Which movie theaters had Brad arrived at ? <eos>
+Which had Brad arrived at movie theaters ? <eos>
+Whose rivers was Helen running around ? <eos>
+Whose was Helen running around rivers ? <eos>
+Which ladies has Connie sounded like ? <eos>
+Which has Connie sounded like ladies ? <eos>
+Whose art gallery has this woman escaped from ? <eos>
+Whose has this woman escaped from art gallery ? <eos>
+Whose government is Leslie disturbing ? <eos>
+Whose is Leslie disturbing government ? <eos>
+Which guests is Derek working with ? <eos>
+Which is Derek working with guests ? <eos>
+Which ladders was Dan descending ? <eos>
+Which was Dan descending ladders ? <eos>
+Which alumni has Craig helped ? <eos>
+Which has Craig helped alumni ? <eos>
+Which bicycles were the Borgias breaking ? <eos>
+Which were the Borgias breaking bicycles ? <eos>
+What art galleries was Jason driving to ? <eos>
+What was Jason driving to art galleries ? <eos>
+Which actress would Alicia bother ? <eos>
+Which would Alicia bother actress ? <eos>
+Whose synopsis had Irene complained about ? <eos>
+Whose had Irene complained about synopsis ? <eos>
+What offspring had Chad bothered ? <eos>
+What had Chad bothered offspring ? <eos>
+What mountain is Veronica descending ? <eos>
+What is Veronica descending mountain ? <eos>
+Whose libraries was John cleaning ? <eos>
+Whose was John cleaning libraries ? <eos>
+Which libraries might Sally explore ? <eos>
+Which might Sally explore libraries ? <eos>
+What child had those bikes bored ? <eos>
+What had those bikes bored child ? <eos>
+What fish had most sketches looked like ? <eos>
+What had most sketches looked like fish ? <eos>
+Which person had Alice listened to ? <eos>
+Which had Alice listened to person ? <eos>
+What offspring is Nancy leaving ? <eos>
+What is Nancy leaving offspring ? <eos>
+Which lady has every teenager argued about ? <eos>
+Which has every teenager argued about lady ? <eos>
+Whose schools had Bill explored ? <eos>
+Whose had Bill explored schools ? <eos>
+What stairs had Sarah climbed up ? <eos>
+What had Sarah climbed up stairs ? <eos>
+Which glacier might Deborah pass ? <eos>
+Which might Deborah pass glacier ? <eos>
+Which children has Karla observed ? <eos>
+Which has Karla observed children ? <eos>
+Whose skirts had Veronica worn ? <eos>
+Whose had Veronica worn skirts ? <eos>
+Whose rivers has Edward remembered ? <eos>
+Whose has Edward remembered rivers ? <eos>
+Whose art galleries is Alicia exploring ? <eos>
+Whose is Alicia exploring art galleries ? <eos>
+What plays had the adult loved ? <eos>
+What had the adult loved plays ? <eos>
+What series is Benjamin complaining about ? <eos>
+What is Benjamin complaining about series ? <eos>
+What report does Carolyn scan ? <eos>
+What does Carolyn scan report ? <eos>
+Whose library will this picture look like ? <eos>
+Whose will this picture look like library ? <eos>
+Which ox was Danielle noticing ? <eos>
+Which was Danielle noticing ox ? <eos>
+What screens can Jason bring ? <eos>
+What can Jason bring screens ? <eos>
+Which children has Allison worried ? <eos>
+Which has Allison worried children ? <eos>
+What actresses had Kirsten disgusted ? <eos>
+What had Kirsten disgusted actresses ? <eos>
+Which lake was Janice passing ? <eos>
+Which was Janice passing lake ? <eos>
+Which river is Dana dropping by ? <eos>
+Which is Dana dropping by river ? <eos>
+Whose high schools has Carl described ? <eos>
+Whose has Carl described high schools ? <eos>
+Whose carriages can Catherine break ? <eos>
+Whose can Catherine break carriages ? <eos>
+Which pedestrians has Mary loved ? <eos>
+Which has Mary loved pedestrians ? <eos>
+What teacher had Melanie investigated ? <eos>
+What had Melanie investigated teacher ? <eos>
+Which books is Teresa scanning ? <eos>
+Which is Teresa scanning books ? <eos>
+Which guest has a print astounded ? <eos>
+Which has a print astounded guest ? <eos>
+What rivers were all boys exiting ? <eos>
+What were all boys exiting rivers ? <eos>
+What movie theaters have a lot of girls hidden ? <eos>
+What have a lot of girls hidden movie theaters ? <eos>
+What hospitals is Andrea touring ? <eos>
+What is Andrea touring hospitals ? <eos>
+Which alumni had Janet watched ? <eos>
+Which had Janet watched alumni ? <eos>
+What guests has Vanessa kissed ? <eos>
+What has Vanessa kissed guests ? <eos>
+Which men does Jesus complain about ? <eos>
+Which does Jesus complain about men ? <eos>
+What college campuses does Bethany go to ? <eos>
+What does Bethany go to college campuses ? <eos>
+What man has Beth kissed ? <eos>
+What has Beth kissed man ? <eos>
+What waitress will Vanessa aggravate ? <eos>
+What will Vanessa aggravate waitress ? <eos>
+Which cafe will Diana boycott ? <eos>
+Which will Diana boycott cafe ? <eos>
+Whose shoe has Carolyn worn ? <eos>
+Whose has Carolyn worn shoe ? <eos>
+Which boy have those books disagreed with ? <eos>
+Which have those books disagreed with boy ? <eos>
+What movie theater was Eva fleeing from ? <eos>
+What was Eva fleeing from movie theater ? <eos>
+What waiter did most children disgust ? <eos>
+What did most children disgust waiter ? <eos>
+What shirt are some dancers cleaning ? <eos>
+What are some dancers cleaning shirt ? <eos>
+What people had that child praised ? <eos>
+What had that child praised people ? <eos>
+What waiters was Florence observing ? <eos>
+What was Florence observing waiters ? <eos>
+Which doctor is that guy boring ? <eos>
+Which is that guy boring doctor ? <eos>
+Whose closets will Peter talk about ? <eos>
+Whose will Peter talk about closets ? <eos>
+Whose deer had Benjamin cured ? <eos>
+Whose had Benjamin cured deer ? <eos>
+What steps can every child climb down ? <eos>
+What can every child climb down steps ? <eos>
+Which documentaries was Dana insulting ? <eos>
+Which was Dana insulting documentaries ? <eos>
+What cashier were those pedestrians helping ? <eos>
+What were those pedestrians helping cashier ? <eos>
+What cafes is Nicole cleaning ? <eos>
+What is Nicole cleaning cafes ? <eos>
+Whose pants is Becca messing up ? <eos>
+Whose is Becca messing up pants ? <eos>
+What boys was Mitchell visiting ? <eos>
+What was Mitchell visiting boys ? <eos>
+What college campuses has Noah seen ? <eos>
+What has Noah seen college campuses ? <eos>
+What cucumber is Margaret bringing ? <eos>
+What is Margaret bringing cucumber ? <eos>
+What child has this horse disgusted ? <eos>
+What has this horse disgusted child ? <eos>
+Whose mountains had Diana climbed up ? <eos>
+Whose had Diana climbed up mountains ? <eos>
+Which guy do all cashiers sound like ? <eos>
+Which do all cashiers sound like guy ? <eos>
+Which pants have the Lutherans messed up ? <eos>
+Which have the Lutherans messed up pants ? <eos>
+What gloves were all teachers buying ? <eos>
+What were all teachers buying gloves ? <eos>
+Which student would most chairs impress ? <eos>
+Which would most chairs impress student ? <eos>
+What associations was Carrie boycotting ? <eos>
+What was Carrie boycotting associations ? <eos>
+Whose government did Irene investigate ? <eos>
+Whose did Irene investigate government ? <eos>
+What dancer does every rug worry ? <eos>
+What does every rug worry dancer ? <eos>
+Whose companies does this person impress ? <eos>
+Whose does this person impress companies ? <eos>
+Which schools was Alan discussing ? <eos>
+Which was Alan discussing schools ? <eos>
+Which lady is David referencing ? <eos>
+Which is David referencing lady ? <eos>
+What library will Bruce tour ? <eos>
+What will Bruce tour library ? <eos>
+Whose rivers were a lot of boys running around ? <eos>
+Whose were a lot of boys running around rivers ? <eos>
+Which dancers has Ronald hated ? <eos>
+Which has Ronald hated dancers ? <eos>
+Which ladies does Heather describe ? <eos>
+Which does Heather describe ladies ? <eos>
+What pants would Laura wear ? <eos>
+What would Laura wear pants ? <eos>
+What teenager might Homer worry ? <eos>
+What might Homer worry teenager ? <eos>
+What driver had some patient watched ? <eos>
+What had some patient watched driver ? <eos>
+Which teenagers had every art gallery bored ? <eos>
+Which had every art gallery bored teenagers ? <eos>
+Which men have the cakes annoyed ? <eos>
+Which have the cakes annoyed men ? <eos>
+Which child is Theodore complaining about ? <eos>
+Which is Theodore complaining about child ? <eos>
+Whose report has Steve hidden ? <eos>
+Whose has Steve hidden report ? <eos>
+Whose gloves has James taken ? <eos>
+Whose has James taken gloves ? <eos>
+What libraries has Brett gone to ? <eos>
+What has Brett gone to libraries ? <eos>
+What teeth is Michelle buying ? <eos>
+What is Michelle buying teeth ? <eos>
+Which pedestrians can Wayne watch ? <eos>
+Which can Wayne watch pedestrians ? <eos>
+What child has every turtle confused ? <eos>
+What has every turtle confused child ? <eos>
+Which student will a photograph look like ? <eos>
+Which will a photograph look like student ? <eos>
+What association could current events disturb ? <eos>
+What could current events disturb association ? <eos>
+What high schools had Richard biked to ? <eos>
+What had Richard biked to high schools ? <eos>
+What books has Marcus criticized ? <eos>
+What has Marcus criticized books ? <eos>
+Whose closets had a lot of patients cleaned ? <eos>
+Whose had a lot of patients cleaned closets ? <eos>
+What senators could Tammy describe ? <eos>
+What could Tammy describe senators ? <eos>
+What waitress is Cynthia hurting ? <eos>
+What is Cynthia hurting waitress ? <eos>
+Which dancer will Samantha observe ? <eos>
+Which will Samantha observe dancer ? <eos>
+What guest would those guests conceal ? <eos>
+What would those guests conceal guest ? <eos>
+What museum is Elizabeth visiting ? <eos>
+What is Elizabeth visiting museum ? <eos>
+Which story was Amy concealing ? <eos>
+Which was Amy concealing story ? <eos>
+Which teenagers would the newspaper article disagree with ? <eos>
+Which would the newspaper article disagree with teenagers ? <eos>
+Which senators had Florence discussed ? <eos>
+Which had Florence discussed senators ? <eos>
+Whose cafe are these boys insulting ? <eos>
+Whose are these boys insulting cafe ? <eos>
+What waiters has Carolyn hugged ? <eos>
+What has Carolyn hugged waiters ? <eos>
+What children was Christopher impressing ? <eos>
+What was Christopher impressing children ? <eos>
+Which documentaries had Edward discovered ? <eos>
+Which had Edward discovered documentaries ? <eos>
+Which turtle has Stacey admired ? <eos>
+Which has Stacey admired turtle ? <eos>
+Which commentary has Sally referenced ? <eos>
+Which has Sally referenced commentary ? <eos>
+Which public parks do those actresses skate around ? <eos>
+Which do those actresses skate around public parks ? <eos>
+What ladies is Diana boasting about ? <eos>
+What is Diana boasting about ladies ? <eos>
+Whose mushrooms had Marla seen ? <eos>
+Whose had Marla seen mushrooms ? <eos>
+What ladies has Larry hugged ? <eos>
+What has Larry hugged ladies ? <eos>
+Whose books has Beth complained about ? <eos>
+Whose has Beth complained about books ? <eos>
+Which ladies have these waitresses disagreed with ? <eos>
+Which have these waitresses disagreed with ladies ? <eos>
+Which sketches was Ann lifting ? <eos>
+Which was Ann lifting sketches ? <eos>
+Which diagnoses is Clyde arguing about ? <eos>
+Which is Clyde arguing about diagnoses ? <eos>
+Whose convertibles has Sarah fixed ? <eos>
+Whose has Sarah fixed convertibles ? <eos>
+What essay had most doctors examined ? <eos>
+What had most doctors examined essay ? <eos>
+Which hospitals was the essay shocking ? <eos>
+Which was the essay shocking hospitals ? <eos>
+Which slopes has Jacqueline climbed up ? <eos>
+Which has Jacqueline climbed up slopes ? <eos>
+Which teachers had Katherine insulted ? <eos>
+Which had Katherine insulted teachers ? <eos>
+What waiter might many high schools aggravate ? <eos>
+What might many high schools aggravate waiter ? <eos>
+Which teenagers did Beth remember ? <eos>
+Which did Beth remember teenagers ? <eos>
+What cashier had Amy left ? <eos>
+What had Amy left cashier ? <eos>
+Which fork was Bethany cleaning ? <eos>
+Which was Bethany cleaning fork ? <eos>
+What pedestrian is Dennis hugging ? <eos>
+What is Dennis hugging pedestrian ? <eos>
+Which ladders can Mary descend ? <eos>
+Which can Mary descend ladders ? <eos>
+Which documentary will Pamela love ? <eos>
+Which will Pamela love documentary ? <eos>
+Whose public parks has that hospital taken ? <eos>
+Whose has that hospital taken public parks ? <eos>
+Whose couch has Kristin broken ? <eos>
+Whose has Kristin broken couch ? <eos>
+Whose slope had Samuel descended ? <eos>
+Whose had Samuel descended slope ? <eos>
+Whose cart does Gregory fix ? <eos>
+Whose does Gregory fix cart ? <eos>
+Whose school was Ronald taking ? <eos>
+Whose was Ronald taking school ? <eos>
+What scarves was Maria finding ? <eos>
+What was Maria finding scarves ? <eos>
+What alumni were a lot of patients disagreeing with ? <eos>
+What were a lot of patients disagreeing with alumni ? <eos>
+What hospitals are these guests cleaning ? <eos>
+What are these guests cleaning hospitals ? <eos>
+Whose grocery stores might Danielle escape from ? <eos>
+Whose might Danielle escape from grocery stores ? <eos>
+Which grocery stores has Jessica criticized ? <eos>
+Which has Jessica criticized grocery stores ? <eos>
+What hypothesis is Curtis boasting about ? <eos>
+What is Curtis boasting about hypothesis ? <eos>
+Which organization had Sara embarrassed ? <eos>
+Which had Sara embarrassed organization ? <eos>
+Which students has Beth remembered ? <eos>
+Which has Beth remembered students ? <eos>
+What ladies is the man kissing ? <eos>
+What is the man kissing ladies ? <eos>
+What hat was Regina wearing ? <eos>
+What was Regina wearing hat ? <eos>
+What paintings was Catherine taking ? <eos>
+What was Catherine taking paintings ? <eos>
+What teenagers is Monet approaching ? <eos>
+What is Monet approaching teenagers ? <eos>
+Which students were some people firing ? <eos>
+Which were some people firing students ? <eos>
+Which slope did Thomas climb up ? <eos>
+Which did Thomas climb up slope ? <eos>
+Which woman is Angela referencing ? <eos>
+Which is Angela referencing woman ? <eos>
+What associations had every actress boycotted ? <eos>
+What had every actress boycotted associations ? <eos>
+Which driver had Helen discussed ? <eos>
+Which had Helen discussed driver ? <eos>
+Whose books will Lisa talk about ? <eos>
+Whose will Lisa talk about books ? <eos>
+Whose sock is Paul hiding ? <eos>
+Whose is Paul hiding sock ? <eos>
+What woman will Benjamin question ? <eos>
+What will Benjamin question woman ? <eos>
+What senators had Aaron helped ? <eos>
+What had Aaron helped senators ? <eos>
+Which waiters does Jill impress ? <eos>
+Which does Jill impress waiters ? <eos>
+Which adults is Connie talking about ? <eos>
+Which is Connie talking about adults ? <eos>
+Whose hospital had Meredith passed ? <eos>
+Whose had Meredith passed hospital ? <eos>
+What hospitals has Carol run around ? <eos>
+What has Carol run around hospitals ? <eos>
+What hypotheses should Ronald research ? <eos>
+What should Ronald research hypotheses ? <eos>
+What boy had Alexander kissed ? <eos>
+What had Alexander kissed boy ? <eos>
+Whose closet had Phillip noticed ? <eos>
+Whose had Phillip noticed closet ? <eos>
+What people can Judy reference ? <eos>
+What can Judy reference people ? <eos>
+What women can Scott disturb ? <eos>
+What can Scott disturb women ? <eos>
+What government could David alarm ? <eos>
+What could David alarm government ? <eos>
+Which mall has Jodi skated around ? <eos>
+Which has Jodi skated around mall ? <eos>
+Which high schools had Eric returned to ? <eos>
+Which had Eric returned to high schools ? <eos>
+Which movies could a legislature appreciate ? <eos>
+Which could a legislature appreciate movies ? <eos>
+Which museums is Jacqueline embarrassing ? <eos>
+Which is Jacqueline embarrassing museums ? <eos>
+What women is every vase alarming ? <eos>
+What is every vase alarming women ? <eos>
+Which girls was a commentary astounding ? <eos>
+Which was a commentary astounding girls ? <eos>
+Whose school can Anna return to ? <eos>
+Whose can Anna return to school ? <eos>
+What actor will some girl praise ? <eos>
+What will some girl praise actor ? <eos>
+What children is that water boring ? <eos>
+What is that water boring children ? <eos>
+Whose cafe does a guest skate around ? <eos>
+Whose does a guest skate around cafe ? <eos>
+Which actors do planes stun ? <eos>
+Which do planes stun actors ? <eos>
+Which adults has Scott talked to ? <eos>
+Which has Scott talked to adults ? <eos>
+Which student had Irene sounded like ? <eos>
+Which had Irene sounded like student ? <eos>
+Which woman does the chicken disturb ? <eos>
+Which does the chicken disturb woman ? <eos>
+Whose libraries were the Borgias arriving at ? <eos>
+Whose were the Borgias arriving at libraries ? <eos>
+What mountains has Kirsten skated around ? <eos>
+What has Kirsten skated around mountains ? <eos>
+Which plays might a pedestrian remember ? <eos>
+Which might a pedestrian remember plays ? <eos>
+What high schools is Linda messing up ? <eos>
+What is Linda messing up high schools ? <eos>
+Which movie theater had Grace cleaned ? <eos>
+Which had Grace cleaned movie theater ? <eos>
+What face are a lot of actors finding ? <eos>
+What are a lot of actors finding face ? <eos>
+What children has every student appreciated ? <eos>
+What has every student appreciated children ? <eos>
+Which doctor could most hospitals talk about ? <eos>
+Which could most hospitals talk about doctor ? <eos>
+Which boys did every pedestrian respect ? <eos>
+Which did every pedestrian respect boys ? <eos>
+Which fork has Alexander cleaned ? <eos>
+Which has Alexander cleaned fork ? <eos>
+Which cafe has Debra toured ? <eos>
+Which has Debra toured cafe ? <eos>
+Which guys was Carla alarming ? <eos>
+Which was Carla alarming guys ? <eos>
+Whose sweaters have all teachers worn ? <eos>
+Whose have all teachers worn sweaters ? <eos>
+Which actor is Dawn kissing ? <eos>
+Which is Dawn kissing actor ? <eos>
+What muffin was Sharon hiding ? <eos>
+What was Sharon hiding muffin ? <eos>
+Whose tomato is Ann concealing ? <eos>
+Whose is Ann concealing tomato ? <eos>
+What guests was Liam approaching ? <eos>
+What was Liam approaching guests ? <eos>
+What hospital had the pants embarrassed ? <eos>
+What had the pants embarrassed hospital ? <eos>
+Which closet could Sheila pass ? <eos>
+Which could Sheila pass closet ? <eos>
+What movies had Carmen described ? <eos>
+What had Carmen described movies ? <eos>
+Which lady are those men disagreeing with ? <eos>
+Which are those men disagreeing with lady ? <eos>
+Which students can Elizabeth conceal ? <eos>
+Which can Elizabeth conceal students ? <eos>
+What river had Craig concealed ? <eos>
+What had Craig concealed river ? <eos>
+What senators was Kirsten disgusting ? <eos>
+What was Kirsten disgusting senators ? <eos>
+Whose fish have the photographs looked like ? <eos>
+Whose have the photographs looked like fish ? <eos>
+What glacier have all schools admired ? <eos>
+What have all schools admired glacier ? <eos>
+Which grocery store is Ella appreciating ? <eos>
+Which is Ella appreciating grocery store ? <eos>
+What man had that broccoli distracted ? <eos>
+What had that broccoli distracted man ? <eos>
+What child had Chad hired ? <eos>
+What had Chad hired child ? <eos>
+Which carriage had Cheryl broken ? <eos>
+Which had Cheryl broken carriage ? <eos>
+What schools can some birds irritate ? <eos>
+What can some birds irritate schools ? <eos>
+What shirt had Becky cleaned ? <eos>
+What had Becky cleaned shirt ? <eos>
+What alumni had Teresa approached ? <eos>
+What had Teresa approached alumni ? <eos>
+What dress had Martin lifted ? <eos>
+What had Martin lifted dress ? <eos>
+Which association had Lucille investigated ? <eos>
+Which had Lucille investigated association ? <eos>
+What oasis should Janet complain about ? <eos>
+What should Janet complain about oasis ? <eos>
+Which pedestrian had Kendra known ? <eos>
+Which had Kendra known pedestrian ? <eos>
+Whose newspaper articles are all governments concealing ? <eos>
+Whose are all governments concealing newspaper articles ? <eos>
+Whose art gallery was Sheila going to ? <eos>
+Whose was Sheila going to art gallery ? <eos>
+Which lake could Derek think about ? <eos>
+Which could Derek think about lake ? <eos>
+What people were many students firing ? <eos>
+What were many students firing people ? <eos>
+Which guests will the actors disagree with ? <eos>
+Which will the actors disagree with guests ? <eos>
+What girls has Stacy worked with ? <eos>
+What has Stacy worked with girls ? <eos>
+Which brochure might the Borgias insult ? <eos>
+Which might the Borgias insult brochure ? <eos>
+Which lakes was Christine dropping by ? <eos>
+Which was Christine dropping by lakes ? <eos>
+Which child is Becky working with ? <eos>
+Which is Becky working with child ? <eos>
+Which actors should Christopher confuse ? <eos>
+Which should Christopher confuse actors ? <eos>
+What cafe should Tammy explore ? <eos>
+What should Tammy explore cafe ? <eos>
+Which senators had the beef shocked ? <eos>
+Which had the beef shocked senators ? <eos>
+What alumnus did Roger cure ? <eos>
+What did Roger cure alumnus ? <eos>
+Which waitresses will this lady criticize ? <eos>
+Which will this lady criticize waitresses ? <eos>
+Whose series has every hospital argued about ? <eos>
+Whose has every hospital argued about series ? <eos>
+What slope would Guy climb down ? <eos>
+What would Guy climb down slope ? <eos>
+What doctor had Wayne hugged ? <eos>
+What had Wayne hugged doctor ? <eos>
+Whose hypotheses has Rachel argued about ? <eos>
+Whose has Rachel argued about hypotheses ? <eos>
+Which alumni has Julie known ? <eos>
+Which has Julie known alumni ? <eos>
+What actors have most tomatoes hurt ? <eos>
+What have most tomatoes hurt actors ? <eos>
+What student was the shawl hurting ? <eos>
+What was the shawl hurting student ? <eos>
+Which newspaper articles is Jill scanning ? <eos>
+Which is Jill scanning newspaper articles ? <eos>
+Which oasis has Cynthia arrived at ? <eos>
+Which has Cynthia arrived at oasis ? <eos>
+What child should Valerie astound ? <eos>
+What should Valerie astound child ? <eos>
+What girl would Judy conceal ? <eos>
+What would Judy conceal girl ? <eos>
+What adult could a lot of boxes bore ? <eos>
+What could a lot of boxes bore adult ? <eos>
+What student was Dan arguing about ? <eos>
+What was Dan arguing about student ? <eos>
+Which theses was Suzanne hiding ? <eos>
+Which was Suzanne hiding theses ? <eos>
+Which fish has Rachelle cleaned ? <eos>
+Which has Rachelle cleaned fish ? <eos>
+Which woman had the lake bothered ? <eos>
+Which had the lake bothered woman ? <eos>
+What movies has Peter criticized ? <eos>
+What has Peter criticized movies ? <eos>
+Which print had Jill discovered ? <eos>
+Which had Jill discovered print ? <eos>
+Whose banks was Brett worrying ? <eos>
+Whose was Brett worrying banks ? <eos>
+What cashier might that cake astound ? <eos>
+What might that cake astound cashier ? <eos>
+Which grocery store had Nina explored ? <eos>
+Which had Nina explored grocery store ? <eos>
+Which hill had Denise cleaned ? <eos>
+Which had Denise cleaned hill ? <eos>
+What committee has Brad investigated ? <eos>
+What has Brad investigated committee ? <eos>
+Which octopi was Vanessa concealing ? <eos>
+Which was Vanessa concealing octopi ? <eos>
+What doctor was Marie hiring ? <eos>
+What was Marie hiring doctor ? <eos>
+What actor is Judy working with ? <eos>
+What is Judy working with actor ? <eos>
+Whose art galleries had some pedestrians passed ? <eos>
+Whose had some pedestrians passed art galleries ? <eos>
+What person can Kenneth observe ? <eos>
+What can Kenneth observe person ? <eos>
+What mountains can Gary climb down ? <eos>
+What can Gary climb down mountains ? <eos>
+What driver were all schools insulting ? <eos>
+What were all schools insulting driver ? <eos>
+What mountain was Steven climbing down ? <eos>
+What was Steven climbing down mountain ? <eos>
+What teacher might Sally reveal ? <eos>
+What might Sally reveal teacher ? <eos>
+Which oasis do all girls skate around ? <eos>
+Which do all girls skate around oasis ? <eos>
+Which forks has Anne messed up ? <eos>
+Which has Anne messed up forks ? <eos>
+Which boys had Mitchell hated ? <eos>
+Which had Mitchell hated boys ? <eos>
+Which hospital did Alexander go to ? <eos>
+Which did Alexander go to hospital ? <eos>
+Which waitresses did Patrick flee from ? <eos>
+Which did Patrick flee from waitresses ? <eos>
+Which cafes had Carla walked through ? <eos>
+Which had Carla walked through cafes ? <eos>
+Which banks had Brenda passed ? <eos>
+Which had Brenda passed banks ? <eos>
+Which customer will this sketch distract ? <eos>
+Which will this sketch distract customer ? <eos>
+Which shoes has Omar cleaned ? <eos>
+Which has Omar cleaned shoes ? <eos>
+Which man will Melanie love ? <eos>
+Which will Melanie love man ? <eos>
+What students has Claire approached ? <eos>
+What has Claire approached students ? <eos>
+Which high school is Samuel passing ? <eos>
+Which is Samuel passing high school ? <eos>
+What driver have pictures aggravated ? <eos>
+What have pictures aggravated driver ? <eos>
+What fish has Susan cured ? <eos>
+What has Susan cured fish ? <eos>
+Whose drawing was every man looking like ? <eos>
+Whose was every man looking like drawing ? <eos>
+What thesis has the boy scanned ? <eos>
+What has the boy scanned thesis ? <eos>
+Which girls did Jerry kiss ? <eos>
+Which did Jerry kiss girls ? <eos>
+Whose art galleries had that doctor run around ? <eos>
+Whose had that doctor run around art galleries ? <eos>
+What student has this ladder bored ? <eos>
+What has this ladder bored student ? <eos>
+What closet had Roger passed ? <eos>
+What had Roger passed closet ? <eos>
+What schools has Lisa dropped by ? <eos>
+What has Lisa dropped by schools ? <eos>
+Whose fish had Paul healed ? <eos>
+Whose had Paul healed fish ? <eos>
+What pamphlets had Becky scanned ? <eos>
+What had Becky scanned pamphlets ? <eos>
+Which universities has Sarah investigated ? <eos>
+Which has Sarah investigated universities ? <eos>
+What mountain has a lady walked through ? <eos>
+What has a lady walked through mountain ? <eos>
+Which senators should Sally observe ? <eos>
+Which should Sally observe senators ? <eos>
+Which analysis have those hospitals boasted about ? <eos>
+Which have those hospitals boasted about analysis ? <eos>
+What girls is the river impressing ? <eos>
+What is the river impressing girls ? <eos>
+Which men had Heather kissed ? <eos>
+Which had Heather kissed men ? <eos>
+Which students could these museums worry ? <eos>
+Which could these museums worry students ? <eos>
+Which lakes has Chad explored ? <eos>
+Which has Chad explored lakes ? <eos>
+What sock had some dancer sold ? <eos>
+What had some dancer sold sock ? <eos>
+Which university is Julia boycotting ? <eos>
+Which is Julia boycotting university ? <eos>
+What book had Victoria examined ? <eos>
+What had Victoria examined book ? <eos>
+Whose documentaries was Thomas examining ? <eos>
+Whose was Thomas examining documentaries ? <eos>
+What bank would that student drop by ? <eos>
+What would that student drop by bank ? <eos>
+Whose convertible were those waitresses breaking ? <eos>
+Whose were those waitresses breaking convertible ? <eos>
+What teacher had some teacher distracted ? <eos>
+What had some teacher distracted teacher ? <eos>
+Which college campus should Melissa respect ? <eos>
+Which should Melissa respect college campus ? <eos>
+Which teenagers had Tammy listened to ? <eos>
+Which had Tammy listened to teenagers ? <eos>
+What person had the cashier scared ? <eos>
+What had the cashier scared person ? <eos>
+Whose college campus were all waiters cleaning ? <eos>
+Whose were all waiters cleaning college campus ? <eos>
+Whose movie theater did Steven pass ? <eos>
+Whose did Steven pass movie theater ? <eos>
+Which painting had guests looked like ? <eos>
+Which had guests looked like painting ? <eos>
+What synopses can Jerry examine ? <eos>
+What can Jerry examine synopses ? <eos>
+Which girl would Nina approach ? <eos>
+Which would Nina approach girl ? <eos>
+What ladies does Daniel disturb ? <eos>
+What does Daniel disturb ladies ? <eos>
+Which men is Andrea watching ? <eos>
+Which is Andrea watching men ? <eos>
+What ladder is Grace climbing down ? <eos>
+What is Grace climbing down ladder ? <eos>
+Whose public parks was that customer dropping by ? <eos>
+Whose was that customer dropping by public parks ? <eos>
+Which candles are some people concealing ? <eos>
+Which are some people concealing candles ? <eos>
+What libraries was Jesus running around ? <eos>
+What was Jesus running around libraries ? <eos>
+What woman was Maria noticing ? <eos>
+What was Maria noticing woman ? <eos>
+What brochures has that actress scanned ? <eos>
+What has that actress scanned brochures ? <eos>
+What library had Laurie walked through ? <eos>
+What had Laurie walked through library ? <eos>
+What commentaries should Diana conceal ? <eos>
+What should Diana conceal commentaries ? <eos>
+What children was that glove shocking ? <eos>
+What was that glove shocking children ? <eos>
+Which actors had Tiffany questioned ? <eos>
+Which had Tiffany questioned actors ? <eos>
+Which steps was Peter ascending ? <eos>
+Which was Peter ascending steps ? <eos>
+Which skateboards had Lawrence fixed ? <eos>
+Which had Lawrence fixed skateboards ? <eos>
+Which hills were a lot of boys lifting ? <eos>
+Which were a lot of boys lifting hills ? <eos>
+What books has Laura brought ? <eos>
+What has Laura brought books ? <eos>
+Which sock can these governments take ? <eos>
+Which can these governments take sock ? <eos>
+Which slope was Diana climbing up ? <eos>
+Which was Diana climbing up slope ? <eos>
+What cashiers can Judy aggravate ? <eos>
+What can Judy aggravate cashiers ? <eos>
+Which pedestrians has every hospital impressed ? <eos>
+Which has every hospital impressed pedestrians ? <eos>
+What children were all hamsters hurting ? <eos>
+What were all hamsters hurting children ? <eos>
+What analysis has Patricia discovered ? <eos>
+What has Patricia discovered analysis ? <eos>
+What lake had Naomi noticed ? <eos>
+What had Naomi noticed lake ? <eos>
+Which museums is Carol appreciating ? <eos>
+Which is Carol appreciating museums ? <eos>
+Which senator would most women visit ? <eos>
+Which would most women visit senator ? <eos>
+Which college campuses might Becca walk through ? <eos>
+Which might Becca walk through college campuses ? <eos>
+What books has Noah referenced ? <eos>
+What has Noah referenced books ? <eos>
+What teenagers were men fleeing from ? <eos>
+What were men fleeing from teenagers ? <eos>
+Which legislatures have the horses shocked ? <eos>
+Which have the horses shocked legislatures ? <eos>
+Which library had Bethany gone to ? <eos>
+Which had Bethany gone to library ? <eos>
+Whose stimuli should Benjamin buy ? <eos>
+Whose should Benjamin buy stimuli ? <eos>
+Whose schools was Aaron questioning ? <eos>
+Whose was Aaron questioning schools ? <eos>
+Which guy is Brenda questioning ? <eos>
+Which is Brenda questioning guy ? <eos>
+Whose university was Carmen questioning ? <eos>
+Whose was Carmen questioning university ? <eos>
+Which offspring has Brad talked about ? <eos>
+Which has Brad talked about offspring ? <eos>
+What glasses had those senators bought ? <eos>
+What had those senators bought glasses ? <eos>
+Which actress have these glasses bothered ? <eos>
+Which have these glasses bothered actress ? <eos>
+Which actors had Adam hugged ? <eos>
+Which had Adam hugged actors ? <eos>
+What picture had a bank looked like ? <eos>
+What had a bank looked like picture ? <eos>
+What girl can Janice approach ? <eos>
+What can Janice approach girl ? <eos>
+What doctors is Adam concealing ? <eos>
+What is Adam concealing doctors ? <eos>
+Which customers does John hate ? <eos>
+Which does John hate customers ? <eos>
+Which plays can Gerald conceal ? <eos>
+Which can Gerald conceal plays ? <eos>
+What offspring had some legislature astounded ? <eos>
+What had some legislature astounded offspring ? <eos>
+Which child had Jerry boasted about ? <eos>
+Which had Jerry boasted about child ? <eos>
+Which lake are people leaving ? <eos>
+Which are people leaving lake ? <eos>
+Whose jacket might the Impressionists admire ? <eos>
+Whose might the Impressionists admire jacket ? <eos>
+Which guys are the Clintons distracting ? <eos>
+Which are the Clintons distracting guys ? <eos>
+What glaciers will Erin skate around ? <eos>
+What will Erin skate around glaciers ? <eos>
+Which offspring was Benjamin thinking about ? <eos>
+Which was Benjamin thinking about offspring ? <eos>
+Which library does Kevin skate around ? <eos>
+Which does Kevin skate around library ? <eos>
+What hospitals had April worried ? <eos>
+What had April worried hospitals ? <eos>
+What teenager has Marla watched ? <eos>
+What has Marla watched teenager ? <eos>
+Whose companies have most hills scared ? <eos>
+Whose have most hills scared companies ? <eos>
+Whose story did Caroline scan ? <eos>
+Whose did Caroline scan story ? <eos>
+Whose government would that unicycle aggravate ? <eos>
+Whose would that unicycle aggravate government ? <eos>
+Which patients should Travis hug ? <eos>
+Which should Travis hug patients ? <eos>
+Which public park has Frank passed ? <eos>
+Which has Frank passed public park ? <eos>
+Whose screens would those organizations take ? <eos>
+Whose would those organizations take screens ? <eos>
+Which alumnus is Noah observing ? <eos>
+Which is Noah observing alumnus ? <eos>
+What actresses was some candle annoying ? <eos>
+What was some candle annoying actresses ? <eos>
+Which cups has Dana hidden ? <eos>
+Which has Dana hidden cups ? <eos>
+Whose eggplant had the waiter cleaned ? <eos>
+Whose had the waiter cleaned eggplant ? <eos>
+What slopes was Peter climbing down ? <eos>
+What was Peter climbing down slopes ? <eos>
+Whose universities was a hamster bothering ? <eos>
+Whose was a hamster bothering universities ? <eos>
+What window has Martin admired ? <eos>
+What has Martin admired window ? <eos>
+Which closet will Roger like ? <eos>
+Which will Roger like closet ? <eos>
+What movie was Adam scanning ? <eos>
+What was Adam scanning movie ? <eos>
+What dancer is Tammy discussing ? <eos>
+What is Tammy discussing dancer ? <eos>
+What drivers had Walter forgotten ? <eos>
+What had Walter forgotten drivers ? <eos>
+Which plane is John discovering ? <eos>
+Which is John discovering plane ? <eos>
+Which couch would Russell clean ? <eos>
+Which would Russell clean couch ? <eos>
+Whose banks was Donald researching ? <eos>
+Whose was Donald researching banks ? <eos>
+Which waitress has Amy hired ? <eos>
+Which has Amy hired waitress ? <eos>
+What rivers had April sounded like ? <eos>
+What had April sounded like rivers ? <eos>
+Which children have some people approached ? <eos>
+Which have some people approached children ? <eos>
+Which dancer were all guys questioning ? <eos>
+Which were all guys questioning dancer ? <eos>
+Which phenomena is Gregory researching ? <eos>
+Which is Gregory researching phenomena ? <eos>
+Whose phenomena had Nicole boasted about ? <eos>
+Whose had Nicole boasted about phenomena ? <eos>
+Which children had every committee distracted ? <eos>
+Which had every committee distracted children ? <eos>
+Whose book was Walter praising ? <eos>
+Whose was Walter praising book ? <eos>
+Which bank could every university respect ? <eos>
+Which could every university respect bank ? <eos>
+Which oasis should Carl explore ? <eos>
+Which should Carl explore oasis ? <eos>
+What senators did Deborah forget ? <eos>
+What did Deborah forget senators ? <eos>
+Which glove is Kathleen cleaning ? <eos>
+Which is Kathleen cleaning glove ? <eos>
+What mountains does Michael drop by ? <eos>
+What does Michael drop by mountains ? <eos>
+Which movie theater is Galileo dropping by ? <eos>
+Which is Galileo dropping by movie theater ? <eos>
+Whose college campuses did Vanessa drive to ? <eos>
+Whose did Vanessa drive to college campuses ? <eos>
+What adult will Matt find ? <eos>
+What will Matt find adult ? <eos>
+What skateboards is Kimberley admiring ? <eos>
+What is Kimberley admiring skateboards ? <eos>
+What plays did Donna forget ? <eos>
+What did Donna forget plays ? <eos>
+What slopes has Helen climbed down ? <eos>
+What has Helen climbed down slopes ? <eos>
+Whose committees can many eggplants disturb ? <eos>
+Whose can many eggplants disturb committees ? <eos>
+What convertibles was Cynthia fixing ? <eos>
+What was Cynthia fixing convertibles ? <eos>
+What ox has Donald discovered ? <eos>
+What has Donald discovered ox ? <eos>
+What glaciers had Naomi visited ? <eos>
+What had Naomi visited glaciers ? <eos>
+Which adults have the teachers disagreed with ? <eos>
+Which have the teachers disagreed with adults ? <eos>
+Which women has Michael kissed ? <eos>
+Which has Michael kissed women ? <eos>
+Which documentary has Valerie forgotten ? <eos>
+Which has Valerie forgotten documentary ? <eos>
+Which public parks had Angela driven to ? <eos>
+Which had Angela driven to public parks ? <eos>
+Which alumnus does that boy criticize ? <eos>
+Which does that boy criticize alumnus ? <eos>
+What drivers was that door aggravating ? <eos>
+What was that door aggravating drivers ? <eos>
+Which painting will Carol resemble ? <eos>
+Which will Carol resemble painting ? <eos>
+Which pedestrian should some cashiers distract ? <eos>
+Which should some cashiers distract pedestrian ? <eos>
+Which guys was Paul praising ? <eos>
+Which was Paul praising guys ? <eos>
+What birds has Homer bought ? <eos>
+What has Homer bought birds ? <eos>
+Which actress had the organization concealed ? <eos>
+Which had the organization concealed actress ? <eos>
+Which grocery stores was Thomas noticing ? <eos>
+Which was Thomas noticing grocery stores ? <eos>
+Which dancer was Larry approaching ? <eos>
+Which was Larry approaching dancer ? <eos>
+Which glass can Robert fix ? <eos>
+Which can Robert fix glass ? <eos>
+What high schools were all patients fleeing from ? <eos>
+What were all patients fleeing from high schools ? <eos>
+Which pedestrians was Carmen hugging ? <eos>
+Which was Carmen hugging pedestrians ? <eos>
+What driver will Danielle hire ? <eos>
+What will Danielle hire driver ? <eos>
+What lake can George bring ? <eos>
+What can George bring lake ? <eos>
+What senators had that driver disgusted ? <eos>
+What had that driver disgusted senators ? <eos>
+Which governments will Sandra confuse ? <eos>
+Which will Sandra confuse governments ? <eos>
+What men might Diane kiss ? <eos>
+What might Diane kiss men ? <eos>
+Which man is Jill investigating ? <eos>
+Which is Jill investigating man ? <eos>
+What student were those customers praising ? <eos>
+What were those customers praising student ? <eos>
+Which actor are all children complaining about ? <eos>
+Which are all children complaining about actor ? <eos>
+Which oasis does Angela appreciate ? <eos>
+Which does Angela appreciate oasis ? <eos>
+Which adult has Patricia respected ? <eos>
+Which has Patricia respected adult ? <eos>
+Which woman will the dancers hurt ? <eos>
+Which will the dancers hurt woman ? <eos>
+What actress could Diane describe ? <eos>
+What could Diane describe actress ? <eos>
+Which slope is James ascending ? <eos>
+Which is James ascending slope ? <eos>
+What public parks had the guys explored ? <eos>
+What had the guys explored public parks ? <eos>
+What oxen should Guy discover ? <eos>
+What should Guy discover oxen ? <eos>
+What people were many cups stunning ? <eos>
+What were many cups stunning people ? <eos>
+What college campus had this teacher explored ? <eos>
+What had this teacher explored college campus ? <eos>
+What guests have those stairs hurt ? <eos>
+What have those stairs hurt guests ? <eos>
+What people had Sherry hugged ? <eos>
+What had Sherry hugged people ? <eos>
+Whose high school will Raymond criticize ? <eos>
+Whose will Raymond criticize high school ? <eos>
+What ladies had these windows confused ? <eos>
+What had these windows confused ladies ? <eos>
+What bank was Karen biking to ? <eos>
+What was Karen biking to bank ? <eos>
+Which hamster had Elizabeth bought ? <eos>
+Which had Elizabeth bought hamster ? <eos>
+Whose fish has Peter thought about ? <eos>
+Whose has Peter thought about fish ? <eos>
+Whose closets might Eric bike to ? <eos>
+Whose might Eric bike to closets ? <eos>
+Which library had Jacqueline passed ? <eos>
+Which had Jacqueline passed library ? <eos>
+Which man was Julie approaching ? <eos>
+Which was Julie approaching man ? <eos>
+Whose movie theater will Patrick arrive at ? <eos>
+Whose will Patrick arrive at movie theater ? <eos>
+What documentary has Christine boasted about ? <eos>
+What has Christine boasted about documentary ? <eos>
+What actor has Mitchell hated ? <eos>
+What has Mitchell hated actor ? <eos>
+What school has Joseph criticized ? <eos>
+What has Joseph criticized school ? <eos>
+What person were the sketches astounding ? <eos>
+What were the sketches astounding person ? <eos>
+What essay had the Clintons praised ? <eos>
+What had the Clintons praised essay ? <eos>
+What girl does Heather listen to ? <eos>
+What does Heather listen to girl ? <eos>
+Which teenager would Beth investigate ? <eos>
+Which would Beth investigate teenager ? <eos>
+What person had Sabrina known ? <eos>
+What had Sabrina known person ? <eos>
+What students might Monet flee from ? <eos>
+What might Monet flee from students ? <eos>
+Which alumni could Ann love ? <eos>
+Which could Ann love alumni ? <eos>
+What man might Homer impress ? <eos>
+What might Homer impress man ? <eos>
+What alumni is Kathleen referencing ? <eos>
+What is Kathleen referencing alumni ? <eos>
+Whose hill had Kimberley skated around ? <eos>
+Whose had Kimberley skated around hill ? <eos>
+Which mice had all pedestrians bought ? <eos>
+Which had all pedestrians bought mice ? <eos>
+Which shoes was Todd wearing ? <eos>
+Which was Todd wearing shoes ? <eos>
+What restaurants had Craig biked to ? <eos>
+What had Craig biked to restaurants ? <eos>
+What school can Stephanie mess up ? <eos>
+What can Stephanie mess up school ? <eos>
+What ladder was Teresa climbing up ? <eos>
+What was Teresa climbing up ladder ? <eos>
+Which adult have many girls listened to ? <eos>
+Which have many girls listened to adult ? <eos>
+Which boys is Omar working with ? <eos>
+Which is Omar working with boys ? <eos>
+Which socks was Cheryl bringing ? <eos>
+Which was Cheryl bringing socks ? <eos>
+Which restaurant might Marla explore ? <eos>
+Which might Marla explore restaurant ? <eos>
+What mountain was Jessica dropping by ? <eos>
+What was Jessica dropping by mountain ? <eos>
+Which school had Judy passed ? <eos>
+Which had Judy passed school ? <eos>
+Which closets has Harvard University taken ? <eos>
+Which has Harvard University taken closets ? <eos>
+Which plate was Caroline finding ? <eos>
+Which was Caroline finding plate ? <eos>
+What girl had Tiffany referenced ? <eos>
+What had Tiffany referenced girl ? <eos>
+Which women had Kathleen alarmed ? <eos>
+Which had Kathleen alarmed women ? <eos>
+Which schools was Carl messing up ? <eos>
+Which was Carl messing up schools ? <eos>
+Which pedestrian had those ladies hated ? <eos>
+Which had those ladies hated pedestrian ? <eos>
+Which movie theaters had Patricia boycotted ? <eos>
+Which had Patricia boycotted movie theaters ? <eos>
+What patients were the Impressionists disagreeing with ? <eos>
+What were the Impressionists disagreeing with patients ? <eos>
+What college campuses can Julie escape from ? <eos>
+What can Julie escape from college campuses ? <eos>
+Whose school is Lawrence biking to ? <eos>
+Whose is Lawrence biking to school ? <eos>
+Which hospital is Anne touring ? <eos>
+Which is Anne touring hospital ? <eos>
+Which rivers had all waiters sounded like ? <eos>
+Which had all waiters sounded like rivers ? <eos>
+Whose hills might Lucille walk through ? <eos>
+Whose might Lucille walk through hills ? <eos>
+Which boy has the association worried ? <eos>
+Which has the association worried boy ? <eos>
+Which pedestrian should some actor approach ? <eos>
+Which should some actor approach pedestrian ? <eos>

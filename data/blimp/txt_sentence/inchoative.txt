@@ -1,2000 +1,2000 @@
-A bike accelerates . <eos>
-A bike reveals . <eos>
-The carts had turned . <eos>
-The carts had bought . <eos>
-These waitresses change . <eos>
-These waitresses annoyed . <eos>
-All feet ca n't drop . <eos>
-All feet ca n't clean . <eos>
-Caroline trained . <eos>
-Caroline looked like . <eos>
-A lot of planes slowed . <eos>
-A lot of planes fixed . <eos>
-Some scarf wo n't flatten . <eos>
-Some scarf wo n't buy . <eos>
-This scarf flattened . <eos>
-This scarf has . <eos>
-These lights dimmed . <eos>
-These lights found . <eos>
-The cilantro grew . <eos>
-The cilantro had . <eos>
-A lot of drivers should n't marry . <eos>
-A lot of drivers should n't argue about . <eos>
-Some bikes stop . <eos>
-Some bikes looked like . <eos>
-Alice was hurting . <eos>
-Alice was praising . <eos>
-That gate closes . <eos>
-That gate reveals . <eos>
-All adults ' sisters do marry . <eos>
-All adults ' sisters do talk about . <eos>
-Every movie theater is selling . <eos>
-Every movie theater is biking to . <eos>
-Every hat twirled . <eos>
-Every hat cleans . <eos>
-This steak could n't char . <eos>
-This steak could n't see . <eos>
-This skirt crumples . <eos>
-This skirt bought . <eos>
-Some plane slows . <eos>
-Some plane lifted . <eos>
-All glasses could n't crumple . <eos>
-All glasses could n't look like . <eos>
-Most unicycles crashed . <eos>
-Most unicycles took . <eos>
-Amy hides . <eos>
-Amy forgot . <eos>
-This lake is evaporating . <eos>
-This lake is admiring . <eos>
-All pants are n't flattening . <eos>
-All pants are n't messing up . <eos>
-Every river evaporates . <eos>
-Every river remembers . <eos>
-Alan 's son is n't hurting . <eos>
-Alan 's son is n't concealing . <eos>
-Many carriages are n't steering . <eos>
-Many carriages are n't buying . <eos>
-Those candles were n't brightening . <eos>
-Those candles were n't taking . <eos>
-A lot of glaciers were n't condensing . <eos>
-A lot of glaciers were n't describing . <eos>
-This skateboard crashes . <eos>
-This skateboard admires . <eos>
-Angela hides . <eos>
-Angela embarrasses . <eos>
-Some bikes chip . <eos>
-Some bikes buy . <eos>
-All shawls crumple . <eos>
-All shawls took . <eos>
-Kristen has hidden . <eos>
-Kristen has revealed . <eos>
-This box shut . <eos>
-This box saw . <eos>
-A lot of cakes blacken . <eos>
-A lot of cakes have . <eos>
-These tomatoes burn . <eos>
-These tomatoes liked . <eos>
-Some beef burned . <eos>
-Some beef cleans . <eos>
-Wayne ca n't hurt . <eos>
-Wayne ca n't astound . <eos>
-The box closes . <eos>
-The box brought . <eos>
-That mirror had hidden . <eos>
-That mirror had lifted . <eos>
-Most hats warp . <eos>
-Most hats admired . <eos>
-Pamela had hurt . <eos>
-Pamela had confused . <eos>
-Andrew wo n't wash . <eos>
-Andrew wo n't reference . <eos>
-Lakes freeze . <eos>
-Lakes visited . <eos>
-Some shirt stretches . <eos>
-Some shirt wears . <eos>
-Some apple is n't ripening . <eos>
-Some apple is n't concealing . <eos>
-This door opened . <eos>
-This door likes . <eos>
-Julie washes . <eos>
-Julie insulted . <eos>
-Some apple ripens . <eos>
-Some apple looked like . <eos>
-Some window had n't flung open . <eos>
-Some window had n't seen . <eos>
-Every glove flattened . <eos>
-Every glove finds . <eos>
-Those sweaters are twisting . <eos>
-Those sweaters are wearing . <eos>
-Some women were n't washing . <eos>
-Some women were n't listening to . <eos>
-The mushroom was selling . <eos>
-The mushroom was cleaning . <eos>
-A lot of women are n't hurting . <eos>
-A lot of women are n't arguing about . <eos>
-A waitress 's ex-girlfriend has trained . <eos>
-A waitress 's ex-girlfriend has aggravated . <eos>
-Some gloves dry . <eos>
-Some gloves clean . <eos>
-These jackets flatten . <eos>
-These jackets liked . <eos>
-Every senator was n't hiding . <eos>
-Every senator was n't discussing . <eos>
-These convertibles do steer . <eos>
-These convertibles do take . <eos>
-A candle fades . <eos>
-A candle sees . <eos>
-This carriage should maneuver . <eos>
-This carriage should admire . <eos>
-Some sweater twirls . <eos>
-Some sweater cleans . <eos>
-Robert 's partners had n't reunited . <eos>
-Robert 's partners had n't distracted . <eos>
-What vaporizes . <eos>
-What exits . <eos>
-A lot of boys did wash . <eos>
-A lot of boys did kiss . <eos>
-Some skirt shrinks . <eos>
-Some skirt messed up . <eos>
-The skateboard was steering . <eos>
-The skateboard was admiring . <eos>
-Most cakes were n't burning . <eos>
-Most cakes were n't concealing . <eos>
-That dress could twist . <eos>
-That dress could bring . <eos>
-These icicles freeze . <eos>
-These icicles admire . <eos>
-A lot of coats were fraying . <eos>
-A lot of coats were buying . <eos>
-Anne wo n't train . <eos>
-Anne wo n't kiss . <eos>
-These spotlights dim . <eos>
-These spotlights liked . <eos>
-The trucks accelerate . <eos>
-The trucks buy . <eos>
-This carriage had n't crashed . <eos>
-This carriage had n't brought . <eos>
-Screens drop . <eos>
-Screens took . <eos>
-Brett 's brothers should benefit . <eos>
-Brett 's brothers should hug . <eos>
-Joseph spun around . <eos>
-Joseph criticizes . <eos>
-This hat stretched . <eos>
-This hat cleans . <eos>
-All people 's wife is hiding . <eos>
-All people 's wife is boring . <eos>
-The tooth can shatter . <eos>
-The tooth can bring . <eos>
-A lot of skateboards crash . <eos>
-A lot of skateboards fix . <eos>
-These shoes soak . <eos>
-These shoes see . <eos>
-Some children were n't marrying . <eos>
-Some children were n't kissing . <eos>
-These socks folded . <eos>
-These socks wear . <eos>
-Most trucks will sell . <eos>
-Most trucks will fix . <eos>
-A lot of mirrors should break . <eos>
-A lot of mirrors should take . <eos>
-Those screens brighten . <eos>
-Those screens liked . <eos>
-Beth 's mothers had healed . <eos>
-Beth 's mothers had visited . <eos>
-Unicycles dropped . <eos>
-Unicycles find . <eos>
-A lot of lamps had faded . <eos>
-A lot of lamps had concealed . <eos>
-Andrea should n't wake up . <eos>
-Andrea should n't return to . <eos>
-Those spotlights have brightened . <eos>
-Those spotlights have brought . <eos>
-Those guests could n't profit . <eos>
-Those guests could n't reference . <eos>
-Trucks maneuvered . <eos>
-Trucks look like . <eos>
-Some couch is dropping . <eos>
-Some couch is cleaning . <eos>
-Those dresses unfolded . <eos>
-Those dresses liked . <eos>
-All associations have n't changed . <eos>
-All associations have n't boycotted . <eos>
-The carriage is shattering . <eos>
-The carriage is buying . <eos>
-Many rivers condense . <eos>
-Many rivers like . <eos>
-Every lake vaporized . <eos>
-Every lake flees from . <eos>
-Most jackets stretch . <eos>
-Most jackets concealed . <eos>
-The broccoli scorched . <eos>
-The broccoli looks like . <eos>
-Skateboards turn . <eos>
-Skateboards conceal . <eos>
-Some jacket loosens . <eos>
-Some jacket lifted . <eos>
-A lot of icicles will evaporate . <eos>
-A lot of icicles will conceal . <eos>
-Every coat is n't soaking . <eos>
-Every coat is n't looking like . <eos>
-Most rivers vaporize . <eos>
-Most rivers drop by . <eos>
-Every girl 's ex-girlfriend might spin around . <eos>
-Every girl 's ex-girlfriend might boast about . <eos>
-Most tomatoes charred . <eos>
-Most tomatoes concealed . <eos>
-Derek 's students marry . <eos>
-Derek 's students criticize . <eos>
-Some sock twirls . <eos>
-Some sock brought . <eos>
-Some bicycle had crashed . <eos>
-Some bicycle had fixed . <eos>
-This bicycle chips . <eos>
-This bicycle conceals . <eos>
-Some closet might close . <eos>
-Some closet might describe . <eos>
-Those trucks turned . <eos>
-Those trucks buy . <eos>
-Every tomato will bake . <eos>
-Every tomato will look like . <eos>
-Some beef is n't baking . <eos>
-Some beef is n't concealing . <eos>
-A glacier has melted . <eos>
-A glacier has bought . <eos>
-What drops . <eos>
-What had . <eos>
-A mouth has flung open . <eos>
-A mouth has looked like . <eos>
-That tomato baked . <eos>
-That tomato conceals . <eos>
-Gloves had flattened . <eos>
-Gloves had taken . <eos>
-All turtles hide . <eos>
-All turtles admire . <eos>
-Edward has spun around . <eos>
-Edward has seen . <eos>
-This gate closes . <eos>
-This gate concealed . <eos>
-That skateboard maneuvers . <eos>
-That skateboard sees . <eos>
-This jacket soaked . <eos>
-This jacket lifts . <eos>
-The projector does fade . <eos>
-The projector does look like . <eos>
-The lamps dim . <eos>
-The lamps admired . <eos>
-These mothers of Paul have n't reunited . <eos>
-These mothers of Paul have n't shocked . <eos>
-Richard 's associates stand up . <eos>
-Richard 's associates visit . <eos>
-Suzanne 's associates worried . <eos>
-Suzanne 's associates hug . <eos>
-Thomas worries . <eos>
-Thomas attacks . <eos>
-A mirror shatters . <eos>
-A mirror cleaned . <eos>
-Many bicycles turned . <eos>
-Many bicycles fix . <eos>
-Those pants warped . <eos>
-Those pants clean . <eos>
-Every pie is n't charring . <eos>
-Every pie is n't lifting . <eos>
-Some spinach can blacken . <eos>
-Some spinach can buy . <eos>
-Some shawls had flattened . <eos>
-Some shawls had concealed . <eos>
-The convertible had n't crashed . <eos>
-The convertible had n't brought . <eos>
-Every hat warps . <eos>
-Every hat bought . <eos>
-These shawls have folded . <eos>
-These shawls have bought . <eos>
-This rice had scorched . <eos>
-This rice had taken . <eos>
-Andrew wo n't train . <eos>
-Andrew wo n't criticize . <eos>
-All jackets were n't shrinking . <eos>
-All jackets were n't wearing . <eos>
-The Clintons were n't benefiting . <eos>
-The Clintons were n't astounding . <eos>
-Cars accelerate . <eos>
-Cars admired . <eos>
-Some drivers washed . <eos>
-Some drivers observe . <eos>
-Many waitresses profited . <eos>
-Many waitresses reveal . <eos>
-Most snakes wake up . <eos>
-Most snakes admire . <eos>
-This lake has n't vaporized . <eos>
-This lake has n't cleaned . <eos>
-A scarf had n't twisted . <eos>
-A scarf had n't bought . <eos>
-The student 's hairdressers assemble . <eos>
-The student 's hairdressers irritated . <eos>
-These convertibles were turning . <eos>
-These convertibles were bringing . <eos>
-The plates shatter . <eos>
-The plates reveal . <eos>
-These wheelbarrows roll . <eos>
-These wheelbarrows admire . <eos>
-Those shirts fold . <eos>
-Those shirts wore . <eos>
-Some bike stops . <eos>
-Some bike fixes . <eos>
-Jackets soak . <eos>
-Jackets find . <eos>
-Many dresses tightened . <eos>
-Many dresses have . <eos>
-Kimberley 's best friends have assembled . <eos>
-Kimberley 's best friends have talked about . <eos>
-Forks chipped . <eos>
-Forks clean . <eos>
-All dresses fray . <eos>
-All dresses admire . <eos>
-Renee hid . <eos>
-Renee disturbs . <eos>
-The Borgias have stood up . <eos>
-The Borgias have disturbed . <eos>
-The shawls have n't twirled . <eos>
-The shawls have n't concealed . <eos>
-These mushrooms are n't burning . <eos>
-These mushrooms are n't admiring . <eos>
-The socks are n't twirling . <eos>
-The socks are n't admiring . <eos>
-These daughters of Rhonda changed . <eos>
-These daughters of Rhonda irritated . <eos>
-Some box flung open . <eos>
-Some box lifted . <eos>
-All prints hide . <eos>
-All prints see . <eos>
-A cart is breaking . <eos>
-A cart is bringing . <eos>
-Spotlights fade . <eos>
-Spotlights liked . <eos>
-Many closets could shut . <eos>
-Many closets could find . <eos>
-Some universities benefit . <eos>
-Some universities bothered . <eos>
-The Lutherans were assembling . <eos>
-The Lutherans were confusing . <eos>
-Many coats would n't wrinkle . <eos>
-Many coats would n't like . <eos>
-A lot of icicles were melting . <eos>
-A lot of icicles were lifting . <eos>
-Margaret does wash . <eos>
-Margaret does dislike . <eos>
-Jessica 's boyfriend was n't moving . <eos>
-Jessica 's boyfriend was n't astounding . <eos>
-Cheryl would move . <eos>
-Cheryl would care for . <eos>
-The carriage turned . <eos>
-The carriage lifted . <eos>
-A tooth shatters . <eos>
-A tooth saw . <eos>
-The wheelbarrow had accelerated . <eos>
-The wheelbarrow had admired . <eos>
-Most malls are n't hiding . <eos>
-Most malls are n't looking like . <eos>
-Some doctors profited . <eos>
-Some doctors criticized . <eos>
-Every gate opens . <eos>
-Every gate found . <eos>
-What tightens . <eos>
-What loved . <eos>
-Danielle was hiding . <eos>
-Danielle was complaining about . <eos>
-Sandra 's ex-wives have n't hurt . <eos>
-Sandra 's ex-wives have n't bored . <eos>
-This lamp faded . <eos>
-This lamp cleans . <eos>
-Mirrors tipped over . <eos>
-Mirrors clean . <eos>
-This skirt flattens . <eos>
-This skirt admired . <eos>
-What folds . <eos>
-What climbs down . <eos>
-The associations had n't profited . <eos>
-The associations had n't irritated . <eos>
-Every glove is drying . <eos>
-Every glove is buying . <eos>
-This fish blackens . <eos>
-This fish lifted . <eos>
-All carriages do n't shatter . <eos>
-All carriages do n't see . <eos>
-A lot of actresses benefit . <eos>
-A lot of actresses respected . <eos>
-This mouth shuts . <eos>
-This mouth looked like . <eos>
-Some bikes were turning . <eos>
-Some bikes were revealing . <eos>
-The trucks had steered . <eos>
-The trucks had concealed . <eos>
-This unicycle stops . <eos>
-This unicycle has . <eos>
-They train . <eos>
-They respected . <eos>
-Judy had washed . <eos>
-Judy had bothered . <eos>
-That muffin will char . <eos>
-That muffin will lift . <eos>
-The cars shatter . <eos>
-The cars concealed . <eos>
-These shoes might flatten . <eos>
-These shoes might wear . <eos>
-Amelia 's podiatrists heal . <eos>
-Amelia 's podiatrists conceal . <eos>
-The feet chip . <eos>
-The feet clean . <eos>
-Those convertibles are n't crashing . <eos>
-Those convertibles are n't buying . <eos>
-The water vaporizes . <eos>
-The water had . <eos>
-The apple grows . <eos>
-The apple admired . <eos>
-That coat has tightened . <eos>
-That coat has brought . <eos>
-All carriages had cracked . <eos>
-All carriages had seen . <eos>
-Most peppers blacken . <eos>
-Most peppers bought . <eos>
-Some plane was steering . <eos>
-Some plane was finding . <eos>
-Erin 's employees do n't reunite . <eos>
-Erin 's employees do n't attack . <eos>
-Deborah hurts . <eos>
-Deborah criticized . <eos>
-Diane might move . <eos>
-Diane might observe . <eos>
-That shirt had twisted . <eos>
-That shirt had admired . <eos>
-Those cars had slowed . <eos>
-Those cars had looked like . <eos>
-Chad woke up . <eos>
-Chad cured . <eos>
-The blouse crumples . <eos>
-The blouse found . <eos>
-Every dress soaks . <eos>
-Every dress looks like . <eos>
-The Borgias ' oncologists wash . <eos>
-The Borgias ' oncologists returned to . <eos>
-Some nieces of Martha married . <eos>
-Some nieces of Martha bothered . <eos>
-Those socks fray . <eos>
-Those socks like . <eos>
-All cucumbers grow . <eos>
-All cucumbers buy . <eos>
-This mirror was n't selling . <eos>
-This mirror was n't buying . <eos>
-These chairs had n't dropped . <eos>
-These chairs had n't cleaned . <eos>
-These socks twirled . <eos>
-These socks buy . <eos>
-Those convertibles did stop . <eos>
-Those convertibles did conceal . <eos>
-Bradley 's senators wake up . <eos>
-Bradley 's senators astounded . <eos>
-The cashiers woke up . <eos>
-The cashiers listened to . <eos>
-These cars do break . <eos>
-These cars do admire . <eos>
-Ice evaporates . <eos>
-Ice likes . <eos>
-Ice freezes . <eos>
-Ice found . <eos>
-Mushrooms char . <eos>
-Mushrooms find . <eos>
-Some windows shut . <eos>
-Some windows brought . <eos>
-Some banana has grown . <eos>
-Some banana has cleaned . <eos>
-That cake blackens . <eos>
-That cake reveals . <eos>
-Martha has n't hidden . <eos>
-Martha has n't talked about . <eos>
-Rose had hidden . <eos>
-Rose had fired . <eos>
-Amanda was sitting down . <eos>
-Amanda was looking like . <eos>
-Clyde has n't spun around . <eos>
-Clyde has n't hugged . <eos>
-Some niece of Rachelle hides . <eos>
-Some niece of Rachelle fired . <eos>
-That bread burns . <eos>
-That bread admired . <eos>
-Most coats had n't twisted . <eos>
-Most coats had n't looked like . <eos>
-Those scarves had n't warped . <eos>
-Those scarves had n't concealed . <eos>
-Every book sold . <eos>
-Every book remembered . <eos>
-Tiffany was sitting down . <eos>
-Tiffany was referencing . <eos>
-Some ice condensed . <eos>
-Some ice saw . <eos>
-This glass did n't break . <eos>
-This glass did n't look like . <eos>
-Peppers charred . <eos>
-Peppers find . <eos>
-What is n't shattering . <eos>
-What is n't leaving . <eos>
-Some window flings open . <eos>
-Some window cleaned . <eos>
-A mirror breaks . <eos>
-A mirror cleans . <eos>
-A lot of sweaters warp . <eos>
-A lot of sweaters look like . <eos>
-Dawn 's brother is n't spinning around . <eos>
-Dawn 's brother is n't fleeing from . <eos>
-Some candles were n't dimming . <eos>
-Some candles were n't finding . <eos>
-Every box flings open . <eos>
-Every box cleaned . <eos>
-Some bike rolls . <eos>
-Some bike lifted . <eos>
-Unicycles steered . <eos>
-Unicycles looked like . <eos>
-Many scarves fold . <eos>
-Many scarves look like . <eos>
-All unicycles steer . <eos>
-All unicycles have . <eos>
-Most socks might twist . <eos>
-Most socks might admire . <eos>
-Some skirt crumpled . <eos>
-Some skirt admires . <eos>
-Every box does open . <eos>
-Every box does like . <eos>
-Samantha changes . <eos>
-Samantha insulted . <eos>
-A lot of closets open . <eos>
-A lot of closets talk about . <eos>
-Every tomato had blackened . <eos>
-Every tomato had admired . <eos>
-The waiters healed . <eos>
-The waiters upset . <eos>
-Ice cream is n't melting . <eos>
-Ice cream is n't buying . <eos>
-Sally 's students stand up . <eos>
-Sally 's students distracted . <eos>
-Windows opened . <eos>
-Windows find . <eos>
-Beverly 's supervisors have reunited . <eos>
-Beverly 's supervisors have praised . <eos>
-Elaine hid away . <eos>
-Elaine stuns . <eos>
-Some sweater twists . <eos>
-Some sweater bought . <eos>
-Children 's contractors heal . <eos>
-Children 's contractors revealed . <eos>
-That sweater twirls . <eos>
-That sweater lifts . <eos>
-These peppers ripen . <eos>
-These peppers bought . <eos>
-The sweaters unfold . <eos>
-The sweaters looked like . <eos>
-Analyses change . <eos>
-Analyses complained about . <eos>
-These planes crash . <eos>
-These planes revealed . <eos>
-Those socks have n't warped . <eos>
-Those socks have n't admired . <eos>
-Those peppers scorch . <eos>
-Those peppers looked like . <eos>
-Many shoes warped . <eos>
-Many shoes found . <eos>
-Spinach would n't grow . <eos>
-Spinach would n't conceal . <eos>
-Nina 's French teachers were n't standing up . <eos>
-Nina 's French teachers were n't alarming . <eos>
-Some ice cream melted . <eos>
-Some ice cream concealed . <eos>
-Those sweaters have n't folded . <eos>
-Those sweaters have n't bought . <eos>
-The louse woke up . <eos>
-The louse likes . <eos>
-Samuel would n't change . <eos>
-Samuel would n't describe . <eos>
-A lot of shirts have n't twirled . <eos>
-A lot of shirts have n't concealed . <eos>
-Mirrors would shatter . <eos>
-Mirrors would conceal . <eos>
-A shoe dried . <eos>
-A shoe looked like . <eos>
-Edward had n't hurt . <eos>
-Edward had n't complained about . <eos>
-Stephanie 's granddaughters hide . <eos>
-Stephanie 's granddaughters praise . <eos>
-Some adults did profit . <eos>
-Some adults did observe . <eos>
-A lot of gloves wrinkled . <eos>
-A lot of gloves wore . <eos>
-The sock tightens . <eos>
-The sock concealed . <eos>
-What crumples . <eos>
-What climbed up . <eos>
-Pamela stretched . <eos>
-Pamela concealed . <eos>
-This eggplant chars . <eos>
-This eggplant looks like . <eos>
-The cups shatter . <eos>
-The cups liked . <eos>
-These people hide . <eos>
-These people talk to . <eos>
-Some students healed . <eos>
-Some students observe . <eos>
-These dresses were n't fraying . <eos>
-These dresses were n't finding . <eos>
-Every banana is ripening . <eos>
-Every banana is admiring . <eos>
-All dancers sit down . <eos>
-All dancers found . <eos>
-These carriages were n't rolling . <eos>
-These carriages were n't revealing . <eos>
-Every tomato can ripen . <eos>
-Every tomato can take . <eos>
-The skirts loosened . <eos>
-The skirts buy . <eos>
-That ice condensed . <eos>
-That ice looks like . <eos>
-Most carts steer . <eos>
-Most carts had . <eos>
-A lot of bananas have grown . <eos>
-A lot of bananas have found . <eos>
-A lot of muffins could n't sell . <eos>
-A lot of muffins could n't bring . <eos>
-The blouse was n't soaking . <eos>
-The blouse was n't admiring . <eos>
-The mushrooms ripen . <eos>
-The mushrooms lift . <eos>
-Every wheelbarrow shatters . <eos>
-Every wheelbarrow lifts . <eos>
-The sock crumples . <eos>
-The sock had . <eos>
-The shoe had n't shrunk . <eos>
-The shoe had n't taken . <eos>
-These shoes are loosening . <eos>
-These shoes are messing up . <eos>
-A glacier sold . <eos>
-A glacier visits . <eos>
-A lot of governments have reunited . <eos>
-A lot of governments have alarmed . <eos>
-A lot of waitresses could n't benefit . <eos>
-A lot of waitresses could n't conceal . <eos>
-A box had flung open . <eos>
-A box had taken . <eos>
-A lot of trucks break . <eos>
-A lot of trucks conceal . <eos>
-Most dresses tighten . <eos>
-Most dresses look like . <eos>
-Alicia washed . <eos>
-Alicia appreciated . <eos>
-The daughters of some doctors did n't profit . <eos>
-The daughters of some doctors did n't find . <eos>
-That dancer has moved . <eos>
-That dancer has discussed . <eos>
-Those convertibles had n't dropped . <eos>
-Those convertibles had n't found . <eos>
-Some dancer was n't washing . <eos>
-Some dancer was n't returning to . <eos>
-A shirt wo n't fold . <eos>
-A shirt wo n't take . <eos>
-Some muffins are n't burning . <eos>
-Some muffins are n't buying . <eos>
-These customers might marry . <eos>
-These customers might bother . <eos>
-Those drivers had n't reunited . <eos>
-Those drivers had n't confused . <eos>
-Caroline 's ex-wives changed . <eos>
-Caroline 's ex-wives like . <eos>
-Those shawls have n't warped . <eos>
-Those shawls have n't revealed . <eos>
-An icicle would n't evaporate . <eos>
-An icicle would n't take . <eos>
-These jackets warp . <eos>
-These jackets saw . <eos>
-What did n't shatter . <eos>
-What did n't conceal . <eos>
-A skateboard accelerates . <eos>
-A skateboard fixed . <eos>
-These hats loosen . <eos>
-These hats wear . <eos>
-Those hats unfolded . <eos>
-Those hats wore . <eos>
-A closet shuts . <eos>
-A closet reveals . <eos>
-Karla 's tutors were marrying . <eos>
-Karla 's tutors were fleeing from . <eos>
-All skateboards crash . <eos>
-All skateboards fix . <eos>
-That dress had n't twisted . <eos>
-That dress had n't lifted . <eos>
-Some lamps brighten . <eos>
-Some lamps had . <eos>
-These actresses ' mentors wo n't marry . <eos>
-These actresses ' mentors wo n't examine . <eos>
-Most casseroles would blacken . <eos>
-Most casseroles would see . <eos>
-Melinda had stretched . <eos>
-Melinda had shocked . <eos>
-The shoes warped . <eos>
-The shoes brought . <eos>
-All casseroles have blackened . <eos>
-All casseroles have revealed . <eos>
-The mushroom should n't ripen . <eos>
-The mushroom should n't look like . <eos>
-A vase breaks . <eos>
-A vase saw . <eos>
-A lot of convertibles had n't slowed . <eos>
-A lot of convertibles had n't fixed . <eos>
-This unicycle maneuvers . <eos>
-This unicycle found . <eos>
-Most boxes shut . <eos>
-Most boxes brought . <eos>
-Eggplants char . <eos>
-Eggplants admire . <eos>
-Some chair shatters . <eos>
-Some chair brought . <eos>
-Those wheelbarrows are stopping . <eos>
-Those wheelbarrows are admiring . <eos>
-Some rivers have n't evaporated . <eos>
-Some rivers have n't concealed . <eos>
-Every popsicle vaporized . <eos>
-Every popsicle bought . <eos>
-Many muffins burn . <eos>
-Many muffins reveal . <eos>
-The carts have rolled . <eos>
-The carts have admired . <eos>
-The car is n't turning . <eos>
-The car is n't revealing . <eos>
-Shawls are n't folding . <eos>
-Shawls are n't finding . <eos>
-That shawl tightened . <eos>
+Patricia had changed . <eos>
+Patricia had forgotten . <eos>
+A lot of closets could fling open . <eos>
+A lot of closets could buy . <eos>
+All pants loosen . <eos>
+All pants brought . <eos>
+Many glasses are n't warping . <eos>
+Many glasses are n't messing up . <eos>
+A screen was fading . <eos>
+A screen was cleaning . <eos>
+Every mountain sells . <eos>
+Every mountain climbs down . <eos>
+All rivers ca n't melt . <eos>
+All rivers ca n't reveal . <eos>
+That skirt is n't unfolding . <eos>
+That skirt is n't cleaning . <eos>
+That shawl shrank . <eos>
 That shawl reveals . <eos>
-Those glasses were n't dropping . <eos>
-Those glasses were n't buying . <eos>
-The mothers of Angela wash . <eos>
-The mothers of Angela listen to . <eos>
-Sharon hides . <eos>
-Sharon aggravates . <eos>
-The unicycles turn . <eos>
-The unicycles fixed . <eos>
-Candice has moved . <eos>
-Candice has found . <eos>
-Those cucumbers blacken . <eos>
-Those cucumbers clean . <eos>
-Laura can train . <eos>
-Laura can hate . <eos>
-Some cars steer . <eos>
-Some cars look like . <eos>
-A light wo n't dim . <eos>
-A light wo n't admire . <eos>
-The sock flattens . <eos>
-The sock cleans . <eos>
-This truck stops . <eos>
-This truck has . <eos>
-Some casseroles char . <eos>
-Some casseroles concealed . <eos>
-Elizabeth 's mentors were benefiting . <eos>
-Elizabeth 's mentors were escaping from . <eos>
-That plane tipped over . <eos>
-That plane admired . <eos>
-A lot of adults ' daughter was n't washing . <eos>
-A lot of adults ' daughter was n't irritating . <eos>
-The tomato would ripen . <eos>
-The tomato would reveal . <eos>
-Richard will worry . <eos>
-Richard will reference . <eos>
-The hats ca n't twirl . <eos>
-The hats ca n't conceal . <eos>
-Every chair was dropping . <eos>
-Every chair was cleaning . <eos>
-These wheelbarrows turn . <eos>
-These wheelbarrows had . <eos>
-All bicycles are slowing . <eos>
-All bicycles are admiring . <eos>
-This glove might dry . <eos>
-This glove might like . <eos>
-Many projectors have n't dimmed . <eos>
-Many projectors have n't lifted . <eos>
-That shoe has n't crumpled . <eos>
-That shoe has n't brought . <eos>
-Many bananas char . <eos>
-Many bananas brought . <eos>
-Frank had stretched . <eos>
-Frank had kissed . <eos>
-Every unicycle accelerated . <eos>
-Every unicycle looked like . <eos>
-Peter was n't standing up . <eos>
-Peter was n't escaping from . <eos>
-A lamp dims . <eos>
-A lamp lifts . <eos>
-Some coats can shrink . <eos>
-Some coats can bring . <eos>
-Most planes tipped over . <eos>
-Most planes like . <eos>
-That skirt soaked . <eos>
-That skirt has . <eos>
-Kenneth 's electricians will benefit . <eos>
-Kenneth 's electricians will approach . <eos>
-Every blouse crumpled . <eos>
-Every blouse revealed . <eos>
-Some daughter of this dancer has stood up . <eos>
-Some daughter of this dancer has criticized . <eos>
-That glove soaks . <eos>
-That glove wore . <eos>
-A plane steers . <eos>
-A plane looked like . <eos>
-Deanna would wash . <eos>
-Deanna would disgust . <eos>
-Walter hurts . <eos>
-Walter conceals . <eos>
-The spotlights have n't dimmed . <eos>
-The spotlights have n't revealed . <eos>
-Most students hurt . <eos>
-Most students worked with . <eos>
-The door was n't flinging open . <eos>
-The door was n't concealing . <eos>
-Some university has n't worried . <eos>
-Some university has n't scared . <eos>
-A wheelbarrow dropped . <eos>
-A wheelbarrow lifts . <eos>
-Sweaters had n't warped . <eos>
-Sweaters had n't looked like . <eos>
-A projector dims . <eos>
-A projector liked . <eos>
-A hat unfolds . <eos>
-A hat bought . <eos>
-Erin hides . <eos>
-Erin appreciates . <eos>
-Every convertible was crashing . <eos>
-Every convertible was taking . <eos>
-These guests hurt . <eos>
-These guests loved . <eos>
-These pedestrians train . <eos>
-These pedestrians cure . <eos>
-Screens darkened . <eos>
-Screens revealed . <eos>
-These bicycles had n't tipped over . <eos>
-These bicycles had n't bought . <eos>
-Every skirt is n't shrinking . <eos>
-Every skirt is n't revealing . <eos>
-A bicycle should stop . <eos>
-A bicycle should lift . <eos>
-Gates open . <eos>
-Gates brought . <eos>
-Pork had blackened . <eos>
-Pork had cleaned . <eos>
-Frank 's grandmothers hurt . <eos>
-Frank 's grandmothers love . <eos>
-Elizabeth hurts . <eos>
-Elizabeth hires . <eos>
-Some lakes freeze . <eos>
-Some lakes boycott . <eos>
-Those carts can maneuver . <eos>
-Those carts can bring . <eos>
-The skateboards crack . <eos>
-The skateboards had . <eos>
-Craig 's ex-husbands have n't woken up . <eos>
-Craig 's ex-husbands have n't admired . <eos>
-A lot of shoes have shrunk . <eos>
-A lot of shoes have brought . <eos>
-This bread bakes . <eos>
-This bread buys . <eos>
-Stacey 's ex-boyfriends reunite . <eos>
-Stacey 's ex-boyfriends reference . <eos>
-The candles faded . <eos>
-The candles buy . <eos>
-That jacket had n't wrinkled . <eos>
-That jacket had n't found . <eos>
-These hats would warp . <eos>
-These hats would clean . <eos>
-Some tomatoes grow . <eos>
-Some tomatoes find . <eos>
-A convertible tips over . <eos>
-A convertible buys . <eos>
-Kimberley 's ex-husbands would worry . <eos>
-Kimberley 's ex-husbands would embarrass . <eos>
-Many grandmothers of Sherry heal . <eos>
-Many grandmothers of Sherry bore . <eos>
-Every jacket is n't stretching . <eos>
-Every jacket is n't admiring . <eos>
-Most muffins char . <eos>
-Most muffins clean . <eos>
-Dresses are n't folding . <eos>
-Dresses are n't concealing . <eos>
-Those unicycles had n't rolled . <eos>
-Those unicycles had n't seen . <eos>
-Clyde was n't spinning around . <eos>
-Clyde was n't leaving . <eos>
-A projector has n't darkened . <eos>
-A projector has n't lifted . <eos>
-Every person trained . <eos>
-Every person hires . <eos>
-Some blouse ca n't twist . <eos>
-Some blouse ca n't bring . <eos>
-Those men can hurt . <eos>
-Those men can scare . <eos>
-Most teachers are worrying . <eos>
-Most teachers are irritating . <eos>
-Some glove would n't shrink . <eos>
-Some glove would n't have . <eos>
-Glasses flatten . <eos>
-Glasses concealed . <eos>
-Many closets shut . <eos>
-Many closets found . <eos>
-This skateboard wo n't steer . <eos>
-This skateboard wo n't buy . <eos>
-Rice chars . <eos>
-Rice bought . <eos>
-Those computers break . <eos>
-Those computers liked . <eos>
-Some hospital worried . <eos>
-Some hospital lifts . <eos>
-Skateboards steer . <eos>
-Skateboards revealed . <eos>
-Those candles dimmed . <eos>
-Those candles lift . <eos>
-Emily 's employees sit down . <eos>
-Emily 's employees talk about . <eos>
-Stephen 's best friends would n't worry . <eos>
-Stephen 's best friends would n't return to . <eos>
-This cart is n't chipping . <eos>
-This cart is n't finding . <eos>
-Melinda 's friends should assemble . <eos>
-Melinda 's friends should hate . <eos>
-Those icicles might condense . <eos>
-Those icicles might take . <eos>
-Helen could move . <eos>
-Helen could love . <eos>
-These eyes shut . <eos>
-These eyes see . <eos>
-Some tomatoes are charring . <eos>
-Some tomatoes are lifting . <eos>
-The bicycles roll . <eos>
-The bicycles lift . <eos>
-That mushroom ripened . <eos>
-That mushroom revealed . <eos>
-Most coats twist . <eos>
-Most coats admire . <eos>
-Kendra 's oncologists are n't worrying . <eos>
-Kendra 's oncologists are n't firing . <eos>
-This shoe has n't crumpled . <eos>
-This shoe has n't bought . <eos>
-Allison profits . <eos>
-Allison respects . <eos>
-These glasses were n't folding . <eos>
-These glasses were n't finding . <eos>
-That truck tips over . <eos>
-That truck took . <eos>
-A lot of coats have n't twirled . <eos>
-A lot of coats have n't admired . <eos>
-Every sweater dried . <eos>
-Every sweater admired . <eos>
-These blouses twisted . <eos>
-These blouses find . <eos>
-Gregory did n't sit down . <eos>
-Gregory did n't criticize . <eos>
-Rivers are freezing . <eos>
-Rivers are buying . <eos>
-The guests ' sister changes . <eos>
-The guests ' sister described . <eos>
-This cilantro is n't growing . <eos>
-This cilantro is n't finding . <eos>
-Steven stretches . <eos>
-Steven irritates . <eos>
-A wheelbarrow had stopped . <eos>
-A wheelbarrow had looked like . <eos>
-Those waitresses should n't worry . <eos>
-Those waitresses should n't confuse . <eos>
-Jennifer 's daughters are benefiting . <eos>
-Jennifer 's daughters are discussing . <eos>
-The spinach grows . <eos>
-The spinach found . <eos>
-Sherry 's tutors were n't reuniting . <eos>
-Sherry 's tutors were n't escaping from . <eos>
-Christopher 's mentors have n't benefited . <eos>
-Christopher 's mentors have n't found . <eos>
-Some scarf dried . <eos>
-Some scarf finds . <eos>
-Every cake chars . <eos>
-Every cake likes . <eos>
-Some blouses folded . <eos>
-Some blouses took . <eos>
-Carlos 's ex-husbands wash . <eos>
-Carlos 's ex-husbands appreciate . <eos>
-The light darkened . <eos>
-The light likes . <eos>
-Some vase should break . <eos>
-Some vase should fix . <eos>
-The glaciers are n't vaporizing . <eos>
-The glaciers are n't arriving at . <eos>
-This cake burned . <eos>
-This cake admired . <eos>
-All closets shut . <eos>
-All closets fled from . <eos>
-Every screen does brighten . <eos>
-Every screen does conceal . <eos>
-Some coat is fraying . <eos>
-Some coat is finding . <eos>
-Monica is moving . <eos>
-Monica is embarrassing . <eos>
-Every hat is soaking . <eos>
-Every hat is lifting . <eos>
-Those wheelbarrows broke . <eos>
-Those wheelbarrows buy . <eos>
-Many muffins will scorch . <eos>
-Many muffins will conceal . <eos>
-Kendra is n't moving . <eos>
-Kendra is n't fleeing from . <eos>
-The wheelbarrow would n't turn . <eos>
-The wheelbarrow would n't admire . <eos>
-The rivers evaporate . <eos>
-The rivers criticize . <eos>
-Those planes do n't steer . <eos>
-Those planes do n't find . <eos>
-These candles dim . <eos>
-These candles buy . <eos>
-Maria 's oncologists change . <eos>
-Maria 's oncologists boasted about . <eos>
-Bill wakes up . <eos>
-Bill conceals . <eos>
-All doors do shut . <eos>
-All doors do see . <eos>
-Paul sits down . <eos>
-Paul complains about . <eos>
-Some cup sells . <eos>
-Some cup buys . <eos>
-These men 's mentors benefit . <eos>
-These men 's mentors bored . <eos>
-Some cart dropped . <eos>
-Some cart admires . <eos>
-These gloves twisted . <eos>
-These gloves had . <eos>
-Janet 's piano teachers are n't stretching . <eos>
-Janet 's piano teachers are n't disgusting . <eos>
-A sock does n't crumple . <eos>
-A sock does n't like . <eos>
-Every lamp is darkening . <eos>
-Every lamp is revealing . <eos>
-The shirt crumples . <eos>
-The shirt cleans . <eos>
-A lot of dancers should sit down . <eos>
-A lot of dancers should disagree with . <eos>
-Some boxes fling open . <eos>
-Some boxes look like . <eos>
-Those dresses were n't folding . <eos>
-Those dresses were n't concealing . <eos>
-The water might freeze . <eos>
-The water might clean . <eos>
-Connie is spinning around . <eos>
-Connie is curing . <eos>
-Every glove did n't wrinkle . <eos>
-Every glove did n't find . <eos>
-The Clintons move . <eos>
-The Clintons attacked . <eos>
-A lot of eggplants scorched . <eos>
-A lot of eggplants lift . <eos>
-Danielle did change . <eos>
-Danielle did hire . <eos>
-Some scarves have n't crumpled . <eos>
-Some scarves have n't found . <eos>
-A skateboard had n't crashed . <eos>
-A skateboard had n't fixed . <eos>
-Those projectors have dimmed . <eos>
-Those projectors have looked like . <eos>
-Laura hid . <eos>
-Laura conceals . <eos>
-A plane sells . <eos>
-A plane looks like . <eos>
-All planes have n't accelerated . <eos>
-All planes have n't admired . <eos>
-Some glacier would evaporate . <eos>
-Some glacier would dislike . <eos>
-Most scarves soak . <eos>
-Most scarves admire . <eos>
-All convertibles accelerated . <eos>
-All convertibles brought . <eos>
-That gate was n't opening . <eos>
-That gate was n't taking . <eos>
-Some company will benefit . <eos>
-Some company will disturb . <eos>
-That chair was cracking . <eos>
-That chair was cleaning . <eos>
-All windows have shattered . <eos>
-All windows have cleaned . <eos>
-Valerie 's dermatologist is spinning around . <eos>
-Valerie 's dermatologist is describing . <eos>
-Most shoes crumpled . <eos>
-Most shoes see . <eos>
-Florence changed . <eos>
-Florence describes . <eos>
-A wheelbarrow did tip over . <eos>
-A wheelbarrow did look like . <eos>
-Most jackets loosen . <eos>
-Most jackets saw . <eos>
-The cucumbers have n't baked . <eos>
-The cucumbers have n't admired . <eos>
-Some spinach would n't grow . <eos>
-Some spinach would n't like . <eos>
-Those universities hurt . <eos>
-Those universities bother . <eos>
-A river had n't condensed . <eos>
-A river had n't exited . <eos>
-All actors ' grandsons do n't worry . <eos>
-All actors ' grandsons do n't hug . <eos>
-Alan was n't hiding . <eos>
-Alan was n't stunning . <eos>
-Every pie scorches . <eos>
-Every pie lifts . <eos>
-The students move . <eos>
-The students love . <eos>
-These companies have n't benefited . <eos>
-These companies have n't aggravated . <eos>
-That mushroom had n't burned . <eos>
-That mushroom had n't found . <eos>
-Cakes char . <eos>
-Cakes looked like . <eos>
-This plane shattered . <eos>
-This plane admired . <eos>
-These associations were assembling . <eos>
-These associations were embarrassing . <eos>
-All rivers evaporate . <eos>
-All rivers find . <eos>
-This popsicle melts . <eos>
-This popsicle sees . <eos>
-That pepper baked . <eos>
-That pepper liked . <eos>
-Some glasses had warped . <eos>
-Some glasses had admired . <eos>
-Reports sold . <eos>
-Reports examined . <eos>
-A lot of friends of Russell are hurting . <eos>
-A lot of friends of Russell are investigating . <eos>
-This bike has slowed . <eos>
-This bike has bought . <eos>
-Those nieces of Guy worry . <eos>
-Those nieces of Guy shocked . <eos>
-Tomatoes grow . <eos>
-Tomatoes admire . <eos>
-Carmen was n't moving . <eos>
-Carmen was n't fleeing from . <eos>
-This bike tips over . <eos>
-This bike fixes . <eos>
-Judy 's colleagues hide . <eos>
-Judy 's colleagues care for . <eos>
-Some peppers would n't ripen . <eos>
-Some peppers would n't buy . <eos>
-Those carriages break . <eos>
-Those carriages fixed . <eos>
-Dennis moved . <eos>
-Dennis hugged . <eos>
-Lucille 's French teachers are n't reuniting . <eos>
-Lucille 's French teachers are n't concealing . <eos>
-The cucumber burned . <eos>
-The cucumber found . <eos>
-Melissa might sit down . <eos>
-Melissa might praise . <eos>
-These teeth would crack . <eos>
-These teeth would have . <eos>
-Linda has stretched . <eos>
-Linda has listened to . <eos>
-This skirt would n't tighten . <eos>
-This skirt would n't conceal . <eos>
-This grandmother of Kristin was n't stretching . <eos>
-This grandmother of Kristin was n't embarrassing . <eos>
-Most rivers are vaporizing . <eos>
-Most rivers are admiring . <eos>
-Theresa 's doctor hurts . <eos>
-Theresa 's doctor bored . <eos>
-Spinach grows . <eos>
-Spinach buys . <eos>
-This unicycle steers . <eos>
-This unicycle concealed . <eos>
-The shawls crumple . <eos>
-The shawls lift . <eos>
-Those coats had n't soaked . <eos>
-Those coats had n't cleaned . <eos>
-This lamp wo n't brighten . <eos>
-This lamp wo n't buy . <eos>
-This mushroom was growing . <eos>
-This mushroom was cleaning . <eos>
-Beth is stretching . <eos>
-Beth is discussing . <eos>
-Some shirts did n't sell . <eos>
-Some shirts did n't admire . <eos>
-These windows did n't fling open . <eos>
-These windows did n't bring . <eos>
-This wheelbarrow was accelerating . <eos>
-This wheelbarrow was admiring . <eos>
-A plane crashes . <eos>
-A plane buys . <eos>
-Those dresses did n't shrink . <eos>
-Those dresses did n't clean . <eos>
-Some shawl dries . <eos>
-Some shawl looks like . <eos>
-Every cup chips . <eos>
-Every cup looked like . <eos>
-That muffin had burned . <eos>
-That muffin had seen . <eos>
-Tracy washes . <eos>
-Tracy annoys . <eos>
-Most unicycles were n't cracking . <eos>
-Most unicycles were n't concealing . <eos>
-Some spinach grows . <eos>
-Some spinach cleaned . <eos>
-Adam 's lawyer stretches . <eos>
-Adam 's lawyer attacked . <eos>
-That sweater is n't unfolding . <eos>
-That sweater is n't wearing . <eos>
-These fathers of some teenager had hurt . <eos>
-These fathers of some teenager had alarmed . <eos>
-These muffins are charring . <eos>
-These muffins are taking . <eos>
-Most daughters of ladies train . <eos>
-Most daughters of ladies loved . <eos>
-That plane should tip over . <eos>
-That plane should look like . <eos>
-All skateboards steer . <eos>
-All skateboards reveal . <eos>
-That pasta was n't charring . <eos>
-That pasta was n't lifting . <eos>
-Most hats shrink . <eos>
-Most hats brought . <eos>
-What closes . <eos>
-What escaped from . <eos>
-Most pedestrians benefit . <eos>
-Most pedestrians attacked . <eos>
-This cashier ca n't wash . <eos>
-This cashier ca n't praise . <eos>
-That blouse soaks . <eos>
-That blouse finds . <eos>
-Most nephews of Todd hide away . <eos>
-Most nephews of Todd distracted . <eos>
-Some bicycles had n't chipped . <eos>
-Some bicycles had n't looked like . <eos>
-The tomato ripened . <eos>
-The tomato lifted . <eos>
-That window has n't broken . <eos>
-That window has n't found . <eos>
-A lot of spotlights have n't brightened . <eos>
-A lot of spotlights have n't looked like . <eos>
-Some car is accelerating . <eos>
-Some car is revealing . <eos>
-Spotlights sell . <eos>
-Spotlights revealed . <eos>
-These projectors had dimmed . <eos>
-These projectors had seen . <eos>
-Some window breaks . <eos>
-Some window bought . <eos>
-This spinach chars . <eos>
-This spinach cleans . <eos>
-Those guests spin around . <eos>
-Those guests hire . <eos>
-Connie did heal . <eos>
-Connie did hate . <eos>
-All jackets fray . <eos>
-All jackets brought . <eos>
+Those bananas are ripening . <eos>
+Those bananas are cleaning . <eos>
+A lot of chairs shattered . <eos>
+A lot of chairs found . <eos>
+These carriages have maneuvered . <eos>
+These carriages have looked like . <eos>
+Clyde 's oncologists were n't reuniting . <eos>
+Clyde 's oncologists were n't boring . <eos>
+Benjamin 's tutors spin around . <eos>
+Benjamin 's tutors respect . <eos>
+The sock is n't flattening . <eos>
+The sock is n't wearing . <eos>
+This candle did dim . <eos>
+This candle did look like . <eos>
+Rivers vaporized . <eos>
+Rivers pass . <eos>
+Boys were n't assembling . <eos>
+Boys were n't leaving . <eos>
+Planes accelerate . <eos>
+Planes had . <eos>
+Many carriages slow . <eos>
+Many carriages admire . <eos>
+Diane 's granddaughters were n't worrying . <eos>
+Diane 's granddaughters were n't looking like . <eos>
+Some feet chip . <eos>
+Some feet have . <eos>
+A lot of bananas baked . <eos>
+A lot of bananas brought . <eos>
+Dennis did n't sit down . <eos>
+Dennis did n't kiss . <eos>
+Most glaciers freeze . <eos>
+Most glaciers look like . <eos>
+The bicycle was n't slowing . <eos>
+The bicycle was n't revealing . <eos>
+Most children move . <eos>
+Most children looked like . <eos>
+Ella 's grandfathers hurt . <eos>
+Ella 's grandfathers reference . <eos>
+That sweater twirls . <eos>
+That sweater took . <eos>
+A hat folds . <eos>
+A hat saw . <eos>
+Some bicycle maneuvers . <eos>
+Some bicycle had . <eos>
+A bicycle stopped . <eos>
+A bicycle liked . <eos>
+What wrinkles . <eos>
+What arrives at . <eos>
+All scarves fold . <eos>
+All scarves admired . <eos>
+Many gloves twirl . <eos>
+Many gloves revealed . <eos>
+Some river vaporizes . <eos>
+Some river cleaned . <eos>
+Every father of Randolf hides . <eos>
+Every father of Randolf aggravated . <eos>
+A lot of carts had slowed . <eos>
+A lot of carts had looked like . <eos>
+This truck slowed . <eos>
+This truck cleans . <eos>
+Some windows have flung open . <eos>
+Some windows have seen . <eos>
+A coat had n't shrunk . <eos>
+A coat had n't worn . <eos>
+Danielle 's supervisor worries . <eos>
+Danielle 's supervisor astounded . <eos>
+The sock soaked . <eos>
+The sock cleaned . <eos>
+Every candle dims . <eos>
+Every candle lifted . <eos>
+The cashier 's bosses worried . <eos>
+The cashier 's bosses aggravated . <eos>
+Those gloves had flattened . <eos>
+Those gloves had looked like . <eos>
+A jacket shrank . <eos>
+A jacket cleaned . <eos>
+Adam is n't healing . <eos>
+Adam is n't concealing . <eos>
+That carriage chipped . <eos>
+That carriage looked like . <eos>
+That vase could n't chip . <eos>
+That vase could n't buy . <eos>
+Most coats did n't tighten . <eos>
+Most coats did n't reveal . <eos>
+Those nephews of Alan marry . <eos>
+Those nephews of Alan disturbed . <eos>
+That bicycle turned . <eos>
+That bicycle brought . <eos>
+A shirt wrinkled . <eos>
+A shirt has . <eos>
+These legislatures do n't benefit . <eos>
+These legislatures do n't irritate . <eos>
+All windows closed . <eos>
+All windows saw . <eos>
+Some plane crashed . <eos>
+Some plane lifted . <eos>
+That unicycle shattered . <eos>
+That unicycle had . <eos>
+The glasses are breaking . <eos>
+The glasses are taking . <eos>
+Susan 's grandsons assemble . <eos>
+Susan 's grandsons complain about . <eos>
+All candles darken . <eos>
+All candles admired . <eos>
+Some lamp was n't dimming . <eos>
+Some lamp was n't lifting . <eos>
+Stephanie had n't trained . <eos>
+Stephanie had n't escaped from . <eos>
+Most cucumbers ripened . <eos>
+Most cucumbers bought . <eos>
+Jason moves . <eos>
+Jason talks to . <eos>
+All bikes wo n't stop . <eos>
+All bikes wo n't like . <eos>
+Adam had n't hidden . <eos>
+Adam had n't astounded . <eos>
+Some skirt could n't soak . <eos>
+Some skirt could n't reveal . <eos>
+Some skirts shrank . <eos>
+Some skirts liked . <eos>
+These customers were n't spinning around . <eos>
+These customers were n't describing . <eos>
+Kenneth 's best friends reunited . <eos>
+Kenneth 's best friends dislike . <eos>
+A lot of apples had blackened . <eos>
+A lot of apples had concealed . <eos>
+A lot of peppers grow . <eos>
+A lot of peppers had . <eos>
+Some books about the Great Lakes sell . <eos>
+Some books about the Great Lakes bought . <eos>
+All trucks can crash . <eos>
+All trucks can admire . <eos>
+Those eggplants grow . <eos>
+Those eggplants brought . <eos>
+A lot of eyes have shut . <eos>
+A lot of eyes have found . <eos>
+Patrick would wash . <eos>
+Patrick would fire . <eos>
+That unicycle accelerated . <eos>
+That unicycle liked . <eos>
+Carlos is n't waking up . <eos>
+Carlos is n't hiring . <eos>
+This casserole was n't burning . <eos>
+This casserole was n't revealing . <eos>
+Most coats stretch . <eos>
+Most coats clean . <eos>
+Spinach was blackening . <eos>
+Spinach was cleaning . <eos>
+Some screen had n't faded . <eos>
+Some screen had n't concealed . <eos>
+That banana has ripened . <eos>
+That banana has bought . <eos>
+Those boxes wo n't fling open . <eos>
+Those boxes wo n't look like . <eos>
+Those icicles vaporize . <eos>
+Those icicles revealed . <eos>
+This lamp has dimmed . <eos>
+This lamp has found . <eos>
+A lot of wheelbarrows should stop . <eos>
+A lot of wheelbarrows should bring . <eos>
+Mouths have n't closed . <eos>
+Mouths have n't bought . <eos>
+Every truck accelerates . <eos>
+Every truck admired . <eos>
+Some pants sell . <eos>
+Some pants have . <eos>
+Skateboards are crashing . <eos>
+Skateboards are concealing . <eos>
+This shirt was stretching . <eos>
+This shirt was looking like . <eos>
+Some museums benefit . <eos>
+Some museums dislike . <eos>
+The box shut . <eos>
+The box reveals . <eos>
+Most gloves crumpled . <eos>
+Most gloves conceal . <eos>
+Books sold . <eos>
+Books brought . <eos>
+Those jackets twisted . <eos>
+Those jackets look like . <eos>
+Some gloves tightened . <eos>
+Some gloves admire . <eos>
+That beef did n't char . <eos>
+That beef did n't buy . <eos>
+Karla sits down . <eos>
+Karla discussed . <eos>
+The cucumbers could n't char . <eos>
+The cucumbers could n't lift . <eos>
+What evaporated . <eos>
+What ascended . <eos>
+Bikes turn . <eos>
+Bikes reveal . <eos>
+Some dress is twisting . <eos>
+Some dress is finding . <eos>
+Those teachers were n't assembling . <eos>
+Those teachers were n't approaching . <eos>
+Many rivers vaporize . <eos>
+Many rivers respected . <eos>
+These nephews of Claire move . <eos>
+These nephews of Claire discuss . <eos>
+Kimberley has changed . <eos>
+Kimberley has bothered . <eos>
+A cup broke . <eos>
+A cup reveals . <eos>
+Michelle has n't trained . <eos>
+Michelle has n't observed . <eos>
+Monet does n't hide . <eos>
+Monet does n't aggravate . <eos>
+The pork bakes . <eos>
+The pork finds . <eos>
+This mushroom baked . <eos>
+This mushroom bought . <eos>
+Some lamp can dim . <eos>
+Some lamp can look like . <eos>
+This skirt had n't warped . <eos>
+This skirt had n't messed up . <eos>
+That blouse has n't shrunk . <eos>
+That blouse has n't lifted . <eos>
+Some socks shrink . <eos>
+Some socks revealed . <eos>
+Peppers blacken . <eos>
+Peppers found . <eos>
+Shoes flattened . <eos>
+Shoes wear . <eos>
+The cars had n't slowed . <eos>
+The cars had n't found . <eos>
+Richard spun around . <eos>
+Richard talked about . <eos>
+Every teacher stands up . <eos>
+Every teacher alarms . <eos>
+Some gloves fray . <eos>
+Some gloves looked like . <eos>
+People worry . <eos>
+People hated . <eos>
+Some teachers ' husband has stood up . <eos>
+Some teachers ' husband has approached . <eos>
+Some scarves crumple . <eos>
+Some scarves bought . <eos>
+Some spotlights brighten . <eos>
+Some spotlights looked like . <eos>
+Shirts have frayed . <eos>
+Shirts have cleaned . <eos>
+The Clintons ' podiatrist hid . <eos>
+The Clintons ' podiatrist hugs . <eos>
+The lady could n't worry . <eos>
+The lady could n't love . <eos>
+Emily 's bosses benefited . <eos>
+Emily 's bosses hugged . <eos>
+That computer could n't tip over . <eos>
+That computer could n't admire . <eos>
+These offspring hide . <eos>
+These offspring returned to . <eos>
+Most rivers vaporize . <eos>
+Most rivers run around . <eos>
+Diana was moving . <eos>
+Diana was upsetting . <eos>
+All sons of Laurie assemble . <eos>
+All sons of Laurie irritated . <eos>
+That skateboard was n't steering . <eos>
+That skateboard was n't concealing . <eos>
+Rivers freeze . <eos>
+Rivers go to . <eos>
+The screens break . <eos>
+The screens found . <eos>
+Katherine has spun around . <eos>
+Katherine has criticized . <eos>
+Every gate had n't shut . <eos>
+Every gate had n't lifted . <eos>
+Every skateboard ca n't maneuver . <eos>
+Every skateboard ca n't fix . <eos>
+Many blouses wo n't shrink . <eos>
+Many blouses wo n't admire . <eos>
+Every hat twisted . <eos>
+Every hat liked . <eos>
+The cars roll . <eos>
+The cars looked like . <eos>
+The water was n't vaporizing . <eos>
+The water was n't revealing . <eos>
+Craig stretches . <eos>
+Craig disliked . <eos>
+This mouth did close . <eos>
+This mouth did conceal . <eos>
+These cars were crashing . <eos>
+These cars were bringing . <eos>
+This skirt was n't crumpling . <eos>
+This skirt was n't looking like . <eos>
+The computer broke . <eos>
+The computer concealed . <eos>
+Julia healed . <eos>
+Julia reveals . <eos>
+Some foot did n't crack . <eos>
+Some foot did n't conceal . <eos>
+Denise stretched . <eos>
+Denise finds . <eos>
+Bethany had hurt . <eos>
+Bethany had scared . <eos>
+All grandfathers of Homer change . <eos>
+All grandfathers of Homer liked . <eos>
+This screen faded . <eos>
+This screen had . <eos>
+Linda hid away . <eos>
+Linda scared . <eos>
+Nina 's senators have worried . <eos>
+Nina 's senators have approached . <eos>
+Some chicken had baked . <eos>
+Some chicken had brought . <eos>
+A lot of glaciers did melt . <eos>
+A lot of glaciers did discuss . <eos>
+Every screen brightens . <eos>
+Every screen bought . <eos>
+This ice cream will evaporate . <eos>
+This ice cream will clean . <eos>
+Thomas washed . <eos>
+Thomas investigated . <eos>
+Melinda is n't sitting down . <eos>
+Melinda is n't admiring . <eos>
+Laura hides . <eos>
+Laura stunned . <eos>
+Joel had changed . <eos>
+Joel had listened to . <eos>
+A lot of planes turned . <eos>
+A lot of planes cleaned . <eos>
+Some bike was n't slowing . <eos>
+Some bike was n't revealing . <eos>
+Winston Churchill was n't hiding . <eos>
+Winston Churchill was n't irritating . <eos>
+Some shawls warp . <eos>
+Some shawls brought . <eos>
+A casserole does blacken . <eos>
+A casserole does reveal . <eos>
+Some banana was growing . <eos>
+Some banana was buying . <eos>
+The mirrors have shattered . <eos>
+The mirrors have cleaned . <eos>
+Some lakes melt . <eos>
+Some lakes lift . <eos>
+Many children were n't assembling . <eos>
+Many children were n't talking to . <eos>
+The river condensed . <eos>
+The river explored . <eos>
+A child spins around . <eos>
+A child visits . <eos>
+All glaciers have n't evaporated . <eos>
+All glaciers have n't criticized . <eos>
+Hats were n't loosening . <eos>
+Hats were n't finding . <eos>
+Laurie wo n't wake up . <eos>
+Laurie wo n't sound like . <eos>
+Unicycles accelerated . <eos>
+Unicycles clean . <eos>
+These gloves twist . <eos>
+These gloves like . <eos>
+Ruth sits down . <eos>
+Ruth works with . <eos>
+Winston Churchill 's cousins wash . <eos>
+Winston Churchill 's cousins look like . <eos>
+Catherine does heal . <eos>
+Catherine does bore . <eos>
+That newspaper article sells . <eos>
+That newspaper article brought . <eos>
+This window had opened . <eos>
+This window had found . <eos>
+Becky could n't train . <eos>
+Becky could n't disagree with . <eos>
+All screens can dim . <eos>
+All screens can find . <eos>
+Every lamp has dimmed . <eos>
+Every lamp has taken . <eos>
+Those glasses might tighten . <eos>
+Those glasses might clean . <eos>
+Alice 's plumbers assembled . <eos>
+Alice 's plumbers investigate . <eos>
+Wayne 's fathers assembled . <eos>
+Wayne 's fathers dislike . <eos>
+A hat was n't flattening . <eos>
+A hat was n't looking like . <eos>
+The plane breaks . <eos>
+The plane cleans . <eos>
+Stephen changed . <eos>
+Stephen annoys . <eos>
+Some ice froze . <eos>
+Some ice finds . <eos>
+The ice evaporates . <eos>
+The ice buys . <eos>
+Most trucks stopped . <eos>
+Most trucks lifted . <eos>
+This door is shutting . <eos>
+This door is lifting . <eos>
+A dress is wrinkling . <eos>
+A dress is revealing . <eos>
+Diana moves . <eos>
+Diana embarrasses . <eos>
+Senators had hurt . <eos>
+Senators had escaped from . <eos>
+Larry spins around . <eos>
+Larry bored . <eos>
+Most dresses dry . <eos>
+Most dresses wear . <eos>
+Grace moves . <eos>
+Grace cared for . <eos>
+These feet have cracked . <eos>
+These feet have bought . <eos>
+This glacier condensed . <eos>
+This glacier explored . <eos>
+That spotlight dims . <eos>
+That spotlight bought . <eos>
+A lot of hats shrank . <eos>
+A lot of hats found . <eos>
+The carts have stopped . <eos>
+The carts have looked like . <eos>
+Maria 's teacher trains . <eos>
+Maria 's teacher discussed . <eos>
+That person 's contractors are n't sitting down . <eos>
+That person 's contractors are n't concealing . <eos>
+Every banana grows . <eos>
+Every banana finds . <eos>
+Some fish burns . <eos>
+Some fish cleaned . <eos>
+Jennifer did n't stretch . <eos>
+Jennifer did n't argue about . <eos>
+Those drivers hide . <eos>
+Those drivers appreciate . <eos>
+Those carriages were maneuvering . <eos>
+Those carriages were bringing . <eos>
+Melissa 's handymen stretch . <eos>
+Melissa 's handymen boasted about . <eos>
+Those eggplants burned . <eos>
+Those eggplants revealed . <eos>
+Rivers are n't evaporating . <eos>
+Rivers are n't exploring . <eos>
+This pork wo n't scorch . <eos>
+This pork wo n't admire . <eos>
+A convertible accelerates . <eos>
+A convertible finds . <eos>
+Water is hiding . <eos>
+Water is finding . <eos>
+That glove was shrinking . <eos>
+That glove was revealing . <eos>
+Sharon 's podiatrist hides . <eos>
+Sharon 's podiatrist sees . <eos>
+Some shoes had n't tightened . <eos>
+Some shoes had n't cleaned . <eos>
+Brian 's dentist trains . <eos>
+Brian 's dentist forgets . <eos>
+Those apples grew . <eos>
+Those apples found . <eos>
+Some dresses shrink . <eos>
+Some dresses see . <eos>
+A lot of peppers are n't baking . <eos>
+A lot of peppers are n't buying . <eos>
+Most glaciers have n't frozen . <eos>
+Most glaciers have n't exited . <eos>
+A hat is shrinking . <eos>
+A hat is bringing . <eos>
+A plane had chipped . <eos>
+A plane had concealed . <eos>
+Some skirt shrank . <eos>
+Some skirt looks like . <eos>
+A jacket soaks . <eos>
+A jacket admired . <eos>
+Bradley stretched . <eos>
+Bradley conceals . <eos>
+These nephews of Julie had n't hidden . <eos>
+These nephews of Julie had n't astounded . <eos>
+Every grandmother of Elaine is standing up . <eos>
+Every grandmother of Elaine is observing . <eos>
+Richard 's nephew hurt . <eos>
+Richard 's nephew disturbed . <eos>
+Lissa 's dermatologists do marry . <eos>
+Lissa 's dermatologists do boast about . <eos>
+Most museums reunite . <eos>
+Most museums biked to . <eos>
+Martin 's granddaughters healed . <eos>
+Martin 's granddaughters like . <eos>
+Many bicycles can drop . <eos>
+Many bicycles can find . <eos>
+Beef could scorch . <eos>
+Beef could conceal . <eos>
+The convertible slows . <eos>
+The convertible reveals . <eos>
+That eggplant is n't selling . <eos>
+That eggplant is n't lifting . <eos>
+Blouses were n't shrinking . <eos>
+Blouses were n't cleaning . <eos>
+All men have benefited . <eos>
+All men have investigated . <eos>
+Melanie 's granddaughters trained . <eos>
+Melanie 's granddaughters disagree with . <eos>
+Many teeth were n't cracking . <eos>
+Many teeth were n't messing up . <eos>
+A projector will hide . <eos>
+A projector will find . <eos>
+Most shawls had n't warped . <eos>
+Most shawls had n't looked like . <eos>
+Regina does hurt . <eos>
+Regina does care for . <eos>
+Some glacier is n't freezing . <eos>
+Some glacier is n't escaping from . <eos>
+Apples blackened . <eos>
+Apples lift . <eos>
+What twirled . <eos>
+What scans . <eos>
+Every jacket folds . <eos>
+Every jacket looked like . <eos>
+Bethany hurts . <eos>
+Bethany escapes from . <eos>
+This ice vaporized . <eos>
+This ice admires . <eos>
+A lot of wheelbarrows rolled . <eos>
+A lot of wheelbarrows fixed . <eos>
+Leslie 's grandfathers stretch . <eos>
+Leslie 's grandfathers look like . <eos>
+Those sweaters had n't warped . <eos>
+Those sweaters had n't admired . <eos>
+Liam spun around . <eos>
+Liam complained about . <eos>
+Cheryl 's dentists had n't trained . <eos>
+Cheryl 's dentists had n't talked to . <eos>
+Many hats had dried . <eos>
+Many hats had seen . <eos>
+A blouse shrinks . <eos>
+A blouse liked . <eos>
+The shoes shrink . <eos>
+The shoes cleaned . <eos>
+Some light has dimmed . <eos>
+Some light has lifted . <eos>
+Many gloves were n't loosening . <eos>
+Many gloves were n't admiring . <eos>
+This unicycle has n't broken . <eos>
+This unicycle has n't revealed . <eos>
+The rivers have n't melted . <eos>
+The rivers have n't skated around . <eos>
+Lakes freeze . <eos>
+Lakes drove to . <eos>
+A lot of dresses had soaked . <eos>
+A lot of dresses had revealed . <eos>
+Claire 's tutors have n't stood up . <eos>
+Claire 's tutors have n't scared . <eos>
+These bicycles roll . <eos>
+These bicycles lift . <eos>
+Kathleen 's piano teacher heals . <eos>
+Kathleen 's piano teacher liked . <eos>
+The wheelbarrows have n't rolled . <eos>
+The wheelbarrows have n't bought . <eos>
+Grandsons of Susan could benefit . <eos>
+Grandsons of Susan could flee from . <eos>
+Those bananas scorch . <eos>
+Those bananas saw . <eos>
+Most icicles melt . <eos>
+Most icicles reveal . <eos>
+Those bikes crashed . <eos>
+Those bikes buy . <eos>
+The lakes froze . <eos>
+The lakes toured . <eos>
+That ice cream condenses . <eos>
+That ice cream admired . <eos>
+These planes accelerate . <eos>
+These planes lift . <eos>
+That projector brightens . <eos>
+That projector cleaned . <eos>
+Raymond worries . <eos>
+Raymond irritates . <eos>
+Sarah had n't hidden . <eos>
+Sarah had n't returned to . <eos>
+Every apple grew . <eos>
+Every apple lifts . <eos>
+That pasta blackens . <eos>
+That pasta bought . <eos>
+Some glasses shrink . <eos>
+Some glasses wear . <eos>
+A lot of socks have n't wrinkled . <eos>
+A lot of socks have n't found . <eos>
+Cucumbers were blackening . <eos>
+Cucumbers were taking . <eos>
+Many scarves soaked . <eos>
+Many scarves found . <eos>
+A door is n't opening . <eos>
+A door is n't taking . <eos>
+Most chairs did n't tip over . <eos>
+Most chairs did n't find . <eos>
+A shirt has n't soaked . <eos>
+A shirt has n't messed up . <eos>
+The sock shrinks . <eos>
+The sock wore . <eos>
+Nancy is standing up . <eos>
+Nancy is returning to . <eos>
+The Lutherans ' supervisors stand up . <eos>
+The Lutherans ' supervisors found . <eos>
+That sock warps . <eos>
+That sock admires . <eos>
+That ice freezes . <eos>
+That ice revealed . <eos>
+Kathleen 's brother had washed . <eos>
+Kathleen 's brother had returned to . <eos>
+Many wheelbarrows were n't chipping . <eos>
+Many wheelbarrows were n't bringing . <eos>
+The projector brightens . <eos>
+The projector looked like . <eos>
+That skirt wo n't dry . <eos>
+That skirt wo n't bring . <eos>
+The skateboard crashes . <eos>
+The skateboard sees . <eos>
+What is shrinking . <eos>
+What is ascending . <eos>
+Every glacier was n't vaporizing . <eos>
+Every glacier was n't arriving at . <eos>
+Many daughters of Paul have married . <eos>
+Many daughters of Paul have bothered . <eos>
+Most socks shrink . <eos>
+Most socks reveal . <eos>
+Nina hurt . <eos>
+Nina sounds like . <eos>
+Some skateboards can maneuver . <eos>
+Some skateboards can lift . <eos>
+Donna 's dentist wo n't heal . <eos>
+Donna 's dentist wo n't dislike . <eos>
+This dress had loosened . <eos>
+This dress had messed up . <eos>
+Most drivers will worry . <eos>
+Most drivers will scare . <eos>
+Holly has washed . <eos>
+Holly has referenced . <eos>
+Some scarf has shrunk . <eos>
+Some scarf has looked like . <eos>
+Every lamp fades . <eos>
+Every lamp likes . <eos>
+Sheila was n't moving . <eos>
+Sheila was n't irritating . <eos>
+That fish does n't hide . <eos>
+That fish does n't conceal . <eos>
+All doors had opened . <eos>
+All doors had bought . <eos>
+Heather 's nephews had worried . <eos>
+Heather 's nephews had bored . <eos>
+Most cucumbers blacken . <eos>
+Most cucumbers clean . <eos>
+That woman spins around . <eos>
+That woman loved . <eos>
+Some convertible has n't cracked . <eos>
+Some convertible has n't lifted . <eos>
+All skateboards accelerate . <eos>
+All skateboards conceal . <eos>
+That plane chips . <eos>
+That plane fixed . <eos>
+The coats tighten . <eos>
+The coats lift . <eos>
+Most sweaters are unfolding . <eos>
+Most sweaters are cleaning . <eos>
+Those wheelbarrows did n't steer . <eos>
+Those wheelbarrows did n't bring . <eos>
+The blouses loosen . <eos>
+The blouses cleaned . <eos>
+The blouse loosens . <eos>
+The blouse finds . <eos>
+All shawls flattened . <eos>
+All shawls took . <eos>
+The peppers burn . <eos>
+The peppers took . <eos>
+Many carriages turn . <eos>
+Many carriages fix . <eos>
+Every dish dropped . <eos>
+Every dish had . <eos>
+That cilantro is n't burning . <eos>
+That cilantro is n't taking . <eos>
+This river condensed . <eos>
+This river had . <eos>
+A lot of jackets should n't wrinkle . <eos>
+A lot of jackets should n't find . <eos>
+Martha 's cousins marry . <eos>
+Martha 's cousins saw . <eos>
+Derek could n't worry . <eos>
+Derek could n't disturb . <eos>
+Sheila 's associates have married . <eos>
+Sheila 's associates have confused . <eos>
+This truck has n't turned . <eos>
+This truck has n't bought . <eos>
+That fish burns . <eos>
+That fish reveals . <eos>
+Noah would n't spin around . <eos>
+Noah would n't admire . <eos>
+These girls ' cousin was n't washing . <eos>
+These girls ' cousin was n't confusing . <eos>
+Many gloves have dried . <eos>
+Many gloves have looked like . <eos>
+Laura spins around . <eos>
+Laura boasted about . <eos>
+Many pies burn . <eos>
+Many pies admired . <eos>
+This carriage has stopped . <eos>
+This carriage has found . <eos>
+These coats were n't shrinking . <eos>
+These coats were n't revealing . <eos>
+This shirt unfolds . <eos>
+This shirt sees . <eos>
+The carriages were turning . <eos>
+The carriages were admiring . <eos>
+This rice burns . <eos>
+This rice lifted . <eos>
+The convertible was n't crashing . <eos>
+The convertible was n't fixing . <eos>
+These computers had n't broken . <eos>
+These computers had n't brought . <eos>
+Some broccoli scorches . <eos>
+Some broccoli reveals . <eos>
+That broccoli did n't grow . <eos>
+That broccoli did n't see . <eos>
+The bike rolls . <eos>
+The bike finds . <eos>
+Every wheelbarrow had n't broken . <eos>
+Every wheelbarrow had n't bought . <eos>
+Most jackets can warp . <eos>
+Most jackets can have . <eos>
+Wheelbarrows roll . <eos>
+Wheelbarrows revealed . <eos>
+These bicycles had steered . <eos>
+These bicycles had bought . <eos>
+These shoes have n't shrunk . <eos>
+These shoes have n't bought . <eos>
+Some cake had burned . <eos>
+Some cake had admired . <eos>
+Every cucumber has ripened . <eos>
+Every cucumber has concealed . <eos>
+Every pie ca n't burn . <eos>
+Every pie ca n't find . <eos>
+Sandra was training . <eos>
+Sandra was curing . <eos>
+The car tipped over . <eos>
+The car fixes . <eos>
+What is n't twisting . <eos>
+What is n't ascending . <eos>
+Melinda hid . <eos>
+Melinda cares for . <eos>
+These rivers vaporize . <eos>
+These rivers clean . <eos>
+Tanya had n't hurt . <eos>
+Tanya had n't disliked . <eos>
+That jacket does tighten . <eos>
+That jacket does conceal . <eos>
+Many hats soaked . <eos>
+Many hats conceal . <eos>
+Julie stood up . <eos>
+Julie worked with . <eos>
+Some bikes would crash . <eos>
+Some bikes would bring . <eos>
+Most trucks rolled . <eos>
+Most trucks liked . <eos>
+This carriage has n't rolled . <eos>
+This carriage has n't bought . <eos>
+Matt 's friend changes . <eos>
+Matt 's friend loves . <eos>
+Tonya sat down . <eos>
+Tonya observes . <eos>
+What was evaporating . <eos>
+What was exiting . <eos>
+Every student trains . <eos>
+Every student appreciates . <eos>
+Edward 's nieces ca n't worry . <eos>
+Edward 's nieces ca n't find . <eos>
+These blouses are wrinkling . <eos>
+These blouses are revealing . <eos>
+Pants should n't warp . <eos>
+Pants should n't look like . <eos>
+Many socks had twisted . <eos>
+Many socks had seen . <eos>
+Janet 's ex-wives assemble . <eos>
+Janet 's ex-wives upset . <eos>
+Most ladies sit down . <eos>
+Most ladies approach . <eos>
+Some niece of Sarah could n't wake up . <eos>
+Some niece of Sarah could n't talk to . <eos>
+Jason is washing . <eos>
+Jason is working with . <eos>
+Every popsicle was freezing . <eos>
+Every popsicle was cleaning . <eos>
+Most fathers of Kevin benefit . <eos>
+Most fathers of Kevin worked with . <eos>
+Some glaciers vaporize . <eos>
+Some glaciers insult . <eos>
+The glacier would melt . <eos>
+The glacier would find . <eos>
+A lamp fades . <eos>
+A lamp admires . <eos>
+A box is flinging open . <eos>
+A box is taking . <eos>
+This icicle was n't condensing . <eos>
+This icicle was n't taking . <eos>
+Sisters of Erin are n't benefiting . <eos>
+Sisters of Erin are n't admiring . <eos>
+Some dress dries . <eos>
+Some dress messed up . <eos>
+Those pants have n't folded . <eos>
+Those pants have n't taken . <eos>
+Offspring wake up . <eos>
+Offspring visit . <eos>
+Some nieces of every teenager did n't marry . <eos>
+Some nieces of every teenager did n't kiss . <eos>
+Sketches hide . <eos>
+Sketches looked like . <eos>
+Unicycles did steer . <eos>
+Unicycles did reveal . <eos>
+Some candles would n't dim . <eos>
+Some candles would n't find . <eos>
+Elizabeth 's best friend hurt . <eos>
+Elizabeth 's best friend examines . <eos>
+Some organization had worried . <eos>
+Some organization had irritated . <eos>
+Raymond washes . <eos>
+Raymond annoys . <eos>
+Some gloves were n't warping . <eos>
+Some gloves were n't buying . <eos>
+Many glasses tip over . <eos>
+Many glasses fix . <eos>
+Some vases have n't dropped . <eos>
+Some vases have n't cleaned . <eos>
+Some bicycle breaks . <eos>
+Some bicycle admires . <eos>
+Every couch chipped . <eos>
+Every couch fixed . <eos>
+This alumnus ca n't train . <eos>
+This alumnus ca n't disturb . <eos>
+This ice cream was vaporizing . <eos>
+This ice cream was lifting . <eos>
+Brenda wakes up . <eos>
+Brenda admires . <eos>
+A door is shutting . <eos>
+A door is taking . <eos>
+These lakes melted . <eos>
+These lakes walked through . <eos>
+That closet closes . <eos>
+That closet criticized . <eos>
+All skirts fold . <eos>
+All skirts lifted . <eos>
+A jacket is n't twisting . <eos>
+A jacket is n't concealing . <eos>
+Russell was training . <eos>
+Russell was insulting . <eos>
+Some mushroom could blacken . <eos>
+Some mushroom could look like . <eos>
+The coat is loosening . <eos>
+The coat is taking . <eos>
+That blouse frayed . <eos>
+That blouse looks like . <eos>
+Every wheelbarrow could n't shatter . <eos>
+Every wheelbarrow could n't find . <eos>
+This box was n't opening . <eos>
+This box was n't taking . <eos>
+That patient could worry . <eos>
+That patient could talk to . <eos>
+That glove should crumple . <eos>
+That glove should admire . <eos>
+Some icicle wo n't condense . <eos>
+Some icicle wo n't buy . <eos>
+Planes would steer . <eos>
+Planes would lift . <eos>
+Most unicycles turn . <eos>
+Most unicycles lift . <eos>
+Every unicycle does n't roll . <eos>
+Every unicycle does n't lift . <eos>
+Those mouths open . <eos>
+Those mouths clean . <eos>
+The eggplant baked . <eos>
+The eggplant saw . <eos>
+James heals . <eos>
+James appreciated . <eos>
+Wendy 's granddaughters benefited . <eos>
+Wendy 's granddaughters returned to . <eos>
+This niece of Florence had stretched . <eos>
+This niece of Florence had criticized . <eos>
+Some blouse unfolded . <eos>
+Some blouse cleans . <eos>
+Every cake would n't blacken . <eos>
+Every cake would n't look like . <eos>
+Those teeth might shatter . <eos>
+Those teeth might clean . <eos>
+Every muffin burned . <eos>
+Every muffin admires . <eos>
+Feet drop . <eos>
+Feet find . <eos>
+A banana had n't baked . <eos>
+A banana had n't cleaned . <eos>
+Those teeth drop . <eos>
+Those teeth cleaned . <eos>
+Some tomatoes do burn . <eos>
+Some tomatoes do bring . <eos>
+That truck might slow . <eos>
+That truck might take . <eos>
+That lamp was n't darkening . <eos>
+That lamp was n't buying . <eos>
+All carriages steer . <eos>
+All carriages saw . <eos>
+Every pie has n't blackened . <eos>
+Every pie has n't admired . <eos>
+That sock could unfold . <eos>
+That sock could admire . <eos>
+Many guests are n't sitting down . <eos>
+Many guests are n't disturbing . <eos>
+The rivers would n't vaporize . <eos>
+The rivers would n't skate around . <eos>
+Some ice cream is n't melting . <eos>
+Some ice cream is n't concealing . <eos>
+A skirt was folding . <eos>
+A skirt was admiring . <eos>
+All universities are benefiting . <eos>
+All universities are bothering . <eos>
+The plane did roll . <eos>
+The plane did have . <eos>
+Many windows had tipped over . <eos>
+Many windows had seen . <eos>
+A friend of Rhonda is healing . <eos>
+A friend of Rhonda is scanning . <eos>
+These spotlights will dim . <eos>
+These spotlights will find . <eos>
+This skirt shrinks . <eos>
+This skirt cleaned . <eos>
+Leslie was n't spinning around . <eos>
+Leslie was n't referencing . <eos>
+Some bicycle was n't shattering . <eos>
+Some bicycle was n't bringing . <eos>
+Those socks have twirled . <eos>
+Those socks have cleaned . <eos>
+Many lights sell . <eos>
+Many lights buy . <eos>
+The sweater stretches . <eos>
+The sweater concealed . <eos>
+A patient 's lawyer is n't changing . <eos>
+A patient 's lawyer is n't hiring . <eos>
+The blouse did shrink . <eos>
+The blouse did see . <eos>
+Some blouse frays . <eos>
+Some blouse wore . <eos>
+The chairs broke . <eos>
+The chairs liked . <eos>
+Some hat dried . <eos>
+Some hat lifts . <eos>
+George should n't spin around . <eos>
+George should n't stun . <eos>
+The pork was n't baking . <eos>
+The pork was n't lifting . <eos>
+Most eyes shut . <eos>
+Most eyes found . <eos>
+Blouses stretched . <eos>
+Blouses saw . <eos>
+This unicycle had rolled . <eos>
+This unicycle had looked like . <eos>
+An eye opened . <eos>
+An eye lifts . <eos>
+Laurie 's associates wake up . <eos>
+Laurie 's associates fire . <eos>
+Skirts do n't loosen . <eos>
+Skirts do n't conceal . <eos>
+Pasta was n't burning . <eos>
+Pasta was n't looking like . <eos>
+Most carriages crash . <eos>
+Most carriages brought . <eos>
+Some car is crashing . <eos>
+Some car is looking like . <eos>
+Some mouths opened . <eos>
+Some mouths buy . <eos>
+The couches chipped . <eos>
+The couches fixed . <eos>
+Planes break . <eos>
+Planes see . <eos>
+Matt changed . <eos>
+Matt investigated . <eos>
+Gloves shrink . <eos>
+Gloves clean . <eos>
+The box is n't flinging open . <eos>
+The box is n't bringing . <eos>
+All tomatoes can ripen . <eos>
+All tomatoes can look like . <eos>
+Most shirts would twist . <eos>
+Most shirts would find . <eos>
+Most lights fade . <eos>
+Most lights clean . <eos>
+A lot of unicycles rolled . <eos>
+A lot of unicycles look like . <eos>
+That water is n't condensing . <eos>
+That water is n't buying . <eos>
+Cucumbers could n't grow . <eos>
+Cucumbers could n't like . <eos>
+The glasses wo n't twist . <eos>
+The glasses wo n't wear . <eos>
+This couch chipped . <eos>
+This couch took . <eos>
+Carlos hides . <eos>
+Carlos hugged . <eos>
+Every light was darkening . <eos>
+Every light was concealing . <eos>
+That apple was growing . <eos>
+That apple was looking like . <eos>
+Every man could n't hide away . <eos>
+Every man could n't irritate . <eos>
 What freezes . <eos>
-What loved . <eos>
-A wheelbarrow would n't crash . <eos>
-A wheelbarrow would n't admire . <eos>
-Many bicycles are n't cracking . <eos>
-Many bicycles are n't finding . <eos>
-These unicycles maneuvered . <eos>
-These unicycles lift . <eos>
-Most candles fade . <eos>
-Most candles admired . <eos>
-Every tomato has n't blackened . <eos>
-Every tomato has n't taken . <eos>
-The unicycle accelerated . <eos>
-The unicycle saw . <eos>
-Convertibles steer . <eos>
-Convertibles had . <eos>
-The shawl had dried . <eos>
-The shawl had admired . <eos>
-The pants are n't shrinking . <eos>
-The pants are n't bringing . <eos>
-That car would n't roll . <eos>
-That car would n't admire . <eos>
-Ellen 's guests trained . <eos>
-Ellen 's guests concealed . <eos>
-All coats will dry . <eos>
-All coats will conceal . <eos>
-A bike maneuvers . <eos>
-A bike liked . <eos>
-That beef scorches . <eos>
-That beef lifted . <eos>
-A sock wrinkled . <eos>
-A sock lifts . <eos>
-Many skirts twist . <eos>
-Many skirts liked . <eos>
-Every mother of Travis had woken up . <eos>
-Every mother of Travis had admired . <eos>
-Most people woke up . <eos>
-Most people disgust . <eos>
-Some mirror cracks . <eos>
-Some mirror cleaned . <eos>
-That projector has n't faded . <eos>
-That projector has n't taken . <eos>
-Andrea 's girlfriend has hidden away . <eos>
-Andrea 's girlfriend has concealed . <eos>
-Jason worries . <eos>
-Jason forgot . <eos>
-Tiffany 's podiatrist can heal . <eos>
-Tiffany 's podiatrist can listen to . <eos>
-Some chicken bakes . <eos>
-Some chicken sees . <eos>
-The hat twists . <eos>
-The hat likes . <eos>
-Some bikes maneuver . <eos>
-Some bikes bought . <eos>
-Waiters worried . <eos>
-Waiters upset . <eos>
-Bill healed . <eos>
-Bill appreciated . <eos>
-That projector has n't darkened . <eos>
-That projector has n't cleaned . <eos>
-A popsicle has n't melted . <eos>
-A popsicle has n't taken . <eos>
-Vases should n't break . <eos>
-Vases should n't clean . <eos>
-The icicle has vaporized . <eos>
-The icicle has revealed . <eos>
-Gary had n't stretched . <eos>
-Gary had n't shocked . <eos>
-Many boxes are n't flinging open . <eos>
-Many boxes are n't revealing . <eos>
-These coats do unfold . <eos>
-These coats do like . <eos>
-Paul should stretch . <eos>
-Paul should confuse . <eos>
-Some people do n't profit . <eos>
-Some people do n't like . <eos>
-Karla 's girlfriend had moved . <eos>
-Karla 's girlfriend had bored . <eos>
-Friends of that student spin around . <eos>
-Friends of that student conceal . <eos>
-Kristin was n't hurting . <eos>
-Kristin was n't hugging . <eos>
-Some wheelbarrow tips over . <eos>
-Some wheelbarrow took . <eos>
-Many bananas would ripen . <eos>
-Many bananas would take . <eos>
-That ice evaporated . <eos>
-That ice lifted . <eos>
-Some computer was n't breaking . <eos>
-Some computer was n't looking like . <eos>
-An actress 's French teachers benefit . <eos>
-An actress 's French teachers listen to . <eos>
-A lot of cars might stop . <eos>
-A lot of cars might admire . <eos>
-The convertibles crash . <eos>
-The convertibles clean . <eos>
-Spotlights dimmed . <eos>
-Spotlights clean . <eos>
-Some blouse flattens . <eos>
-Some blouse lifts . <eos>
-Every truck should n't slow . <eos>
-Every truck should n't bring . <eos>
-The eye flings open . <eos>
-The eye found . <eos>
-Connie 's bosses had moved . <eos>
-Connie 's bosses had hugged . <eos>
-These couches tipped over . <eos>
-These couches found . <eos>
-That waiter 's partners have spun around . <eos>
-That waiter 's partners have scanned . <eos>
-A lot of trucks tip over . <eos>
-A lot of trucks find . <eos>
-Sara 's bosses wo n't marry . <eos>
-Sara 's bosses wo n't kiss . <eos>
-The skirt was warping . <eos>
-The skirt was concealing . <eos>
-Those scarves tightened . <eos>
-Those scarves admired . <eos>
-All feet have dropped . <eos>
-All feet have found . <eos>
-Eric 's brothers are n't reuniting . <eos>
-Eric 's brothers are n't bothering . <eos>
-The light had dimmed . <eos>
-The light had lifted . <eos>
-Most candles have n't dimmed . <eos>
-Most candles have n't brought . <eos>
-Some projectors could brighten . <eos>
-Some projectors could like . <eos>
-Some icicles vaporized . <eos>
-Some icicles took . <eos>
-Some truck cracks . <eos>
-Some truck liked . <eos>
-Most jackets should n't crumple . <eos>
-Most jackets should n't have . <eos>
-A mouth will fling open . <eos>
-A mouth will see . <eos>
-Some steak chars . <eos>
-Some steak has . <eos>
-Most pies had blackened . <eos>
-Most pies had revealed . <eos>
-That eye closed . <eos>
-That eye looks like . <eos>
-These patients hide . <eos>
-These patients dislike . <eos>
-Some blouses flatten . <eos>
-Some blouses saw . <eos>
-A lot of hats did n't warp . <eos>
-A lot of hats did n't see . <eos>
-Helen 's electricians sit down . <eos>
-Helen 's electricians conceal . <eos>
-Liam 's employee spins around . <eos>
-Liam 's employee hugged . <eos>
-Every glove shrinks . <eos>
-Every glove took . <eos>
-All lakes are n't vaporizing . <eos>
-All lakes are n't admiring . <eos>
-Nina was washing . <eos>
-Nina was bothering . <eos>
-Sonia 's mentees do n't profit . <eos>
-Sonia 's mentees do n't shock . <eos>
-Tammy 's daughters worried . <eos>
-Tammy 's daughters astound . <eos>
-Some pies burn . <eos>
-Some pies found . <eos>
-That plane does n't roll . <eos>
-That plane does n't reveal . <eos>
+What visited . <eos>
+Those windows flung open . <eos>
+Those windows see . <eos>
+Most guys worry . <eos>
+Most guys disturb . <eos>
+Some mushrooms might ripen . <eos>
+Some mushrooms might buy . <eos>
+Those rivers melt . <eos>
+Those rivers brought . <eos>
+These convertibles should n't chip . <eos>
+These convertibles should n't buy . <eos>
+Trucks were crashing . <eos>
+Trucks were looking like . <eos>
+Jill 's ex-wives have benefited . <eos>
+Jill 's ex-wives have talked about . <eos>
+That cat does sell . <eos>
+That cat does reveal . <eos>
+Jane 's plumber is healing . <eos>
+Jane 's plumber is arguing about . <eos>
+These boys ' piano teacher heals . <eos>
+These boys ' piano teacher astounds . <eos>
+The unicycle had n't steered . <eos>
+The unicycle had n't brought . <eos>
+Those committees had benefited . <eos>
+Those committees had astounded . <eos>
+The broccoli was n't blackening . <eos>
+The broccoli was n't finding . <eos>
+Those mushrooms grew . <eos>
+Those mushrooms looked like . <eos>
+Coats are n't crumpling . <eos>
+Coats are n't revealing . <eos>
+Most bicycles slow . <eos>
+Most bicycles saw . <eos>
+These glasses tightened . <eos>
+These glasses see . <eos>
+Some mirror has n't cracked . <eos>
+Some mirror has n't fixed . <eos>
+A shawl had loosened . <eos>
+A shawl had concealed . <eos>
+This cilantro blackened . <eos>
+This cilantro reveals . <eos>
+All brothers of Stephen reunite . <eos>
+All brothers of Stephen irritated . <eos>
+Every child hides . <eos>
+Every child respected . <eos>
+These icicles melt . <eos>
+These icicles took . <eos>
+The blouses shrank . <eos>
+The blouses bought . <eos>
+Most hats had twirled . <eos>
+Most hats had found . <eos>
+Most fish sell . <eos>
+Most fish saw . <eos>
+The mouths do open . <eos>
+The mouths do bring . <eos>
+That truck broke . <eos>
+That truck likes . <eos>
+This unicycle would steer . <eos>
+This unicycle would take . <eos>
+Florence worries . <eos>
+Florence looks like . <eos>
+Some mouth has flung open . <eos>
+Some mouth has found . <eos>
+These committees could reunite . <eos>
+These committees could investigate . <eos>
+Amy stood up . <eos>
+Amy discusses . <eos>
+That dish cracks . <eos>
+That dish revealed . <eos>
+Planes have broken . <eos>
+Planes have admired . <eos>
+All guests have n't sat down . <eos>
+All guests have n't kissed . <eos>
+Those wheelbarrows ca n't stop . <eos>
+Those wheelbarrows ca n't buy . <eos>
+A lot of cakes charred . <eos>
+A lot of cakes admired . <eos>
+Every mouth was hiding . <eos>
+Every mouth was taking . <eos>
+Every computer cracked . <eos>
+Every computer looked like . <eos>
+Veronica 's grandmother could hide . <eos>
+Veronica 's grandmother could complain about . <eos>
+A lot of men have n't hidden . <eos>
+A lot of men have n't concealed . <eos>
+Some car had n't accelerated . <eos>
+Some car had n't fixed . <eos>
+This unicycle has n't steered . <eos>
+This unicycle has n't looked like . <eos>
+Stephen 's hairdresser hid . <eos>
+Stephen 's hairdresser shocks . <eos>
+A lot of cups cracked . <eos>
+A lot of cups admire . <eos>
+This truck was accelerating . <eos>
+This truck was taking . <eos>
+These windows are n't shattering . <eos>
+These windows are n't cleaning . <eos>
+This pasta has blackened . <eos>
+This pasta has revealed . <eos>
+These doors shut . <eos>
+These doors looked like . <eos>
+Most lakes freeze . <eos>
+Most lakes leave . <eos>
+This gate opens . <eos>
+This gate liked . <eos>
+These shoes had n't wrinkled . <eos>
+These shoes had n't bought . <eos>
+Angela 's classmates sit down . <eos>
+Angela 's classmates praise . <eos>
+These blouses had n't tightened . <eos>
+These blouses had n't worn . <eos>
+The muffin was n't scorching . <eos>
+The muffin was n't admiring . <eos>
+All closets shut . <eos>
+All closets conceal . <eos>
+Kendra is n't hiding . <eos>
+Kendra is n't leaving . <eos>
+Brian 's handymen are marrying . <eos>
+Brian 's handymen are visiting . <eos>
+Customers hide . <eos>
+Customers cared for . <eos>
+That cart had accelerated . <eos>
+That cart had seen . <eos>
+Bread is n't blackening . <eos>
+Bread is n't admiring . <eos>
+Marcus might heal . <eos>
+Marcus might remember . <eos>
+Most lights dim . <eos>
+Most lights reveal . <eos>
+Some students sit down . <eos>
+Some students saw . <eos>
+Every mushroom is growing . <eos>
+Every mushroom is bringing . <eos>
+Dawn 's doctors sit down . <eos>
+Dawn 's doctors observed . <eos>
+Wendy should n't wake up . <eos>
+Wendy should n't distract . <eos>
+A bike slowed . <eos>
+A bike cleans . <eos>
+The cart wo n't break . <eos>
+The cart wo n't conceal . <eos>
+All pants have n't unfolded . <eos>
+All pants have n't messed up . <eos>
+A lot of casseroles were n't blackening . <eos>
+A lot of casseroles were n't finding . <eos>
+Meredith did n't wash . <eos>
+Meredith did n't disagree with . <eos>
+These mushrooms bake . <eos>
+These mushrooms looked like . <eos>
+Chicken has n't scorched . <eos>
+Chicken has n't lifted . <eos>
+Kevin 's nieces heal . <eos>
+Kevin 's nieces listened to . <eos>
+A closet flings open . <eos>
+A closet cleaned . <eos>
+A person 's guests should n't assemble . <eos>
+A person 's guests should n't sound like . <eos>
+Every box flung open . <eos>
+Every box admires . <eos>
+Every dancer 's spouse has spun around . <eos>
+Every dancer 's spouse has kissed . <eos>
+Bradley has changed . <eos>
+Bradley has concealed . <eos>
+Some cilantro grew . <eos>
+Some cilantro bought . <eos>
+Andrea was n't worrying . <eos>
+Andrea was n't visiting . <eos>
+Skirts were twirling . <eos>
+Skirts were wearing . <eos>
+That library worried . <eos>
+That library embarrasses . <eos>
+Some screen cracked . <eos>
+Some screen admires . <eos>
+James 's nieces worried . <eos>
+James 's nieces embarrass . <eos>
+Some glacier evaporated . <eos>
+Some glacier arrived at . <eos>
+Some carriage had n't broken . <eos>
+Some carriage had n't found . <eos>
+That popsicle freezes . <eos>
+That popsicle saw . <eos>
+This steak scorches . <eos>
+This steak took . <eos>
+This sweater crumpled . <eos>
+This sweater buys . <eos>
+Kristen 's brothers reunite . <eos>
+Kristen 's brothers disgust . <eos>
+The doctors spun around . <eos>
+The doctors criticized . <eos>
+Most candles dimmed . <eos>
+Most candles find . <eos>
+Those shawls had tightened . <eos>
+Those shawls had brought . <eos>
+Every cake blackens . <eos>
+Every cake sees . <eos>
+Clyde 's ex-wives were n't assembling . <eos>
+Clyde 's ex-wives were n't visiting . <eos>
+A screen dims . <eos>
+A screen finds . <eos>
+Douglas wo n't stretch . <eos>
+Douglas wo n't embarrass . <eos>
+Some convertible should n't slow . <eos>
+Some convertible should n't take . <eos>
+Unicycles maneuver . <eos>
+Unicycles look like . <eos>
+Vases did tip over . <eos>
+Vases did lift . <eos>
+Carmen trained . <eos>
+Carmen annoys . <eos>
+A lot of hats have frayed . <eos>
+A lot of hats have lifted . <eos>
+The child 's handymen sit down . <eos>
+The child 's handymen returned to . <eos>
+They had assembled . <eos>
+They had annoyed . <eos>
+This rice baked . <eos>
+This rice took . <eos>
+This wheelbarrow maneuvers . <eos>
+This wheelbarrow took . <eos>
+Every shirt was n't unfolding . <eos>
+Every shirt was n't cleaning . <eos>
+Some lamp has darkened . <eos>
+Some lamp has found . <eos>
+Those candles have n't faded . <eos>
+Those candles have n't revealed . <eos>
+Clyde could n't hurt . <eos>
+Clyde could n't like . <eos>
+That glass was n't dropping . <eos>
+That glass was n't looking like . <eos>
+This casserole would n't blacken . <eos>
+This casserole would n't have . <eos>
+Some drawings of that truck sell . <eos>
+Some drawings of that truck clean . <eos>
+That plane was accelerating . <eos>
+That plane was taking . <eos>
+Jeffrey should hurt . <eos>
+Jeffrey should confuse . <eos>
+Some waiters were marrying . <eos>
+Some waiters were observing . <eos>
+Sara 's partner hid . <eos>
+Sara 's partner sees . <eos>
+George had n't hidden . <eos>
+George had n't distracted . <eos>
+A lot of glasses wrinkled . <eos>
+A lot of glasses lifted . <eos>
+Janice has n't trained . <eos>
+Janice has n't criticized . <eos>
+The plane stops . <eos>
+The plane has . <eos>
+Many carts were n't slowing . <eos>
+Many carts were n't concealing . <eos>
+Some dress had shrunk . <eos>
+Some dress had cleaned . <eos>
+Some pants folded . <eos>
+Some pants admire . <eos>
+That glove unfolds . <eos>
+That glove took . <eos>
+Many carts did stop . <eos>
+Many carts did find . <eos>
+These pies were n't blackening . <eos>
+These pies were n't bringing . <eos>
+This skateboard broke . <eos>
+This skateboard cleans . <eos>
+What was stretching . <eos>
+What was dropping by . <eos>
+Skateboards stopped . <eos>
+Skateboards clean . <eos>
+The screen has brightened . <eos>
+The screen has taken . <eos>
+Travis would move . <eos>
+Travis would forget . <eos>
+Stacy had hidden . <eos>
+Stacy had disturbed . <eos>
+Some shirt warped . <eos>
+Some shirt concealed . <eos>
+A popsicle vaporized . <eos>
+A popsicle had . <eos>
+Children do n't benefit . <eos>
+Children do n't shock . <eos>
+All fathers of Carmen worried . <eos>
+All fathers of Carmen stun . <eos>
+Those actors ' ex-wives hurt . <eos>
+Those actors ' ex-wives disturbed . <eos>
+All coats have n't loosened . <eos>
+All coats have n't brought . <eos>
+That candle darkened . <eos>
+That candle looks like . <eos>
+Every patient 's mothers ca n't reunite . <eos>
+Every patient 's mothers ca n't observe . <eos>
+Those girls marry . <eos>
+Those girls disgust . <eos>
+Most glaciers condense . <eos>
+Most glaciers go to . <eos>
+Some cucumbers blackened . <eos>
+Some cucumbers revealed . <eos>
+Most screens darkened . <eos>
+Most screens lift . <eos>
+The closets were closing . <eos>
+The closets were criticizing . <eos>
+Those scarves are n't warping . <eos>
+Those scarves are n't lifting . <eos>
+That convertible breaks . <eos>
+That convertible lifts . <eos>
+These spotlights darkened . <eos>
+These spotlights concealed . <eos>
+All guys had spun around . <eos>
+All guys had disagreed with . <eos>
+This shawl had shrunk . <eos>
+This shawl had worn . <eos>
+The socks had n't shrunk . <eos>
+The socks had n't admired . <eos>
+Many cars had maneuvered . <eos>
+Many cars had fixed . <eos>
+All hats dry . <eos>
+All hats cleaned . <eos>
+William heals . <eos>
+William aggravated . <eos>
 These scarves shrink . <eos>
-These scarves took . <eos>
-These blouses crumple . <eos>
-These blouses conceal . <eos>
-A lot of projectors could n't fade . <eos>
-A lot of projectors could n't see . <eos>
-Those mouths flung open . <eos>
-Those mouths reveal . <eos>
-Some hat shrinks . <eos>
-Some hat wears . <eos>
-Every scarf tightened . <eos>
-Every scarf has . <eos>
-Carts were n't shattering . <eos>
-Carts were n't taking . <eos>
-Those scarves tighten . <eos>
-Those scarves looked like . <eos>
-Some hospitals reunited . <eos>
-Some hospitals stunned . <eos>
-The skirt has n't unfolded . <eos>
-The skirt has n't admired . <eos>
-The dress wrinkles . <eos>
-The dress saw . <eos>
-Some unicycle has stopped . <eos>
-Some unicycle has bought . <eos>
-She is n't hiding away . <eos>
-She is n't disgusting . <eos>
-Todd healed . <eos>
-Todd cared for . <eos>
-Melinda 's grandmothers might benefit . <eos>
-Melinda 's grandmothers might scan . <eos>
-A lot of icicles melt . <eos>
-A lot of icicles admire . <eos>
-Many lights are n't brightening . <eos>
-Many lights are n't buying . <eos>
-Some lake was vaporizing . <eos>
-Some lake was running around . <eos>
-The lake was freezing . <eos>
-The lake was exploring . <eos>
-That steak blackened . <eos>
-That steak lifted . <eos>
-Jackets are shrinking . <eos>
-Jackets are revealing . <eos>
-Ellen 's supervisors are hiding . <eos>
-Ellen 's supervisors are discussing . <eos>
-This blouse is tightening . <eos>
-This blouse is concealing . <eos>
-The mouth was n't opening . <eos>
-The mouth was n't revealing . <eos>
-An actress 's French teachers wo n't sit down . <eos>
-An actress 's French teachers wo n't admire . <eos>
-All carts could chip . <eos>
-All carts could reveal . <eos>
-Jason 's best friends assemble . <eos>
-Jason 's best friends shock . <eos>
-Harvard University has profited . <eos>
-Harvard University has disliked . <eos>
-A banana has burned . <eos>
-A banana has concealed . <eos>
-The broccoli grew . <eos>
-The broccoli likes . <eos>
-Many sisters of Stephen were n't hiding away . <eos>
-Many sisters of Stephen were n't scaring . <eos>
-Most rivers are melting . <eos>
-Most rivers are insulting . <eos>
-All apples bake . <eos>
-All apples had . <eos>
-Bruce worries . <eos>
-Bruce escapes from . <eos>
-That fish burned . <eos>
-That fish lifted . <eos>
-A sweater was n't shrinking . <eos>
-A sweater was n't taking . <eos>
-Most cups are cracking . <eos>
-Most cups are taking . <eos>
-That broccoli charred . <eos>
-That broccoli buys . <eos>
-That blouse is stretching . <eos>
-That blouse is concealing . <eos>
-The cucumbers had n't blackened . <eos>
-The cucumbers had n't seen . <eos>
-A shoe shrinks . <eos>
-A shoe conceals . <eos>
-Every jacket soaks . <eos>
-Every jacket likes . <eos>
-Those doors opened . <eos>
-Those doors had . <eos>
-Brenda will spin around . <eos>
-Brenda will disgust . <eos>
-Every convertible tipped over . <eos>
-Every convertible bought . <eos>
-Most trucks turn . <eos>
-Most trucks buy . <eos>
-Some bike was shattering . <eos>
-Some bike was cleaning . <eos>
-Mushrooms burn . <eos>
-Mushrooms see . <eos>
-A lot of couches broke . <eos>
-A lot of couches saw . <eos>
-Every light darkened . <eos>
-Every light cleaned . <eos>
-A truck slows . <eos>
-A truck lifts . <eos>
-Every ladder has n't sold . <eos>
-Every ladder has n't revealed . <eos>
-All planes stopped . <eos>
-All planes looked like . <eos>
-The car crashed . <eos>
-The car buys . <eos>
-A blouse does n't crumple . <eos>
-A blouse does n't wear . <eos>
-Kenneth 's daughters had hidden . <eos>
-Kenneth 's daughters had fled from . <eos>
-A bike tips over . <eos>
-A bike cleaned . <eos>
-Larry hides away . <eos>
-Larry distracts . <eos>
-Some coat loosens . <eos>
-Some coat finds . <eos>
-Some mushroom was n't ripening . <eos>
-Some mushroom was n't concealing . <eos>
-The skateboard did slow . <eos>
-The skateboard did lift . <eos>
-That cilantro chars . <eos>
-That cilantro buys . <eos>
-A sock has soaked . <eos>
-A sock has found . <eos>
-Frank can hide away . <eos>
-Frank can irritate . <eos>
-This muffin is blackening . <eos>
-This muffin is revealing . <eos>
-Some bike stopped . <eos>
-Some bike fixes . <eos>
-Every bicycle turned . <eos>
-Every bicycle bought . <eos>
-Grace had n't worried . <eos>
-Grace had n't admired . <eos>
-Sharon worried . <eos>
-Sharon disagreed with . <eos>
-The socks have n't soaked . <eos>
-The socks have n't concealed . <eos>
-This river was n't vaporizing . <eos>
-This river was n't finding . <eos>
-Some shoes are n't twirling . <eos>
-Some shoes are n't looking like . <eos>
-Jeffrey 's ex-husbands are stretching . <eos>
-Jeffrey 's ex-husbands are bothering . <eos>
-These mothers of William reunite . <eos>
-These mothers of William praise . <eos>
-Rachelle moved . <eos>
-Rachelle aggravates . <eos>
-What dries . <eos>
-What cleans . <eos>
-Some glasses unfold . <eos>
-Some glasses lifted . <eos>
-Most cashiers ' plumber changed . <eos>
-Most cashiers ' plumber sounds like . <eos>
-Some woman worried . <eos>
-Some woman visits . <eos>
-The lights darken . <eos>
-The lights took . <eos>
-The carts should break . <eos>
-The carts should look like . <eos>
-This icicle is n't melting . <eos>
-This icicle is n't concealing . <eos>
-Those bikes break . <eos>
-Those bikes found . <eos>
-The Borgias stood up . <eos>
-The Borgias respected . <eos>
-Most men 's employees had benefited . <eos>
-Most men 's employees had criticized . <eos>
-Every hat crumpled . <eos>
-Every hat concealed . <eos>
-A lot of trucks maneuvered . <eos>
-A lot of trucks concealed . <eos>
-Some dress crumpled . <eos>
-Some dress found . <eos>
-Becca is n't sitting down . <eos>
-Becca is n't boring . <eos>
-The blouse crumpled . <eos>
-The blouse looked like . <eos>
-Some bicycles turned . <eos>
-Some bicycles saw . <eos>
-That brother of Gary did heal . <eos>
-That brother of Gary did scan . <eos>
-Some skateboards have tipped over . <eos>
-Some skateboards have revealed . <eos>
-What was n't melting . <eos>
-What was n't describing . <eos>
-This coat has loosened . <eos>
-This coat has concealed . <eos>
-This icicle vaporizes . <eos>
-This icicle reveals . <eos>
-Those couches should n't crack . <eos>
-Those couches should n't take . <eos>
-What can stretch . <eos>
-What can forget . <eos>
-A lot of rivers did n't vaporize . <eos>
-A lot of rivers did n't drive to . <eos>
-The plates chip . <eos>
-The plates have . <eos>
-These trucks had turned . <eos>
-These trucks had revealed . <eos>
-Some screens are n't fading . <eos>
-Some screens are n't bringing . <eos>
-Sandra 's grandmothers change . <eos>
-Sandra 's grandmothers examined . <eos>
-Some closet is n't shutting . <eos>
-Some closet is n't buying . <eos>
-Lucille was hiding away . <eos>
-Lucille was listening to . <eos>
-Most trucks maneuvered . <eos>
-Most trucks lift . <eos>
-A lot of bicycles should shatter . <eos>
-A lot of bicycles should look like . <eos>
-Every car was dropping . <eos>
-Every car was lifting . <eos>
-Some senator 's classmates stretch . <eos>
-Some senator 's classmates know . <eos>
-Many socks fold . <eos>
-Many socks saw . <eos>
-A lot of octopi hide . <eos>
-A lot of octopi looked like . <eos>
-This skateboard is n't turning . <eos>
-This skateboard is n't taking . <eos>
-Some tomato grows . <eos>
-Some tomato concealed . <eos>
-Those guests spun around . <eos>
-Those guests admire . <eos>
-The brothers of Ronald heal . <eos>
-The brothers of Ronald look like . <eos>
-The actors assemble . <eos>
-The actors praised . <eos>
-A lot of planes would n't crash . <eos>
-A lot of planes would n't fix . <eos>
-The lamps dimmed . <eos>
-The lamps bought . <eos>
-This blouse has tightened . <eos>
-This blouse has looked like . <eos>
-Every lamp had n't faded . <eos>
-Every lamp had n't brought . <eos>
-Ellen 's piano teacher wakes up . <eos>
-Ellen 's piano teacher concealed . <eos>
-A couch could n't tip over . <eos>
-A couch could n't conceal . <eos>
-A woman 's brother spun around . <eos>
-A woman 's brother sees . <eos>
-Jeffrey 's cousin trains . <eos>
-Jeffrey 's cousin listened to . <eos>
-Some popsicle was n't freezing . <eos>
-Some popsicle was n't cleaning . <eos>
-This cucumber was ripening . <eos>
-This cucumber was admiring . <eos>
-That truck will maneuver . <eos>
-That truck will clean . <eos>
-A lot of screens fade . <eos>
-A lot of screens buy . <eos>
-That muffin does bake . <eos>
-That muffin does look like . <eos>
-The cucumbers ripen . <eos>
-The cucumbers had . <eos>
-These apples should sell . <eos>
-These apples should reveal . <eos>
-Forks shatter . <eos>
-Forks bought . <eos>
-Most cucumbers are growing . <eos>
-Most cucumbers are admiring . <eos>
-A scarf twirls . <eos>
-A scarf saw . <eos>
-Vanessa washed . <eos>
-Vanessa confused . <eos>
-Dana washes . <eos>
-Dana referenced . <eos>
-This coat unfolds . <eos>
-This coat saw . <eos>
-Many nephews of Clyde do n't stretch . <eos>
-Many nephews of Clyde do n't annoy . <eos>
-Every shawl has wrinkled . <eos>
-Every shawl has worn . <eos>
-The cashiers heal . <eos>
-The cashiers hug . <eos>
-This spotlight is brightening . <eos>
-This spotlight is cleaning . <eos>
-The closets open . <eos>
-The closets drive to . <eos>
-That company would n't move . <eos>
-That company would n't aggravate . <eos>
-These carts are n't rolling . <eos>
-These carts are n't finding . <eos>
-Those pants would n't stretch . <eos>
-Those pants would n't look like . <eos>
-Some wheelbarrows turned . <eos>
-Some wheelbarrows looked like . <eos>
-Most mouths open . <eos>
-Most mouths bought . <eos>
-The skateboards have n't shattered . <eos>
-The skateboards have n't admired . <eos>
-Those glasses had n't wrinkled . <eos>
-Those glasses had n't brought . <eos>
-Some jackets had n't twirled . <eos>
-Some jackets had n't lifted . <eos>
-Jodi wo n't hide away . <eos>
-Jodi wo n't reveal . <eos>
-A lot of cucumbers can ripen . <eos>
-A lot of cucumbers can admire . <eos>
-Aaron is n't washing . <eos>
-Aaron is n't approaching . <eos>
-All vases could n't break . <eos>
-All vases could n't fix . <eos>
-Andrea 's partners had benefited . <eos>
-Andrea 's partners had disturbed . <eos>
-A dress had loosened . <eos>
-A dress had taken . <eos>
-Bruce 's mentees benefited . <eos>
-Bruce 's mentees hate . <eos>
-Those dresses fold . <eos>
-Those dresses lift . <eos>
-Valerie 's nephews have benefited . <eos>
-Valerie 's nephews have praised . <eos>
-Some rivers can vaporize . <eos>
-Some rivers can appreciate . <eos>
-That pasta burned . <eos>
-That pasta likes . <eos>
-Every cart should slow . <eos>
-Every cart should reveal . <eos>
-Pamela had healed . <eos>
-Pamela had boasted about . <eos>
-Some sweaters folded . <eos>
-Some sweaters wear . <eos>
-The Lutherans do n't train . <eos>
-The Lutherans do n't see . <eos>
-That shawl twirled . <eos>
-That shawl admired . <eos>
-All computers would break . <eos>
-All computers would admire . <eos>
-Paul 's mentees moved . <eos>
-Paul 's mentees irritate . <eos>
-A niece of many children could worry . <eos>
-A niece of many children could observe . <eos>
-Some candles brighten . <eos>
-Some candles see . <eos>
-This pork had burned . <eos>
-This pork had concealed . <eos>
-These projectors darken . <eos>
-These projectors cleaned . <eos>
-Screens had n't faded . <eos>
-Screens had n't cleaned . <eos>
-The mouths were n't flinging open . <eos>
-The mouths were n't buying . <eos>
-That dress would sell . <eos>
-That dress would like . <eos>
-The eyes had n't opened . <eos>
-The eyes had n't taken . <eos>
-All unicycles stop . <eos>
-All unicycles bought . <eos>
-Bicycles had stopped . <eos>
-Bicycles had cleaned . <eos>
-A shoe has twisted . <eos>
-A shoe has found . <eos>
-A lamp darkens . <eos>
-A lamp reveals . <eos>
-Some water might evaporate . <eos>
-Some water might lift . <eos>
-A banana charred . <eos>
-A banana brought . <eos>
-Eva 's brothers worried . <eos>
-Eva 's brothers praise . <eos>
-That cart rolled . <eos>
-That cart lifted . <eos>
-Every tomato grows . <eos>
-Every tomato concealed . <eos>
-These skirts crumple . <eos>
-These skirts cleaned . <eos>
-The bike is accelerating . <eos>
-The bike is admiring . <eos>
-Laurie changes . <eos>
-Laurie described . <eos>
-The bicycle steered . <eos>
-The bicycle fixed . <eos>
-Every screen should n't fade . <eos>
-Every screen should n't lift . <eos>
-These shoes twirl . <eos>
-These shoes lifted . <eos>
-This vase breaks . <eos>
-This vase sees . <eos>
-The mushroom would n't bake . <eos>
-The mushroom would n't take . <eos>
-Elizabeth 's student has washed . <eos>
-Elizabeth 's student has astounded . <eos>
-Nephews of Bradley assemble . <eos>
-Nephews of Bradley remember . <eos>
-All cucumbers should scorch . <eos>
-All cucumbers should buy . <eos>
-The screen brightened . <eos>
-The screen looks like . <eos>
-This carriage had n't accelerated . <eos>
-This carriage had n't seen . <eos>
-Trucks slow . <eos>
-Trucks lift . <eos>
-What has n't closed . <eos>
-What has n't messed up . <eos>
-This pie had n't burned . <eos>
-This pie had n't cleaned . <eos>
-A river has n't condensed . <eos>
-A river has n't brought . <eos>
-Most shawls loosen . <eos>
-Most shawls bought . <eos>
-Jodi sat down . <eos>
-Jodi praises . <eos>
-This water should n't melt . <eos>
-This water should n't reveal . <eos>
-Some mouth flings open . <eos>
-Some mouth cleaned . <eos>
-A scarf flattens . <eos>
+These scarves clean . <eos>
+That shawl unfolds . <eos>
+That shawl looked like . <eos>
+Some mouths were flinging open . <eos>
+Some mouths were taking . <eos>
+Clyde sat down . <eos>
+Clyde confuses . <eos>
+Most shoes sell . <eos>
+Most shoes buy . <eos>
+Most boys married . <eos>
+Most boys disagreed with . <eos>
+A window was shutting . <eos>
+A window was concealing . <eos>
+Dana worries . <eos>
+Dana scared . <eos>
+Some tomatoes burn . <eos>
+Some tomatoes see . <eos>
+This lake melted . <eos>
+This lake remembers . <eos>
+This sock flattens . <eos>
+This sock cleans . <eos>
+A scarf shrinks . <eos>
 A scarf finds . <eos>
-Tiffany 's ex-husbands wake up . <eos>
-Tiffany 's ex-husbands disgusted . <eos>
-A jacket had twisted . <eos>
-A jacket had brought . <eos>
-Every sock could n't loosen . <eos>
-Every sock could n't wear . <eos>
-This woman was n't hiding away . <eos>
-This woman was n't irritating . <eos>
-Some box had n't flung open . <eos>
-Some box had n't lifted . <eos>
-Every hat has n't loosened . <eos>
-Every hat has n't looked like . <eos>
-Lawrence has washed . <eos>
-Lawrence has embarrassed . <eos>
-Eric does n't hide . <eos>
-Eric does n't irritate . <eos>
-The banana hides . <eos>
-The banana cleaned . <eos>
-Some computer shatters . <eos>
-Some computer fixed . <eos>
-The gate has flung open . <eos>
-The gate has lifted . <eos>
-The ice vaporized . <eos>
-The ice cleaned . <eos>
-Most projectors have dimmed . <eos>
-Most projectors have revealed . <eos>
-These chairs break . <eos>
-These chairs see . <eos>
-This tooth will tip over . <eos>
-This tooth will find . <eos>
-Some sons of Tonya hide away . <eos>
-Some sons of Tonya embarrassed . <eos>
-The coat would wrinkle . <eos>
-The coat would clean . <eos>
-Some cake has scorched . <eos>
-Some cake has found . <eos>
-Elizabeth 's handymen reunite . <eos>
-Elizabeth 's handymen praise . <eos>
-Regina hides away . <eos>
-Regina shocks . <eos>
-A lot of shirts dry . <eos>
-A lot of shirts see . <eos>
-That scarf should n't dry . <eos>
-That scarf should n't buy . <eos>
-Some forks chip . <eos>
-Some forks brought . <eos>
-That ice cream has n't evaporated . <eos>
-That ice cream has n't brought . <eos>
-The bike breaks . <eos>
-The bike had . <eos>
-That skirt does n't sell . <eos>
-That skirt does n't look like . <eos>
-Every unicycle drops . <eos>
-Every unicycle has . <eos>
-These coats were twisting . <eos>
-These coats were buying . <eos>
-Ice melted . <eos>
-Ice concealed . <eos>
-The association ca n't profit . <eos>
-The association ca n't shock . <eos>
-These lights darken . <eos>
-These lights conceal . <eos>
-Some cilantro chars . <eos>
-Some cilantro had . <eos>
-Many cars were shattering . <eos>
-Many cars were bringing . <eos>
-That jacket shrinks . <eos>
-That jacket conceals . <eos>
-Melissa changes . <eos>
-Melissa looked like . <eos>
-These tomatoes char . <eos>
-These tomatoes saw . <eos>
-Christopher had changed . <eos>
-Christopher had argued about . <eos>
-The Impressionists worry . <eos>
-The Impressionists kissed . <eos>
-The cars break . <eos>
-The cars concealed . <eos>
-Those jackets have crumpled . <eos>
-Those jackets have bought . <eos>
-Those doors could n't close . <eos>
-Those doors could n't take . <eos>
-Those casseroles should burn . <eos>
-Those casseroles should reveal . <eos>
-Most lights could brighten . <eos>
-Most lights could look like . <eos>
-Those guys should n't stretch . <eos>
-Those guys should n't approach . <eos>
-The shirt had n't tightened . <eos>
-The shirt had n't seen . <eos>
-Some pepper had grown . <eos>
-Some pepper had seen . <eos>
-Anne 's supervisors were n't waking up . <eos>
-Anne 's supervisors were n't revealing . <eos>
-This lake evaporated . <eos>
-This lake talks about . <eos>
-A lot of scarves flatten . <eos>
-A lot of scarves found . <eos>
-Some ice does melt . <eos>
-Some ice does lift . <eos>
-Meredith hurts . <eos>
-Meredith visited . <eos>
-Those bananas did burn . <eos>
-Those bananas did clean . <eos>
-The mirror was chipping . <eos>
-The mirror was revealing . <eos>
-Every bicycle was turning . <eos>
-Every bicycle was concealing . <eos>
-Most pants warped . <eos>
-Most pants admire . <eos>
-A plane cracks . <eos>
-A plane admired . <eos>
-Grace did move . <eos>
-Grace did bother . <eos>
-A lot of trucks rolled . <eos>
-A lot of trucks clean . <eos>
+The projector dims . <eos>
+The projector revealed . <eos>
+That company had n't worried . <eos>
+That company had n't astounded . <eos>
+The gate has closed . <eos>
+The gate has bought . <eos>
+Those cucumbers ripen . <eos>
+Those cucumbers lift . <eos>
+A mouth does open . <eos>
+A mouth does take . <eos>
+Most sweaters had n't shrunk . <eos>
+Most sweaters had n't worn . <eos>
+Those convertibles were crashing . <eos>
+Those convertibles were buying . <eos>
+Some shawl unfolds . <eos>
+Some shawl found . <eos>
+Some tomato blackens . <eos>
+Some tomato cleans . <eos>
+Many projectors fade . <eos>
+Many projectors lift . <eos>
+This banana grows . <eos>
+This banana bought . <eos>
+Beverly 's nephew might hide away . <eos>
+Beverly 's nephew might fire . <eos>
+Every truck slows . <eos>
+Every truck has . <eos>
+John hurts . <eos>
+John astounded . <eos>
+Many blouses could crumple . <eos>
+Many blouses could have . <eos>
+That customer hurts . <eos>
+That customer approaches . <eos>
+Most wheelbarrows should n't chip . <eos>
+Most wheelbarrows should n't have . <eos>
+Most wheelbarrows might steer . <eos>
+Most wheelbarrows might take . <eos>
+Sandra stands up . <eos>
+Sandra disgusts . <eos>
+Many peppers ripen . <eos>
+Many peppers concealed . <eos>
+Some ice cream has n't evaporated . <eos>
+Some ice cream has n't taken . <eos>
+That pork chars . <eos>
+That pork looks like . <eos>
+The candles brightened . <eos>
+The candles liked . <eos>
+This river has n't condensed . <eos>
+This river has n't boycotted . <eos>
+This jacket soaks . <eos>
+This jacket cleans . <eos>
+Many dresses twist . <eos>
+Many dresses look like . <eos>
+A lot of wheelbarrows tipped over . <eos>
+A lot of wheelbarrows admire . <eos>
+Deborah 's sisters married . <eos>
+Deborah 's sisters disgust . <eos>
+The skateboards roll . <eos>
+The skateboards have . <eos>
+Some closet flings open . <eos>
+Some closet returns to . <eos>
+That cart is turning . <eos>
+That cart is revealing . <eos>
+A plane does slow . <eos>
+A plane does clean . <eos>
+That skirt crumples . <eos>
+That skirt looks like . <eos>
+Regina 's grandsons change . <eos>
+Regina 's grandsons work with . <eos>
+All waitresses ' mentors should stretch . <eos>
+All waitresses ' mentors should reference . <eos>
+The grandmother of Travis did stretch . <eos>
+The grandmother of Travis did embarrass . <eos>
+Every plate has n't tipped over . <eos>
+Every plate has n't looked like . <eos>
+Catherine 's brother hid . <eos>
+Catherine 's brother concealed . <eos>
+All pants have n't loosened . <eos>
+All pants have n't messed up . <eos>
+This pepper scorched . <eos>
+This pepper lifts . <eos>
+These mothers of ladies have n't woken up . <eos>
+These mothers of ladies have n't hugged . <eos>
+A lot of tomatoes char . <eos>
+A lot of tomatoes clean . <eos>
+These hats were n't shrinking . <eos>
+These hats were n't taking . <eos>
+This window shuts . <eos>
+This window finds . <eos>
+Margaret ca n't hurt . <eos>
+Margaret ca n't argue about . <eos>
+Some boxes opened . <eos>
+Some boxes conceal . <eos>
+This light brightened . <eos>
+This light conceals . <eos>
+Water vaporized . <eos>
+Water revealed . <eos>
+A lot of dresses dry . <eos>
+A lot of dresses saw . <eos>
+Many bikes have steered . <eos>
+Many bikes have bought . <eos>
+Mark worries . <eos>
+Mark praised . <eos>
+Tracy 's guests worry . <eos>
+Tracy 's guests fired . <eos>
+Some spinach is growing . <eos>
+Some spinach is buying . <eos>
+What unfolded . <eos>
+What discussed . <eos>
+The jacket has n't twirled . <eos>
+The jacket has n't looked like . <eos>
+Beverly had n't stood up . <eos>
+Beverly had n't approached . <eos>
+Alice washes . <eos>
+Alice aggravated . <eos>
+Those governments reunited . <eos>
+Those governments bother . <eos>
+A car stopped . <eos>
+A car concealed . <eos>
+All pies had n't baked . <eos>
+All pies had n't admired . <eos>
+The mushrooms scorch . <eos>
+The mushrooms took . <eos>
+Some gate has n't shut . <eos>
+Some gate has n't lifted . <eos>
+Some pants twirl . <eos>
+Some pants wore . <eos>
+A sweater had unfolded . <eos>
+A sweater had seen . <eos>
+Feet crack . <eos>
+Feet lifted . <eos>
+That carriage turns . <eos>
+That carriage conceals . <eos>
+Unicycles slow . <eos>
+Unicycles find . <eos>
+The guys are reuniting . <eos>
+The guys are criticizing . <eos>
+Marla 's contractors hide away . <eos>
+Marla 's contractors see . <eos>
+All glasses had dried . <eos>
+All glasses had admired . <eos>
+Candles had n't brightened . <eos>
+Candles had n't lifted . <eos>
+A lot of gloves shrink . <eos>
+A lot of gloves liked . <eos>
+These snakes wake up . <eos>
+These snakes admired . <eos>
+Every window flung open . <eos>
+Every window lifted . <eos>
+A hat has wrinkled . <eos>
+A hat has found . <eos>
+Catherine worries . <eos>
+Catherine stuns . <eos>
+Allison will wash . <eos>
+Allison will love . <eos>
+Every eggplant bakes . <eos>
+Every eggplant saw . <eos>
+Dennis should stretch . <eos>
+Dennis should reveal . <eos>
+What crumples . <eos>
+What scanned . <eos>
+Some men have worried . <eos>
+Some men have referenced . <eos>
+Every door did n't open . <eos>
+Every door did n't like . <eos>
+Debra hurts . <eos>
+Debra annoyed . <eos>
+Water has n't sold . <eos>
+Water has n't bought . <eos>
+Some unicycles tipped over . <eos>
+Some unicycles had . <eos>
+Jennifer 's ex-wives have married . <eos>
+Jennifer 's ex-wives have left . <eos>
+Most mirrors had n't broken . <eos>
+Most mirrors had n't seen . <eos>
+Many eggplants ripen . <eos>
+Many eggplants conceal . <eos>
+Some spotlights will brighten . <eos>
+Some spotlights will see . <eos>
+A lot of teeth shatter . <eos>
+A lot of teeth looked like . <eos>
+The truck crashes . <eos>
+The truck bought . <eos>
+A lot of candles were brightening . <eos>
+A lot of candles were taking . <eos>
+A cart turned . <eos>
+A cart conceals . <eos>
+Shawls are n't fraying . <eos>
+Shawls are n't finding . <eos>
+Coats are n't soaking . <eos>
+Coats are n't wearing . <eos>
+The ice cream was n't melting . <eos>
+The ice cream was n't admiring . <eos>
+A river was n't freezing . <eos>
+A river was n't visiting . <eos>
+Some carriage slows . <eos>
+Some carriage saw . <eos>
+Bikes are turning . <eos>
+Bikes are admiring . <eos>
+A lamp darkens . <eos>
+A lamp found . <eos>
+Nicole wo n't stretch . <eos>
+Nicole wo n't flee from . <eos>
+This blouse was n't folding . <eos>
+This blouse was n't taking . <eos>
+That museum should n't assemble . <eos>
+That museum should n't remember . <eos>
+That blouse crumples . <eos>
+That blouse likes . <eos>
+An icicle has evaporated . <eos>
+An icicle has taken . <eos>
+Some coat folded . <eos>
+Some coat admired . <eos>
+The coat flattens . <eos>
+The coat likes . <eos>
+These gloves folded . <eos>
+These gloves cleaned . <eos>
+Those glaciers freeze . <eos>
+Those glaciers walked through . <eos>
+Most blouses crumple . <eos>
+Most blouses look like . <eos>
+Every glacier melts . <eos>
+Every glacier conceals . <eos>
+Every lamp was n't dimming . <eos>
+Every lamp was n't concealing . <eos>
+Some shoe frays . <eos>
+Some shoe admires . <eos>
+Every scarf shrank . <eos>
+Every scarf bought . <eos>
+These peppers charred . <eos>
+These peppers look like . <eos>
+The eggplants do n't bake . <eos>
+The eggplants do n't buy . <eos>
+Gates flung open . <eos>
+Gates clean . <eos>
+Every truck rolled . <eos>
+Every truck cleaned . <eos>
+The plane was steering . <eos>
+The plane was looking like . <eos>
+The cars do maneuver . <eos>
+The cars do bring . <eos>
+Many students reunite . <eos>
+Many students hug . <eos>
+The casserole burns . <eos>
+The casserole sees . <eos>
+Those girls hurt . <eos>
+Those girls investigate . <eos>
+Andrew 's associates might hide . <eos>
+Andrew 's associates might hate . <eos>
+Guy 's friends wash . <eos>
+Guy 's friends argued about . <eos>
+The skateboard rolls . <eos>
+The skateboard concealed . <eos>
+That sweater has wrinkled . <eos>
+That sweater has worn . <eos>
+Computers have chipped . <eos>
+Computers have fixed . <eos>
+Some shoe dries . <eos>
+Some shoe has . <eos>
+Most trucks wo n't accelerate . <eos>
+Most trucks wo n't clean . <eos>
+The cups break . <eos>
+The cups cleaned . <eos>
+Closets opened . <eos>
+Closets concealed . <eos>
+All cups drop . <eos>
+All cups fixed . <eos>
+Ellen could hide away . <eos>
+Ellen could see . <eos>
+The Borgias had married . <eos>
+The Borgias had investigated . <eos>
+All planes tipped over . <eos>
+All planes admired . <eos>
+Those dresses ca n't fray . <eos>
+Those dresses ca n't bring . <eos>
+A pie charred . <eos>
+A pie brought . <eos>
+A bike did break . <eos>
+A bike did like . <eos>
+Patricia 's husband washes . <eos>
+Patricia 's husband hugged . <eos>
+Dan had n't hurt . <eos>
+Dan had n't described . <eos>
+That river freezes . <eos>
+That river disliked . <eos>
+Windows break . <eos>
+Windows buy . <eos>
+A glacier had n't frozen . <eos>
+A glacier had n't seen . <eos>
+Some truck accelerates . <eos>
+Some truck took . <eos>
+Those bikes accelerate . <eos>
+Those bikes find . <eos>
+A lot of bicycles crack . <eos>
+A lot of bicycles took . <eos>
+Lamps fade . <eos>
+Lamps conceal . <eos>
+Those bikes turn . <eos>
+Those bikes admire . <eos>
+Most glaciers did evaporate . <eos>
+Most glaciers did respect . <eos>
+Sweaters warp . <eos>
+Sweaters see . <eos>
+Those eyes closed . <eos>
+Those eyes revealed . <eos>
+That popsicle ca n't freeze . <eos>
+That popsicle ca n't find . <eos>
+That lamp fades . <eos>
+That lamp saw . <eos>
+Some muffins bake . <eos>
+Some muffins find . <eos>
+Some tomatoes ripened . <eos>
+Some tomatoes saw . <eos>
+Mary had n't trained . <eos>
+Mary had n't embarrassed . <eos>
+The plates are chipping . <eos>
+The plates are messing up . <eos>
+Eric was n't hiding . <eos>
+Eric was n't distracting . <eos>
+Deborah 's colleagues heal . <eos>
+Deborah 's colleagues dislike . <eos>
+Many gates flung open . <eos>
+Many gates have . <eos>
+Gina 's students wash . <eos>
+Gina 's students shocked . <eos>
+Gregory benefits . <eos>
+Gregory listened to . <eos>
+Hats twirl . <eos>
+Hats look like . <eos>
+Every jacket shrinks . <eos>
+Every jacket found . <eos>
+Many bikes turned . <eos>
+Many bikes cleaned . <eos>
+The unicycle would n't tip over . <eos>
+The unicycle would n't clean . <eos>
+Eric 's cousins reunited . <eos>
+Eric 's cousins remembered . <eos>
+Every glove folds . <eos>
+Every glove liked . <eos>
+Those bicycles have n't turned . <eos>
+Those bicycles have n't seen . <eos>
+The door closed . <eos>
+The door conceals . <eos>
+This mother of the Borgias wakes up . <eos>
+This mother of the Borgias praised . <eos>
+That cart could slow . <eos>
+That cart could find . <eos>
+Many coats were n't twisting . <eos>
+Many coats were n't wearing . <eos>
+Nicole hides . <eos>
+Nicole upset . <eos>
+That ice cream had n't evaporated . <eos>
+That ice cream had n't admired . <eos>
+Every coat shrinks . <eos>
+Every coat found . <eos>
+Gary had stretched . <eos>
+Gary had talked about . <eos>
+Melanie 's grandson has hidden away . <eos>
+Melanie 's grandson has disliked . <eos>
+The windows chip . <eos>
+The windows admire . <eos>
+All waitresses benefit . <eos>
+All waitresses worked with . <eos>
+The men benefit . <eos>
+The men kissed . <eos>
+A blouse tightened . <eos>
+A blouse conceals . <eos>
+Laurie 's granddaughters benefit . <eos>
+Laurie 's granddaughters bored . <eos>
+Some sisters of Carolyn had married . <eos>
+Some sisters of Carolyn had disagreed with . <eos>
+Some cake should scorch . <eos>
+Some cake should have . <eos>
+Melissa worries . <eos>
+Melissa cares for . <eos>
+A lot of lamps darken . <eos>
+A lot of lamps admire . <eos>
+Claire hurts . <eos>
+Claire sounds like . <eos>
+Most women assembled . <eos>
+Most women cured . <eos>
+All bikes had n't dropped . <eos>
+All bikes had n't taken . <eos>
+Some customer was n't healing . <eos>
+Some customer was n't arguing about . <eos>
+These screens do brighten . <eos>
+These screens do buy . <eos>
+This car rolls . <eos>
+This car cleans . <eos>
+A lot of planes ca n't tip over . <eos>
+A lot of planes ca n't see . <eos>
+This spinach was blackening . <eos>
+This spinach was taking . <eos>
+A truck was accelerating . <eos>
+A truck was fixing . <eos>
+Some cars accelerate . <eos>
+Some cars admired . <eos>
+That chair cracks . <eos>
+That chair saw . <eos>
+The children were benefiting . <eos>
+The children were hugging . <eos>
+That truck steers . <eos>
+That truck finds . <eos>
+Some steak was n't scorching . <eos>
+Some steak was n't lifting . <eos>
+These lamps are darkening . <eos>
+These lamps are cleaning . <eos>
+Steven healed . <eos>
+Steven left . <eos>
+The shirts would fold . <eos>
+The shirts would find . <eos>
+These muffins could bake . <eos>
+These muffins could like . <eos>
+Valerie 's employees could n't wake up . <eos>
+Valerie 's employees could n't love . <eos>
+Those scarves did n't dry . <eos>
+Those scarves did n't conceal . <eos>
+Lucille hid . <eos>
+Lucille visits . <eos>
+That sock wrinkles . <eos>
+That sock found . <eos>
+Some rivers had n't melted . <eos>
+Some rivers had n't exited . <eos>
+This lake should melt . <eos>
+This lake should clean . <eos>
+A pepper ripened . <eos>
+A pepper cleans . <eos>
+Many carts were n't rolling . <eos>
+Many carts were n't concealing . <eos>
+A glove loosened . <eos>
+A glove conceals . <eos>
+This actress 's teacher heals . <eos>
+This actress 's teacher hugged . <eos>
+Every skateboard had n't cracked . <eos>
+Every skateboard had n't fixed . <eos>
+Gerald was standing up . <eos>
+Gerald was discussing . <eos>
+The blouse had twisted . <eos>
+The blouse had admired . <eos>
+This wheelbarrow could maneuver . <eos>
+This wheelbarrow could see . <eos>
+Many lights were darkening . <eos>
+Many lights were lifting . <eos>
+What had n't folded . <eos>
+What had n't descended . <eos>
+That couch broke . <eos>
+That couch liked . <eos>
+Melinda is n't standing up . <eos>
+Melinda is n't upsetting . <eos>
+Some river freezes . <eos>
+Some river has . <eos>
+Some popsicle froze . <eos>
+Some popsicle has . <eos>
+These trucks drop . <eos>
+These trucks lifted . <eos>
+This unicycle was n't accelerating . <eos>
+This unicycle was n't lifting . <eos>
+These lakes are freezing . <eos>
+These lakes are insulting . <eos>
+That vase shatters . <eos>
+That vase reveals . <eos>
+All glasses wo n't twirl . <eos>
+All glasses wo n't have . <eos>
 These forks shattered . <eos>
-These forks see . <eos>
-Carmen has woken up . <eos>
-Carmen has returned to . <eos>
-Every shoe stretches . <eos>
-Every shoe concealed . <eos>
-Many dresses shrink . <eos>
-Many dresses buy . <eos>
-This truck slows . <eos>
-This truck had . <eos>
-Shawls had warped . <eos>
-Shawls had brought . <eos>
-Patricia woke up . <eos>
-Patricia sounds like . <eos>
-The Borgias ca n't wake up . <eos>
-The Borgias ca n't boycott . <eos>
-A pedestrian hurts . <eos>
-A pedestrian discusses . <eos>
-A banana should blacken . <eos>
-A banana should take . <eos>
-This shirt shrank . <eos>
-This shirt had . <eos>
-The chair could break . <eos>
-The chair could bring . <eos>
-Richard 's niece spins around . <eos>
-Richard 's niece returns to . <eos>
-A lot of casseroles will scorch . <eos>
-A lot of casseroles will lift . <eos>
+These forks conceal . <eos>
+Some carts might drop . <eos>
+Some carts might conceal . <eos>
+That skirt is flattening . <eos>
+That skirt is buying . <eos>
+All shawls had n't loosened . <eos>
+All shawls had n't taken . <eos>
+All couches broke . <eos>
+All couches buy . <eos>
+Andrea was waking up . <eos>
+Andrea was escaping from . <eos>
+Diana 's grandfather has washed . <eos>
+Diana 's grandfather has cared for . <eos>
+Kirsten could n't spin around . <eos>
+Kirsten could n't forget . <eos>
+Some hats had dried . <eos>
+Some hats had taken . <eos>
+Mary has n't worried . <eos>
+Mary has n't embarrassed . <eos>
+A lot of doors are n't shutting . <eos>
+A lot of doors are n't looking like . <eos>
+That shoe was soaking . <eos>
+That shoe was taking . <eos>
+Every hat might fray . <eos>
+Every hat might find . <eos>
+Kristen has healed . <eos>
+Kristen has fired . <eos>
+This rice scorches . <eos>
+This rice saw . <eos>
+Many gloves shrank . <eos>
+Many gloves looked like . <eos>
+Every icicle might freeze . <eos>
+Every icicle might have . <eos>
+Douglas had woken up . <eos>
+Douglas had disagreed with . <eos>
+This lamp brightens . <eos>
+This lamp admired . <eos>
+This ice melts . <eos>
+This ice cleans . <eos>
+Mirrors drop . <eos>
+Mirrors lift . <eos>
+These bikes ca n't slow . <eos>
+These bikes ca n't clean . <eos>
+Sara can train . <eos>
+Sara can hate . <eos>
+The couches tip over . <eos>
+The couches admired . <eos>
+A glove shrinks . <eos>
+A glove bought . <eos>
+A lot of cups have n't broken . <eos>
+A lot of cups have n't admired . <eos>
+That shoe shrank . <eos>
+That shoe found . <eos>
+Joseph healed . <eos>
+Joseph embarrassed . <eos>
+The shirts have frayed . <eos>
+The shirts have admired . <eos>
+Every sweater should n't tighten . <eos>
+Every sweater should n't look like . <eos>
+Deanna 's tutors stretch . <eos>
+Deanna 's tutors find . <eos>
+Deborah is n't waking up . <eos>
+Deborah is n't escaping from . <eos>
+Some shirt stretched . <eos>
+Some shirt messed up . <eos>
+That ice evaporates . <eos>
+That ice likes . <eos>
+Every dress unfolds . <eos>
+Every dress likes . <eos>
+Natalie 's dentists could move . <eos>
+Natalie 's dentists could escape from . <eos>
+Lisa 's guests move . <eos>
+Lisa 's guests looked like . <eos>
+Every skateboard sells . <eos>
+Every skateboard bought . <eos>
+Some guests ' guest worried . <eos>
+Some guests ' guest cared for . <eos>
+Charles worries . <eos>
+Charles liked . <eos>
+Some chicken was baking . <eos>
+Some chicken was revealing . <eos>
+A shawl was n't selling . <eos>
+A shawl was n't wearing . <eos>
+Stephen 's friends had n't worried . <eos>
+Stephen 's friends had n't returned to . <eos>
+This hat was flattening . <eos>
+This hat was cleaning . <eos>
+Diana 's ex-boyfriends assembled . <eos>
+Diana 's ex-boyfriends stun . <eos>
+All tomatoes grew . <eos>
+All tomatoes admired . <eos>
+Some window could n't break . <eos>
+Some window could n't conceal . <eos>
+Marla would n't wash . <eos>
+Marla would n't shock . <eos>
+Every waiter did n't stand up . <eos>
+Every waiter did n't fire . <eos>
+Every skirt ca n't tighten . <eos>
+Every skirt ca n't find . <eos>
+Many jackets flatten . <eos>
+Many jackets clean . <eos>
+Many lakes evaporate . <eos>
+Many lakes reveal . <eos>
+Every eggplant is n't baking . <eos>
+Every eggplant is n't bringing . <eos>
+Some candle has n't faded . <eos>
+Some candle has n't lifted . <eos>
+These jackets stretch . <eos>
+These jackets wore . <eos>
+Tomatoes have charred . <eos>
+Tomatoes have looked like . <eos>
+That spinach wo n't ripen . <eos>
+That spinach wo n't lift . <eos>
+All doors fling open . <eos>
+All doors looked like . <eos>
+Claire does n't stand up . <eos>
+Claire does n't disgust . <eos>
+A lot of bicycles accelerate . <eos>
+A lot of bicycles cleaned . <eos>
+Many blouses are soaking . <eos>
+Many blouses are buying . <eos>
+That cucumber might grow . <eos>
+That cucumber might like . <eos>
+A sock had stretched . <eos>
+A sock had concealed . <eos>
+Most daughters of Robert had sat down . <eos>
+Most daughters of Robert had upset . <eos>
+Mushrooms blacken . <eos>
+Mushrooms had . <eos>
+All sisters of Kayla worry . <eos>
+All sisters of Kayla upset . <eos>
+George has n't moved . <eos>
+George has n't respected . <eos>
+An eye opens . <eos>
+An eye admires . <eos>
+Most glasses would break . <eos>
+Most glasses would see . <eos>
+Broccoli blackens . <eos>
+Broccoli admires . <eos>
+Those waitresses are hurting . <eos>
+Those waitresses are describing . <eos>
+That muffin has n't baked . <eos>
+That muffin has n't seen . <eos>
+The Clintons could n't worry . <eos>
+The Clintons could n't talk about . <eos>
+Gina 's lawyer hid . <eos>
+Gina 's lawyer hates . <eos>
+Some spotlight hides . <eos>
+Some spotlight saw . <eos>
+Some son of Paula worried . <eos>
+Some son of Paula likes . <eos>
+A lot of icicles vaporize . <eos>
+A lot of icicles look like . <eos>
+Every river melted . <eos>
+Every river likes . <eos>
+Stephen 's bosses are n't hiding . <eos>
+Stephen 's bosses are n't annoying . <eos>
+Those wheelbarrows rolled . <eos>
+Those wheelbarrows found . <eos>
+A lot of bikes crash . <eos>
+A lot of bikes liked . <eos>
+This plate cracks . <eos>
+This plate admired . <eos>
+Feet could n't chip . <eos>
+Feet could n't clean . <eos>
+Jessica had woken up . <eos>
+Jessica had kissed . <eos>
+All mushrooms scorch . <eos>
+All mushrooms found . <eos>
+Those planes were slowing . <eos>
+Those planes were looking like . <eos>
+Some grocery stores had n't sold . <eos>
+Some grocery stores had n't exited . <eos>
+Every glove twirled . <eos>
+Every glove saw . <eos>
+Some screens have broken . <eos>
+Some screens have revealed . <eos>
+That gate opens . <eos>
+That gate buys . <eos>
+Every glove was n't warping . <eos>
+Every glove was n't bringing . <eos>
+Guy hides . <eos>
+Guy sees . <eos>
+What had n't frozen . <eos>
+What had n't explored . <eos>
