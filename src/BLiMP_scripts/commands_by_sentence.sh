@@ -20,8 +20,6 @@ python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English
 
 python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/animate_subject_trans --outfile ../results/blimp/txt_sentence/animate_subject_trans_output.tab
 
-python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/blimp --outfile ../results/blimp/txt_sentence/blimp_output.tab
-
 python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/causative --outfile ../results/blimp/txt_sentence/causative_output.tab
 
 python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/complex_NP_island --outfile ../results/blimp/txt_sentence/complex_NP_island_output.tab
@@ -190,11 +188,7 @@ python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English
 
 python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_one_prefix/wh_island --outfile ../results/blimp/txt_one_prefix/wh_island_output.tab
 
-python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_two_prefix/animate_obj_passive --outfile ../results/blimp/txt_two_prefix/animate_obj_passive_output.tab
-
 python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_two_prefix/animate_subject_trans --outfile ../results/blimp/txt_two_prefix/animate_subject_trans_output.tab
-
-python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_two_prefix/animate_subj_trans --outfile ../results/blimp/txt_two_prefix/animate_subj_trans_output.tab
 
 python language_models/evaluate_target_word_no_mask.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_two_prefix/coordinate_structure_constraint_complex_left_branch --outfile ../results/blimp/txt_two_prefix/coordinate_structure_constraint_complex_left_branch_output.tab
 

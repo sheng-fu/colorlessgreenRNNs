@@ -20,8 +20,6 @@ python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/l
 
 python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/animate_subject_trans --outfile ../results/blimp_by_token/animate_subject_trans_output.tab
 
-python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/blimp --outfile ../results/blimp_by_token/blimp_output.tab
-
 python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/causative --outfile ../results/blimp_by_token/causative_output.tab
 
 python language_models/evaluate_target_word_no_mask_per_word.py --data ../data/lm/English/ --checkpoint ../models/hidden650_batch128_dropout0.2_lr20.0.pt  --suffix best_model --cuda --path ../data/blimp/txt_sentence/complex_NP_island --outfile ../results/blimp_by_token/complex_NP_island_output.tab
