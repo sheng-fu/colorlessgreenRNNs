@@ -68,6 +68,7 @@ for (file in two_prefix_file){
   
 }
 
+result_two_prefix
 
 result_sent$type = "sentence"
 result_prefix$type = "one-prefix"
@@ -85,7 +86,7 @@ group_by(result_all, type) %>% summarise(acc = mean(prob_dec), n = n())
 
 View(breakdown)  
 
-write.table(result_all, "blimp_full.tsv", sep='\t', quote=F, row.names = F)
-write.table(breakdown, "blimp_breakdown.tsv", sep='\t', quote=F, row.names = F)
+write.table(result_all, "blimp_lstm_full.tsv", sep='\t', quote=F, row.names = F)
+write.table(breakdown, "blimp_lstm_breakdown.tsv", sep='\t', quote=F, row.names = F)
 
 
