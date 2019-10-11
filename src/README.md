@@ -1,6 +1,6 @@
 ## Evaluating the Gulordava et al., (2018) model on the BLiMP corpus
 
-This section describes how to use the Gulordava et al., (2018) LSTM model as a benchmark for the BLiMP corpus. The readme from the original authors are shown in the next section.
+This section describes how to use the Gulordava et al., (2018) LSTM model as a benchmark for the BLiMP corpus. The original README on how to run the experiments in Gulordava et al. are shown in the next section.
 
 In preparation, download the BLiMP dataset. The scripts currently assume that the jsonl files are downloaded to `../data/blimp/jsonl`. Also, download the pretrained English language model and the English data from [data and pre-trained model](../data). The scripts currently assume that the pretrained checkpoint is placed in `../models` and the data is placed in `../data/lm/English`
 
