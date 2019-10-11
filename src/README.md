@@ -35,7 +35,7 @@ Run `python results.py English best_model` to obtain a summary of performance fo
 *Note:* this workflow made sense for our evaluations but is not the most direct way to obtain accuracy numbers. We might provide a simplified script for evaluation in the future.
 
 
-#### Additional information for evaluating the model's performance on the BLiMP corpus
+## Additional information for evaluating the model's performance on the BLiMP corpus
 
 In preparation, download the BLiMP database. The scripts currently assume that the jsonl files are downloaded to `../data/blimp/jsonl`. Also, download the pretrained English language model and the English data from [data and pre-trained model](../data). The scripts currently assume that the pretrained checkpoint is placed in `../models` and the data is placed in `../data/lm/English`
 
