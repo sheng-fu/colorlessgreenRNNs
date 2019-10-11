@@ -37,7 +37,7 @@ Run `python results.py English best_model` to obtain a summary of performance fo
 
 ## Additional information for evaluating the model's performance on the BLiMP corpus
 
-In preparation, download the BLiMP database. The scripts currently assume that the jsonl files are downloaded to `../data/blimp/jsonl`. Also, download the pretrained English language model and the English data from [data and pre-trained model](../data). The scripts currently assume that the pretrained checkpoint is placed in `../models` and the data is placed in `../data/lm/English`
+In preparation, download the BLiMP dataset. The scripts currently assume that the jsonl files are downloaded to `../data/blimp/jsonl`. Also, download the pretrained English language model and the English data from [data and pre-trained model](../data). The scripts currently assume that the pretrained checkpoint is placed in `../models` and the data is placed in `../data/lm/English`
 
 First, run `python BLiMP_scripts/jsonl_to_txt.py` to (1) convert the jsonl files into txt and (2) tokenize the data.
 
