@@ -147,6 +147,9 @@ try:
                                            val_loss, math.exp(val_loss)))
         logging.info('-' * 89)
         # Save the model if the validation loss is the best we've seen so far.
+        with open(args.save+str(epoch), 'wb') as f:
+            torch.save(model, f)
+
         if not best_val_loss or val_loss < best_val_loss:
             with open(args.save, 'wb') as f:
                 torch.save(model, f)
