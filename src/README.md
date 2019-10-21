@@ -8,7 +8,7 @@ First, run `python BLiMP_scripts/jsonl_to_txt.py` to (1) convert the jsonl files
 
 Second, run `python BLiMP_scripts/BLiMP_commands_gen.py` to create shell scripts for the evaluation experiments on NYU's HPC clusters. The python commands in the shell scripts can be used in other computational settings.
 
-To obtain per-sentence or per-segment LM probabilities, run `sbatch BLiMP_scripts/commands_by_sentence.sh`. The obtain per-word LM probability and entropy for further analysis, run `sbatch BLiMP_scripts/commands_by_token.sh`. The results are saved to`../results`. 
+To obtain per-word LM probability and entropy for further analysis, run `sbatch BLiMP_scripts/commands_by_token.sh`. The results are saved to`../results`. 
 
 Run `python BLiMP_scripts/parse_by_token.py` to parse the by_token results for analyzing the probabilities and entropy of the critical word, the prefixes, and the appendixes for the one-prefix and two-prefix evaluation methods.
 
