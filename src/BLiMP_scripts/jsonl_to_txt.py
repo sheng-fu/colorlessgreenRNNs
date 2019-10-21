@@ -37,9 +37,9 @@ for jsonl in jsonls:
                 good_form = ' '.join(word_tokenize(i['one_prefix_prefix'])) + ' ' + ' '.join(word_tokenize(i['one_prefix_word_good']))
                 bad_form = ' '.join(word_tokenize(i['one_prefix_prefix'])) + ' ' + ' '.join(word_tokenize(i['one_prefix_word_bad']))
                 outfile.write(good_form)
-                outfile.write('\n')
+                outfile.write(' <eos>\n')
                 outfile.write(bad_form)
-                outfile.write('\n')
+                outfile.write(' <eos>\n')
 
     if infile_json[0]['two_prefix_method'] == True:
         print('check')
@@ -49,9 +49,9 @@ for jsonl in jsonls:
                 good_form = ' '.join(word_tokenize(i['two_prefix_prefix_good'])) + ' ' + ' '.join(word_tokenize(i['two_prefix_word']))
                 bad_form = ' '.join(word_tokenize(i['two_prefix_prefix_bad'])) + ' ' + ' '.join(word_tokenize(i['two_prefix_word']))
                 outfile.write(good_form)
-                outfile.write('\n')
+                outfile.write(' <eos>\n')
                 outfile.write(bad_form)
-                outfile.write('\n')       
+                outfile.write(' <eos>\n')       
    
 
 
