@@ -35,6 +35,8 @@ for file in files:
             critical_position_bad = len(word_tokenize(temp["one_prefix_prefix"] + ' ' + temp['one_prefix_word_bad'])) - 1
             temp["crit_logits1"] = json.loads(result[i][2])[critical_position_good]
             temp["crit_logits2"] = json.loads(result[i][5])[critical_position_bad]    
+            temp["prefix_logits1"] = sum(json.loads(result[i][2])[:critical_position_good])
+            temp["prefix_logits2"] = sum(json.loads(result[i][5])[:critical_position_bad])
             temp["append_logits1"] = sum(json.loads(result[i][2])[critical_position_good+1:])
             temp["append_logits2"] = sum(json.loads(result[i][5])[critical_position_bad+1:])
             temp["appen_entropy1"] = sum(json.loads(result[i][1])[critical_position_good+1:])
