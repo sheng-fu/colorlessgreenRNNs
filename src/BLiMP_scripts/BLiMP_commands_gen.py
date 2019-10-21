@@ -3,7 +3,7 @@ import re
 
 header = "#!/bin/bash\n#\n#SBATCH --nodes=1\n#SBATCH --ntasks-per-node=1\n#SBATCH --time=20:00:00\n#SBATCH --job-name=scil\n#SBATCH --mail-type=END\n##SBATCH --mail-user=sfw268@nyu.edu\n#SBARCH --mem=8GB\n#SBATCH --output=slurm_%j.out\n#SBATCH --gres=gpu:1\n\n"
 
-data_paths = ['../data/blimp/txt_sentence/', '../data/blimp/txt_one_prefix/', '../data/blimp/txt_two_prefix/']
+data_paths = ['../data/blimp/txt_sentence/']
 
 
 outfile = open('BLiMP_scripts/commands_by_sentence.sh', 'w')

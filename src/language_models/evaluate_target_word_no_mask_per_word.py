@@ -65,7 +65,7 @@ def evaluate(data_source):
                 targets = targets.cuda()
 
             #_, targets_mask = get_batch(mask, i, seq_len)
-            output, hidden = model(data, hidden)
+            output, _ = model(data, hidden)
             output_flat = output.view(-1, vocab_size)
 
 

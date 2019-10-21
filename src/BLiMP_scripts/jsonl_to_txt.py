@@ -30,29 +30,7 @@ for jsonl in jsonls:
         outfile.write(' '.join(word_tokenize(i['sentence_bad'])))
         outfile.write(' <eos>\n')       
 
-    if infile_json[0]['one_prefix_method'] == True:
-        outfile = open(path+'/txt_one_prefix/'+jsonl[:-6]+'.txt', 'w')
-        for i in infile_json:
-            if 'one_prefix_word_good' in i.keys() and 'one_prefix_word_bad' in i.keys():
-                good_form = ' '.join(word_tokenize(i['one_prefix_prefix'])) + ' ' + ' '.join(word_tokenize(i['one_prefix_word_good']))
-                bad_form = ' '.join(word_tokenize(i['one_prefix_prefix'])) + ' ' + ' '.join(word_tokenize(i['one_prefix_word_bad']))
-                outfile.write(good_form)
-                outfile.write(' <eos>\n')
-                outfile.write(bad_form)
-                outfile.write(' <eos>\n')
 
-    if infile_json[0]['two_prefix_method'] == True:
-        print('check')
-        outfile = open(path+'/txt_two_prefix/'+jsonl[:-6]+'.txt', 'w')
-        for i in infile_json:
-             if 'two_prefix_prefix_good' in i.keys() and 'two_prefix_prefix_good' in i.keys():
-                good_form = ' '.join(word_tokenize(i['two_prefix_prefix_good'])) + ' ' + ' '.join(word_tokenize(i['two_prefix_word']))
-                bad_form = ' '.join(word_tokenize(i['two_prefix_prefix_bad'])) + ' ' + ' '.join(word_tokenize(i['two_prefix_word']))
-                outfile.write(good_form)
-                outfile.write(' <eos>\n')
-                outfile.write(bad_form)
-                outfile.write(' <eos>\n')       
-   
 
 
 
