@@ -28,33 +28,33 @@ for file in files:
     for i in range(len(data)):
         temp = json.loads(data[i])
         if temp["simple_LM_method"]:
-            temp["lm_prob1"] = sum(json.loads(result[i][2]))
-            temp["lm_prob2"] = sum(json.loads(result[i][5]))
+            temp["lm_prob1"] = -sum(json.loads(result[i][2]))
+            temp["lm_prob2"] = -sum(json.loads(result[i][5]))
         if temp["one_prefix_method"]:
             critical_position_good = len(word_tokenize(temp["one_prefix_prefix"] + ' ')) 
             critical_position_bad = len(word_tokenize(temp["one_prefix_prefix"] + ' ')) 
             if word_tokenize(temp["one_prefix_word_bad"])[0] == word_tokenize(temp["one_prefix_word_good"])[0]:
                 critical_position_good = critical_position_good + 1
                 critical_position_bad = critical_position_bad + 1
-            temp["crit_logits1"] = json.loads(result[i][2])[critical_position_good]
-            temp["crit_logits2"] = json.loads(result[i][5])[critical_position_bad]    
-            temp["prefix_logits1"] = sum(json.loads(result[i][2])[:critical_position_good])
-            temp["prefix_logits2"] = sum(json.loads(result[i][5])[:critical_position_bad])
-            temp["append_logits1"] = sum(json.loads(result[i][2])[critical_position_good+1:])
-            temp["append_logits2"] = sum(json.loads(result[i][5])[critical_position_bad+1:])
-            temp["appen_entropy1"] = sum(json.loads(result[i][1])[critical_position_good+1:])
-            temp["appen_entropy2"] = sum(json.loads(result[i][4])[critical_position_bad+1:])
+            temp["crit_logits1"] = -json.loads(result[i][2])[critical_position_good]
+            temp["crit_logits2"] = -json.loads(result[i][5])[critical_position_bad]    
+            temp["prefix_logits1"] = -sum(json.loads(result[i][2])[:critical_position_good])
+            temp["prefix_logits2"] = -sum(json.loads(result[i][5])[:critical_position_bad])
+            temp["append_logits1"] = -sum(json.loads(result[i][2])[critical_position_good+1:])
+            temp["append_logits2"] = -sum(json.loads(result[i][5])[critical_position_bad+1:])
+            temp["appen_entropy1"] = -sum(json.loads(result[i][1])[critical_position_good+1:])
+            temp["appen_entropy2"] = -sum(json.loads(result[i][4])[critical_position_bad+1:])
         if temp["two_prefix_method"]:
             critical_position_good = len(word_tokenize(temp["two_prefix_prefix_good"] + ' ' + temp['two_prefix_word'])) - 1
             critical_position_bad = len(word_tokenize(temp["two_prefix_prefix_bad"] + ' ' + temp['two_prefix_word'])) - 1
-            temp["crit_logits1"] = json.loads(result[i][2])[critical_position_good]
-            temp["crit_logits2"] = json.loads(result[i][5])[critical_position_bad]
-            temp["append_logits1"] = sum(json.loads(result[i][2])[critical_position_good+1:])
-            temp["append_logits2"] = sum(json.loads(result[i][5])[critical_position_bad+1:])
-            temp["appen_entropy1"] = sum(json.loads(result[i][1])[critical_position_good+1:])
-            temp["appen_entropy2"] = sum(json.loads(result[i][4])[critical_position_bad+1:])        
-            temp["prefix_logits1"] = sum(json.loads(result[i][2])[:critical_position_good])
-            temp["prefix_logits2"] = sum(json.loads(result[i][5])[:critical_position_bad])
+            temp["crit_logits1"] = -json.loads(result[i][2])[critical_position_good]
+            temp["crit_logits2"] = -json.loads(result[i][5])[critical_position_bad]
+            temp["append_logits1"] = -sum(json.loads(result[i][2])[critical_position_good+1:])
+            temp["append_logits2"] = -sum(json.loads(result[i][5])[critical_position_bad+1:])
+            temp["appen_entropy1"] = -sum(json.loads(result[i][1])[critical_position_good+1:])
+            temp["appen_entropy2"] = -sum(json.loads(result[i][4])[critical_position_bad+1:])        
+            temp["prefix_logits1"] = -sum(json.loads(result[i][2])[:critical_position_good])
+            temp["prefix_logits2"] = -sum(json.loads(result[i][5])[:critical_position_bad])
         
         data_json.append(temp)
 

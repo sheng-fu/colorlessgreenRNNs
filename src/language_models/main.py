@@ -46,6 +46,11 @@ logging.info("( %.2f )" % (time.time() - start))
 ntokens = len(corpus.dictionary)
 logging.info("Vocab size %d", ntokens)
 
+if args.cuda:
+    corpus.train = corpus.train.cuda()
+    corpus.valid = corpus.valid.cuda()
+    corpus.test = corpus.test.cuda()    
+
 logging.info("Batchying..")
 eval_batch_size = 10
 train_data = batchify(corpus.train, args.batch_size, args.cuda)
