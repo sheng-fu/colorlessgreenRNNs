@@ -47,6 +47,10 @@ def evaluate(data_source):
             data, targets = get_batch(data_source, i, args.bptt)
             output, hidden = model(data, hidden)
 
+            if args.cuda:
+                data = data.cuda()
+                targets = targets.cuda()
+
             output_flat = output.view(-1, ntokens)
 
             subset = targets != unk_idx
