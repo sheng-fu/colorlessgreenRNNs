@@ -6,11 +6,22 @@ from nltk.tokenize import word_tokenize
 from os import listdir
 from os.path import isfile, join
 
+import argparse
+
+parser = argparse.ArgumentParser(add_help=False)
+
+parser.add_argument('--tag', type=str, default='',
+                       help='')
+
+args = parser.parse_args()
+
+tag = args.tag
+
 json_path = "../data/blimp/jsonl/"
-result_path = "../results/blimp_by_token/"
-outfile_path_lm = "blimp-lstm_simplelm_peephole.jsonl"
-outfile_path_oneprefix = "blimp-lstm_oneprefix_peephole.jsonl"
-outfile_path_twoprefix = "blimp-lstm_twoprefix_peephole.jsonl"
+result_path = "../results/blimp_by_token_"+tag+"/"
+outfile_path_lm = "blimp-lstm_simplelm_peephole"+tag+".jsonl"
+outfile_path_oneprefix = "blimp-lstm_oneprefix_peephole"+tag+".jsonl"
+outfile_path_twoprefix = "blimp-lstm_twoprefix_peephole"+tag+".jsonl"
 
 files = [f for f in listdir(json_path) if isfile(join(json_path, f)) and 'jsonl' in f]
 print(files)
