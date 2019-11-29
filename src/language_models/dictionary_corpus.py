@@ -46,9 +46,9 @@ class Dictionary(object):
 
 
 class Corpus(object):
-    def __init__(self, path):
+    def __init__(self, path, trainfile):
         self.dictionary = Dictionary(path)
-        self.train = tokenize(self.dictionary, os.path.join(path, 'train.txt'))
+        self.train = tokenize(self.dictionary, os.path.join(path, trainfile))
         self.valid = tokenize(self.dictionary, os.path.join(path, 'valid.txt'))
         self.test = tokenize(self.dictionary, os.path.join(path, 'test.txt'))
 
@@ -111,11 +111,11 @@ def sent_tokenize_with_unks(dictionary, path):
         with open(path, 'r+', encoding="utf-8") as f:
             for line in f:
                 sents.append(line.strip())
-                print(line)
+                #print(line)
                 words = ['<eos>'] + line.split()
-                print(words)
+                #print(words)
                 tokens = len(words)
-                print(tokens)
+                #print(tokens)
                 
                 # tokenize file content
                 ids = torch.LongTensor(tokens)

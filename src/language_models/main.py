@@ -41,7 +41,7 @@ if torch.cuda.is_available():
 
 logging.info("Loading data")
 start = time.time()
-corpus = Corpus(args.data)
+corpus = Corpus(args.data, args.trainfile)
 logging.info("( %.2f )" % (time.time() - start))
 ntokens = len(corpus.dictionary)
 logging.info("Vocab size %d", ntokens)
@@ -152,9 +152,6 @@ try:
                                            val_loss, math.exp(val_loss)))
         logging.info('-' * 89)
         # Save the model if the validation loss is the best we've seen so far.
-        with open(args.save[:-3]+str(epoch)+'.pt', 'wb') as f1:
-            torch.save(model, f1)
-
         if not best_val_loss or val_loss < best_val_loss:
             with open(args.save, 'wb') as f:
                 torch.save(model, f)
@@ -162,6 +159,8 @@ try:
         else:
             # Anneal the learning rate if no improvement has been seen in the validation dataset.
             lr /= 4.0
+
+
 except KeyboardInterrupt:
     logging.info('-' * 89)
     logging.info('Exiting from training early')

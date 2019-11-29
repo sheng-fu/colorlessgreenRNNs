@@ -12,6 +12,9 @@ lm_parser = argparse.ArgumentParser(add_help=False)
 
 lm_parser.add_argument('--data', type=str,
                        help='location of the data corpus')
+lm_parser.add_argument('--trainfile', type=str, default = 'train.txt',
+                       help='name of the train file')
+
 
 lm_parser.add_argument('--model', type=str, default='LSTM',
                        help='type of recurrent net (RNN_TANH, RNN_RELU, LSTM, GRU)')
