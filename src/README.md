@@ -1,4 +1,4 @@
-## Evaluating the Gulordava et al., (2018) model on the BLiMP corpus
+## Evaluating the Gulordava et al., (2018) model on the BLiMP corpus (https://github.com/alexwarstadt/blimp)
 
 This section describes how to use the Gulordava et al., (2018) LSTM model as a benchmark for the BLiMP corpus. The original README on how to run the experiments in Gulordava et al. are shown in the next section.
 
