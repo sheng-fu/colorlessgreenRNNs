@@ -57,7 +57,7 @@ unique(overall$size)
 
 #write.table(overall, "master_results_blimp_191128.tsv", sep = '\t', quote = F, row.names = F)
 
-#overall =  read_tsv("master_results_blimp_191128.tsv")
+overall =  read_tsv("master_results_blimp_191128.tsv")
 overall = filter(overall, UID != "wh_questions_object_gap_long_distance",
                          UID != "coordinate_structure_constraint_subject_extraction")
 
@@ -149,6 +149,37 @@ p = ggplot(simple_lm1, aes(x = size, y = m_pred)) +
   geom_label_repel(aes(label = label, color=linguistics_term), direction = "y", nudge_x = 5, na.rm = TRUE, hjust = 1, cex = 10)
 
 p
+
+
+#slope of datasets
+
+broad_breakdown = read_tsv("master_breakdown_blimp_191128.tsv")
+
+broad_breakdown = filter(broad_breakdown, size > 0.1)
+
+broad_breakdown$run = gsub("_", "", broad_breakdown$run)
+broad_breakdown = filter(broad_breakdown, size != 83)
+
+overall_breakdown = group_by(broad_breakdown, type, linguistics_term, size, run) %>% summarise(m_pred = mean(m_pred)) 
+
+overall_breakdown
+
+overall_breakdown$linguistics_term = factor(overall_breakdown$linguistics_term)
+levels(overall_breakdown$linguistics_term) = c("Ana. Agr", "Arg. Str", "Binding", "Ctrl. Rais.", 
+                                              "D-N Agr", "Ellipsis", "Filler Gap.", "Irregular",
+                                              "Island", "NPI", "Quantifiers", "S-V Agr")
+overall_breakdown$linguistics_term = as.character(overall_breakdown$linguistics_term)
+
+simple_lm_o = filter(overall_breakdown, type == 'sentence')
+
+simple_lm_o
+
+library(lme4)
+
+fits <- lmList(m_pred ~ log(size, 2) | linguistics_term, data=simple_lm_o)
+fits
+
+
 
 ###gain over prefix
 

@@ -7,11 +7,8 @@ python BLiMP_scripts/json_to_txt.py
 python BLiMP_scripts/BLiMP_commands_gen.py
 
 #Run the shell scripts
-##Run this if you just want by-sentence results
-sbatch BLiMP_scripts/commands_by_sentence.sh
 ##Run this if you want by-token results
 sbatch BLiMP_scripts/commands_by_token.sh
 
-#Run analysis/analysis_parsed_dir.r for analyzing by-sentence results
-
-#Run analysis/parse_by_token.py for parsing by-token results
+#Parse the by-token results into jsonl files
+python BLiMP_scripts/analysis/parse_by_token.py 
