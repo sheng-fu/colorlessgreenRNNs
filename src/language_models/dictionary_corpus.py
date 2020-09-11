@@ -25,6 +25,8 @@ class Dictionary(object):
         except FileNotFoundError:
             logging.info("Vocab file not found, creating new vocab file.")
             self.create_vocab(os.path.join(path, 'train.txt'))
+            self.create_vocab(os.path.join(path, 'valid.txt'))
+            self.create_vocab(os.path.join(path, 'test.txt'))
             open(vocab_path,"w").write("\n".join([w for w in self.idx2word]))
 
     def add_word(self, word):
