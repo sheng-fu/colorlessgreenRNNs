@@ -73,8 +73,6 @@ outfile_lm = open(outfile_path_lm, 'w', encoding = 'utf8')
 outfile_oneprefix = open(outfile_path_oneprefix, 'w', encoding = 'utf8') 
 outfile_twoprefix = open(outfile_path_twoprefix, 'w', encoding = 'utf8') 
 
-data_json = [x for x in data_json if x['UID'] not in ["coordinate_structure_constraint_subject_extraction", "wh_questions_object_gap_long_distance"]]
-
 for d in data_json:
     if d['simple_LM_method']:
         json.dump(d, outfile_lm) 
